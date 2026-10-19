@@ -2828,3 +2828,5 @@ thead th {
     display: none !important;
   }
 }
+
+@media print{.walkthrough-time,.walkthrough-folio{color:#53626b!important}}

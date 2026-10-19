@@ -4,6 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   metadataBase: new URL("https://mandateterrain.com"),
   applicationName: "Mandate Terrain",
+  openGraph:{type:"website",locale:"en_IN",siteName:"Mandate Terrain",title:"Mandate Terrain · Manipur Analysis",description:"Source-backed electoral maps, candidate records and public context for Manipur."},
   title: {
     default: "Mandate Terrain · Manipur Analysis",
     template: "%s · Mandate Terrain",
