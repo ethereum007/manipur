@@ -2,7 +2,7 @@
 
 - All authoring, research, dependencies, builds and browser tests now run in GitHub. No further local project writes. Initial checkout cleanup was blocked by automatic approval review; the owner was informed.
 - Three core editorial pages passed desktop/mobile screenshot review before expansion. Shared typography, source notes, maps, charts and disclosure components support the expanded site.
-- All 180 Assembly winners for 2012, 2017 and 2022 are source-reviewed. All 60 constituency routes exist; candidate vote totals currently reconcile for 58/60 contests in 2017 (257 records). Two conflicting source tables remain withheld.
+- All 180 Assembly winners for 2012, 2017 and 2022 are source-reviewed. All 60 constituency routes exist; candidate vote totals currently reconcile for 58/60 contests in 2017 (257 records; plus the source-reviewed 2022 Heingang contest). Two conflicting source tables remain withheld.
 - Official 2022 candidate index: 265 contested candidacies across all 60 seats, with original affidavit links. Disclosures remain untranscribed except the reviewed Biren profile; no unknown value becomes zero.
 - All ten 2024 parliamentary candidates reconcile with party aggregates. Shares explicitly exclude NOTA. Segment tables, special displaced-voter stations and turnout remain under review.
 - Full 2012/2022 vote-table OCR is archived but remains unreviewed; noisy extraction is not published as fact.

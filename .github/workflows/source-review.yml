@@ -22,12 +22,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - uses: actions/download-artifact@v4
-        with:
-          name: primary-source-archive
-          run-id: 39230937221
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          path: data/raw
+      - run: python scripts/ingest/fetch_archived.py ${{ inputs.document }}
       - run: pip install pymupdf
       - run: python scripts/ingest/render_source.py
         env:
