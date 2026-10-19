@@ -37,3 +37,6 @@ sources=json.loads((root/'data/processed/sources.json').read_text())
 columns=['year','ac','name','candidate','party','votes','rank','source','sourcePage']
 f=io.StringIO();writer=csv.DictWriter(f,fieldnames=columns,extrasaction='ignore');writer.writeheader();writer.writerows(records)
 (p/'data/results.csv').write_text(f.getvalue(),encoding='utf-8')
+
+for filename in ['winners.json','parliament-2024.json','candidate-register.json']:
+ (p/'data'/filename).write_text((root/'data/processed'/filename).read_text(),encoding='utf-8')

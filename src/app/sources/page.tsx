@@ -49,7 +49,7 @@ export default function Sources() {
           verified winner may still appear on the map while candidate totals are
           unavailable.
         </p>
-        <div className="download-links">
+        <div className="download-links"><a href={base+"/data/winners.json"} download>All 180 Assembly winners · JSON ↗</a><a href={base+"/data/parliament-2024.json"} download>2024 parliamentary results · JSON ↗</a><a href={base+"/data/candidate-register.json"} download>Candidate register · JSON ↗</a>
           <a href={base + "/data/results.json"} download>
             Public results · JSON ↗
           </a>
