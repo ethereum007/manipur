@@ -1,0 +1,114 @@
+{
+  "reviewed": "2026-10-19",
+  "sourceReviewRun": 39239152227,
+  "method": "Original source images reviewed for column names, order and final numeric rows; no silent spelling or numeric repair.",
+  "contests": [
+    {
+      "ac": 3,
+      "page": 77,
+      "half": 0,
+      "values": [
+        356,
+        2461,
+        8894,
+        11131,
+        6792,
+        2922,
+        385
+      ],
+      "valid": 32941,
+      "rejected": 46,
+      "nota": 169,
+      "total": 33156,
+      "headerPage": 76
+    },
+    {
+      "ac": 4,
+      "page": 77,
+      "half": 1,
+      "values": [
+        2832,
+        12376,
+        99,
+        13118,
+        5437
+      ],
+      "valid": 33862,
+      "rejected": 62,
+      "nota": 238,
+      "total": 34162,
+      "aliases": [
+        "Wahengbam Rojit Singh @ Bullet in Form 20; official index omits alias."
+      ]
+    },
+    {
+      "ac": 9,
+      "page": 81,
+      "half": 0,
+      "values": [
+        9856,
+        457,
+        13629
+      ],
+      "valid": 23942,
+      "rejected": 18,
+      "nota": 360,
+      "total": 24320,
+      "aliases": [
+        "Form 20 Jotin versus official index Jyotin Waikhom; Khumukcham versus Khumukchan Joykisan Singh. Same AC/year candidacies verified by column order and party."
+      ]
+    },
+    {
+      "ac": 12,
+      "page": 83,
+      "half": 0,
+      "values": [
+        73,
+        1816,
+        5760,
+        8687,
+        8874
+      ],
+      "valid": 25210,
+      "rejected": 29,
+      "nota": 142,
+      "total": 25381,
+      "ocrCorrection": "Tendered-vote OCR OO is printed 0. Candidate vote figures unchanged."
+    },
+    {
+      "ac": 13,
+      "page": 83,
+      "half": 1,
+      "values": [
+        1600,
+        6414,
+        8709,
+        2164
+      ],
+      "valid": 18887,
+      "rejected": 14,
+      "nota": 128,
+      "total": 19029
+    },
+    {
+      "ac": 14,
+      "page": 84,
+      "half": 1,
+      "values": [
+        9724,
+        526,
+        9092,
+        4574,
+        122
+      ],
+      "valid": 24038,
+      "rejected": 24,
+      "nota": 119,
+      "total": 24181,
+      "headerPage": 84,
+      "aliases": [
+        "Official index spells Huidrom Vikramjit Singhh; Form 20 spells Singh. Index spelling retained."
+      ]
+    }
+  ]
+}

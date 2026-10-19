@@ -42,7 +42,7 @@ export default function Home() {
           <Link href="/sources">Every number has a source ↗</Link>
         </div>
       </section>
-      <div className="paper-strip">
+      <div className="briefing-entry"><p className="eyebrow">THE ATLAS, IN FIVE MINUTES</p><Link className="text-link" href="/briefing">Open the executive walkthrough, presenter notes and PDF handout ↗</Link></div><div className="paper-strip">
         <span>
           60 <small>Assembly constituencies</small>
         </span>
@@ -54,7 +54,7 @@ export default function Home() {
         </span>
         <span>
           {results.length.toLocaleString()}{" "}
-          <small>Verified candidate-election records</small>
+          <small>Reconciled candidate-election records</small>
         </span>
       </div>
       <Reveal className="editorial-section geography-story">
