@@ -1,1 +1,7 @@
-export default function Loading(){return <div className="map-empty" role="status">Opening the atlas…</div>}
+export default function Loading() {
+  return (
+    <div className="map-empty" role="status">
+      Opening the atlas…
+    </div>
+  );
+}

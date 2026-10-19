@@ -1,1 +1,5 @@
-import notes from "../../data/research/notes.json";export {notes};export function researchSource(id:string){return notes.sources.find(s=>s.id===id)!}
+import notes from "../../data/research/notes.json";
+export { notes };
+export function researchSource(id: string) {
+  return notes.sources.find((s) => s.id === id)!;
+}

@@ -1,1 +1,21 @@
-import Link from "next/link";import {PageIntro} from "@/components/ui";import {CandidateSearch} from "@/components/candidate-search";export const metadata={title:"People & power"};export default function Candidates(){return <><PageIntro label="PEOPLE & POWER" title="The people behind the ballot." description="Search verified candidacies, inspect the source record and compare up to four election performances."/><div className="directory-section"><Link className="text-link" href="/candidates/nongthombam-biren-singh">Featured public record · N. Biren Singh ↗</Link></div><CandidateSearch/></>}
+import Link from "next/link";
+import { PageIntro } from "@/components/ui";
+import { CandidateSearch } from "@/components/candidate-search";
+export const metadata = { title: "People & power" };
+export default function Candidates() {
+  return (
+    <>
+      <PageIntro
+        label="PEOPLE & POWER"
+        title="The people behind the ballot."
+        description="Search verified candidacies, inspect the source record and compare up to four election performances."
+      />
+      <div className="directory-section">
+        <Link className="text-link" href="/candidates/nongthombam-biren-singh">
+          Featured public record · N. Biren Singh ↗
+        </Link>
+      </div>
+      <CandidateSearch />
+    </>
+  );
+}

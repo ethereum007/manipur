@@ -1,1 +1,14 @@
-import {SourceNote} from "./ui";import {researchSource} from "@/lib/research";export function ResearchSource({id}:{id:string}){const s=researchSource(id);return <SourceNote><a href={s.url}>{s.publisher} · {s.title} ↗</a><br/>{s.reference}. Accessed 19 October 2026.</SourceNote>}
+import { SourceNote } from "./ui";
+import { researchSource } from "@/lib/research";
+export function ResearchSource({ id }: { id: string }) {
+  const s = researchSource(id);
+  return (
+    <SourceNote>
+      <a href={s.url}>
+        {s.publisher} · {s.title} ↗
+      </a>
+      <br />
+      {s.reference}. Accessed 19 October 2026.
+    </SourceNote>
+  );
+}

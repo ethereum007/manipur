@@ -1,2 +1,158 @@
-"use client";import {useState} from "react";import Link from "next/link";import {candidateIndex as results,years,candidateSlug,number} from "@/lib/data";
-export function CandidateSearch(){const[q,setQ]=useState("");const[y,setY]=useState("All");const[party,setParty]=useState("All");const[chosen,setChosen]=useState<string[]>([]);const parties=[...new Set(results.map(r=>r.party))].sort();const filtered=results.filter(r=>(r.candidate+" "+r.name+" "+r.party).toLowerCase().includes(q.toLowerCase())&&(y==="All"||r.year===Number(y))&&(party==="All"||r.party===party));const selected=results.filter(r=>chosen.includes(candidateSlug(r)));return <section className="directory-section"><div className="directory-tools"><label>Search the public record<input value={q} placeholder="Candidate, constituency or party" onChange={e=>setQ(e.target.value)}/></label><label>Election<select value={y} onChange={e=>setY(e.target.value)}><option>All</option>{years.map(y=><option key={y}>{y}</option>)}</select></label><label>Party<select value={party} onChange={e=>setParty(e.target.value)}><option>All</option>{parties.map(p=><option key={p}>{p}</option>)}</select></label></div><p className="source-note">{filtered.length} candidacies. Identity is scoped to election and constituency. Select up to four to compare. Education and occupation filters are unavailable until affidavit coverage is verified.</p>{selected.length>0&&<div className="candidate-comparison"><div className="chart-heading"><h2>Side by side.</h2><button className="compare-button" onClick={()=>setChosen([])}>Clear comparison</button></div><div className="comparison-cards">{selected.map(r=><article key={candidateSlug(r)}><span>{r.year} · {r.name}</span><h3>{r.candidate}</h3><p>{r.party}</p><strong>{number(r.votes)}<small> votes</small></strong><p>{r.rank==null?"Votes withheld pending reconciliation":"Rank "+r.rank}</p><p className="source-note">Assets, liabilities and qualification: not yet indexed for this record.</p></article>)}</div></div>}<div className="table-scroll"><table><caption>Verified election candidacies</caption><thead><tr><th>Compare</th><th>Candidate</th><th>Constituency</th><th>Year</th><th>Party</th><th>Votes</th></tr></thead><tbody>{filtered.map(r=>{const id=candidateSlug(r);return <tr key={id}><td><input type="checkbox" aria-label={"Compare "+r.candidate+" "+r.year} checked={chosen.includes(id)} disabled={!chosen.includes(id)&&chosen.length>=4} onChange={e=>setChosen(e.target.checked?[...chosen,id]:chosen.filter(x=>x!==id))}/></td><td><Link href={"/candidates/"+(r.ac===2&&r.candidate.toLowerCase().includes("biren")?"nongthombam-biren-singh":id)}>{r.candidate}</Link></td><td>{r.name}</td><td>{r.year}</td><td>{r.party}</td><td>{number(r.votes)}</td></tr>})}</tbody></table></div>{!filtered.length&&<p className="empty-note">No reconciled candidacies match. Official source acquisition and verification are tracked in Sources & methodology.</p>}</section>}
+"use client";
+import { useState } from "react";
+import Link from "next/link";
+import {
+  candidateIndex as results,
+  years,
+  candidateSlug,
+  number,
+} from "@/lib/data";
+export function CandidateSearch() {
+  const [q, setQ] = useState("");
+  const [y, setY] = useState("All");
+  const [party, setParty] = useState("All");
+  const [chosen, setChosen] = useState<string[]>([]);
+  const parties = [...new Set(results.map((r) => r.party))].sort();
+  const filtered = results.filter(
+    (r) =>
+      (r.candidate + " " + r.name + " " + r.party)
+        .toLowerCase()
+        .includes(q.toLowerCase()) &&
+      (y === "All" || r.year === Number(y)) &&
+      (party === "All" || r.party === party),
+  );
+  const selected = results.filter((r) => chosen.includes(candidateSlug(r)));
+  return (
+    <section className="directory-section">
+      <div className="directory-tools">
+        <label>
+          Search the public record
+          <input
+            value={q}
+            placeholder="Candidate, constituency or party"
+            onChange={(e) => setQ(e.target.value)}
+          />
+        </label>
+        <label>
+          Election
+          <select value={y} onChange={(e) => setY(e.target.value)}>
+            <option>All</option>
+            {years.map((y) => (
+              <option key={y}>{y}</option>
+            ))}
+          </select>
+        </label>
+        <label>
+          Party
+          <select value={party} onChange={(e) => setParty(e.target.value)}>
+            <option>All</option>
+            {parties.map((p) => (
+              <option key={p}>{p}</option>
+            ))}
+          </select>
+        </label>
+      </div>
+      <p className="source-note">
+        {filtered.length} candidacies. Identity is scoped to election and
+        constituency. Select up to four to compare. Education and occupation
+        filters are unavailable until affidavit coverage is verified.
+      </p>
+      {selected.length > 0 && (
+        <div className="candidate-comparison">
+          <div className="chart-heading">
+            <h2>Side by side.</h2>
+            <button className="compare-button" onClick={() => setChosen([])}>
+              Clear comparison
+            </button>
+          </div>
+          <div className="comparison-cards">
+            {selected.map((r) => (
+              <article key={candidateSlug(r)}>
+                <span>
+                  {r.year} · {r.name}
+                </span>
+                <h3>{r.candidate}</h3>
+                <p>{r.party}</p>
+                <strong>
+                  {number(r.votes)}
+                  <small> votes</small>
+                </strong>
+                <p>
+                  {r.rank == null
+                    ? "Votes withheld pending reconciliation"
+                    : "Rank " + r.rank}
+                </p>
+                <p className="source-note">
+                  Assets, liabilities and qualification: not yet indexed for
+                  this record.
+                </p>
+              </article>
+            ))}
+          </div>
+        </div>
+      )}
+      <div className="table-scroll">
+        <table>
+          <caption>Verified election candidacies</caption>
+          <thead>
+            <tr>
+              <th>Compare</th>
+              <th>Candidate</th>
+              <th>Constituency</th>
+              <th>Year</th>
+              <th>Party</th>
+              <th>Votes</th>
+            </tr>
+          </thead>
+          <tbody>
+            {filtered.map((r) => {
+              const id = candidateSlug(r);
+              return (
+                <tr key={id}>
+                  <td>
+                    <input
+                      type="checkbox"
+                      aria-label={"Compare " + r.candidate + " " + r.year}
+                      checked={chosen.includes(id)}
+                      disabled={!chosen.includes(id) && chosen.length >= 4}
+                      onChange={(e) =>
+                        setChosen(
+                          e.target.checked
+                            ? [...chosen, id]
+                            : chosen.filter((x) => x !== id),
+                        )
+                      }
+                    />
+                  </td>
+                  <td>
+                    <Link
+                      href={
+                        "/candidates/" +
+                        (r.ac === 2 &&
+                        r.candidate.toLowerCase().includes("biren")
+                          ? "nongthombam-biren-singh"
+                          : id)
+                      }
+                    >
+                      {r.candidate}
+                    </Link>
+                  </td>
+                  <td>{r.name}</td>
+                  <td>{r.year}</td>
+                  <td>{r.party}</td>
+                  <td>{number(r.votes)}</td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+      {!filtered.length && (
+        <p className="empty-note">
+          No reconciled candidacies match. Official source acquisition and
+          verification are tracked in Sources & methodology.
+        </p>
+      )}
+    </section>
+  );
+}

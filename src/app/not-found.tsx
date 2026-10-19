@@ -1,1 +1,13 @@
-import Link from "next/link";export default function NotFound(){return <section className="editorial-section"><p className="eyebrow">PAGE NOT FOUND</p><h1>This record is not in the atlas.</h1><p>Search the constituency directory or return to the electoral map.</p><Link className="text-link" href="/atlas">Open the electoral atlas ↗</Link></section>}
+import Link from "next/link";
+export default function NotFound() {
+  return (
+    <section className="editorial-section">
+      <p className="eyebrow">PAGE NOT FOUND</p>
+      <h1>This record is not in the atlas.</h1>
+      <p>Search the constituency directory or return to the electoral map.</p>
+      <Link className="text-link" href="/atlas">
+        Open the electoral atlas ↗
+      </Link>
+    </section>
+  );
+}

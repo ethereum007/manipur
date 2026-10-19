@@ -1,1 +1,24 @@
-import {PageIntro,SourceNote} from "@/components/ui";import {ConstituencyDirectory} from "@/components/constituency-directory";export const metadata={title:"Sixty constituencies"};export default function Directory(){return <><PageIntro label="THE CONSTITUENCY DIRECTORY" title="Every seat has a story." description="Explore all sixty Assembly constituencies by official number, name and reservation category."/><ConstituencyDirectory/><div className="directory-section"><SourceNote><a href="https://ceomanipur.nic.in/ResultSheets/StateLegislativeAssembly/2022/results">CEO Manipur constituency directory</a>. Names have documented spelling variants. Reservation is not a statement about every resident’s identity.</SourceNote></div></>}
+import { PageIntro, SourceNote } from "@/components/ui";
+import { ConstituencyDirectory } from "@/components/constituency-directory";
+export const metadata = { title: "Sixty constituencies" };
+export default function Directory() {
+  return (
+    <>
+      <PageIntro
+        label="THE CONSTITUENCY DIRECTORY"
+        title="Every seat has a story."
+        description="Explore all sixty Assembly constituencies by official number, name and reservation category."
+      />
+      <ConstituencyDirectory />
+      <div className="directory-section">
+        <SourceNote>
+          <a href="https://ceomanipur.nic.in/ResultSheets/StateLegislativeAssembly/2022/results">
+            CEO Manipur constituency directory
+          </a>
+          . Names have documented spelling variants. Reservation is not a
+          statement about every resident’s identity.
+        </SourceNote>
+      </div>
+    </>
+  );
+}
