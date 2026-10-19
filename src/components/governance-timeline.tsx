@@ -19,7 +19,8 @@ export function GovernanceTimeline() {
           </select>
         </label>
         <p className="source-note">
-          Selected sourced events through 5 October 2026; accessed 19 October 2026. This is not exhaustive coverage or a live status feed.
+          Selected sourced events through 5 October 2026; accessed 19 October
+          2026. This is not exhaustive coverage or a live status feed.
         </p>
       </div>
       <div className="governance-timeline">

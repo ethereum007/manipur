@@ -49,7 +49,16 @@ export default function Sources() {
           verified winner may still appear on the map while candidate totals are
           unavailable.
         </p>
-        <div className="download-links"><a href={base+"/data/winners.json"} download>All 180 Assembly winners · JSON ↗</a><a href={base+"/data/parliament-2024.json"} download>2024 parliamentary results · JSON ↗</a><a href={base+"/data/candidate-register.json"} download>Candidate register · JSON ↗</a>
+        <div className="download-links">
+          <a href={base + "/data/winners.json"} download>
+            All 180 Assembly winners · JSON ↗
+          </a>
+          <a href={base + "/data/parliament-2024.json"} download>
+            2024 parliamentary results · JSON ↗
+          </a>
+          <a href={base + "/data/candidate-register.json"} download>
+            Candidate register · JSON ↗
+          </a>
           <a href={base + "/data/results.json"} download>
             Public results · JSON ↗
           </a>
@@ -130,9 +139,10 @@ export default function Sources() {
             Sans 3 and Libre Caslon Display, SIL Open Font License.
           </p>
           <p>
-            Selected governance records through 5 October 2026; subsequent events not indexed.
-            Economic and Census indicators are dated observations. No opinion
-            polling or numerical forecasts are included.
+            Selected governance records through 5 October 2026; subsequent
+            events not indexed. Economic and Census indicators are dated
+            observations. No opinion polling or numerical forecasts are
+            included.
           </p>
           <p>
             ADR's 2017 Biren Singh winners report differs from its MyNeta

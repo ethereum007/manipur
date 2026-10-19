@@ -25,7 +25,7 @@ export function AtlasExplorer() {
   const [metric, setMetric] = useState("party");
   const [compare, setCompare] = useState(false);
   const [other, setOther] = useState(2017);
-  const compareYear = other === year ? years.find(y => y !== year)! : other;
+  const compareYear = other === year ? years.find((y) => y !== year)! : other;
   const c = constituencies.find((x) => x.id === selected)!;
   const rows = contest(year, selected);
   const w = rows[0];
@@ -284,17 +284,21 @@ export function AtlasExplorer() {
               </select>
             </label>
           </div>
-          <div className="comparison-maps"><article>
-            <h3>{year} · Seats won</h3>
-            <GeoMap year={year} selected={selected} onSelect={setSelected} />
-            <SeatChart year={year} /></article><article>
-            <h3>{compareYear} · Seats won</h3>
-            <GeoMap
-              year={compareYear}
-              selected={selected}
-              onSelect={setSelected}
-            />
-            <SeatChart year={compareYear} /></article>
+          <div className="comparison-maps">
+            <article>
+              <h3>{year} · Seats won</h3>
+              <GeoMap year={year} selected={selected} onSelect={setSelected} />
+              <SeatChart year={year} />
+            </article>
+            <article>
+              <h3>{compareYear} · Seats won</h3>
+              <GeoMap
+                year={compareYear}
+                selected={selected}
+                onSelect={setSelected}
+              />
+              <SeatChart year={compareYear} />
+            </article>
           </div>
         </section>
       )}

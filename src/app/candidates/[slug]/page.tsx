@@ -62,7 +62,9 @@ export default async function Candidate({
               {r.party} · {r.year}
             </span>
           </div>
-          <SourceNote>{r.verification}<br/>
+          <SourceNote>
+            {r.verification}
+            <br />
             <a href={r.indexUrl || electionSource(r.year)}>
               CEO Manipur · official {r.year}{" "}
               {r.indexUrl ? "candidate index" : "report"}

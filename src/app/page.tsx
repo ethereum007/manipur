@@ -42,7 +42,13 @@ export default function Home() {
           <Link href="/sources">Every number has a source ↗</Link>
         </div>
       </section>
-      <div className="briefing-entry"><p className="eyebrow">THE ATLAS, IN FIVE MINUTES</p><Link className="text-link" href="/briefing">Open the executive walkthrough, presenter notes and PDF handout ↗</Link></div><div className="paper-strip">
+      <div className="briefing-entry">
+        <p className="eyebrow">THE ATLAS, IN FIVE MINUTES</p>
+        <Link className="text-link" href="/briefing">
+          Open the executive walkthrough, presenter notes and PDF handout ↗
+        </Link>
+      </div>
+      <div className="paper-strip">
         <span>
           60 <small>Assembly constituencies</small>
         </span>

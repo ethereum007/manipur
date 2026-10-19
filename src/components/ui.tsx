@@ -95,7 +95,8 @@ export function SiteFooter() {
       <div>
         <Link href="/sources">Sources & methodology</Link>
         <Link href="/constituencies">All 60 constituencies</Link>
-        <Link href="/briefing">Five-minute walkthrough ↗</Link><Link href="/presentation">Full executive briefing ↗</Link>
+        <Link href="/briefing">Five-minute walkthrough ↗</Link>
+        <Link href="/presentation">Full executive briefing ↗</Link>
       </div>
       <p className="footer-note">
         Evidence before interpretation.

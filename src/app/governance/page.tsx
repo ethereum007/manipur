@@ -26,7 +26,8 @@ export default function Governance() {
           <p>
             This initial chronology is not an exhaustive account of the conflict
             or a conclusion about responsibility. Detailed local reporting,
-            community perspectives, court developments and events after 5 October 2026 remain research gaps.
+            community perspectives, court developments and events after 5
+            October 2026 remain research gaps.
           </p>
         </div>
       </section>

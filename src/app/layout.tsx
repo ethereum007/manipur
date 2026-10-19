@@ -15,7 +15,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en"><head><style>{`@font-face{font-family:AtlasSans;src:url("${process.env.NEXT_PUBLIC_BASE_PATH||""}/fonts/sans.woff2") format("woff2");font-weight:100 900;font-display:swap}@font-face{font-family:AtlasSerif;src:url("${process.env.NEXT_PUBLIC_BASE_PATH||""}/fonts/serif.woff2") format("woff2");font-weight:400 800;font-display:swap}`}</style></head>
+    <html lang="en">
+      <head>
+        <style>{`@font-face{font-family:AtlasSans;src:url("${process.env.NEXT_PUBLIC_BASE_PATH || ""}/fonts/sans.woff2") format("woff2");font-weight:100 900;font-display:swap}@font-face{font-family:AtlasSerif;src:url("${process.env.NEXT_PUBLIC_BASE_PATH || ""}/fonts/serif.woff2") format("woff2");font-weight:400 800;font-display:swap}`}</style>
+      </head>
       <body>
         <a className="skip-link" href="#main">
           Skip to content
