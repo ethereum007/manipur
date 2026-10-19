@@ -23,5 +23,5 @@ export function number(n:number|null|undefined){return n==null?"Not available":n
 export const electionSource=(year:number)=>"https://ceomanipur.nic.in/StatisticalReport/AssemblyElection/"+({2012:"statistical_report_2012.pdf",2017:"statistical_report_2017.pdf",2022:"Statistical%20Report%202022.pdf"}[year]||"");
 export const directorySource="https://ceomanipur.nic.in/ResultSheets/StateLegislativeAssembly/2022/results";
 
-export type CandidateEntry=Omit<Result,"votes"|"rank"|"electors"|"nota">&{votes:number|null;rank:number|null;verification?:string};
+export type CandidateEntry=Omit<Result,"votes"|"rank"|"electors"|"nota">&{votes:number|null;rank:number|null;verification?:string;indexUrl?:string;affidavitUrl?:string};
 export const candidateIndex=(registryData.length?registryData:records) as CandidateEntry[];
