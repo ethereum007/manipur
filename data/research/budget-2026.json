@@ -85,6 +85,16 @@
         4761.22,
         4716.32
       ]
+    },
+    {
+      "id": "own-non-tax",
+      "label": "Own non-tax revenue",
+      "values": [
+        476.51,
+        301.86,
+        450,
+        450
+      ]
     }
   ],
   "notes": [

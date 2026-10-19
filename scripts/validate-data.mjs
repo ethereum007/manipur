@@ -56,6 +56,7 @@ for (const year of [2012, 2017, 2022])
     winners.filter((w) => w.year === year).length === 60,
     "Incomplete winner register " + year,
   );
+const fiscal=JSON.parse(fs.readFileSync('data/research/budget-2026.json','utf8'));for(const m of fiscal.metrics){assert(m.values.length===fiscal.periods.length);assert(m.values.every(v=>Number.isFinite(v)&&v>=0));}for(let i=0;i<4;i++){const value=id=>fiscal.metrics.find(m=>m.id===id).values[i];assert(Math.abs(value('revenue-receipts')-value('own-tax')-value('own-non-tax')-value('central-taxes')-value('central-grants'))<.02,'Budget receipts identity');}
 const report = {
   generatedAt: new Date().toISOString(),
   candidacies: records.length,

@@ -1,0 +1,46 @@
+{
+  "source": "assembly-2012",
+  "pdfPage": 38,
+  "printedPage": 35,
+  "reviewRun": 39240069418,
+  "columns": [
+    [
+      "NONGTHONGBAM BIREN",
+      "INC",
+      11872,
+      "N. Biren"
+    ],
+    [
+      "Naroibam Ratan (Kapu) Meetei",
+      "NCP",
+      9790,
+      "Naroibam Ratan (Kapu) Meetei"
+    ],
+    [
+      "Y. Mangi",
+      "MPP",
+      604,
+      "Y. Mangi"
+    ],
+    [
+      "Dr. G. Tonsana Sharma",
+      "MDPF",
+      373,
+      "Dr. G. Tonsana Sharma"
+    ],
+    [
+      "L. Brojendro",
+      "AITC",
+      415,
+      "L. Brojendro"
+    ]
+  ],
+  "validVotes": 23054,
+  "rejected": 3,
+  "votesPolled": 23057,
+  "notes": [
+    "Candidate sum 23054 and 23054+3=23057 reconcile.",
+    "NCP candidate Ratan receives 9790; AITC candidate Brojendro receives 415. Column order read from original, never inferred from rank.",
+    "Original N. Biren name variant linked to independent winner record and official Assembly career."
+  ]
+}
