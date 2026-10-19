@@ -1,0 +1,1690 @@
+{
+  "method": "Exact distinctive heading tokens and column order, candidate sums, ballot accounting and independent winner-party agreement. No numeric corrections; machine reconciliation distinct from visual review.",
+  "acceptedContests": 30,
+  "acceptedCandidates": 125,
+  "audit": [
+    {
+      "ac": 2,
+      "page": 76,
+      "half": 0,
+      "rawTotal": "Total Votes Polled 24814 6543 31357 89 239 31685 0",
+      "header": "Serial No.\n\nSerial No. Of\n\nPolling Station\n\nNONGTHOMBAM|5'<\n\nBIREN SINGH ro\n<0\n\nPANGEUAM £0\n\nSARATCHANDRA |o a\n\nSINGH ~\n\nTotal of\n\nValid Votes\n\nNo. Of\n\nRejected Votes\n\nNOTA\n\nTotal\n\nNo. Of\n\nTendered Votes\n",
+      "columns": [
+        "Nongthombam Biren Singh",
+        "Pangeijam Saratchandra Singh"
+      ],
+      "numbers": [
+        24814,
+        6543,
+        31357,
+        89,
+        239,
+        31685,
+        0
+      ],
+      "status": "withheld",
+      "reasons": [
+        "header Pangeijam Saratchandra Singh"
+      ]
+    },
+    {
+      "ac": 3,
+      "page": 77,
+      "half": 0,
+      "rawTotal": "Total Votes Polled 356 2461 8894 11131 6792 2922 385 32941 46 169 33156 0",
+      "header": "Serial No.\n\nSerial No.\n\nOf Polling\n\nStation\n\nR.K. AMUSANA\nSINGH\n\nKHURAVJAM =\nRATANKUMAR |o\nSINGH g\nLAITONJAM =\nJAYANANDA a\nSINGH $s\nLEISHANGTHEM | &\nSUSINDRO 9\nMEITEI 4\nKHAGOKPAM |>\nKHAMBA 2\nSINGH 8\nTOUAM o\nLOKENDRO ~\nSINGH\n\nHEISNAM\n\nSUBHAS\n\nSINGH\n\nTotal of\n\nValid Votes\n\nNo. Of\n\nRejected Votes\nNOTA\n\nTotal\n\nNo. Of\n\nTendered Votes\n",
+      "columns": [
+        "R.K. AMUSANA SINGH",
+        "Khuraijam Ratankumar Singh",
+        "Laitongjam Jayananda Singh",
+        "Leishangthem Susindro Meitei",
+        "Khagokpam Khamba Singh",
+        "Toijam Lokendro Singh",
+        "Heisnam Subhas Singh"
+      ],
+      "numbers": [
+        356,
+        2461,
+        8894,
+        11131,
+        6792,
+        2922,
+        385,
+        32941,
+        46,
+        169,
+        33156,
+        0
+      ],
+      "status": "withheld",
+      "reasons": [
+        "header Khuraijam Ratankumar Singh",
+        "header Laitongjam Jayananda Singh",
+        "header Toijam Lokendro Singh"
+      ]
+    },
+    {
+      "ac": 4,
+      "page": 77,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 2832 12376 99 13118 5437 33862 62 238 34162 6",
+      "header": "Serial No.\n\nSerial No. Of\n\nPolling Station\n\nMohammed |&\n\nAmin Shah Py\n<\n\nNahakpam 2\n\nIndrajit Singh =\n2\n\nPunnam Rani |\n\nWangkhem 9\na\n\nSheikh Noorul =\n\nHassan 2\n3\n\nWahengham |[§&\n\nRojit Singh 2\n\n@Bullet\n\nTotal of\n\nValid Votes\n\nNo. Of\n\nRejected Votes\n\nNOTA\n\nTotal\n\nNo. Of\n\nTendered Votes\n",
+      "columns": [
+        "Mohammed Amin Shah",
+        "Nahakpam Indrajit Singh",
+        "Punnam Rani Wangkhem",
+        "Sheikh Noorul Hassan",
+        "Wahengbam Rojit Singh"
+      ],
+      "numbers": [
+        2832,
+        12376,
+        99,
+        13118,
+        5437,
+        33862,
+        62,
+        238,
+        34162,
+        6
+      ],
+      "status": "withheld",
+      "reasons": [
+        "header Wahengbam Rojit Singh"
+      ]
+    },
+    {
+      "ac": 5,
+      "page": 78,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 15338 8649 4849 28836 63 674 29573 2",
+      "header": "Serial No.\nSerial No. Of\nPolling Station\n2\nThongam 8\nBiswajit Singh | -. >\ns<\nse\nSeram Neken | § &\n. <\nSingh So\n=\nSanglakpam |%2\nPreshyojit 9\nSharma a\nTotal of\nValid Votes\nNo. Of\nRejected Votes\nNOTA\nTotal\nNo. Of\nTendered Votes\n",
+      "columns": [
+        "Thongam Biswajit Singh",
+        "Seram Neken Singh",
+        "Sanglakpam Preshyojit Sharma"
+      ],
+      "numbers": [
+        15338,
+        8649,
+        4849,
+        28836,
+        63,
+        674,
+        29573,
+        2
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 6,
+      "page": 79,
+      "half": 0,
+      "rawTotal": "Total Votes Polled 983 249 9126 17335 202 111 28006 45 97 28148 2",
+      "header": "47\n20\now\nz=\no §®9\n_ &\noOo ee\noe\nmF\nom\nQQ,\nSs\na)\n>e\naA\n2 @\n3 3\nso\n<<\nom\n°o @\na sh\n206\ncs\n(9)\n=]\ng\n~~\nn\noO\n[co]\n3\n®\n=]\n+\nNO\nNe)\nNe)\nfoe)\n[é%)\n",
+      "columns": [
+        "M.I. Khan",
+        "Thongram Tony Meitei",
+        "Md. Nasiruddin Khan",
+        "Lourembam Rameshwor Meetei",
+        "Toijam Debananda Singh",
+        "Yumnam Shanta Meetei"
+      ],
+      "numbers": [
+        983,
+        249,
+        9126,
+        17335,
+        202,
+        111,
+        28006,
+        45,
+        97,
+        28148,
+        2
+      ],
+      "status": "withheld",
+      "reasons": [
+        "header M.I. Khan",
+        "header Thongram Tony Meitei",
+        "header Md. Nasiruddin Khan",
+        "header Lourembam Rameshwor Meetei",
+        "header Toijam Debananda Singh",
+        "header Yumnam Shanta Meetei",
+        "header order"
+      ]
+    },
+    {
+      "ac": 7,
+      "page": 79,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 388 16739 15282 894 33303 79 120 33502 (0)",
+      "header": "Serial No.\n\nSerial No. of\n\nPolling Station\n\nKeisham z\n\nNingthemjao |9\n\nSingh Ss\n=\n\nThounaojam $\n\nShyamkumar |®\n2\n\nLourembam |%\n\nSanjoy Singh |3\n3\n\nAsheibam £\n\nBele Singh g\n\nTotal of\n\nValid Votes\n\nNo. Of\n\nRejected Votes\n\nNOTA\n\nTotal\n\nNo. of\n\nTendered Votes\n",
+      "columns": [
+        "Keisham Ningthemjao Singh",
+        "Thounaojam Shyamkumar",
+        "Lourembam Sanjoy Singh",
+        "Asheibam Bele Singh"
+      ],
+      "numbers": [
+        388,
+        16739,
+        15282,
+        894,
+        33303,
+        79,
+        120,
+        33502,
+        0
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 8,
+      "page": 80,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 7049 10105 957 9984 458 28553 46 112 28711 1",
+      "header": "Serial No.\n\nSerial No. Of\n\nPolling Station\n\nAchoibam -\n\nDeben Singh 2\n<\n\nKhongbantabam | 2\nQa\n\nIbomcha <\n\nMongjam a\n\nPoireihenba oO\n\nMeetei 2\n\nKshetrimayum |<.\n\nBiren 2\n\nSingh 2\n\nSapam 2\n\nKangleipal °\n\nMeitei *\n\nTotal of\n\nValid Votes\n\nNo. Of\n\nRejected Votes\n\nNOTA\n\nTotal\n\nNo. Of\n\nTendered Votes\n",
+      "columns": [
+        "Achoibam Deben Singh",
+        "Khongbantabam Ibomcha",
+        "Mongjam Poireihenba Meetei",
+        "Kshetrimayum Biren Singh",
+        "Sapam Kangleipal Meitei"
+      ],
+      "numbers": [
+        7049,
+        10105,
+        957,
+        9984,
+        458,
+        28553,
+        46,
+        112,
+        28711,
+        1
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 9,
+      "page": 81,
+      "half": 0,
+      "rawTotal": "Total Votes Polled 9856 457 13629 23942 18 360 24320 0",
+      "header": "Serial No.\nSerial No. Of Polling\nStation\n2\n)\nJotin Waikhom =m\nse<\nro\nHijam Nutanchandra $ a\nSingh 5s\nay\nhu\nKhumukcham 9\nJoykisan Singh 4\nTotal of Valid Votes\nNo. Of Rejected\nVotes\nNOTA\nTotal\nNo. Of Tendered\nVotes\n",
+      "columns": [
+        "Jyotin Waikhom",
+        "Hijam Nutanchandra Singh",
+        "Khumukchan Joykisan Singh"
+      ],
+      "numbers": [
+        9856,
+        457,
+        13629,
+        23942,
+        18,
+        360,
+        24320,
+        0
+      ],
+      "status": "withheld",
+      "reasons": [
+        "header Jyotin Waikhom",
+        "header Khumukchan Joykisan Singh"
+      ]
+    },
+    {
+      "ac": 10,
+      "page": 81,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 8335 1540 7426 5472 22773 45 268 23086 1",
+      "header": "Serial No.\n\nSerial No. Of\n\nPolling Station\n\nKhwairakpam 2\n\nRaghumani $\n\nSingh e\n_\n\nNunglepam a\n\nMahananda $\n2\n\nSingh g\n°\na\n\nYumnam ca\n\nJoykumar Singh >\n<\n°\n\nKhombongmayum |§\n\nSuresh Singh S\n\nTotal of\n\nValid Votes\n\nNo. Of\n\nRejected Votes\n\nNOTA\n\nTotal\n\nNo. Of\n\nTendered Votes\n",
+      "columns": [
+        "Khwairakpam Raghumani Singh",
+        "Nunglepam Mahananda Singh",
+        "Yumnam Joykumar Singh",
+        "Khombongmayum Suresh Singh"
+      ],
+      "numbers": [
+        8335,
+        1540,
+        7426,
+        5472,
+        22773,
+        45,
+        268,
+        23086,
+        1
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 11,
+      "page": 82,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 564 11054 8398 20016 18 228 20262 0",
+      "header": "Serial No.\nSerial No. Of Polling Station\nMoirangthem Momo F5\nSingh .. &\nSs <\ng 2\n<¢c\n: . Ge\nRajkumar Imo Singh So\n28\nwn\nDr. Khwairakpam Loken 9\nSingh 4\nTotal of Valid Votes\nNo. Of Rejected Votes\nNOTA\nTotal\nNo. Of Tendered Votes\n",
+      "columns": [
+        "Moirangthem Momo Singh",
+        "Rajkumar Imo Singh",
+        "Dr. Khwairakpam Loken Singh"
+      ],
+      "numbers": [
+        564,
+        11054,
+        8398,
+        20016,
+        18,
+        228,
+        20262,
+        0
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 12,
+      "page": 83,
+      "half": 0,
+      "rawTotal": "Total Votes Polled 73 1816 5760 8687 8874 25210 29 142 25381 OO",
+      "header": "Serial No.\n\nSerial No. Of Polling Station\nFS\n\nARIBAM PRAMODINI DEVI 2\n<\n2\n\nELANGBAM SAMUEL JOHNSON =\n°\n\nLANGPOKLAKPAM JAYANTA 3\n\nKUMAR SINGH fe)\na\n>\n\nMaheshwar Thounaojam ey\nz\n\nNISHIKANT SAPAM g\n\nTotal of Valid Votes\n\nNo. Of Rejected Votes\n\nNOTA\n\nTotal\n\nNo. Of Tendered Votes\n",
+      "columns": [
+        "Aribam Pramodini Devi",
+        "Elangbam Samuel Johnson",
+        "Langpoklakpam Jayanta Kumar Singh",
+        "Maheshwar Thounaojam",
+        "Nishikant Sapam"
+      ],
+      "numbers": [
+        73,
+        1816,
+        5760,
+        8687,
+        8874,
+        25210,
+        29,
+        142,
+        25381
+      ],
+      "status": "withheld",
+      "reasons": [
+        "column count"
+      ]
+    },
+    {
+      "ac": 13,
+      "page": 83,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 1600 6414 8709 2164 18887 14 128 19029 0",
+      "header": "Serial No.\n\nSerial No. Of Polling Station\n\nlrengbam Hemochandra 2\n\ni )\n\nSingh 3\n<\n2\n\nOinam Romen Singh =\nr)\ng\n\nYumnam Khemchand Singh] >\n4\n5\n\nNgangbam Robert Singh\n\nTotal of Valid Votes\n\nNo. Of Rejected Votes\n\nNOTA\n\nTotal\n\nNo. Of Tendered Votes\n",
+      "columns": [
+        "Irengbam Hemochandra Singh",
+        "Oinam Romen Singh",
+        "Yumnam Khemchand Singh",
+        "Ngangbam Robert Singh"
+      ],
+      "numbers": [
+        1600,
+        6414,
+        8709,
+        2164,
+        18887,
+        14,
+        128,
+        19029,
+        0
+      ],
+      "status": "withheld",
+      "reasons": [
+        "header Irengbam Hemochandra Singh"
+      ]
+    },
+    {
+      "ac": 14,
+      "page": 84,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 9724 526 9092 4574 122 24038 24 119 24181 (0)",
+      "header": "Serial No.\nSerial No. Of Polling\nStation\nThokchom S\nSatyabrata Singh g\n<\nNingombam 2\n. a\nHelendro Singh s\nHuidrom Vikramjit a\nSingh 9°\n4\n>\nThounaojam Brinda z\nRajkumar Suraj 2\nSingh ie\nTotal of Valid Votes\nNo. Of Rejected Votes\nNOTA\nTotal\nNo. Of Tendered Votes\n",
+      "columns": [
+        "Thokchom Satyabrata Singh",
+        "Ningombam Helendro Singh",
+        "Huidrom Vikramjit Singhh",
+        "Thounaojam Brinda",
+        "Rajkumar Suraj Singh"
+      ],
+      "numbers": [
+        9724,
+        526,
+        9092,
+        4574,
+        122,
+        24038,
+        24,
+        119,
+        24181,
+        0
+      ],
+      "status": "withheld",
+      "reasons": [
+        "header Huidrom Vikramjit Singhh"
+      ]
+    },
+    {
+      "ac": 15,
+      "page": 85,
+      "half": 0,
+      "rawTotal": "Total Votes Polled 10840 9275 416 11593 32124 86 337 32547 0",
+      "header": "Serial No.\nSerial No. Of\nPolling Station\n2\nOkram Henry |@\nYumkham =<\nErabot 2\nSingh =\nRajkumar S$\nPriyobarta e\nSingh oO\na\nThangjam ad\nArunkumar .\nTotal of Valid\nVotes\nNo. Of Rejected\nVotes\nNOTA\nTotal\nNo. Of Tendered\nVotes\n",
+      "columns": [
+        "Okram Henry",
+        "Yumkham Erabot Singh",
+        "Rajkumar Priyobarta Singh",
+        "Thangjam Arunkumar"
+      ],
+      "numbers": [
+        10840,
+        9275,
+        416,
+        11593,
+        32124,
+        86,
+        337,
+        32547,
+        0
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 16,
+      "page": 85,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 6677 2007 1595 10010 471 5966 186 99 27011 95 190 27296 0",
+      "header": "Serial No.\n\nSerial No. Of\n\nPolling Station\n\nAyangbam\n\nOken Singh\n\nNingthoujam\n\nPopilal Singh 2\n°\n\nNingthoujam Sg\n\nBiren Singh =\n\nHeikham <\n\nDingo Singh a\na\n\nKhaidem g\n\nRanjit Singh >\n\nKhwairakpam z\n\nDevendro Singh 2\n\nKhwairakpam %\n\nRobin Singh\n\nMaharabam\n\nAnita Devi\n\nTotal of Valid\n\nVotes\n\nNo. Of Rejected\n\nVotes\n\nNOTA\n\nTotal\n\nNo. Of Tendered\n\nVotes\n",
+      "columns": [
+        "Ayangbam Oken Singh",
+        "Ningthoujam Popilal Singh",
+        "Ningthoujam Biren Singh",
+        "Heikham Dingo Singh",
+        "Khaidem Ranjit Singh",
+        "Kwairakpam Devendro Singh",
+        "Khwairakpam Robin Singh",
+        "Maharabam Anita Devi"
+      ],
+      "numbers": [
+        6677,
+        2007,
+        1595,
+        10010,
+        471,
+        5966,
+        186,
+        99,
+        27011,
+        95,
+        190,
+        27296,
+        0
+      ],
+      "status": "withheld",
+      "reasons": [
+        "header Kwairakpam Devendro Singh",
+        "header order"
+      ]
+    },
+    {
+      "ac": 17,
+      "page": 86,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 14785 241 15185 616 733 31560 69 210 31839 0",
+      "header": "Serial No.\n\nSerial No. Of Polling\n\nStation\n\nPukhrambam Sumati | >\n\nDevi $\n=a\n\nLikmabam Manibabu =\n\ni =\n\nSingh =\n2\n\nSorokhaibam Rajen |&\n\nSingh S\n\ning! 3\n\nKhundrakpam Kanba 3\n\nMeitei s\ns\n\nArambam Karamjit Q\n\nSingh\n\nTotal of Valid Votes\n\nNo. Of Rejected Votes\n\nNOTA\n\nTotal\n\nNo. Of Tendered Votes\n",
+      "columns": [
+        "Pukhrambam Sumati Devi",
+        "Likmabam Manibabu Singh",
+        "Sorokhaibam Rajen Singh",
+        "Khundrakpam Kanba Meitei",
+        "Arambam Karamjit Singh"
+      ],
+      "numbers": [
+        14785,
+        241,
+        15185,
+        616,
+        733,
+        31560,
+        69,
+        210,
+        31839,
+        0
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 18,
+      "page": 87,
+      "half": 0,
+      "rawTotal": "Total Votes Polled 13038 75 895 13432 811 28251 12 152 28415 3",
+      "header": "ee ls 2 |\na)\now\nz=\no R99\n_ &\noOo °¢\n>\nTm 60\na\nan)\na3\ns F\n> S.\n% 2\ng 53\nCay\n< wv\noO ®@\n2 &\n4—=\n=\n\n§ =\n3 2\nQO m=\n<= me\n> 2\n$s\na\n\n3\n\n®\n\n5\n\n>\n\nN\n\nNe)\n\nN\n\nw\n\nNy\n",
+      "columns": [
+        "Konthoujam Sharat Singh",
+        "Khoirom Binarani Devi",
+        "Laishram Nando Singh",
+        "Dr. Sapam Ranjan Singh",
+        "Nongmaithem Herojit Singh"
+      ],
+      "numbers": [
+        13038,
+        75,
+        895,
+        13432,
+        811,
+        28251,
+        12,
+        152,
+        28415,
+        3
+      ],
+      "status": "withheld",
+      "reasons": [
+        "header Konthoujam Sharat Singh",
+        "header Khoirom Binarani Devi",
+        "header Laishram Nando Singh",
+        "header Dr. Sapam Ranjan Singh",
+        "header Nongmaithem Herojit Singh",
+        "header order"
+      ]
+    },
+    {
+      "ac": 19,
+      "page": 87,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 11499 10741 12186 125 34551 29 285 34865 4",
+      "header": "Serial No.\n\nSerial No.\n\nOf Polling\n\nStation\n\nAkoijam 2\n\nMirabai Devi °\n8\n\nR.K. Rameshwar =\n\nSingh a\n<\n\nSapam Q\n\nKunjakeswor g\n\n(Keba) Singh 9\n\nWakambam 4\n\nIbomcha 3\n\nSingh\n\nTotal of\n\nValid Votes\n\nNo. Of\n\nRejected Votes\n\nNOTA\n\nTotal\n\nNo. Of\n\nTendered Votes\n",
+      "columns": [
+        "Akoijam Mirabai Devi",
+        "R.K. Rameshwar Singh",
+        "Sapam Kunjakeswor (Keba) Singh",
+        "Wakambam Ibomcha Singh"
+      ],
+      "numbers": [
+        11499,
+        10741,
+        12186,
+        125,
+        34551,
+        29,
+        285,
+        34865,
+        4
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 20,
+      "page": 88,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 8762 5949 10815 504 26030 309 237 26576 0",
+      "header": "Serial No.\nSerial No. Of Polling\nStation\n2\nOkram Joy Singh S\nKaram Nabakishor <\nSingh =\n<\n)\n8\nKaram Shyam 9\nHijam Somarendro 4\nSingh 5\nTotal of Valid Votes\nNo. Of Rejected Votes\nNOTA\nTotal\nNo. Of Tendered Votes\n",
+      "columns": [
+        "Okram Joy Singh",
+        "Karam Nabakishor Singh",
+        "Karam Shyam",
+        "Hijam Somarendro Singh"
+      ],
+      "numbers": [
+        8762,
+        5949,
+        10815,
+        504,
+        26030,
+        309,
+        237,
+        26576,
+        0
+      ],
+      "status": "withheld",
+      "reasons": [
+        "header order"
+      ]
+    },
+    {
+      "ac": 21,
+      "page": 89,
+      "half": 0,
+      "rawTotal": "Total Votes Polled 11058 10527 9444 1721 32750 163 214 33127 0",
+      "header": "+\na =)\now\nen\n_ &\nOo ee\no\n\nmn\n@O 48\noa —\noe\nag\n>=\n_\no 2\n3 =\nce\n< 5s\n0\n_—\nas\n= 2\noF\n5. wa\nlowe 4)\nx @\ng 2\n$=\nom\ngs\na =\nN\n\nOo\n",
+      "columns": [
+        "Sagolshem Kebi Devi",
+        "Soibam Subhaschandra Singh",
+        "Soraisham Manaoton Singh",
+        "Konthoujam Manoranjan Singh"
+      ],
+      "numbers": [
+        11058,
+        10527,
+        9444,
+        1721,
+        32750,
+        163,
+        214,
+        33127,
+        0
+      ],
+      "status": "withheld",
+      "reasons": [
+        "header Sagolshem Kebi Devi",
+        "header Soibam Subhaschandra Singh",
+        "header Soraisham Manaoton Singh",
+        "header Konthoujam Manoranjan Singh",
+        "header order"
+      ]
+    },
+    {
+      "ac": 22,
+      "page": 89,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 12340 15606 156 28102 16 122 28240 0",
+      "header": "Serial No.\n\nSerial No.\n\nOf Polling\n\nStation\n\nOinam Fy\n\nLukhoi Singh} _9&\ns<\n\nKHURAVJAM re\n\nLOKEN so\n\nSINGH es\na)\nCay\n\nSalam 738\n\nJoy Singh g\n\nTotal of\n\nValid Votes\n\nNo. Of\n\nRejected\n\nVotes\n\nNOTA\n\nTotal\n\nNo. Of\n\nTendered\n\nVotes\n",
+      "columns": [
+        "Oinam Lukhoi Singh",
+        "Khuraijam Loken Singh",
+        "Salam Joy Singh"
+      ],
+      "numbers": [
+        12340,
+        15606,
+        156,
+        28102,
+        16,
+        122,
+        28240,
+        0
+      ],
+      "status": "withheld",
+      "reasons": [
+        "header Khuraijam Loken Singh"
+      ]
+    },
+    {
+      "ac": 23,
+      "page": 90,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 7374 14642 8513 30529 7 150 30686 0",
+      "header": "Serial No.\n\nSerial No. Of Polling Station\n\nUrikhimbam Ramesh ra\n. °\n\nSingh 3 <\n\nKongkham Robindro FS =\n\nSingh £¢\n\n28\n\nDr. Khumujam oO\n\nRatankumar Singh a\n\nTotal of Valid Votes\n\nNo. Of Rejected Votes\n\nNOTA\n\nTotal\n\nNo. Of Tendered Votes\n",
+      "columns": [
+        "Urikhimbam Ramesh Singh",
+        "Kongkham Robindro Singh",
+        "Dr. Kumujam Ratankumar Singh"
+      ],
+      "numbers": [
+        7374,
+        14642,
+        8513,
+        30529,
+        7,
+        150,
+        30686,
+        0
+      ],
+      "status": "withheld",
+      "reasons": [
+        "header Dr. Kumujam Ratankumar Singh"
+      ]
+    },
+    {
+      "ac": 24,
+      "page": 91,
+      "half": 0,
+      "rawTotal": "Total Votes Polled 16885 13825 30710 110 124 30944 0",
+      "header": "Serial No.\n\nSerial No. Of\n\nPolling Station\n\nTHOUNAOQJAM ~ 2\n\nBASANTA KUMAR | 9\n\nSINGH sS<\nxf\n5s 2\n\nNAMEIRAKPAM 5 s\n\nLOKENSINGH | &\n\nTotal of Valid\n\nVotes\n\nNo. Of\n\nRejected Votes\n\nNOTA\n\nTotal\n\nNo. Of\n\nTendered Votes\n",
+      "columns": [
+        "Thounaojam Basanta Kumar Singh",
+        "Nameirakpam Loken Singh"
+      ],
+      "numbers": [
+        16885,
+        13825,
+        30710,
+        110,
+        124,
+        30944,
+        0
+      ],
+      "status": "withheld",
+      "reasons": [
+        "header Thounaojam Basanta Kumar Singh",
+        "header Nameirakpam Loken Singh"
+      ]
+    },
+    {
+      "ac": 25,
+      "page": 91,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 10808 3289 10366 408 527 970 145 26513 96 128 26737 0",
+      "header": "Serial No.\n\nSerial No. Of\n\nPolling Station\n\nlrengbam\n\nNalini Devi\n\nThokchom\n\nIthoibiDevi |>\n\nLaishram 8\ng\n\nRadhakishore |<\n\nSingh =\n<\n\nAshem Babu |2\n\nSingh oO\n3\n\nThingbaijam |4\n3s\n\nSwarankumar >\n\nSingh 3S\ns\n\nLaitonjam 2g\n\nBrojen Singh\n\nNgangom\n\nShivakumar\n\nSingh\n\nTotal of\n\nValid Votes\n\nNo. Of\n\nRejected Votes\n\nNOTA\n\nTotal\n\nNo. Of\n\nTendered Votes\n",
+      "columns": [
+        "Irengbam Nalini Devi",
+        "Thokchom Ithoibi Devi",
+        "Laishram Radhakishore Singh",
+        "Ashem Babu Singh",
+        "Thingbaijam Swarankumar Singh",
+        "Laitonjam Brojen Singh",
+        "Ngangom Shivakumar Singh"
+      ],
+      "numbers": [
+        10808,
+        3289,
+        10366,
+        408,
+        527,
+        970,
+        145,
+        26513,
+        96,
+        128,
+        26737,
+        0
+      ],
+      "status": "withheld",
+      "reasons": [
+        "header Irengbam Nalini Devi",
+        "header Thokchom Ithoibi Devi"
+      ]
+    },
+    {
+      "ac": 26,
+      "page": 92,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 13611 3395 12202 29208 103 350 29661 1",
+      "header": "Serial No.\n\nSerial No. Of Polling Station\n\nKonthoujam Govindas| , z\n\nSingh a io}\n\nNingthoujam = 5\n\nJoykumar Singh 6 &\n\n5 §\n\nOinam Nabakishore |9 #\n. AH\n\nSingh\n\nTotal of Valid Votes\n\nNo. Of Rejected Votes\n\nNOTA\n\nTotal\n\nNo. Of Tendered Votes\n",
+      "columns": [
+        "Konthoujam Govindas Singh",
+        "Ningthoujam Joykumar Singh",
+        "Oinam Nabakishore Singh"
+      ],
+      "numbers": [
+        13611,
+        3395,
+        12202,
+        29208,
+        103,
+        350,
+        29661,
+        1
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 27,
+      "page": 93,
+      "half": 0,
+      "rawTotal": "Total Votes Polled 14428 9404 12206 36038 226 271 36535 2",
+      "header": "Serial No.\n\nSerial No. Of\n\nPolling Station\n\nThongam\n\nShanti\n\nSingh g Fa\n\nPukhrem ae\nBec\n\nSharatchandra | &\n\n. 62\n\nSingh £e¢\n\nMairembam | &\n\nPrithviraj\n\nSingh\n\nTotal of\n\nValid Votes\n\nNo. Of\n\nRejected Votes\n\nNOTA\n\nTotal\n\nNo. Of\n\nTendered Votes\n",
+      "columns": [
+        "Thongam Shanti Singh",
+        "Pukhrem Sharatchandra Singh",
+        "Mairembam Prithviraj Singh"
+      ],
+      "numbers": [
+        14428,
+        9404,
+        12206,
+        36038,
+        226,
+        271,
+        36535,
+        2
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 28,
+      "page": 93,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 13095 7844 20939 70 196 21205 0",
+      "header": "Serial No.\n\nSerial No. Of Polling\n\nStation\n\nTongbram $2\n\nRobindro Singh a $\nQ<\n42\n\nBirla Haobijam 5\n\nTotal of Valid Votes\n\nNo. Of Rejected Votes\n\nNOTA\n\nTotal\n\nNo. Of Tendered\n\nVotes\n",
+      "columns": [
+        "Tongbram Robindro Singh",
+        "Birla Haobijam"
+      ],
+      "numbers": [
+        13095,
+        7844,
+        20939,
+        70,
+        196,
+        21205,
+        0
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 29,
+      "page": 94,
+      "half": 0,
+      "rawTotal": "Total Votes Polled 1169 7787 8513 8141 330 25940 186 147 26273 3",
+      "header": "Serial No.\n\nSerial No. Of Polling\n\nStation\n\nDr. Khangembam z\n\nRomesh Singh °\n=F\n\nNingthoujam Mangi =\n\nSingh a\n<\n\nSanasam Premchandra Bs\n\nSingh a\nS\n\nAhanthem Shanjoy 4\n\nSingh as\nzs\n<\nro)\n\nNaorem SorojiniDevi |§&\n\nTotal of Valid Votes\n\nNo. Of Rejected Votes\n\nNOTA\n\nTotal\n\nNo. Of Tendered Votes\n",
+      "columns": [
+        "Dr. Khangembam Romesh Singh",
+        "Ningthoujam Mangi Singh",
+        "Sanasam Premchandra Singh",
+        "Ahanthem Shanjoy Singh",
+        "Naorem Sorojini Devi"
+      ],
+      "numbers": [
+        1169,
+        7787,
+        8513,
+        8141,
+        330,
+        25940,
+        186,
+        147,
+        26273,
+        3
+      ],
+      "status": "withheld",
+      "reasons": [
+        "header Naorem Sorojini Devi"
+      ]
+    },
+    {
+      "ac": 30,
+      "page": 95,
+      "half": 0,
+      "rawTotal": "Total Votes Polled 16316 445 16886 162 20 33829 73 140 34042 2",
+      "header": "Serial No.\nSerial No. Of Polling\nStation\n2\n)\nY. Antas Khan g\n<\n2\nSyed Anwar Hussain | =\ng\ni\nMohd Abdul Nasir |\nan\nAbdul Manan 3\n<\nro)\nMd Irshad Hussain |§\nTotal of Valid Votes\nNo. Of Rejected Votes\nNOTA\nTotal\nNo. Of Tendered Votes\n",
+      "columns": [
+        "Y. Antas Khan",
+        "Syed Anwar Hussain",
+        "Mohd Abdul Nasir",
+        "Abdul Manan",
+        "Md Irshad Hussain"
+      ],
+      "numbers": [
+        16316,
+        445,
+        16886,
+        162,
+        20,
+        33829,
+        73,
+        140,
+        34042,
+        2
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 31,
+      "page": 95,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 15085 12542 145 16222939476 «187 29657 1",
+      "header": "T1\nar)\n=\nZz\n2s\nOo ee\nQ\nm2\nOo 1\n=\n°\naoe\n5\n> =\nae\n2a\n3 0\noc 3\n<x. =\nons\n2 =\n28\n5s’\n$s\na\n<\no\n(0)\n(co}\n3\noO\n=]\nTF\now\n@\non\npe)\nN\n",
+      "columns": [
+        "Okram Ibobi Singh",
+        "Leitanthem Basanta Singh",
+        "Irom Chaoba Singh",
+        "Konsam Michael Singh"
+      ],
+      "numbers": [
+        15085,
+        12542,
+        145,
+        16222939476,
+        187,
+        29657,
+        1
+      ],
+      "status": "withheld",
+      "reasons": [
+        "column count",
+        "candidate sum",
+        "poll total",
+        "header Okram Ibobi Singh",
+        "header Leitanthem Basanta Singh",
+        "header Irom Chaoba Singh",
+        "header Konsam Michael Singh",
+        "header order",
+        "winner party"
+      ]
+    },
+    {
+      "ac": 32,
+      "page": 96,
+      "half": 0,
+      "rawTotal": "Total Votes Polled 82 8889 3474 7597 2891 7100 74 34 30141 110 136 30387 5",
+      "header": "Serial No.\n\nSerial No. Of Polling Station\n\nOinam Haridas Singh\n\nKeisham Meghachandra |2\n\nSingh 8\n\ning! 2\n\n=\n\nKharibam Jiban Singh =\n\nYumnam Nabachandra $\n\nSingh 3\n\nKangabam Jadu @ 2\n\nJadumani Singh >\n\nProf. (Dr.) Nimai Chand =|\n<\n\nLuwang 2\n\nMd Abdul Halim s\n\nLaishram Domen Singh\n\nTotal of Valid Votes\n\nNo. Of Rejected Votes\n\nNOTA\n\nTotal\n\nNo. Of Tendered Votes\n",
+      "columns": [
+        "Oinam Haridas Singh",
+        "Keisham Meghachandra Singh",
+        "Kharibam Jiban Singh",
+        "Yumnam Nabachandra Singh",
+        "Kangabam Jadu Singh",
+        "Prof. (Dr.) Nimai Chand Luwang",
+        "Md Abdul Halim",
+        "Laishram Domen Singh"
+      ],
+      "numbers": [
+        82,
+        8889,
+        3474,
+        7597,
+        2891,
+        7100,
+        74,
+        34,
+        30141,
+        110,
+        136,
+        30387,
+        5
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 33,
+      "page": 97,
+      "half": 0,
+      "rawTotal": "Total Votes Polled 13589 4766 13186 86 31627 52 121 31800 0",
+      "header": "Serial No.\n\nSerial No. Of Polling\n\nStation\n\nThokchom z\n\nRadheshyam Singh 2\n\nNingthoujam Diten s\n\nSingh =\ng\n\nMoirangthem S\ntH\n\nOkendro 9\n\noirangthem 2\n\nTotomsana 5\n\nTotal of Valid Votes\n\nNo. Of Rejected Votes\n\nNOTA\n\nTotal\n\nNo. Of Tendered Votes\n",
+      "columns": [
+        "Thokchom Radheshyam Singh",
+        "Ningthoujam Diten Singh",
+        "Moirangthem Okendro",
+        "Moirangthem Totomsana Nongshaba"
+      ],
+      "numbers": [
+        13589,
+        4766,
+        13186,
+        86,
+        31627,
+        52,
+        121,
+        31800,
+        0
+      ],
+      "status": "withheld",
+      "reasons": [
+        "header Moirangthem Totomsana Nongshaba",
+        "header order"
+      ]
+    },
+    {
+      "ac": 34,
+      "page": 97,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 723 15765 13852 30340 87 158 30585 0",
+      "header": "Serial No.\n\nSerial No. Of Polling Station\n\nUsham Manglem 9%\n40\nas\nas <\nze\n\nPaonam Brojen Singh S a\ne<\n\nMoirangthem ey 2\n\nHemanta Singh °\n\nTotal of Valid Votes\n\nNo. Of Rejected Votes\n\nNOTA\n\nTotal\n\nNo. Of Tendered Votes\n",
+      "columns": [
+        "Usham Manglem",
+        "Paonam Brojen Singh",
+        "Moirangthem Hemanta Singh"
+      ],
+      "numbers": [
+        723,
+        15765,
+        13852,
+        30340,
+        87,
+        158,
+        30585,
+        0
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 35,
+      "page": 98,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 9632 17435 7555 34622 103 413 35138 16",
+      "header": "Serial No.\n\nSerial No. Of Polling\n\nStation\n\nKhundrakpam oz\n\nMenjor Mangang |&% ©\nse\nxo\n\nSurjakumar Okram |§ &\n25\n\nThokchom og\n\nJadumani Singh 7“\n\nTotal of Valid Votes\n\nNo. Of Rejected Votes\n\nNOTA\n\nTotal\n\nNo. Of Tendered Votes\n",
+      "columns": [
+        "Khundrakpam Menjor Mangang",
+        "Surjakumar Okram",
+        "Thokchom Jadumani Singh"
+      ],
+      "numbers": [
+        9632,
+        17435,
+        7555,
+        34622,
+        103,
+        413,
+        35138,
+        16
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 36,
+      "page": 99,
+      "half": 0,
+      "rawTotal": "Total Votes Polled 9138 9088 5873 3601 1501 29201 24 15229377 0",
+      "header": "=\nio}\n\n+\n2\nuv\n°\n\na\n\n+\n2\nwo\n2\na\n*\n<\nio}\n\n+\n©\n\nwo\n\nb\nioe}\nWw\n~N\nN\nun\n~\nie)\nico)\noo\nN\nb\noO\n@\nw\nb\njo}\nite)\nw\no\n",
+      "columns": [
+        "Dr.USHAM DEBEN SINGH",
+        "Md. Fajur Rahim",
+        "Mayengbam Ranjit Singh",
+        "MD. SIKANDER",
+        "SAKIR AHMED"
+      ],
+      "numbers": [
+        9138,
+        9088,
+        5873,
+        3601,
+        1501,
+        29201,
+        24,
+        15229377,
+        0
+      ],
+      "status": "withheld",
+      "reasons": [
+        "column count",
+        "poll total",
+        "header Dr.USHAM DEBEN SINGH",
+        "header Md. Fajur Rahim",
+        "header Mayengbam Ranjit Singh",
+        "header MD. SIKANDER",
+        "header SAKIR AHMED",
+        "header order"
+      ]
+    },
+    {
+      "ac": 37,
+      "page": 99,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 8546 2009 676 7341 5873 2451 26896 96 239 27231 0",
+      "header": "Serial No.\n\nSerial No. Of Polling\n\nStation\n\nMAYANGLAMBAM\n\nRAMESHWAR SINGH | &\n\nYENGKHOM &\n\nNILACHANDRA SINGH | 2\n\nYENGKHOM ROMA | =\n\nDEVI g\ng\n\nYengkhom Surchandra | 9\n\nSingh 4\n3\n\nKSHETRIMAYUM ge\n\nKENNEDY SINGH 8\n\nNaorem Nabachandra By\n\nSingh\n\nTotal of Valid Votes\n\nNo. Of Rejected Votes\n\nNOTA\n\nTotal\n\nNo. Of Tendered Votes\n",
+      "columns": [
+        "MAYANGLAMBAM RAMESHWAR SINGH",
+        "YENGKHOM NILACHANDRA SINGH",
+        "YENGKHOM ROMA DEVI",
+        "Yengkhom Surchandra Singh",
+        "KSHETRIMAYUM KENNEDY SINGH",
+        "Naorem Nabachandra Singh"
+      ],
+      "numbers": [
+        8546,
+        2009,
+        676,
+        7341,
+        5873,
+        2451,
+        26896,
+        96,
+        239,
+        27231,
+        0
+      ],
+      "status": "withheld",
+      "reasons": [
+        "header order"
+      ]
+    },
+    {
+      "ac": 38,
+      "page": 100,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 4223 8713 6584 6559 134 26213 113 150 26476 0",
+      "header": "Serial No.\nSerial No. Of Polling Station\nMAIBAM DHANABIR $\nSINGH 2g\n<\nDR. YUMNAM =\nRADHESHYAM SINGH S\nr)\nDR. HUIDROM JITEN a\nSINGH 9\nELANGBAM DWHUJAMANI | 4\nSINGH =\nNONGMAITHEM SANJAY FS\nSINGH g\nTotal of Valid Votes\nNo. Of Rejected Votes\nNOTA\nTotal\nNo. Of Tendered Votes\n",
+      "columns": [
+        "MAIBAM DHANABIR SINGH",
+        "YUMNAM RADHESHYAM",
+        "DR. HUIDROM JITEN SINGH",
+        "ELANGBAM DWIJAMANI SINGH",
+        "NONGMAITHEM SANJAY SINGH"
+      ],
+      "numbers": [
+        4223,
+        8713,
+        6584,
+        6559,
+        134,
+        26213,
+        113,
+        150,
+        26476,
+        0
+      ],
+      "status": "withheld",
+      "reasons": [
+        "header ELANGBAM DWIJAMANI SINGH"
+      ]
+    },
+    {
+      "ac": 39,
+      "page": 101,
+      "half": 0,
+      "rawTotal": "Total Votes Polled 12673 11657 555 24885 51 146 25082 0",
+      "header": "Serial No.\n\nSerial No. Of\n\nPolling Station\n\nKANGUJAM RANJIT | 4 z\no\n\nSINGH 29\nsc\n\nMAYANGLAMBAM 72\n<a\n\nBINOD 2 <\n\nKAKYENPAIBAM of\n\nMUKTASANA SINGH °\n\nTotal of Valid Votes\n\nNo. Of Rejected Votes\n\nNOTA\n\nTotal\n\nNo. Of Tendered Votes\n",
+      "columns": [
+        "KANGUJAM RANJIT SINGH",
+        "MAYANGLAMBAM BINOD",
+        "KAKYENPAIBAM MUKTASANA SINGH"
+      ],
+      "numbers": [
+        12673,
+        11657,
+        555,
+        24885,
+        51,
+        146,
+        25082,
+        0
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 40,
+      "page": 101,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 11897 746 1113 12313 26069 15 579 26663 0",
+      "header": "Serial No.\n\nSerial No. Of\n\nPolling Station\n\nNAMEIRAKPAM\n\nBUDHACHANDRA |&\n\nSINGH g\n5\na\nPy\n\nBADRUR RAHMAN |\na\ng\n\nMAKAKMAYUM aa\n\nABBAS KHAN z\nfo]\ns\ng\n\nMD. ACHAB UDDIN\n\nTotal of Valid\n\nVotes\n\nNo. Of Rejected\n\nVotes\n\nNOTA\n\nTotal\n\nNo. Of Tendered\n\nVotes\n",
+      "columns": [
+        "NAMEIRAKPAM BUDHACHANDRA SINGH",
+        "BADRUR RAHMAN",
+        "MAKAKMAYUM ABBAS KHAN",
+        "MD. ACHAB UDDIN"
+      ],
+      "numbers": [
+        11897,
+        746,
+        1113,
+        12313,
+        26069,
+        15,
+        579,
+        26663,
+        0
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 41,
+      "page": 102,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 9725 37066 46791 141 91 47023 0",
+      "header": "Serial No.\n\nSerial No. Of\n\nPolling Station\n\nLanghu 9 z\n\nPaulhring a Q\n\nAnal 25\n2 5\n3\n£¢\n20\n\nSS.Olish |™ 4\n\nTotal of Valid\n\nVotes\n\nNo. Of Rejected\n\nVotes\n\nNOTA\n\nTotal\n\nNo. Of Tendered\n\nVotes\n",
+      "columns": [
+        "Langhu Paulhring Anal",
+        "SS. OLISH"
+      ],
+      "numbers": [
+        9725,
+        37066,
+        46791,
+        141,
+        91,
+        47023,
+        0
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 42,
+      "page": 103,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 15252 21663 4099 52 27 777 41870 50 32 41952 0",
+      "header": "Serial No.\nSerial No. Of Polling\nStation\nD. Korungthang Q\n<\n2\nLETPAO HAOKIP | &\nWairok Morung 2\nMakunga oO\n3\nKh. David Maring >\nri\nJamkholun Haokip S\nTantanga Kohai o\nMoshilpha ~\nTotal of Valid Votes\nNo. Of Rejected Votes\nNOTA\nTotal\nNo. Of Tendered\nVotes\n",
+      "columns": [
+        "D. KORUNGTHANG",
+        "LETPAO HAOKIP",
+        "Wairok Morung Makunga",
+        "Kh. David Maring",
+        "Jamkholun Haokip",
+        "Tantanga Kohai Moshilpha"
+      ],
+      "numbers": [
+        15252,
+        21663,
+        4099,
+        52,
+        27,
+        777,
+        41870,
+        50,
+        32,
+        41952,
+        0
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 43,
+      "page": 104,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 10863 11642 7453 154 693 30805 74 33 30912 0",
+      "header": "Serial No.\n\nSerial No. Of\n\nPolling Station\n\nAWUNG SHIMRAY |&\n\nHOPINGSON 3\n=\na\n\nLEISHIYO KEISHING €\ng\nie}\n\nVICTOR KEISHING a\n5\n\nNINGHORJAJO |=\n\nWUNGNAOSHANG |=\n\nKASAR <3\n\nTotal of Valid Votes\n\nNo. Of Rejected\n\nVotes\n\nNOTA\n\nTotal\n\nNo. Of Tendered\n\nVotes\n",
+      "columns": [
+        "AWUNG SHIMRAY HOPINGSON",
+        "LEISHIYO KEISHING",
+        "VICTOR KEISHING",
+        "NINGHOR JAJO",
+        "WUNGNAOSHANG KASAR"
+      ],
+      "numbers": [
+        10863,
+        11642,
+        7453,
+        154,
+        693,
+        30805,
+        74,
+        33,
+        30912,
+        0
+      ],
+      "status": "withheld",
+      "reasons": [
+        "header NINGHOR JAJO",
+        "header order"
+      ]
+    },
+    {
+      "ac": 44,
+      "page": 105,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 14561 15503 9961 40025 108 48 40181 36",
+      "header": "Serial No.\n\nSerial No. Of\n\nPolling Station\n\nALFRED 2\n\nKANNGAM 3\n\nS. ARTHUR e\n> ©\nvo =\n<¢a\n\nRAM e<\n50\n\nMUIVAH |9, &\n\nie}\no\n\nSOMATAI a\n\nSHAIZA .\n\nTotal of\n\nValid Votes\n\nNo. Of\n\nRejected Votes\n\nNOTA\n\nTotal\n\nNo. Of\n\nTendered Votes\n",
+      "columns": [
+        "ALFRED KANNGAM S. ARTHUR",
+        "RAM MUIVAH",
+        "SOMATAI SHAIZA"
+      ],
+      "numbers": [
+        14561,
+        15503,
+        9961,
+        40025,
+        108,
+        48,
+        40181,
+        36
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 45,
+      "page": 106,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 12837 10501 9349 8150 40837 34 61 40932 0",
+      "header": "Serial No.\nSerial No. Of Polling\nStation\n2\nKHASHIM VASHUM °\n2\n<\no\nNINGAM CHAMROY S\nPRESHOW MK 2\nSHIMRAY oO\na\nSWORD VASHUM °\nTotal of Valid Votes\nNo. Of Rejected Votes\nNOTA\nTotal\nNo. Of Tendered Votes\n",
+      "columns": [
+        "KHASHIM VASHUM",
+        "NINGAM CHAMROY",
+        "PRESHOW MK SHIMRAY",
+        "SWORD VASHUM"
+      ],
+      "numbers": [
+        12837,
+        10501,
+        9349,
+        8150,
+        40837,
+        34,
+        61,
+        40932,
+        0
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 46,
+      "page": 107,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 935 645 2667 4486 322 6710 5107 5461 26333 137 103 26573 0",
+      "header": "Serial No.\n\nSerial No. Of Polling\n\nStation\n\nLhingkim Haokip\n\nSeikholal Haokip z\n-¥\n\nYamthong Haokip s\n=\n<\n\nCh. Ajang Khongsai ES\n&\n\nJamchinlen Lunkim £\n\nKimneo Haokip >\n\nHangshing ey\n3\ns\n\nChungkhokai Doungel 2\n\nKenn Raikhan\n\nTotal of Valid Votes\n\nNo. Of Rejected Votes\n\nNOTA\n\nTotal\n\nNo. Of Tendered Votes\n",
+      "columns": [
+        "Lhingkim Haokip",
+        "Seikholal Haokip",
+        "Yamthong Haokip",
+        "Ch. Ajang Khongsai",
+        "Jamchinlen Lunkim",
+        "Kimneo Haokip Hangshing",
+        "Chungkhokai Doungel",
+        "Kenn Raikhan"
+      ],
+      "numbers": [
+        935,
+        645,
+        2667,
+        4486,
+        322,
+        6710,
+        5107,
+        5461,
+        26333,
+        137,
+        103,
+        26573,
+        0
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 47,
+      "page": 108,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 10483 5891 13649 17191 2102 49316 43 44 49403 0",
+      "header": "Serial No.\n\nSerial No.\n\nOf Polling\n\nStation\n\nKhoho Siile | %\n\nAnthony 2\n<\n2\n\nwo. |\n\nD.D. Thaisii <\n2\n\nR Yuh a\n\nJonathan Tao\n4\n>\n\nJ Kumo Sha Py\n6\ns\n\nThaiba Sanii_ | %\n\nTotal of\n\nValid Votes\n\nNo. Of\n\nRejected Votes\n\nNOTA\n\nTotal\n\nNo. Of\n\nTendered Votes\n",
+      "columns": [
+        "Khoho Siile Anthony",
+        "D. D. Thaisii",
+        "R Yuh Jonathan Tao",
+        "J Kumo Sha",
+        "Thaiba Sanii"
+      ],
+      "numbers": [
+        10483,
+        5891,
+        13649,
+        17191,
+        2102,
+        49316,
+        43,
+        44,
+        49403,
+        0
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 48,
+      "page": 109,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 29591 279 21078 50948 58 26 51032 2",
+      "header": "Serial No.\nSerial No. of\nPolling\nStation\na” 2\nLosii °\nDikho g\n=\nSanii =\nQ\nAlexander $\nMaikho |\nwn\n°\nWoba a\nJoram s\nTotal No. of\nValid Votes\nNo. of\nRejected\nNOTA\nTotal\nNo. of\nTendered\n",
+      "columns": [
+        "Losii Dikho",
+        "Sanii Alexander Maikho",
+        "Woba Joram"
+      ],
+      "numbers": [
+        29591,
+        279,
+        21078,
+        50948,
+        58,
+        26,
+        51032,
+        2
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 49,
+      "page": 110,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 21052 21601 191 2277. 45121 39 58 45218 0",
+      "header": "Serial No.\nSerial No. of\nPolling Station\n2\nM. Francis s\nNgajokpa j=\n2\na\nS\nN. Kayisii 7\na\nie}\no\n4\nO. Lohrii 3\nri\n<\nRobert Tailu |2\nMaram 2\nTotal No. of\nValid Votes\nNo. of\nRejected Votes\nNOTA\nTotal\nNo. of\nTendered\n",
+      "columns": [
+        "M. Francis Ngajokpa",
+        "N. Kayisii",
+        "O. Lohrii",
+        "Robert Tailu Maram"
+      ],
+      "numbers": [
+        21052,
+        21601,
+        191,
+        2277,
+        45121,
+        39,
+        58,
+        45218,
+        0
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 50,
+      "page": 111,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 14412 1376 9016 24804 116 31525235 3",
+      "header": "Serial No.\n\nSerial No.\n\nOf Polling\n\nStation\n\nNemcha oF\n\nKipgen 4 Q\n\nNgamkhohen > =\n; <<\n\nKipgen 3 <\n\nSoshim 28\n\nGurung\n\nTotal of\n\nValid Votes\n\nNo. Of\n\nRejected Votes\n\nNOTA\n\nTotal\n\nNo. Of\n\nTendered Votes\n",
+      "columns": [
+        "Nemcha Kipgen",
+        "Ngamkhohen Kipgen",
+        "Soshim Gurung"
+      ],
+      "numbers": [
+        14412,
+        1376,
+        9016,
+        24804,
+        116,
+        31525235,
+        3
+      ],
+      "status": "withheld",
+      "reasons": [
+        "column count",
+        "poll total"
+      ]
+    },
+    {
+      "ac": 51,
+      "page": 112,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 7133 6978 9762 164 12456 2924 39417 129 95 39641 0",
+      "header": "Serial No.\n\nSerial No. Of Polling\n\nStation\n2\n\nLamtinthang Haokip $\n<\n2\n\nK Lhouvum =\n<\n2\n\nNgamthang Haokip |®\n°\n\nLJohny Gangmei 2\n>\nz\n\nHaokholet Kipgen 8\n3\n\nTh. Sanglou Maram |\n\nTotal of Valid Votes\n\nNo. Of Rejected Votes\n\nNOTA\n\nTotal\n\nNo. Of Tendered Votes\n",
+      "columns": [
+        "Lamtinthang Haokip",
+        "K Lhouvum",
+        "Ngamthang Haokip",
+        "L Johny Gangmei",
+        "Haokholet Kipgen",
+        "Th. Sanglou Maram"
+      ],
+      "numbers": [
+        7133,
+        6978,
+        9762,
+        164,
+        12456,
+        2924,
+        39417,
+        129,
+        95,
+        39641,
+        0
+      ],
+      "status": "withheld",
+      "reasons": [
+        "header L Johny Gangmei"
+      ]
+    },
+    {
+      "ac": 52,
+      "page": 114,
+      "half": 0,
+      "rawTotal": "Total Votes Polled 19643 17945 397 627 38612 2 32 38646 0",
+      "header": "Serial No.\n\nSerial No. Of\n\nPolling Station\n2\n\nAwangbow s\n\nNewmai <\n2\na\n\nZ. Kikhonbou $\n\nNewmai o\na\n2\n\nGN. Kumuiteung |%\n\n(Dr. Aku) =\n<\n\nWilubou 2\n\nNewmai 2g\n\nTotal of\n\nValid Votes\n\nNo. Of\n\nRejected Votes\n\nNOTA\n\nTotal\n\nNo. Of\n\nTendered Votes\n",
+      "columns": [
+        "Awangbow Newmai",
+        "Z. Kikhonbou Newmai",
+        "GN Kumuiteung (Dr. Aku)",
+        "Wilubou Newmai"
+      ],
+      "numbers": [
+        19643,
+        17945,
+        397,
+        627,
+        38612,
+        2,
+        32,
+        38646,
+        0
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 53,
+      "page": 114,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 9147 10456 4481 6447 30531 107. 122 30760 0",
+      "header": "Serial No.\n\nSerial No. Of\n\nPolling Station\n2\n°\ng\n\nHuri Golmei <\n2\na\n\nJanghemlung |e\n°\n\nPanmei a\na\n2\n\nKhangthuanang |%\n\nPanmei Ee\nz\n<\n°\nc\n5\n\nSamuel Jendai {9\n\nTotal of\n\nValid Votes\n\nNo. Of\n\nRejected Votes\n\nNOTA\n\nTotal\n\nNo. Of\n\nTendered Votes\n",
+      "columns": [
+        "Huri Golmei",
+        "Janghemlung Panmei",
+        "Khangthuanang Panmei",
+        "Samuel Jendai"
+      ],
+      "numbers": [
+        9147,
+        10456,
+        4481,
+        6447,
+        30531,
+        107,
+        122,
+        30760,
+        0
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 54,
+      "page": 115,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 14464 10678 25142 63 59 25264 )",
+      "header": "Serial No.\n\nSerial No. Of\n\nPolling Station\n2\n\n. °\n\nDinganglung 2\n\nGangmei $s\n=\n<\n9\n\nGaikhangam |®\n\nTotal of\n\nValid Votes\n\nNo. Of\n\nRejected Votes\n\nNOTA\n\nTotal\n\nNo. Of\n\nTendered Votes\n",
+      "columns": [
+        "Dinganglung Gangmei",
+        "Gaikhangam"
+      ],
+      "numbers": [
+        14464,
+        10678,
+        25142,
+        63,
+        59,
+        25264
+      ],
+      "status": "withheld",
+      "reasons": [
+        "column count"
+      ]
+    },
+    {
+      "ac": 55,
+      "page": 116,
+      "half": 0,
+      "rawTotal": "Total Votes Polled 5018 1315 6267 12600 10 128 12738 0",
+      "header": "Serial No.\n\nSerial No. Of\n\nPolling Station\n2\n\n. °\n\nDinganglung Q\n\nGangmei $\n=\n<\ng\n\nGaikhangam |®\n\nTotal of\n\nValid Votes\n\nNo. Of\n\nRejected Votes\n\nNOTA\n\nTotal\n\nNo. Of\n\nTendered Votes\n",
+      "columns": [
+        "Chalton Lien Amo",
+        "Thangthatling Sinate",
+        "Ngursanglur Sanate"
+      ],
+      "numbers": [
+        5018,
+        1315,
+        6267,
+        12600,
+        10,
+        128,
+        12738,
+        0
+      ],
+      "status": "withheld",
+      "reasons": [
+        "header Chalton Lien Amo",
+        "header Thangthatling Sinate",
+        "header Ngursanglur Sanate",
+        "header order"
+      ]
+    },
+    {
+      "ac": 56,
+      "page": 116,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 4112 4863 658 71 797 2789 13290 17. 50 13357 0",
+      "header": "Serial No.\n\nSerial No. Of\n\nPolling\n\nStation\n\nKhanthang =\n\nTonsing °\n2g\n\nVungzagin =\n\nValte =\n<\n\nLalhlunsang |2\n\nSungte g\n°\na\n\nThangkhangin >\n—\n\nThangkhosei | 2\n\nGuite 2\n\nLangkhanpau |2%\n\nGuite\n\nTotal of\n\nValid Votes\n\nNo. Of\n\nRejected Votes\n\nNOTA\n\nTotal\n\nNo. Of\n\nTendered Votes\n",
+      "columns": [
+        "Khanthang Tonsing",
+        "Vungzagin Valte",
+        "Lalhlunsang Sungte",
+        "Thangkhangin",
+        "Thangkhosei Guite",
+        "Langkhanpau Guite"
+      ],
+      "numbers": [
+        4112,
+        4863,
+        658,
+        71,
+        797,
+        2789,
+        13290,
+        17,
+        50,
+        13357,
+        0
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 57,
+      "page": 117,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 13897 6049 3824 1097 2605 84 27556 101 40 27697 0",
+      "header": "Serial No.\n\nSerial No. Of Polling\n\nStation\n\nLetzamang Haokip S$\n2\n=\n\nT. Manga Vaiphei =\n<\n2\n\nNehminthang Haokip |\n°\na\n\nGenneikhup 5\n>\n5\n\nT. Thangzalam Haokip | §\ng\n\nSehpu Haokip\n\nTotal of Valid Votes\n\nNo. Of Rejected Votes\n\nNOTA\n\nTotal\n\nNo. Of Tendered Votes\n",
+      "columns": [
+        "Letzamang Haokip",
+        "Mr. T. Manga Vaiphei",
+        "Nehminthang Haokip",
+        "Genneikhup",
+        "T.Thangzalam Haokip",
+        "Sehpu Haokip"
+      ],
+      "numbers": [
+        13897,
+        6049,
+        3824,
+        1097,
+        2605,
+        84,
+        27556,
+        101,
+        40,
+        27697,
+        0
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    },
+    {
+      "ac": 58,
+      "page": 118,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 17607 8482 515 248 18231 170 224447497 264 17447935 2",
+      "header": "Serial No.\n\nSerial No. Of\n\nPolling Station\n\nVHANGKHANLIAN | _\n\nH. MANGCHINKHUP| ©\n\nPAITE <\n2\n=\n\nTh. THANGZALIAN Je\n\nDr. JAINSON 2\n\nHAOKIP D.D. oO\n3\n\nLIM. KHAUTE >\n<\n°\n\nH. LIANCHINTHANG |§\n\nTAMES KHUMA 3%\n\nHAUZEL\n\nTotal of\n\nValid Votes\n\nNo. 0f\n\nRejected Votes\n\nNOTA\n\nTotal\n\nNo. 0f\n\nTendered Votes\n",
+      "columns": [
+        "V HANGKHANLIAN",
+        "H. MANGCHINKHUP PAITE",
+        "Th.THANGZALIAN",
+        "Dr. JAINSON HAOKIP D.D",
+        "L.M. Khaute",
+        "H.LIANCHINTHANG",
+        "James Khuma Hauzel"
+      ],
+      "numbers": [
+        17607,
+        8482,
+        515,
+        248,
+        18231,
+        170,
+        224447497,
+        264,
+        17447935,
+        2
+      ],
+      "status": "withheld",
+      "reasons": [
+        "column count",
+        "candidate sum",
+        "poll total",
+        "header V HANGKHANLIAN",
+        "header James Khuma Hauzel",
+        "winner party"
+      ]
+    },
+    {
+      "ac": 59,
+      "page": 119,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 4796 10250 12586 18457 231 87 78 5169 52404 219 18 5289 0",
+      "header": "Serial No.\nSerial No. Of\nPolling Station\nGeorge T.\nHaokip\nT. N Haokip |&\nKhaipao %\nHaokip 2\n5\nPaolienlal s\nHaokip a\nJOHN H g\nPULAMTE a\nJOSHUA 3\nTHIEK £\nJOHNMK |&\nTHANG\nKarong\nOnkholer\nTotal of\nValid Votes\nNo. Of\nRejected\nNOTA\nTotal\nNo. Of\nTendered\n",
+      "columns": [
+        "George T. Haokip",
+        "T. N Haokip",
+        "Khaipao Haokip",
+        "Paolienlal Haokip",
+        "JOHN H PULAMTE",
+        "JOSHUA THIEK",
+        "JOHN MK THANG",
+        "Karong Onkholer"
+      ],
+      "numbers": [
+        4796,
+        10250,
+        12586,
+        18457,
+        231,
+        87,
+        78,
+        5169,
+        52404,
+        219,
+        18,
+        5289,
+        0
+      ],
+      "status": "withheld",
+      "reasons": [
+        "candidate sum",
+        "poll total",
+        "header order"
+      ]
+    },
+    {
+      "ac": 60,
+      "page": 120,
+      "half": 1,
+      "rawTotal": "Total Votes Polled 10079 267 12098 1031 23475 66 57 23598 0",
+      "header": "Serial No.\n\nSerial No. Of\n\nPolling Station\n2\n°\n°\n\nGinsuanhau Zou |=\n:*)\n\nTuankhan Kiamlo s\n°\n\nHangzo as\nwn\nie)\na\n\nChinlunthang 3\nZ\n<\n°\ns\n\nT. Hangkhanpau |9,\n\nTotal of\n\nValid Votes\n\nNo. Of\n\nRejected Votes\n\nNOTA\n\nTotal\n\nNo. Of\n\nTendered Votes\n",
+      "columns": [
+        "Ginsuanhau Zou",
+        "Tuankhan Kiamlo Hangzo",
+        "CHINLUNTHANG",
+        "T. Hangkhanpau"
+      ],
+      "numbers": [
+        10079,
+        267,
+        12098,
+        1031,
+        23475,
+        66,
+        57,
+        23598,
+        0
+      ],
+      "status": "machine-reconciled",
+      "reasons": []
+    }
+  ]
+}
