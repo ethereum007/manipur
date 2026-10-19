@@ -88,6 +88,6 @@ export default function Elections() {
           </Link>
         </div>
       </section>
-    </>
+    <aside className="research-crosslink"><p className="eyebrow">THE DEEPER RESEARCH</p><Link className="text-link" href="/analysis/party-turnover">Read the detailed study and connected evidence ↗</Link></aside></>
   );
 }

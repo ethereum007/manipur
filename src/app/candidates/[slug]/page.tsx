@@ -1,3 +1,4 @@
+import {CandidacyAnalysis} from '@/components/candidacy-analysis';
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import {
@@ -73,6 +74,7 @@ export default async function Candidate({
           </SourceNote>
         </div>
       </section>
+      <CandidacyAnalysis year={r.year} ac={r.ac} candidate={r.candidate}/>
       <section className="profile-section">
         <h2>
           Public

@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import { FiscalExplorer } from "@/components/fiscal-explorer";
 import { PageIntro } from "@/components/ui";
 import { DevelopmentExplorer } from "@/components/development-explorer";
@@ -12,6 +13,6 @@ export default function Development() {
       />
       <FiscalExplorer />
       <DevelopmentExplorer />
-    </>
+    <aside className="research-crosslink"><p className="eyebrow">THE DEEPER RESEARCH</p><Link className="text-link" href="/analysis/economy">Read the detailed study and connected evidence ↗</Link></aside></>
   );
 }

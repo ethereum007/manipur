@@ -72,7 +72,7 @@ export function SiteHeader() {
         </span>
       </Link>
       <nav aria-label="Main navigation">
-        <Link href="/discover">Discover Manipur</Link>
+        <Link href="/analysis">Research & analysis</Link>
         <Link href="/atlas">Electoral atlas</Link>
         <Link href="/candidates">People & power</Link>
         <Link href="/outlook">The road to 2027</Link>
@@ -93,6 +93,8 @@ export function SiteFooter() {
         <p>An independent, source-led exploration of a changing state.</p>
       </div>
       <div>
+        <Link href="/analysis">Research & analysis</Link>
+        <Link href="/discover">Discover Manipur</Link>
         <Link href="/sources">Sources & methodology</Link>
         <Link href="/constituencies">All 60 constituencies</Link>
         <Link href="/briefing">Five-minute walkthrough ↗</Link>

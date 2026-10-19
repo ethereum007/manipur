@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import { PageIntro } from "@/components/ui";
 import { ScenarioExplorer } from "@/components/scenario-explorer";
 export const metadata = { title: "The road to 2027" };
@@ -37,6 +38,6 @@ export default function Outlook() {
           </p>
         </div>
       </section>
-    </>
+    <aside className="research-crosslink"><p className="eyebrow">THE DEEPER RESEARCH</p><Link className="text-link" href="/analysis/2027-evidence">Read the detailed study and connected evidence ↗</Link></aside></>
   );
 }

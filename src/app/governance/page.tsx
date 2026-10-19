@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import { PageIntro } from "@/components/ui";
 import { GovernanceTimeline } from "@/components/governance-timeline";
 export const metadata = { title: "Conflict & governance" };
@@ -31,6 +32,6 @@ export default function Governance() {
           </p>
         </div>
       </section>
-    </>
+    <aside className="research-crosslink"><p className="eyebrow">THE DEEPER RESEARCH</p><Link className="text-link" href="/analysis/conflict-rehabilitation">Read the detailed study and connected evidence ↗</Link></aside></>
   );
 }

@@ -81,6 +81,6 @@ export default function Discover() {
           </Link>
         </div>
       </section>
-    </>
+    <aside className="research-crosslink"><p className="eyebrow">THE DEEPER RESEARCH</p><Link className="text-link" href="/analysis/geography-institutions">Read the detailed study and connected evidence ↗</Link></aside></>
   );
 }
