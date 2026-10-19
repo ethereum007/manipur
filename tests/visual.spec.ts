@@ -186,3 +186,5 @@ test("executive walkthrough, PDF and fiscal explorer", async ({
     ),
   ).toBeTruthy();
 });
+
+test('custom-domain root routes, brand and assets',async({page},info)=>{const base=process.env.NEXT_PUBLIC_BASE_PATH||'';await page.setViewportSize({width:1440,height:1000});await page.goto(base+'/');await page.evaluate(()=>document.fonts.ready);await expect(page).toHaveTitle(/Mandate Terrain/);await expect(page.locator('.wordmark')).toContainText('MANIPUR ANALYSIS');await expect(page.locator('.hero-subtitle')).toHaveText('Manipur Analysis');await expect(page.locator('.hero-map svg')).toBeVisible();await page.screenshot({path:info.outputPath('mandate-terrain-preview.png'),fullPage:false});for(const path of ['/fonts/sans.woff2','/fonts/serif.woff2','/data/manipur.json','/robots.txt','/sitemap.xml']){const response=await page.request.get(base+path);expect(response.status(),path).toBe(200);}await page.getByRole('link',{name:'Explore the electoral atlas'}).click();await expect(page.locator('h1')).toContainText('Sixty constituencies');});
