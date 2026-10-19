@@ -1,11 +1,10 @@
 {
   "year": 2017,
-  "publishedContests": 57,
-  "candidacies": 253,
+  "publishedContests": 58,
+  "candidacies": 257,
   "winnerRegister": 60,
   "missingContests": [
     7,
-    10,
     21
   ],
   "issues": [
