@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "assembly-2012",
+    "publisher": "Chief Electoral Officer, Manipur",
+    "title": "State Legislative Assembly · 2012",
+    "url": "https://ceomanipur.nic.in/StatisticalReport/AssemblyElection/statistical_report_2012.pdf",
+    "accessed": "2026-10-19"
+  },
+  {
+    "id": "assembly-2017",
+    "publisher": "Chief Electoral Officer, Manipur",
+    "title": "State Legislative Assembly · 2017",
+    "url": "https://ceomanipur.nic.in/StatisticalReport/AssemblyElection/statistical_report_2017.pdf",
+    "accessed": "2026-10-19"
+  },
+  {
+    "id": "assembly-2022",
+    "publisher": "Chief Electoral Officer, Manipur",
+    "title": "State Legislative Assembly · 2022",
+    "url": "https://ceomanipur.nic.in/StatisticalReport/AssemblyElection/Statistical%20Report%202022.pdf",
+    "accessed": "2026-10-19"
+  },
+  {
+    "id": "parliament-2024",
+    "publisher": "Chief Electoral Officer, Manipur",
+    "title": "Lok Sabha election · 2024",
+    "url": "https://ceomanipur.nic.in/StatisticalReport/LokSabhaElection/SR_lok_Sabha_2024.pdf",
+    "accessed": "2026-10-19"
+  }
+]
