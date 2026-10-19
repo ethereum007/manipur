@@ -130,7 +130,7 @@ export default function Sources() {
             Sans 3 and Libre Caslon Display, SIL Open Font License.
           </p>
           <p>
-            Governance coverage through 9 March 2026; later events not indexed.
+            Selected governance records through 5 October 2026; subsequent events not indexed.
             Economic and Census indicators are dated observations. No opinion
             polling or numerical forecasts are included.
           </p>

@@ -1,6 +1,6 @@
 {
   "accessed": "2026-10-19",
-  "coverageThrough": "2026-03-09",
+  "coverageThrough": "2026-10-05",
   "sources": [
     {
       "id": "state-geography",
@@ -92,6 +92,27 @@
       "title": "Budget at a Glance · 2026–27",
       "url": "https://manipur.gov.in/wp-content/uploads/2026/03/Budget-At-A-Glance-2026-27.pdf",
       "reference": "March 2026; state fiscal actuals, budget estimates and revised estimates"
+    },
+    {
+      "id": "union-meeting-2026",
+      "publisher": "Akashvani · Prasar Bharati",
+      "title": "State issues discussed with Union ministers",
+      "url": "https://newsonair.gov.in/manipur-cm-yumnam-khemchand-singh-meets-hm-amit-shah-and-union-minister-kiren-rijiju-to-discuss-state-issues/",
+      "reference": "2026-08-26; dated public broadcaster report"
+    },
+    {
+      "id": "census-deferral-2026",
+      "publisher": "Akashvani · Prasar Bharati",
+      "title": "Census deferral reported",
+      "url": "https://newsonair.gov.in/union-government-postpones-census-operations-in-manipur/",
+      "reference": "2026-08-31; dated public broadcaster report"
+    },
+    {
+      "id": "labour-assistance-2026",
+      "publisher": "Akashvani · Prasar Bharati",
+      "title": "Labour welfare assistance distribution reported",
+      "url": "https://newsonair.gov.in/manipur-cm-yumnam-khemchand-singh-distributes-over-%E2%82%B92-crore-in-benefits-to-labour-card-holders/",
+      "reference": "2026-10-05; dated public broadcaster report"
     }
   ],
   "geography": [
@@ -179,6 +200,33 @@
       "source": "budget-2026",
       "classification": "Primary budget document",
       "status": "Verified document"
+    },
+    {
+      "date": "2026-08-26",
+      "location": "New Delhi",
+      "title": "State issues discussed with Union ministers",
+      "text": "Akashvani reported meetings between Chief Minister Yumnam Khemchand Singh, Union Home Minister Amit Shah and Union Minister Kiren Rijiju. Proposed visits and project announcements in that report are not treated here as completed delivery.",
+      "source": "union-meeting-2026",
+      "classification": "Public broadcaster report",
+      "status": "Verified dated report; claims attributed"
+    },
+    {
+      "date": "2026-08-31",
+      "location": "Manipur / New Delhi",
+      "title": "Census deferral reported",
+      "text": "Akashvani reported a Union government decision to defer Census operations following a review meeting. A primary judicial order and subsequent proceedings have not been indexed; this dated report does not establish the current legal position.",
+      "source": "census-deferral-2026",
+      "classification": "Public broadcaster report",
+      "status": "Verified dated report; claims attributed"
+    },
+    {
+      "date": "2026-10-05",
+      "location": "Imphal",
+      "title": "Labour welfare assistance distribution reported",
+      "text": "Akashvani reported distribution of assistance to labour card holders, including support for education of children in relief camps. The report also relays government statements on rehabilitation; it does not independently establish the extent of return, recovery or scheme outcomes.",
+      "source": "labour-assistance-2026",
+      "classification": "Public broadcaster report",
+      "status": "Verified dated report; claims attributed"
     }
   ],
   "indicators": [

@@ -43,6 +43,8 @@ jobs:
       - run: npm run build
       - run: npx playwright install --with-deps chromium
       - run: npm run test:e2e
+      - run: pip install pymupdf
+      - run: python scripts/verify-briefing.py
       - uses: actions/upload-artifact@v4
         if: always()
         with:
@@ -50,6 +52,8 @@ jobs:
           path: |
             test-results
             playwright-report
+            document-review
+            out/data/executive-brief.pdf
             data/processed/data-quality.json
           retention-days: 7
       - uses: actions/configure-pages@v5
