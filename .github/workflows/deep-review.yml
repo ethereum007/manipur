@@ -1,0 +1,30 @@
+name: Review and archive digital Form 20 sources
+on:
+  workflow_dispatch:
+permissions:
+  actions: read
+  contents: write
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: deep-primary-pdfs
+          run-id: 39259845987
+          github-token: ${{ github.token }}
+          path: work-deep-review/raw
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install pymupdf
+      - run: python scripts/ingest/review-digital.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: digital-form20-visual-review
+          path: work-deep-review/images
+          retention-days: 7
+      - run: gh release upload primary-sources-2026-10-19 work-deep-review/official-form20-2012-2017-2022-2024.zip --clobber
+        env:
+          GH_TOKEN: ${{ github.token }}
