@@ -188,3 +188,35 @@ test("executive walkthrough, PDF and fiscal explorer", async ({
 });
 
 test('custom-domain root routes, brand and assets',async({page},info)=>{const base=process.env.NEXT_PUBLIC_BASE_PATH||'';await page.setViewportSize({width:1440,height:1000});await page.goto(base+'/');await page.evaluate(()=>document.fonts.ready);await expect(page).toHaveTitle(/Mandate Terrain/);await expect(page.locator('.wordmark')).toContainText('MANIPUR ANALYSIS');await expect(page.locator('.hero-subtitle')).toHaveText('Manipur Analysis');await expect(page.locator('.hero-map svg')).toBeVisible();await page.screenshot({path:info.outputPath('mandate-terrain-preview.png'),fullPage:false});for(const path of ['/fonts/sans.woff2','/fonts/serif.woff2','/data/manipur.json','/robots.txt','/sitemap.xml']){const response=await page.request.get(base+path);expect(response.status(),path).toBe(200);}await page.getByRole('link',{name:'Explore the electoral atlas'}).click();await expect(page.locator('h1')).toContainText('Sixty constituencies');});
+
+test('research desk, election lab, source studies and seat notes',async({page},info)=>{
+ const base=process.env.NEXT_PUBLIC_BASE_PATH||'';
+ const errors:string[]=[];page.on('pageerror',e=>errors.push(e.message));
+ await page.setViewportSize({width:1440,height:1000});
+ await page.goto(base+'/analysis/');
+ await expect(page.locator('.research-index-row')).toHaveCount(10);
+ await page.screenshot({path:info.outputPath('research-desktop.png'),fullPage:true});
+ const studies=await page.locator('.research-index-row').evaluateAll(links=>links.map(a=>a.getAttribute('href')!));
+ for(const href of studies){await page.goto(href);await expect(page.locator('.dossier-body>section')).toHaveCount(6);await expect(page.locator('.dossier-references li')).not.toHaveCount(0);expect(await page.locator('.dossier-body').innerText()).toContain('Read the sources.');}
+ await page.goto(base+'/analysis/public-finances/');await page.evaluate(()=>document.fonts.ready);
+ await page.screenshot({path:info.outputPath('fiscal-study-desktop.png'),fullPage:true});
+ await page.setViewportSize({width:390,height:844});
+ await page.screenshot({path:info.outputPath('fiscal-study-mobile.png'),fullPage:true});
+ expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();
+ await page.goto(base+'/analysis/elections/');
+ await expect(page.locator('.analysis-stat-grid').first()).toContainText('34');
+ await page.getByLabel('Party to examine').selectOption('NPP');
+ await expect(page.locator('.analysis-verdict')).toContainText('retained 1, gained 6');
+ await page.getByLabel('Election before').selectOption('2012');
+ await expect(page.locator('.analysis-stat-grid').first()).toContainText('53');
+ const downloaded=page.waitForEvent('download');await page.getByRole('button',{name:/CSV/}).click();expect((await downloaded).suggestedFilename()).toContain('2022');
+ await page.screenshot({path:info.outputPath('election-lab-mobile.png'),fullPage:true});
+ expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();
+ await page.setViewportSize({width:1440,height:1000});
+ await page.screenshot({path:info.outputPath('election-lab-desktop.png'),fullPage:true});
+ await page.goto(base+'/constituencies/heingang/');
+ await expect(page.locator('.deep-constituency')).toContainText('18,271');
+ await expect(page.locator('.party-history-track>div')).toHaveCount(3);
+ await page.screenshot({path:info.outputPath('constituency-study-desktop.png'),fullPage:true});
+ expect(errors).toEqual([]);
+});
