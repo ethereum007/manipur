@@ -37,6 +37,10 @@ Read SOURCES.md, DATA_DICTIONARY.md, LIMITATIONS.md and PROGRESS.md before inter
 
 ## Verified coverage
 
-180 election-day Assembly winners (60 each in 2012/2017/2022); 58 complete 2017 candidate contests; reviewed 2022 Heingang votes; all 265 official 2022 candidacies with affidavit links; all ten 2024 parliamentary candidates. Remaining candidate votes, disclosures, 2024 segment accounting and turnout are explicitly incomplete. See PROGRESS.md for outstanding research.
+180 election-day Assembly winners (60 each in 2012/2017/2022); 58 complete 2017 candidate contests; 37 complete 2022 contests; reviewed 2012 Heingang votes; all 265 official 2022 candidacies with affidavit links; all ten 2024 parliamentary candidates. Remaining candidate votes, disclosures, 2024 segment accounting and turnout are explicitly incomplete. See PROGRESS.md for outstanding research.
 
 Reproduce the 2022 candidate index with `node scripts/ingest/index-candidates-2022.mjs` in a GitHub runner after source acquisition. This checks all 60 constituencies, 265 unique records, party labels and affidavit AC numbers, and retains reviewed vote totals.
+
+## Executive meeting edition
+
+Open `/briefing/` for the five-minute walkthrough, presenter notes and a five-page PDF handout. `/presentation/` retains the full 15-slide research briefing. `/development/` includes the official 2026–27 fiscal explorer. Source acceptance distinguishes original-image review from machine-reconciled OCR; both retain provenance. Domain setup is documented in docs/architecture/DOMAIN.md.
