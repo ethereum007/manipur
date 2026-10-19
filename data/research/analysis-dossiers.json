@@ -1,0 +1,687 @@
+[
+  {
+    "slug": "party-turnover",
+    "topic": "ELECTORAL STRUCTURE",
+    "title": "The majority conceals the movement.",
+    "deck": "How gross seat gains, losses and retention tell a different story from the final scoreboard.",
+    "finding": "Between 2017 and 2022, 34 of 60 constituencies elected a different winning party. BJP’s net gain of 11 seats combined 16 gains with five losses.",
+    "sections": [
+      {
+        "title": "Start with the same sixty constituencies",
+        "paragraphs": [
+          "The useful unit for this comparison is a constituency observed at two elections. Pairing the 2017 and 2022 winner registers by Assembly constituency number produces 60 matched observations. In 26, the winning party remained the same; in 34, it changed. This is complete winner coverage, independently of the incomplete candidate-vote series.",
+          "A transition records the party of the election-day winner at each endpoint. It does not record a legislator’s subsequent affiliation, a by-election, or the composition of the government on a later date. Those are different time series and need their own dated evidence."
+        ]
+      },
+      {
+        "title": "Why net change understates churn",
+        "paragraphs": [
+          "BJP won 21 seats in 2017 and 32 in 2022. Sixteen of its earlier seats were retained. Sixteen constituencies previously won by another party moved into its winning column; five moved out. The arithmetic is 21 + 16 − 5 = 32. A net gain of 11 therefore conceals 21 constituency-level changes involving BJP.",
+          "Of its 16 gains, 12 had elected INC in 2017, two NPP, one LJP and one AITC. Its five losses went to NPP in four constituencies and JD(U) in one. These are changes in winning party, not measured transfers of voters."
+        ]
+      },
+      {
+        "title": "Smaller totals can hide larger replacement",
+        "paragraphs": [
+          "NPP moved from four seats to seven, retaining one, gaining six and losing three. The final total can look like an incremental expansion even though most of its earlier winning constituencies were replaced. NPF moved from four to five while retaining all four earlier seats: a substantially different pattern beneath a smaller net change.",
+          "INC moved from 28 seats to five and retained five of its earlier constituencies. JD(U)’s six winning constituencies in 2022 had elected INC in four cases, BJP in one and an independent in one. KPA’s two had elected INC. The interactive matrix lets readers inspect each of these pairs."
+        ]
+      },
+      {
+        "title": "The longer horizon changes the question",
+        "paragraphs": [
+          "Comparing 2012 with 2017 yields 37 winning-party changes; comparing 2012 directly with 2022 yields 53. Endpoint change is not the same as the number of intervening changes. A constituency can change party in 2017 and return to its earlier party in 2022.",
+          "For this reason the constituency reports show all three observations. Party-level continuity should also be separated from candidate continuity. The same individual can contest for different parties; different individuals can win for the same party. A personal career requires reviewed identity links."
+        ]
+      },
+      {
+        "title": "What this can and cannot explain",
+        "paragraphs": [
+          "The transition matrix establishes where the winning party changed and distinguishes expansion from replacement. It is a descriptive foundation for further research into candidate entry, alliances, incumbency and local conditions. It cannot determine which factor caused a result.",
+          "Explaining a constituency requires contemporaneous records, candidate histories and credible local reporting. An aggregate party transition cannot reveal the preferences, motives or community identity of individual electors. No future seat rating follows automatically from a historical transition."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "CEO Manipur · Assembly election reports",
+        "url": "https://ceomanipur.nic.in/StatisticalReports",
+        "locator": "2012, 2017 and 2022 winner registers; constituency Form 20 tables"
+      },
+      {
+        "title": "Published data and verification log",
+        "url": "https://github.com/ethereum007/manipur/tree/main/data/processed",
+        "locator": "winners.json and results.json; verification metadata"
+      }
+    ],
+    "related": [
+      "/analysis/elections",
+      "/constituencies",
+      "/elections"
+    ],
+    "reviewed": "19 October 2026"
+  },
+  {
+    "slug": "competition",
+    "topic": "ELECTION METHODS",
+    "title": "A narrow margin is only the beginning.",
+    "deck": "Winning shares, fragmented fields and matched samples provide a more careful reading of electoral competition.",
+    "finding": "The published 2022 sample contains 37 reconciled contests. Nineteen have margins below five percentage points of candidate votes; this is a sample description, not a statewide estimate.",
+    "sections": [
+      {
+        "title": "Define the denominator before the headline",
+        "paragraphs": [
+          "A vote margin is the winner’s votes minus the runner-up’s votes. The margin percentage used here divides that difference by the sum of all candidate votes in the constituency. NOTA and rejected ballots are excluded. A margin of five percentage points on this basis is neither five percent of registered electors nor a turnout figure.",
+          "The site publishes numerical competition metrics only where the candidate list and totals reconcile. Winner-register coverage is complete for all 60 constituencies in each Assembly election, but full candidate totals currently cover one contest in 2012, 58 in 2017 and 37 in 2022. The different coverages must not be mistaken for equally complete statewide samples."
+        ]
+      },
+      {
+        "title": "The winner and the shape of the field",
+        "paragraphs": [
+          "In the published 2022 sample, 22 of 37 winners did not exceed half of candidate votes. A plurality election permits this. It does not establish that all other voters preferred a common alternative, or that an alliance of losing candidates would have combined their votes.",
+          "Top-two concentration measures how much of the candidate vote went to the two leading candidates. The effective-candidate count is one divided by the sum of squared candidate shares. Four equally supported candidates produce a value of four; a dominant candidate and several tiny candidacies produce a much smaller value than the raw field size."
+        ]
+      },
+      {
+        "title": "Read the closest observations precisely",
+        "paragraphs": [
+          "Lamlai’s reconciled 2022 contest had a margin of 121 votes, about 0.42 percentage points of candidate votes. Keishamthong’s margin was 187 votes, about 0.74 percentage points. These are the closest observations within the current published sample, not certified rankings across all sixty constituencies.",
+          "The election lab can sort by margin or effective-candidate count. Every row links to the constituency report, where the full candidate table and source locator can be checked. Sorting by a measure changes the analytical question: closeness and fragmentation describe different aspects of competition."
+        ]
+      },
+      {
+        "title": "Compare the same places across time",
+        "paragraphs": [
+          "Comparing a median from 58 constituencies in 2017 with a median from 37 in 2022 changes both year and sample composition. The matched-sample section first intersects the constituencies available in both selected years, then compares those same constituencies.",
+          "Even this comparison remains descriptive. A changing margin can reflect a different winning party, a different runner-up, candidate withdrawal, alliances, participation or a broader political change. A smaller historical margin is not a calibrated probability of a future change in representation."
+        ]
+      },
+      {
+        "title": "A reproducible reading protocol",
+        "paragraphs": [
+          "Begin with coverage, inspect the candidate list, identify the denominator, compare matched observations, and read the constituency’s party sequence alongside its vote shares. Downloaded CSV rows contain the same measures shown in the table.",
+          "Two 2017 contests remain withheld because of unresolved accounting discrepancies. Withholding a numerical comparison while retaining a separately verified winner is more informative than silently treating an unreconciled total as certain. The source register distinguishes machine reconciliation from visual review."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "CEO Manipur · Assembly election reports",
+        "url": "https://ceomanipur.nic.in/StatisticalReports",
+        "locator": "2012, 2017 and 2022 winner registers; constituency Form 20 tables"
+      },
+      {
+        "title": "Published data and verification log",
+        "url": "https://github.com/ethereum007/manipur/tree/main/data/processed",
+        "locator": "winners.json and results.json; verification metadata"
+      }
+    ],
+    "related": [
+      "/analysis/elections",
+      "/atlas",
+      "/sources"
+    ],
+    "reviewed": "19 October 2026"
+  },
+  {
+    "slug": "candidate-records",
+    "topic": "PEOPLE & ACCOUNTABILITY",
+    "title": "A candidacy is not a complete biography.",
+    "deck": "How to read election performance, career continuity and public disclosures without turning missing information into certainty.",
+    "finding": "Nongthombam Biren Singh’s reviewed Heingang record illustrates why changing party, candidate field and disclosure date must be read together.",
+    "sections": [
+      {
+        "title": "Separate the person, the candidacy and the office",
+        "paragraphs": [
+          "An election entry identifies a candidate, party, constituency and year. Linking two entries to the same person requires additional evidence. Initials, transliteration and similar names can create false matches, while a party switch can make a genuine continuous career look like a new entry.",
+          "The general directory therefore keeps records scoped to their election. It links official affidavits where indexed, but does not automatically merge people across years. A winner in an old election is not automatically described as a current MLA, minister or candidate for the next election."
+        ]
+      },
+      {
+        "title": "The reviewed Heingang example",
+        "paragraphs": [
+          "The reviewed profile links Biren Singh’s electoral career from DRPP in 2002 to INC in 2007 and 2012, then BJP in 2017 and 2022. This is personal continuity across changing party labels. A party-transition table alone cannot show that distinction.",
+          "In 2012 he received 11,872 votes and led the runner-up by 2,082. In 2017 the corresponding figures were 10,439 and 1,206. In 2022 he received 24,814 and led by 18,271. These results establish the recorded performance; they do not isolate the effect of personal popularity, party label or officeholding."
+        ]
+      },
+      {
+        "title": "Why the field matters",
+        "paragraphs": [
+          "The reconciled Heingang tables contain five candidates in 2012, six in 2017 and two in 2022. A two-candidate contest distributes the candidate vote differently from a fragmented field. Rising vote share and a larger margin should be examined alongside that change in competition.",
+          "Total candidate votes also differ between elections. Comparing raw votes alone combines changes in support with changes in the number of votes available. Share, margin and field structure provide complementary descriptions, but none measures the preferences of non-voters or the reasons people voted."
+        ]
+      },
+      {
+        "title": "A disclosure is a dated declaration",
+        "paragraphs": [
+          "The reviewed 2022 disclosure summary records assets of ₹1,47,48,361, liabilities of ₹1,44,300, graduate education and no criminal cases declared in that nomination summary. These are dated candidate disclosures reported by ADR/MyNeta, not a current wealth valuation or an independent certification of the absence of proceedings.",
+          "Assets may cover the candidate, spouse and dependants according to the affidavit’s structure. Different years must be checked on the same scope before calculating changes. The site withholds conflicting older financial figures rather than presenting an apparent trend that may arise from transcription or scope differences."
+        ]
+      },
+      {
+        "title": "What meaningful accountability needs next",
+        "paragraphs": [
+          "An electoral career timeline should be complemented by dated officeholding, legislative questions, committee roles, attendance where officially published, and audited public-work records. A person’s wealth and a constituency’s development are different subjects; neither can substitute for evidence about the other.",
+          "Missing affidavit transcription remains explicitly missing for the general directory. It is not zero assets, no liabilities, no proceedings or an absence of qualifications. The research status of each field matters as much as the presence of a polished profile page."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "CEO Manipur · Assembly election reports",
+        "url": "https://ceomanipur.nic.in/StatisticalReports",
+        "locator": "2012, 2017 and 2022 winner registers; constituency Form 20 tables"
+      },
+      {
+        "title": "Published data and verification log",
+        "url": "https://github.com/ethereum007/manipur/tree/main/data/processed",
+        "locator": "winners.json and results.json; verification metadata"
+      },
+      {
+        "title": "Reviewed candidate profile and disclosure sources",
+        "url": "/candidates/nongthombam-biren-singh/",
+        "locator": "Career references, official election pages and ADR/MyNeta 2022 summary"
+      }
+    ],
+    "related": [
+      "/candidates/nongthombam-biren-singh",
+      "/candidates",
+      "/analysis/competition"
+    ],
+    "reviewed": "19 October 2026"
+  },
+  {
+    "slug": "public-finances",
+    "topic": "PUBLIC MONEY",
+    "title": "The fiscal room behind the promises.",
+    "deck": "Revenue dependence, expenditure commitments and audit findings explain why an allocation is only the start of a delivery story.",
+    "finding": "Central taxes and grants account for about 87.5% of budgeted 2026–27 revenue receipts. The budget is a plan; audited expenditure and verified outcomes answer different questions.",
+    "sections": [
+      {
+        "title": "Where the revenue is expected to come from",
+        "paragraphs": [
+          "The 2026–27 Budget at a Glance estimates revenue receipts of ₹23,102.44 crore. The share of central taxes is ₹9,554.36 crore and central grants ₹10,660.66 crore. Adding those two categories and dividing by revenue receipts gives approximately 87.5%. This calculation describes the revenue composition in the budget estimate.",
+          "Own tax revenue of ₹2,437.42 crore and own non-tax revenue of ₹450 crore make up the remaining categories. Transfer dependence makes the timing and conditions of central resources relevant to fiscal planning. It does not, by itself, establish the effectiveness or fairness of individual expenditure decisions."
+        ]
+      },
+      {
+        "title": "A planned allocation is not a completed project",
+        "paragraphs": [
+          "Capital outlay is budgeted at ₹4,716.32 crore for 2026–27, compared with the 2025–26 revised estimate of ₹4,761.22 crore: about 0.94% lower in nominal terms. This is a comparison between two estimates, not evidence that completed investment fell by that amount. Capital outlay is also narrower than total capital expenditure, which includes other transactions.",
+          "The fiscal explorer separates actuals, budget estimates and revised estimates. Comparing them without retaining those labels can manufacture a delivery claim. For a road, school or rehabilitation project, the next evidence should connect the demand for grants to sanction, release, expenditure, completion and functioning service."
+        ]
+      },
+      {
+        "title": "What an audit adds",
+        "paragraphs": [
+          "The CAG State Finances Audit Report for 2023–24 records committed and inflexible expenditure of ₹9,965.59 crore, 72.10% of revenue expenditure. That historical composition helps explain limits on discretionary spending; it should not be presented as the current year’s measured position.",
+          "The same report identifies 6,599 outstanding utilisation certificates involving ₹15,086.85 crore as at 31 March 2024. An outstanding certificate means the required accounting evidence was pending in the audit’s stated scope. It is not a finding that every rupee was stolen, nor a current balance after subsequent submissions. Follow-up action and later accounts matter."
+        ]
+      },
+      {
+        "title": "Targets have assumptions",
+        "paragraphs": [
+          "The 2026–27 FRBM statement projects outstanding debt at 39.14% of GSDP for 2026–27, then 37.60% and 35.80% in the following two years. These are targets or projections, not realised debt ratios. The document also assumes GSDP growth of 20% in 2027–28 and 26% in 2028–29.",
+          "Debt-to-GSDP can improve because debt grows more slowly, because the denominator grows faster, or both. A reader should inspect the growth assumptions alongside the ratio. Different GSDP vintages should not be mixed between fiscal publications and later economic revisions."
+        ]
+      },
+      {
+        "title": "The accountability chain",
+        "paragraphs": [
+          "A serious constituency assessment asks which agency controlled an allocation, when funds were released, what was procured, whether work was completed, and whether residents can use the service. Aggregate state expenditure cannot identify a constituency’s allocation or demonstrate an individual officeholder’s responsibility.",
+          "The practical research task is a project register with dated documents and stable identifiers. The current site has aggregate fiscal evidence and an audit baseline. It does not claim to have verified the delivery of every public project or the latest settlement of every audit observation."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Budget at a Glance 2026–27",
+        "url": "https://manipur.gov.in/wp-content/uploads/2026/03/Budget-At-A-Glance-2026-27.pdf#page=3",
+        "locator": "PDF p.3, printed p.1; actual / BE / RE columns"
+      },
+      {
+        "title": "CAG State Finances Audit Report 2023–24",
+        "url": "https://assembly.mn.gov.in/user/pages/files/business/papers-laid/Report%20No.%201%20of%202025_SFAR%202023-24_Manipur%20(06-05-2025).pdf#page=13",
+        "locator": "Executive summary, PDF pp.13 and 17; period ending 31 March 2024"
+      },
+      {
+        "title": "FRBM statement 2026–27",
+        "url": "https://assembly.mn.gov.in/user/pages/files/business/papers-laid/FRBM%202026-27.pdf#page=3",
+        "locator": "PDF pp.3–4, printed pp.1–2; targets and growth assumptions"
+      }
+    ],
+    "related": [
+      "/development",
+      "/governance",
+      "/analysis/economy"
+    ],
+    "reviewed": "19 October 2026"
+  },
+  {
+    "slug": "economy",
+    "topic": "LIVELIHOODS & DEVELOPMENT",
+    "title": "Growth is not the same as recovery.",
+    "deck": "A revised state-income series gives context, while household wellbeing and local service access need their own evidence.",
+    "finding": "The 2024–25 Economic Survey estimates nominal GSDP at ₹50,309 crore and constant-price growth at 10.4%. Neither measure establishes how recovery was distributed.",
+    "sections": [
+      {
+        "title": "Two prices, two different questions",
+        "paragraphs": [
+          "The Economic Survey 2024–25 reports GSDP of ₹50,309 crore at current prices for 2024–25, a provisional estimate, against ₹43,425 crore for 2023–24, a first revised estimate. Its reported nominal growth is 15.9%. Current-price growth combines changes in production with changes in prices.",
+          "At constant prices the survey estimates ₹25,241 crore in 2024–25, with growth of 10.4%. That series is intended to remove price change using its base-year framework. The nominal and constant-price growth rates answer different questions; neither should be substituted for a household-income survey."
+        ]
+      },
+      {
+        "title": "Revisions are part of the evidence",
+        "paragraphs": [
+          "The survey’s 2023–24 nominal estimate differs from the GSDP figure in the older 2023–24 CAG fiscal report. These publications were produced at different times and use different estimate vintages. A fiscal ratio calculated from one vintage cannot simply be combined with the denominator from another without reconciliation.",
+          "The site retains the source, reference period and estimate status for each figure. An older number is not silently overwritten within a historical audit claim. For a consistent trend, the reader should use the revised series published together in the same statistical release."
+        ]
+      },
+      {
+        "title": "The structure of output is not the structure of employment",
+        "paragraphs": [
+          "The survey’s current-price GSVA chart assigns 71% to the tertiary sector in 2024–25, compared with 18.5% primary and 10.4% secondary; rounding explains the small difference from 100. Output shares show the composition of measured value added. They do not say that the same shares of people work in each sector.",
+          "A large services share can include very different activities. To assess livelihoods, it must be combined with employment, earnings, hours worked, business continuity and sector-specific evidence. A state aggregate can rise while particular locations or occupations remain under strain."
+        ]
+      },
+      {
+        "title": "Average income has a distribution problem",
+        "paragraphs": [
+          "The survey estimates per capita income at current prices of ₹1,38,535 for 2024–25. Per capita income is an aggregate average, not a median household income or a typical wage. It does not describe the spread of income, household size, wealth, debt or the extra costs faced by displaced families.",
+          "The relevant test of recovery therefore extends beyond output: whether people can return to work, reach markets and schools, obtain healthcare and sustain consumption. These conditions need dated observations at an appropriate local scale, not an inference from a statewide average."
+        ]
+      },
+      {
+        "title": "Services require functioning access",
+        "paragraphs": [
+          "The survey includes historical population and service statistics with different reference years. A 2011 Census literacy measure and a later administrative programme count are not a single current wellbeing dashboard. Old district boundaries also complicate direct comparisons with the present sixteen-district administration.",
+          "For education, distinguish enrolment from attendance, retention and learning. For health, distinguish facilities and sanctioned posts from staffing, medicines, referrals and travel access. For water and roads, distinguish installed assets from reliable use. The site’s development chapter supplies the aggregate baseline; verified current local outcomes remain a separate research programme."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Economic Survey Manipur 2024–25",
+        "url": "https://assembly.mn.gov.in/user/pages/files/business/papers-laid/Economic%20Survey%20Manipur%2C%202024-25%20Directorate%20of%20Economics%20%26%20Statistics.pdf#page=55",
+        "locator": "PDF pp.55, 57–59; printed pp.45, 47–49; GSDP, GSVA and per capita income"
+      },
+      {
+        "title": "Earlier fiscal estimate vintage",
+        "url": "https://assembly.mn.gov.in/user/pages/files/business/papers-laid/Report%20No.%201%20of%202025_SFAR%202023-24_Manipur%20(06-05-2025).pdf#page=12",
+        "locator": "PDF p.12; 2023–24 audit executive summary"
+      },
+      {
+        "title": "Official Assembly papers laid",
+        "url": "https://assembly.mn.gov.in/business/papers-laid",
+        "locator": "Economic Survey 2024–25 listed as laid on 10 March 2026"
+      }
+    ],
+    "related": [
+      "/development",
+      "/analysis/public-finances",
+      "/analysis/geography-institutions"
+    ],
+    "reviewed": "19 October 2026"
+  },
+  {
+    "slug": "geography-institutions",
+    "topic": "LAND & REPRESENTATION",
+    "title": "Several maps govern the same state.",
+    "deck": "District administration, Assembly constituencies, hill-area institutions and reservation categories must be understood separately.",
+    "finding": "Sixty Assembly constituencies and sixteen present-day districts are different administrative layers. Historical district names in the map source do not supply a current crosswalk.",
+    "sections": [
+      {
+        "title": "The map needs a date as well as a legend",
+        "paragraphs": [
+          "The atlas uses reference geometry from DataMeet and joins election records using constituency identifiers. The publisher cautions about its boundary vintage and positional accuracy. The shapes support exploratory reading, but are not certified present-day legal boundaries or a survey of land rights.",
+          "The current official district directory lists sixteen districts. Several statistical sources and the map attributes use an older district configuration. Assigning a modern district simply from an old label would create a false match. A defensible crosswalk needs official boundary records, dates and spatial checks."
+        ]
+      },
+      {
+        "title": "Reservation is an electoral category",
+        "paragraphs": [
+          "The sixty-constituency register contains forty general seats, nineteen Scheduled Tribe seats and one Scheduled Caste seat. This describes constituency reservation in the electoral register. It is not a measurement of the community composition of every resident or an instruction about how residents vote.",
+          "A constituency label cannot establish the identity, political preference or experience of an individual. Nor does a hill or valley location determine a single political interest. The atlas keeps these distinctions visible because the visual strength of a map can otherwise imply more certainty than its data support."
+        ]
+      },
+      {
+        "title": "Article 371C has a specific institutional role",
+        "paragraphs": [
+          "Article 371C permits a Presidential order providing for a committee of Assembly members elected from the Hill Areas, related procedural arrangements and the Governor’s special responsibility. It also provides for reporting to the President and Union directions concerning administration of those areas. Hill Areas are defined by Presidential order for this purpose.",
+          "This constitutional provision should be read alongside the applicable orders and rules before assessing a particular decision. It cannot be reduced to a generic district label or treated as identical to constituency reservation."
+        ]
+      },
+      {
+        "title": "Councils and the Assembly are distinct",
+        "paragraphs": [
+          "The Manipur (Hill Areas) District Councils Act, 1971 establishes a separate statutory framework. District councils, the Assembly’s Hill Areas Committee, state departments and district administration occupy different institutional positions. The original statute alone is not enough to assert every present membership rule or power after amendments.",
+          "A public-service question should identify the responsible institution and the legal or administrative basis of that responsibility. Attributing every outcome within a constituency to its MLA skips the roles of departments, local bodies, funding agencies and implementing authorities."
+        ]
+      },
+      {
+        "title": "How geography becomes useful analysis",
+        "paragraphs": [
+          "Travel time, route reliability, terrain and the location of functioning services are more informative for access than a district average or straight-line distance alone. They require current route and facility records. The terrain illustration on the homepage is physical context, not an accessibility model.",
+          "A stronger spatial research layer would publish dated facilities, verified operating status and official boundary versions with documented joins. Until then, the site avoids invented district-to-constituency statistics and does not estimate community composition from geography."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Current official district directory",
+        "url": "https://manipur.s3waas.gov.in/",
+        "locator": "Sixteen district administrations"
+      },
+      {
+        "title": "Article 371C · North Eastern Council",
+        "url": "https://necouncil.gov.in/sites/default/files/uploadfiles/371C.pdf",
+        "locator": "Constitutional text, one page"
+      },
+      {
+        "title": "Manipur (Hill Areas) District Councils Act, 1971",
+        "url": "https://www.indiacode.nic.in/bitstream/123456789/1600/1/197176.pdf",
+        "locator": "Original statute; amendments need separate checking"
+      },
+      {
+        "title": "DataMeet Assembly constituency reference boundaries",
+        "url": "https://github.com/datameet/maps/tree/master/assembly-constituencies",
+        "locator": "Publisher boundary and accuracy caveats"
+      }
+    ],
+    "related": [
+      "/discover",
+      "/atlas",
+      "/analysis/economy"
+    ],
+    "reviewed": "19 October 2026"
+  },
+  {
+    "slug": "parliament-2024",
+    "topic": "PARLIAMENTARY ELECTION",
+    "title": "Two victories, a different electoral scale.",
+    "deck": "The 2024 Lok Sabha results add an important observation without supplying sixty new Assembly results.",
+    "finding": "INC won Inner and Outer Manipur in 2024. The margins were 109,801 and 85,418 votes respectively; these parliamentary outcomes cannot be mechanically converted into Assembly seats.",
+    "sections": [
+      {
+        "title": "What the official totals establish",
+        "paragraphs": [
+          "Angomcha Bimol Akoijam received 3,74,017 votes in Inner Manipur; BJP’s Thounaojam Basanta Kumar Singh received 2,64,216. Across the six candidates, the published candidate-vote total is 7,93,100. The winning share on that denominator is about 47.16%, with a margin of about 13.84 percentage points.",
+          "In Outer Manipur, Alfred Kanngam S Arthur received 3,84,954 votes, compared with 2,99,536 for Kachui Timothy Zimik. Across four candidates, the candidate-vote total is 7,89,510. The winning share is about 48.76%, and the margin about 10.82 percentage points. NOTA is excluded from these denominators."
+        ]
+      },
+      {
+        "title": "A result below half is still a valid plurality",
+        "paragraphs": [
+          "Neither winner exceeded half of candidate votes. In Inner Manipur, the third-placed candidate received 1,35,640 votes, making the rest of the field analytically relevant. In Outer Manipur, the two independents together received 1,05,020 votes.",
+          "These votes cannot be reassigned to another party by arithmetic alone. A hypothetical combined total assumes voter behaviour that the count does not observe. Candidate choice, alliance arrangements and the election’s political scale differ from the earlier Assembly contest."
+        ]
+      },
+      {
+        "title": "Why parliamentary and Assembly results do not map automatically",
+        "paragraphs": [
+          "A parliamentary constituency aggregates many Assembly segments. A party can win the larger constituency while trailing in some segments, and postal or special polling arrangements require careful allocation before segment totals can be reconstructed. The present dataset has not completed that reconciliation.",
+          "The site therefore publishes the two parliamentary results and their candidate bars, but does not colour all sixty Assembly seats according to the parliamentary winner. Doing so would visually invent sixty outcomes from two aggregate observations."
+        ]
+      },
+      {
+        "title": "A source discrepancy remains visible",
+        "paragraphs": [
+          "The official report’s candidate table uses an inconsistent party label for Kachui Timothy Zimik. The party aggregate identifies the 2,99,536 votes as NPF, which is the normalized label used here. The discrepancy is retained in the dataset’s notes rather than silently erased.",
+          "The 2024 extraction has been reviewed against source page images and the party aggregate. Turnout and NOTA remain unavailable in the published normalized record. A candidate-vote total is not a replacement for all ballots or registered electors."
+        ]
+      },
+      {
+        "title": "What the next comparison requires",
+        "paragraphs": [
+          "A defensible Assembly-segment analysis needs the official segment-wise EVM totals, postal-ballot treatment and special polling-station treatment, followed by reconciliation to each parliamentary total. Every allocation rule should be published before interpreting local changes.",
+          "Even with that work complete, a 2022-to-2024 comparison would describe different elections with different candidate fields and contexts. It would not identify individual voter movement or establish a forecast for 2027."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "CEO Manipur · Lok Sabha statistical report 2024",
+        "url": "https://ceomanipur.nic.in/StatisticalReport/LokSabhaElection/SR_lok_Sabha_2024.pdf",
+        "locator": "PDF pp.32 and 34; party aggregate and candidate totals"
+      },
+      {
+        "title": "Normalized parliamentary record",
+        "url": "https://github.com/ethereum007/manipur/blob/main/data/processed/parliament-2024.json",
+        "locator": "Ten candidates; denominator and party-label notes"
+      }
+    ],
+    "related": [
+      "/elections",
+      "/analysis/party-turnover",
+      "/analysis/competition"
+    ],
+    "reviewed": "19 October 2026"
+  },
+  {
+    "slug": "conflict-rehabilitation",
+    "topic": "GOVERNANCE & RECOVERY",
+    "title": "From relief decisions to lived recovery.",
+    "deck": "A framework for examining institutional action, rehabilitation and public-service continuity through dated evidence.",
+    "finding": "A notification, court direction, budget allocation and completed rehabilitation outcome are four different types of evidence. The site keeps their status separate.",
+    "sections": [
+      {
+        "title": "Read the sequence of institutions",
+        "paragraphs": [
+          "The governance timeline records the outbreak of violence in May 2023, the Union government’s Commission of Inquiry notification of 4 June 2023, and the Supreme Court’s relief-related proceedings. These documents establish particular actions and responsibilities at particular dates.",
+          "An inquiry notification establishes a mandate to investigate. It does not establish that the inquiry has completed its work or that every allegation has been adjudicated. A timeline should link to the actual document and identify its status rather than treating every institutional step as a final finding."
+        ]
+      },
+      {
+        "title": "Court directions are not delivery certificates",
+        "paragraphs": [
+          "The Supreme Court order of 6 September 2023 addresses essential relief supplies and coordination with the committee mechanism. That is evidence of judicial directions and the issues before the Court. It is not proof that every camp received adequate supplies or that every displaced family could safely return.",
+          "Delivery needs a separate chain of records: who was eligible, what was sanctioned, when supplies or payments reached people, and whether gaps were remedied. Submissions by a government or another party should be attributed as submissions unless adopted as findings in an order."
+        ]
+      },
+      {
+        "title": "Count people and households consistently",
+        "paragraphs": [
+          "A displacement count needs a reference date, geographic coverage, counting unit and treatment of returns, repeat moves and temporary accommodation. People, families and households cannot be added together. Administrative registrations may measure eligibility for a scheme rather than the entire affected population.",
+          "The current edition does not publish an unverified live displacement total or infer a constituency’s affected population from a state figure. It also avoids treating an announced return as durable rehabilitation without evidence about safety, housing, livelihoods and access to services."
+        ]
+      },
+      {
+        "title": "Rehabilitation has several outcomes",
+        "paragraphs": [
+          "Housing repair or construction is one component. Documentation, compensation, education continuity, healthcare, travel access and the ability to earn a living are separate dimensions. A payment record can confirm a transfer but cannot, by itself, establish that these outcomes have been restored.",
+          "A useful public register would identify scheme rules, eligible and paid households, sanctioned and released funds, completion inspections and grievance resolution at a safe level of aggregation. Publishing personal addresses or sensitive camp-level details is unnecessary for assessing aggregate delivery."
+        ]
+      },
+      {
+        "title": "Administrative change and accountability",
+        "paragraphs": [
+          "The timeline distinguishes President’s Rule imposed in February 2025 from the reported restoration of an elected government in February 2026. Claims about a decision should be tied to the authority and officeholder at the date of that decision. An election-day party map does not supply that institutional chronology.",
+          "The research standard is to connect decisions to evidence of implementation and later outcomes, while retaining unresolved questions. Current local verification remains essential. The platform does not assign collective responsibility to communities or convert humanitarian vulnerability into an electoral targeting category."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Commission of Inquiry notified",
+        "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1929742&lang=2&reg=48",
+        "locator": "4 June 2023"
+      },
+      {
+        "title": "Manipur proceedings · order of 6 September 2023",
+        "url": "https://api.sci.gov.in/supremecourt/2023/19206/19206_2023_1_11_46749_Order_06-Sep-2023.pdf",
+        "locator": "6 September 2023; relief supplies and committee coordination"
+      },
+      {
+        "title": "Parliamentary approval of President's Rule",
+        "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2118913&lang=2&reg=48",
+        "locator": "Reports imposition on 13 February 2025"
+      },
+      {
+        "title": "President's Rule revoked; Yumnam Khemchand Singh sworn in",
+        "url": "https://newsonair.gov.in/presidents-rule-revoked-in-manipur/",
+        "locator": "4 February 2026"
+      },
+      {
+        "title": "Governance chronology and document links",
+        "url": "/governance/",
+        "locator": "Dated events; announcements distinguished from verified outcomes"
+      }
+    ],
+    "related": [
+      "/governance",
+      "/analysis/public-finances",
+      "/analysis/2027-evidence"
+    ],
+    "reviewed": "19 October 2026"
+  },
+  {
+    "slug": "history-data",
+    "topic": "HISTORY & SOURCE CRITICISM",
+    "title": "The date is part of the fact.",
+    "deck": "Administrative history and statistical vintages explain why a modern-looking page can still be describing an older Manipur.",
+    "finding": "Statehood, district reorganization, old Census baselines and revised estimates operate on different timelines. A single undated “state profile” obscures those differences.",
+    "sections": [
+      {
+        "title": "A state’s history is not a current dashboard",
+        "paragraphs": [
+          "Manipur’s transition to statehood on 21 January 1972 is an institutional milestone. Earlier administrative arrangements provide context for the evolution of representation, but they should not be used as shortcuts to explain a contemporary election.",
+          "The discover chapter links the administrative chronology to official historical references. Historical facts remain dated facts: a description of government in an earlier period does not identify current officeholders, present powers or current service responsibilities."
+        ]
+      },
+      {
+        "title": "A publication year is not a reference year",
+        "paragraphs": [
+          "A survey published or tabled in 2026 can reproduce Census 2011 figures alongside recent provisional income estimates and administrative programme data from still other years. The cover date does not make every table a 2026 observation.",
+          "The literacy and population baselines must therefore retain their Census reference year. They cannot describe present community composition, the impact of recent displacement or the current number of electors. Each of those questions requires a different source and definition."
+        ]
+      },
+      {
+        "title": "Boundaries change the meaning of a comparison",
+        "paragraphs": [
+          "An old district table may contain nine districts while the current official directory contains sixteen. Comparing a modern district with the same-looking old name can change the geography in the denominator. Totals and rates then cease to be directly comparable.",
+          "The problem cannot be solved by relabelling columns. It requires a dated crosswalk or a reconstruction on consistent boundaries. The constituency atlas’s legacy attributes are kept separate from claims about the present district administration."
+        ]
+      },
+      {
+        "title": "Revisions can change an earlier year",
+        "paragraphs": [
+          "Economic statistics often distinguish provisional, revised and final estimates. A newer publication may revise the value assigned to a previous financial year. That does not automatically mean the older report was fabricated; it means the estimate vintage is part of the record.",
+          "Similarly, a budget estimate, a revised estimate and an audited actual are not competing measurements of exactly the same status. A proper comparison preserves the stage of the financial process as well as the year and unit."
+        ]
+      },
+      {
+        "title": "A practical source hierarchy",
+        "paragraphs": [
+          "For election totals, the preferred chain is the official report, the exact page or table, reconciliation of candidates and totals, then a normalized record with review metadata. For legal or institutional claims, use the applicable text, dated orders and amendments. For implementation, use administrative and audit evidence with its limits.",
+          "The platform distinguishes a source index from a transcribed figure and a transcribed figure from a reviewed calculation. That discipline allows the research to grow without turning visual completeness into false factual completeness."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ministry of Development of North Eastern Region · Manipur",
+        "url": "https://mdoner.nic.in/about-north-east/manipur",
+        "locator": "Statehood context; other profile indicators retain their own source dates"
+      },
+      {
+        "title": "Census of India population finder",
+        "url": "https://www.censusindia.gov.in/census.website/en/data/population-finder",
+        "locator": "2011 Census reference period"
+      },
+      {
+        "title": "Economic Survey 2024–25",
+        "url": "https://assembly.mn.gov.in/user/pages/files/business/papers-laid/Economic%20Survey%20Manipur%2C%202024-25%20Directorate%20of%20Economics%20%26%20Statistics.pdf",
+        "locator": "Table-specific reference years and estimate status"
+      },
+      {
+        "title": "Current district administrations",
+        "url": "https://manipur.s3waas.gov.in/",
+        "locator": "Present sixteen-district directory"
+      }
+    ],
+    "related": [
+      "/discover",
+      "/sources",
+      "/analysis/geography-institutions"
+    ],
+    "reviewed": "19 October 2026"
+  },
+  {
+    "slug": "2027-evidence",
+    "topic": "THE ROAD TO 2027",
+    "title": "What would change the assessment?",
+    "deck": "An evidence agenda for the next election, with clear distinctions between observable developments and speculation.",
+    "finding": "The historical results are a baseline. Current candidate decisions, alliances, administrative conditions and electoral participation require new dated evidence.",
+    "sections": [
+      {
+        "title": "Begin with what is established",
+        "paragraphs": [
+          "The site has complete winning-party registers for the 2012, 2017 and 2022 Assembly elections, reviewed parliamentary totals for 2024, and a partially reconciled candidate-vote series. Those are observations about completed elections. They do not contain a measured probability for the next one.",
+          "The 2022 election also predates major later developments recorded in the governance chronology. Treating its margins as current political sentiment would skip intervening conditions. A historical baseline remains useful precisely when it is kept separate from an assessment of the present."
+        ]
+      },
+      {
+        "title": "Candidate and alliance decisions change the field",
+        "paragraphs": [
+          "The final candidate list determines who actually contests, for which party and against whom. Announcements, negotiations and reported intentions are not the same as accepted nominations or a final list after withdrawals. The directory will need a new election-scoped register when official records become available.",
+          "A party alliance cannot be evaluated by adding all earlier votes of its members. Voters can respond differently to a new candidate, seat-sharing arrangement or election context. The competition study shows how candidate entry and vote concentration alter the descriptive structure of a contest."
+        ]
+      },
+      {
+        "title": "Participation requires an operational evidence base",
+        "paragraphs": [
+          "Electoral rolls, polling arrangements, access and special provisions should be read from current election-authority documents. An old electors total cannot be used as the denominator for a later turnout claim. Roll changes also need a base date and a distinction between additions, deletions and corrections.",
+          "Where displacement or access affects voting arrangements, the analysis should document the official rules and the reconciliation of votes. It should not infer turnout, political preference or a community’s intentions from residence, vulnerability or administrative category."
+        ]
+      },
+      {
+        "title": "Track recovery through outcomes",
+        "paragraphs": [
+          "Public announcements about relief, infrastructure and assistance are observable events. Their political significance cannot be established merely by counting announcements. A stronger assessment checks whether the intended service or support reached people and remained usable.",
+          "The fiscal and rehabilitation studies specify the missing links: sanction, release, expenditure, completion, functioning access and grievance response. A verified improvement or deterioration in those records would change the factual context. It would still not identify how particular individuals will vote."
+        ]
+      },
+      {
+        "title": "Use scenarios as conditional questions",
+        "paragraphs": [
+          "The outlook explorer presents neutral scenarios without probabilities. Each asks what evidence would support or weaken a particular description of the environment. A scenario is useful when its conditions are explicit and observable; it becomes misleading when presented as a prediction without a validated model.",
+          "The next edition should update the dated evidence register, preserve prior observations and document corrections. Missing polling, unresolved local data and incomplete historical totals remain visible. The objective is a research platform that can explain what changed, rather than a polished number that claims certainty about the future."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "CEO Manipur · Assembly election reports",
+        "url": "https://ceomanipur.nic.in/StatisticalReports",
+        "locator": "2012, 2017 and 2022 winner registers; constituency Form 20 tables"
+      },
+      {
+        "title": "Published data and verification log",
+        "url": "https://github.com/ethereum007/manipur/tree/main/data/processed",
+        "locator": "winners.json and results.json; verification metadata"
+      },
+      {
+        "title": "Chief Electoral Officer, Manipur",
+        "url": "https://ceomanipur.nic.in/",
+        "locator": "Current official election notices; verify the date of each notice"
+      },
+      {
+        "title": "Dated governance evidence register",
+        "url": "/governance/",
+        "locator": "Institutional developments and source links"
+      },
+      {
+        "title": "Neutral scenario explorer",
+        "url": "/outlook/",
+        "locator": "Conditions and limits; no probabilities assigned"
+      }
+    ],
+    "related": [
+      "/outlook",
+      "/governance",
+      "/analysis/competition"
+    ],
+    "reviewed": "19 October 2026"
+  }
+]
