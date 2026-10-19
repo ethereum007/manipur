@@ -1,3 +1,4 @@
+import {ConstituencyAnalysis} from "@/components/constituency-analysis";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import {
@@ -7,6 +8,7 @@ import {
   years,
   electionSource,
   candidateSlug,
+  registeredWinner,
 } from "@/lib/data";
 import { PageIntro, SourceNote, Missing } from "@/components/ui";
 export function generateStaticParams() {
@@ -98,7 +100,7 @@ export default async function Constituency({
                   </>
                 ) : (
                   <>
-                    <Missing />
+                    {registeredWinner(y,c.id)&&<><p className="lead">{registeredWinner(y,c.id)?.candidate}</p><p>{registeredWinner(y,c.id)?.party} · official election-day winner</p></>}<Missing label="Full candidate totals not reconciled"/>
                     <p className="source-note">
                       Candidate results have not passed transcription and
                       reconciliation for this election.
@@ -114,7 +116,7 @@ export default async function Constituency({
           })}
         </div>
       </section>
-      <section className="profile-section">
+      <ConstituencyAnalysis ac={c.id}/><section className="profile-section">
         <h2>
           Continuity
           <br />
