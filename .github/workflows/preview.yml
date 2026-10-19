@@ -25,10 +25,19 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+      - name: Configure optional custom domain
+        env:
+          CUSTOM_DOMAIN: ${{ vars.CUSTOM_DOMAIN }}
+        run: |
+          if [ -n "$CUSTOM_DOMAIN" ]; then
+            printf 'NEXT_PUBLIC_BASE_PATH=\n' >> "$GITHUB_ENV"
+            printf '%s\n' "$CUSTOM_DOMAIN" > public/CNAME
+          fi
       - run: pip install requests pyshp shapely
       - run: python scripts/prepare-preview.py
       - run: npm ci
       - run: node scripts/ingest/index-candidates-2022.mjs
+      - run: node scripts/ingest/normalize-2022.mjs
       - run: node scripts/validate-data.mjs
       - run: npm test
       - run: npm run build
