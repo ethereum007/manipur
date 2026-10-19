@@ -1,69 +1,14 @@
-import Image from "next/image";
-
-export default function Home() {
-  return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert h-5 w-[100px]"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the{" "}
-            <code className="rounded bg-black/[.06] px-1.5 py-0.5 font-mono text-[0.9em] dark:bg-white/[.08]">
-              page.tsx
-            </code>{" "}
-            file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert h-[14px] w-4"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={14}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
-  );
-}
+import Link from "next/link";
+import {GeoMap} from "@/components/geo";
+import {Reveal} from "@/components/reveal";
+import {SeatChart} from "@/components/seat-chart";
+import {SectionLink,SourceNote} from "@/components/ui";
+import {results} from "@/lib/data";
+export default function Home(){return <>
+<section className="hero"><div className="hero-copy"><p className="eyebrow">A state. Sixty constituencies. A changing landscape.</p><h1>MANIPUR<br/><span>2027</span></h1><p className="hero-subtitle">The Political Atlas</p><p className="hero-description">Explore the geography, people, elections and political transformations shaping one of India’s most complex states.</p><Link href="/atlas" className="primary-link">Explore the electoral atlas <span>↗</span></Link></div><div className="hero-map"><div className="map-orbit"/><GeoMap hero/><p className="hero-map-caption">THE LAND BENEATH THE POLITICS<br/><span>Relief context · Reference boundaries, not a survey</span></p></div><div className="hero-bottom"><span>AN INDEPENDENT RESEARCH PUBLICATION</span><span>2012 / 2017 / 2022 / 2024</span><Link href="/sources">Every number has a source ↗</Link></div></section>
+<div className="paper-strip"><span>60 <small>Assembly constituencies</small></span><span>3 <small>Assembly elections</small></span><span>2 <small>Parliamentary constituencies</small></span><span>{results.length.toLocaleString()} <small>Verified candidate-election records</small></span></div>
+<Reveal className="editorial-section geography-story"><div className="chapter-number">01 / THE LAND</div><div className="story-grid"><h2>To understand<br/>the vote,<br/><em>read the land.</em></h2><div className="story-copy"><p className="lead">A valley surrounded by hills. A border with Myanmar. A landscape that shapes access, administration and representation.</p><p>Geography is a starting point, not an explanation for how people vote. The Imphal Valley and surrounding hill systems contain diverse communities, institutions and political histories.</p><SectionLink href="/discover">Discover Manipur</SectionLink><SourceNote><a href="https://manipur.gov.in/">Government of Manipur</a> · State geography. Terrain: Esri World Shaded Relief. Boundaries: DataMeet, with documented limitations.</SourceNote></div></div></Reveal>
+<Reveal className="editorial-section election-story"><div className="chapter-number">02 / THE ELECTORAL RECORD</div><div className="election-story-grid"><div><h2>Sixty seats.<br/><em>Different stories.</em></h2><p className="lead">A legislature changes one constituency at a time.</p><p>Trace winners, margins and candidate continuity across three Assembly elections. Read election-day outcomes separately from later defections and government formation.</p><SectionLink href="/atlas">Compare the elections</SectionLink></div><div className="chart-feature"><div className="chart-heading"><h3>The 2022 Assembly</h3><span>SEATS WON / 60</span></div><SeatChart year={2022} compare/><p className="chart-caption">31 seats constitute an outright majority.</p></div></div></Reveal>
+<Reveal className="editorial-section people-story"><div className="chapter-number">03 / PEOPLE & POWER</div><Link href="/candidates/nongthombam-biren-singh" className="profile-teaser"><div><h2>Behind every result,<br/><em>a political career.</em></h2><p>Explore candidates through their electoral records, publicly disclosed affidavits and documented offices.</p><span className="text-link">Open a candidate profile <span>↗</span></span></div><div className="profile-teaser-art"><span>THE PUBLIC RECORD</span><strong>N. Biren<br/><em>Singh</em></strong><small>Heingang · Candidate profile</small></div></Link></Reveal>
+<Reveal className="editorial-section reading-room"><div className="chapter-number">THE READING ROOM</div><h2>A changing state.<br/><em>An open question.</em></h2><div className="reading-grid"><Link href="/governance"><span>CONFLICT & GOVERNANCE</span><h3>Manipur since May 2023</h3><p>A careful chronology, with evidence classifications and explicit reporting cutoffs.</p><b>Read the chronology ↗</b></Link><Link href="/elections"><span>THE PARLIAMENTARY RECORD</span><h3>The 2024 election</h3><p>Two constituencies. A different electoral contest. Comparisons need context.</p><b>Explore the results ↗</b></Link><Link href="/outlook"><span>THE ROAD AHEAD</span><h3>Looking toward 2027</h3><p>Transparent scenarios and unresolved questions, without numerical predictions.</p><b>Examine the uncertainties ↗</b></Link></div></Reveal>
+</>}
