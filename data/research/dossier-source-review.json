@@ -1,0 +1,55 @@
+{
+  "reviewed": "2026-10-19",
+  "cloudRun": "https://github.com/ethereum007/manipur/actions/runs/39247169129",
+  "sources": [
+    {
+      "id": "economic-survey-2024-25",
+      "url": "https://assembly.mn.gov.in/user/pages/files/business/papers-laid/Economic%20Survey%20Manipur%2C%202024-25%20Directorate%20of%20Economics%20%26%20Statistics.pdf",
+      "status": "retrieved",
+      "sha256": "60205b914dc7f434efe1eeb6a5332a780b989f2a67eba0e523c386a0278a2c00",
+      "pages": 369,
+      "textPages": 364,
+      "method": "Embedded PDF text with selected source-page images for review"
+    },
+    {
+      "id": "cag-state-finances-2023-24",
+      "url": "https://assembly.mn.gov.in/user/pages/files/business/papers-laid/Report%20No.%201%20of%202025_SFAR%202023-24_Manipur%20(06-05-2025).pdf",
+      "status": "retrieved",
+      "sha256": "e7dc84396628d41080532024a43a0db7383ebd304f079a3d1dce6aa3dcda8f11",
+      "pages": 224,
+      "textPages": 200,
+      "method": "Embedded PDF text with selected source-page images for review"
+    },
+    {
+      "id": "fiscal-framework-2026-27",
+      "url": "https://assembly.mn.gov.in/user/pages/files/business/papers-laid/FRBM%202026-27.pdf",
+      "status": "retrieved",
+      "sha256": "2a77bc63c0b2136c7dc92b13aac452839966dc6401786dbf69c1a9964c4b1235",
+      "pages": 26,
+      "textPages": 26,
+      "method": "Embedded PDF text with selected source-page images for review"
+    },
+    {
+      "id": "article-371c",
+      "url": "https://necouncil.gov.in/sites/default/files/uploadfiles/371C.pdf",
+      "status": "unavailable",
+      "error": "HTTPSConnectionPool(host='necouncil.gov.in', port=443): Max retries exceeded with url: /sites/default/files/uploadfiles/371C.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1016)')))"
+    }
+  ],
+  "reviewedPages": {
+    "economic-survey-2024-25": [
+      55,
+      57,
+      59
+    ],
+    "fiscal-framework-2026-27": [
+      3,
+      4
+    ]
+  },
+  "notes": [
+    "Economic and fiscal page images checked against cited values.",
+    "CAG exact locators reconciled against embedded source text; selected corrected pages queued for visual review.",
+    "Article 371C text was read through web retrieval; cloud download preserves certificate failure and does not bypass TLS verification."
+  ]
+}

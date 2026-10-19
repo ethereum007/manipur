@@ -3,7 +3,7 @@ import json,hashlib,requests,pymupdf as fitz
 root=Path('work-dossiers');root.mkdir(exist_ok=True)
 sources=json.loads(Path('data/research/dossier-sources.json').read_text())
 manifest=[]
-review={'economic-survey-2024-25':[55,57,58,59],'cag-state-finances-2023-24':[13,17],'fiscal-framework-2026-27':[3,4]}
+review={'economic-survey-2024-25':[55,57,58,59],'cag-state-finances-2023-24':[14,18,121],'fiscal-framework-2026-27':[3,4]}
 for source in sources:
  try:
   response=requests.get(source['url'],timeout=180);response.raise_for_status()
