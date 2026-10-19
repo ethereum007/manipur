@@ -14,16 +14,23 @@ for i,page in enumerate(d):
    m=re.match(r'^(\d{1,2})\s*[-–]\s*(.+)$',line)
    if m and j+2<len(ls) and ls[j+2] in party_map:
     winners.append({'year':2017,'ac':int(m[1]),'name':m[2],'candidate':ls[j+1],'party':party_map[ls[j+2]],'source':'assembly-2017','sourcePage':i+1})
- if 'FINAL RESULT SHEET' not in text or 'Total votes polled' not in text:continue
- m=re.search(r'FROM\s+(\d+)\s*[-–]\s*(.+?)\s+ASSEMBLY CONSTITUENCY',text,re.I)
+ if 'Total votes polled' not in text:continue
+ m=re.search(r'FROM\s*(\d+)\s*[-–]\s*(.+?)\s+ASSEMBLY CONSTITUENCY',text,re.I)
  if not m:continue
  ac=int(m[1]);name=m[2].strip()
  try:
   candidates=[]
-  for line in text.splitlines():
-   match=re.match(r'^(.+?)\s*\((INC|BJP|AITC|CPI|CPM|CP\(M\)|NCP|NPF|PDA|AIFB|LJP|MDPF|MNDF|MPP|NEIDP|NPP|PRJA|RPI\(A\)|IND)\)\s*$',line.strip())
-   if match:candidates.append((match[1].strip(),match[2]))
-  # Column names repeat across continued result sheets; remove exact repeats only.
+  header=text.split('No. of tendered votes',1)[1] if 'No. of tendered votes' in text else ''
+  header=re.split(r'\n\s*(?:\d+/\d+|Brought[- ]|Sub[- ])',header)[0]
+  codes=['RPI(A)','CP(M)','INC','BJP','AITC','CPI','CPM','NCP','NPF','PDA','AIFB','AIDF','LJP','LJSP','MDPF','MNDF','MPP','NEIDP','NPP','PRJA','IND']
+  pending=[]
+  for line in header.splitlines():
+   if not line.strip():continue
+   pending.append(line.strip());buffer=' '.join(pending)
+   for code in codes:
+    match=re.match(r'^(.*?)\s*\('+re.escape(code)+r'\)?\s*$',buffer)
+    if match:
+     candidates.append((match[1].strip(),code));pending=[];break
   candidates=list(dict.fromkeys(candidates))
   tail=text.rsplit('Total votes polled',1)[1]
   nums=[int(x.replace(',','')) for x in re.findall(r'(?m)^\s*(\d[\d,]*)\s*$',tail)]
@@ -57,7 +64,10 @@ report={'year':2017,'publishedContests':len(set(r['ac'] for r in accepted)),'can
 
 unresolved=[]
 for i,page in enumerate(d):
- text=page.get_text();m=re.search(r'FROM\s+(\d+)\s*[-–]\s*(.+?)\s+ASSEMBLY CONSTITUENCY',text,re.I)
+ text=page.get_text();m=re.search(r'FROM\s*(\d+)\s*[-–]\s*(.+?)\s+ASSEMBLY CONSTITUENCY',text,re.I)
  if m and int(m[1]) in report['missingContests']:
   unresolved.append({'page':i+1,'ac':int(m[1]),'text':text})
 (out/'normalization-unresolved.json').write_text(json.dumps(unresolved,ensure_ascii=False,indent=2))
+
+extra_pages=[{'page':i+1,'text':d[i].get_text()} for i in range(69,74)]
+(out/'uripok-source-audit.json').write_text(json.dumps(extra_pages,ensure_ascii=False,indent=2))
