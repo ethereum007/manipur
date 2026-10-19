@@ -1,28 +1,12 @@
 {
   "year": 2017,
-  "publishedContests": 41,
-  "candidacies": 171,
+  "publishedContests": 57,
+  "candidacies": 253,
   "winnerRegister": 60,
   "missingContests": [
     7,
     10,
-    12,
-    19,
-    20,
-    21,
-    28,
-    29,
-    31,
-    32,
-    33,
-    36,
-    37,
-    38,
-    42,
-    46,
-    52,
-    54,
-    58
+    21
   ],
   "issues": [
     {
@@ -33,99 +17,9 @@
     },
     {
       "year": 2017,
-      "ac": 12,
-      "page": 76,
-      "issue": "('column count', 7, 13)"
-    },
-    {
-      "year": 2017,
-      "ac": 19,
-      "page": 92,
-      "issue": "('column count', 4, 10)"
-    },
-    {
-      "year": 2017,
-      "ac": 20,
-      "page": 94,
-      "issue": "('column count', 5, 11)"
-    },
-    {
-      "year": 2017,
       "ac": 21,
       "page": 96,
       "issue": "('poll reconciliation', 30181, 1, 153, 30334)"
-    },
-    {
-      "year": 2017,
-      "ac": 28,
-      "page": 110,
-      "issue": "('column count', 3, 9)"
-    },
-    {
-      "year": 2017,
-      "ac": 29,
-      "page": 112,
-      "issue": "('column count', 3, 9)"
-    },
-    {
-      "year": 2017,
-      "ac": 32,
-      "page": 118,
-      "issue": "('column count', 4, 10)"
-    },
-    {
-      "year": 2017,
-      "ac": 33,
-      "page": 120,
-      "issue": "('column count', 4, 10)"
-    },
-    {
-      "year": 2017,
-      "ac": 36,
-      "page": 126,
-      "issue": "('column count', 5, 11)"
-    },
-    {
-      "year": 2017,
-      "ac": 37,
-      "page": 128,
-      "issue": "('column count', 2, 8)"
-    },
-    {
-      "year": 2017,
-      "ac": 38,
-      "page": 130,
-      "issue": "('column count', 1, 7)"
-    },
-    {
-      "year": 2017,
-      "ac": 42,
-      "page": 140,
-      "issue": "('column count', 3, 9)"
-    },
-    {
-      "year": 2017,
-      "ac": 46,
-      "page": 152,
-      "issue": "('column count', 9, 16)"
-    },
-    {
-      "year": 2017,
-      "ac": 52,
-      "page": 170,
-      "issue": "('column count', 2, 8)"
-    },
-    {
-      "year": 2017,
-      "ac": 54,
-      "page": 176,
-      "issue": "('column count', 2, 9)"
-    },
-    {
-      "year": 2017,
-      "ac": 58,
-      "page": 186,
-      "issue": "('column count', 5, 12)"
     }
   ],
   "source": "https://ceomanipur.nic.in/StatisticalReport/AssemblyElection/statistical_report_2017.pdf",
