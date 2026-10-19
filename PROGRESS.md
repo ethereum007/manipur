@@ -1,14 +1,10 @@
 # Progress
 
-## 2026-10-19: foundation
-- Cloned the user-owned empty GitHub repository; using main directly as requested.
-- Initialized Next.js, TypeScript and Tailwind.
-- Located CEO Manipur statistical reports for 2012, 2017, 2022 and 2024 and the official affidavit archive.
-- Downloading immutable original reports with hashes and extracted text.
-- Reference constituency polygons: DataMeet, CC BY 2.5 India. Publisher warns of positional shifts and older Manipur boundaries. Never treat this as a certified current boundary survey.
-- First visual milestone: homepage, historical atlas, candidate profile; browser QA before remaining modules.
-
-## Coverage caveats
-- 2012 report and candidate affidavit are image scans: automated text extraction alone is insufficient.
-- Official ECI live-result archive rejects automated requests with HTTP 406. CEO reports remain accessible.
-- All missing fields must remain null and visibly unavailable, never synthetic.
+## 2026-10-19 Â· GitHub-only execution
+- User requires all project storage, dependencies, research, builds and browser testing in GitHub. Source edits now go directly through GitHub's API.
+- Initial local setup stopped. Local checkout deletion was blocked by the command policy; user informed of its exact path. No further local project writes.
+- GitHub Actions handles source acquisition, OCR and browser screenshots. Original scans are short-lived GitHub artifacts, not large Git blobs.
+- Primary statistical reports located for 2012, 2017, 2022 and 2024, plus the official Biren Singh affidavit.
+- DataMeet geography has 68 polygon records representing 60 constituencies. Dissolve multipart records by AC_NO; preserve pre-delimitation and positional-shift caveats.
+- Visual gate: homepage, atlas, candidate profile before expansion.
+- Research acceptance remains pending until source extraction and validation pass. Never claim full coverage from source acquisition alone.
