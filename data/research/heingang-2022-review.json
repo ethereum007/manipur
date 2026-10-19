@@ -1,0 +1,16 @@
+{
+  "source": "assembly-2022",
+  "pdfPage": 76,
+  "printedPage": 148,
+  "sourceReviewRun": 39237357374,
+  "candidateVotes": [
+    24814,
+    6543
+  ],
+  "validVotes": 31357,
+  "rejected": 89,
+  "nota": 239,
+  "votesPolled": 31685,
+  "checks": "24814+6543=31357;31357+89+239=31685",
+  "note": "The 2022 source book footer says Statistical Report 2023. Election year established by official report title/index and candidate register, not the footer."
+}
