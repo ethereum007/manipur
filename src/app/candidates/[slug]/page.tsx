@@ -4,6 +4,7 @@ import Link from "next/link";
 import {
   candidateIndex as results,
   candidateSlug,
+  registeredWinner,
   electionSource,
   number,
 } from "@/lib/data";
@@ -25,6 +26,7 @@ export default async function Candidate({
   const { slug } = await params;
   const r = results.find((x) => candidateSlug(x) === slug);
   if (!r) notFound();
+  const knownWinner=registeredWinner(r.year,r.ac);
   return (
     <>
       <div className="breadcrumb">
@@ -54,7 +56,7 @@ export default async function Candidate({
           <div>
             <strong>
               {r.rank == null
-                ? "Withheld"
+                ? knownWinner?.candidate===r.candidate ? "Elected" : "Withheld"
                 : r.rank === 1
                   ? "Elected"
                   : "Rank " + r.rank}
