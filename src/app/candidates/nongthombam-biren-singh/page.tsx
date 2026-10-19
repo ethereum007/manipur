@@ -1,3 +1,4 @@
+import {CandidacyAnalysis} from '@/components/candidacy-analysis';
 import Link from "next/link";
 import { SourceNote, Missing } from "@/components/ui";
 import {
@@ -233,6 +234,8 @@ export default function Profile() {
           </SourceNote>
         </div>
       </section>
+      <CandidacyAnalysis year={2022} ac={2} candidate="Nongthombam Biren Singh"/>
+      <aside className="research-crosslink"><p className="eyebrow">CAREER, FIELD & DISCLOSURES</p><Link className="text-link" href="/analysis/candidate-records">Read the detailed candidate-record study ↗</Link></aside>
       <section className="profile-section" id="profile-sources">
         <div>
           <p className="eyebrow">SOURCES & LIMITATIONS</p>
