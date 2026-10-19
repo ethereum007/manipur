@@ -110,7 +110,7 @@ export function ExecutiveWalkthrough() {
           className={"walkthrough-slide " + (index === i ? "current" : "")}
         >
           <div className="walkthrough-heading">
-            <p className="eyebrow">MANIPUR 2027 / {s.label}</p>
+            <p className="eyebrow">MANDATE TERRAIN / MANIPUR ANALYSIS / {s.label}</p>
             <h1>{s.title}</h1>
             <span className="walkthrough-time">
               {s.time} · CHAPTER {i + 1} / 5
@@ -298,7 +298,7 @@ export function ExecutiveWalkthrough() {
             </aside>
           )}
           <span className="walkthrough-folio">
-            MANIPUR 2027 · THE POLITICAL ATLAS / 0{i + 1}
+            MANDATE TERRAIN · MANIPUR ANALYSIS / 0{i + 1}
           </span>
         </article>
       ))}

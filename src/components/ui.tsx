@@ -67,8 +67,8 @@ export function SiteHeader() {
           m.
         </span>
         <span>
-          MANIPUR <b>2027</b>
-          <small>THE POLITICAL ATLAS</small>
+          MANDATE <b>TERRAIN</b>
+          <small>MANIPUR ANALYSIS</small>
         </span>
       </Link>
       <nav aria-label="Main navigation">
@@ -88,7 +88,7 @@ export function SiteFooter() {
     <footer className="site-footer">
       <div>
         <Link className="footer-brand" href="/">
-          Manipur 2027<span>The Political Atlas</span>
+          Mandate Terrain<span>Manipur Analysis</span>
         </Link>
         <p>An independent, source-led exploration of a changing state.</p>
       </div>

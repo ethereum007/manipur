@@ -1,7 +1,7 @@
 export const slides = [
   {
     title: "A state. Sixty constituencies.",
-    subtitle: "Manipur 2027 · The Political Atlas",
+    subtitle: "Mandate Terrain · Manipur Analysis",
     body: "An independent research briefing on geography, representation and electoral change.",
     source: "https://ceomanipur.nic.in/StatisticalReports",
     sourceLabel: "Chief Electoral Officer, Manipur",
@@ -117,7 +117,7 @@ export const slides = [
     title: "Scenarios are not predictions.",
     subtitle: "The road to 2027",
     body: "Examine continuity, fragmentation, regional parties, participation and coalition arrangements as assumptions. No probability or seat forecast is assigned.",
-    source: "https://ethereum007.github.io/manipur/outlook/",
+    source: "https://mandateterrain.com/outlook/",
     sourceLabel: "Atlas analytical framework · illustrative assumptions",
     kind: "text",
   },
@@ -125,7 +125,7 @@ export const slides = [
     title: "Return to the source.",
     subtitle: "Evidence before interpretation",
     body: "Read dates, coverage gaps, geography caveats and verification status. No synthetic statistics, inferred community identities or demographic voter targeting.",
-    source: "https://ethereum007.github.io/manipur/sources/",
+    source: "https://mandateterrain.com/sources/",
     sourceLabel: "Atlas sources and methodology",
     kind: "closing",
   },

@@ -18,7 +18,7 @@ export default function Home() {
             <br />
             <span>2027</span>
           </h1>
-          <p className="hero-subtitle">The Political Atlas</p>
+          <p className="hero-subtitle">Manipur Analysis</p>
           <p className="hero-description">
             Explore the geography, people, elections and political
             transformations shaping one of India’s most complex states.

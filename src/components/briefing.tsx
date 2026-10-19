@@ -86,7 +86,7 @@ export function Briefing() {
             </div>
           )}
           <span className="slide-folio">
-            MANIPUR 2027 · {String(i + 1).padStart(2, "0")} / 15
+            MANDATE TERRAIN · MANIPUR ANALYSIS · {String(i + 1).padStart(2, "0")} / 15
           </span>
         </article>
       ))}

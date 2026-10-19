@@ -2,9 +2,11 @@ import type { Metadata } from "next";
 import { SiteHeader, SiteFooter } from "@/components/ui";
 import "./globals.css";
 export const metadata: Metadata = {
+  metadataBase: new URL("https://mandateterrain.com"),
+  applicationName: "Mandate Terrain",
   title: {
-    default: "Manipur 2027 · The Political Atlas",
-    template: "%s · Manipur 2027",
+    default: "Mandate Terrain · Manipur Analysis",
+    template: "%s · Mandate Terrain",
   },
   description:
     "A source-led exploration of Manipur's geography, sixty constituencies and changing electoral landscape.",
