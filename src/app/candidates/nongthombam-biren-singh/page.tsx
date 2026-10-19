@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { SourceNote, Missing } from "@/components/ui";
-import { results, number, partyColors, electionSource } from "@/lib/data";
+import { contest, results, number, partyColors, electionSource } from "@/lib/data";
 export const metadata = { title: "N. Biren Singh · Public record" };
 export default function Profile() {
   const offices =
@@ -134,7 +134,7 @@ export default function Profile() {
                   <tr>
                     <th>Year</th>
                     <th>Party</th>
-                    <th>Votes</th>
+                    <th>Votes</th><th>Winning margin</th><th>Candidate-vote share</th>
                     <th>Position</th>
                   </tr>
                 </thead>
@@ -143,7 +143,7 @@ export default function Profile() {
                     <tr key={r.year}>
                       <th>{r.year}</th>
                       <td>{r.party}</td>
-                      <td>{number(r.votes)}</td>
+                      <td>{number(r.votes)}</td><td>{contest(r.year,r.ac).length>1?number(contest(r.year,r.ac)[0].votes-contest(r.year,r.ac)[1].votes):"Unavailable"}</td><td>{(r.votes/contest(r.year,r.ac).reduce((sum,x)=>sum+x.votes,0)*100).toFixed(2)}%</td>
                       <td>{r.rank === 1 ? "Elected" : "Rank " + r.rank}</td>
                     </tr>
                   ))}
