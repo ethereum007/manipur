@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Manipur 2027 · The Political Atlas
 
-## Getting Started
+A source-led, nonpartisan data-journalism application built with Next.js App Router, TypeScript, React and D3 geographic projection.
 
-First, run the development server:
+**Preview:** https://ethereum007.github.io/manipur/
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## GitHub-only workflow
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The owner requires project storage and execution in GitHub. Source changes go to main. GitHub Actions installs dependencies, acquires official documents, performs OCR, normalizes records, builds the static application and runs Playwright in Chromium. No local clone or installation is needed.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Build, browser QA and GitHub Pages:** automatic on main; screenshots and traces in the visual-review artifact; deployment requires passing tests.
+- **Research acquisition:** manual workflow; originals in a 3-day primary-source-archive artifact, hashes and extracted pages in the repository. This workflow is intentionally separate from page builds.
+- **Normalize and audit election records:** manual workflow; candidate sums and independent winner register checks; inconsistent source tables are withheld and documented.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Architecture
 
-## Learn More
+- src/app: server-rendered App Router routes, 60 statically generated constituency pages and election-scoped candidate routes.
+- src/components: reusable editorial primitives, map, search, comparisons, chronology and presentation.
+- data/raw: immutable fetched documents, GitHub runner only; never commit large scans.
+- data/processed: source extracts, provenance, normalized records, independent winners and quality reports.
+- data/research: curated notes with date, classification and source IDs.
+- scripts/ingest: reproducible cloud ingestion.
+- scripts/validate-data.mjs: duplicate, rank, vote-total and coverage checks.
+- docs/architecture/SCHEMA.sql: optional relational storage schema; the published research edition needs no paid backend.
 
-To learn more about Next.js, take a look at the following resources:
+## Verification
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The three core pages were reviewed from 1440px and 390px browser screenshots before expansion. Tests check page errors, overflow, year selection, constituency search and comparison. Later checks include all 60 routes and keyboard briefing navigation.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Missing data are never converted to zeros. Election-day winners are separate from later House membership. The DataMeet reference map is marked pre-delimitation; it is not a certified current boundary product.
 
-## Deploy on Vercel
+## Optional setup elsewhere
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+If a future developer chooses a separate development environment with adequate storage: Node 22, Python 3.11; npm install; pip install requests pyshp shapely; python scripts/prepare-preview.py; npm run dev. NEXT_PUBLIC_BASE_PATH=/manipur is used only for the GitHub Pages build. npm run build creates out/. npm test runs arithmetic checks. npm run test:e2e runs Chromium browser checks.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Read SOURCES.md, DATA_DICTIONARY.md, LIMITATIONS.md and PROGRESS.md before interpreting results. Acquisition does not establish complete verification.

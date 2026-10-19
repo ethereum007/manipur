@@ -28,6 +28,8 @@ jobs:
       - run: pip install requests pyshp shapely
       - run: python scripts/prepare-preview.py
       - run: npm install
+      - run: node scripts/validate-data.mjs
+      - run: npm test
       - run: npm run build
       - run: npx playwright install --with-deps chromium
       - run: npm run test:e2e
@@ -38,6 +40,7 @@ jobs:
           path: |
             test-results
             playwright-report
+            data/processed/data-quality.json
           retention-days: 7
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

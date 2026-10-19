@@ -28,3 +28,12 @@ get(url,p/'terrain.jpg')
 # Preserve exact asset attribution with the build.
 (p/'asset-sources.json').write_text(json.dumps({'terrain':{'url':url,'publisher':'Esri World Shaded Relief','attribution':'Esri, USGS, NOAA','purpose':'Geographic relief context, not an election boundary survey'},'geography':{'url':'https://github.com/datameet/maps/tree/master/assembly-constituencies','license':'CC BY 2.5 India','limitations':'Publisher marks Manipur as pre-delimitation and warns of positional shifts. Multipart features dissolved by AC_NO.'},'fonts':'Source Sans 3 and Libre Caslon Display, SIL Open Font License'},indent=2))
 print('Prepared',len(data['features']),'reference constituencies and attributed relief')
+
+# Publish lightweight public exports with source provenance, never raw private identifiers.
+import csv,io
+records=json.loads((root/'data/processed/results.json').read_text())
+sources=json.loads((root/'data/processed/sources.json').read_text())
+(p/'data/results.json').write_text(json.dumps({'reference':'Assembly elections 2012/2017/2022','license':'Research transcription; original publication rights retained','sources':sources,'records':records},ensure_ascii=False,indent=2))
+columns=['year','ac','name','candidate','party','votes','rank','source','sourcePage']
+f=io.StringIO();writer=csv.DictWriter(f,fieldnames=columns,extrasaction='ignore');writer.writeheader();writer.writerows(records)
+(p/'data/results.csv').write_text(f.getvalue(),encoding='utf-8')
