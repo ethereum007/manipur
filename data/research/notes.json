@@ -1,0 +1,243 @@
+{
+  "accessed": "2026-10-19",
+  "coverageThrough": "2026-03-09",
+  "sources": [
+    {
+      "id": "state-geography",
+      "publisher": "Government of Manipur · Sarva Shiksha Abhiyan",
+      "title": "State profile",
+      "url": "https://ssamanipur.nic.in/StateProfile.htm",
+      "reference": "Historical state profile; district configuration predates reorganization"
+    },
+    {
+      "id": "water",
+      "publisher": "Water Resources Department, Manipur",
+      "title": "Geography and drainage",
+      "url": "https://wrd.mn.gov.in/en/",
+      "reference": "State geography"
+    },
+    {
+      "id": "history",
+      "publisher": "Manipur Public Service Commission",
+      "title": "Historical perspective",
+      "url": "https://www.mpscmanipur.gov.in/historical-perspective.html",
+      "reference": "1949–1972 administrative history"
+    },
+    {
+      "id": "economic-survey",
+      "publisher": "Government of Manipur · NITI for States archive",
+      "title": "Economic Survey · 2019–20",
+      "url": "https://www.nitiforstates.gov.in/public-assets/Policy/policy_files/RSS2131M000234.pdf",
+      "reference": "2011 Census and 2018–20 economic estimates"
+    },
+    {
+      "id": "census",
+      "publisher": "Office of the Registrar General & Census Commissioner, India",
+      "title": "Census 2011 population finder",
+      "url": "https://www.censusindia.gov.in/census.website/en/data/population-finder",
+      "reference": "2011; historical district geography"
+    },
+    {
+      "id": "inquiry",
+      "publisher": "Ministry of Home Affairs · Press Information Bureau",
+      "title": "Commission of Inquiry notified",
+      "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1929742&lang=2&reg=48",
+      "reference": "4 June 2023"
+    },
+    {
+      "id": "court",
+      "publisher": "Supreme Court of India",
+      "title": "Manipur proceedings · order of 6 September 2023",
+      "url": "https://api.sci.gov.in/supremecourt/2023/19206/19206_2023_1_11_46749_Order_06-Sep-2023.pdf",
+      "reference": "6 September 2023; relief supplies and committee coordination"
+    },
+    {
+      "id": "presidents-rule",
+      "publisher": "Ministry of Home Affairs · Press Information Bureau",
+      "title": "Parliamentary approval of President's Rule",
+      "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2118913&lang=2&reg=48",
+      "reference": "Reports imposition on 13 February 2025"
+    },
+    {
+      "id": "restoration",
+      "publisher": "Akashvani · Prasar Bharati",
+      "title": "President's Rule revoked; Yumnam Khemchand Singh sworn in",
+      "url": "https://newsonair.gov.in/presidents-rule-revoked-in-manipur/",
+      "reference": "4 February 2026"
+    },
+    {
+      "id": "budget-2026",
+      "publisher": "Government of Manipur",
+      "title": "Supplementary demands for grants · 2025–26",
+      "url": "https://manipur.gov.in/wp-content/uploads/2026/03/Speech-for-Supplementary-Bilingual.pdf",
+      "reference": "9 March 2026"
+    },
+    {
+      "id": "biren-office",
+      "publisher": "Manipur Legislative Assembly",
+      "title": "Nongthombam Biren Singh · historical member profile",
+      "url": "https://assembly.mn.gov.in/members/profile/nongthombam-biren-singh",
+      "reference": "Dated electoral and office history; present-tense office labels may be stale"
+    },
+    {
+      "id": "biren-adr",
+      "publisher": "Association for Democratic Reforms · MyNeta",
+      "title": "Nongthombam Biren Singh · 2022 affidavit transcription",
+      "url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=37",
+      "reference": "2022 self-declaration; secondary transcription"
+    }
+  ],
+  "geography": [
+    {
+      "title": "The valley and its surrounding hills",
+      "text": "The Imphal Valley occupies the central part of Manipur, surrounded by hill systems. The state borders Myanmar and the Indian states of Assam, Nagaland and Mizoram.",
+      "source": "state-geography"
+    },
+    {
+      "title": "Water connects the landscape",
+      "text": "Loktak Lake lies in the valley. The Water Resources Department describes drainage from surrounding hills into the valley and onward toward the Chindwin system in Myanmar.",
+      "source": "water"
+    },
+    {
+      "title": "Why the definitions matter",
+      "text": "Government publications use different definitions of flat valley and broader valley region. This atlas does not present a single hill-to-valley area ratio as a universal definition.",
+      "source": "water"
+    }
+  ],
+  "history": [
+    {
+      "date": "1949-10-15",
+      "title": "Central administration begins",
+      "text": "The Public Service Commission's institutional history dates the beginning of centrally administered status to 15 October 1949.",
+      "source": "history"
+    },
+    {
+      "date": "1972-01-21",
+      "title": "Manipur attains statehood",
+      "text": "Manipur attained statehood under the North-East Area (Re-organisation) Act, 1971.",
+      "source": "history"
+    }
+  ],
+  "events": [
+    {
+      "date": "2023-05-03",
+      "location": "Manipur",
+      "title": "Violence beginning in May 2023",
+      "text": "The subsequent government inquiry explicitly covers violence on 3 May 2023 and thereafter. This entry establishes the inquiry's temporal scope, not a finding about responsibility.",
+      "source": "inquiry",
+      "classification": "Primary government record",
+      "status": "Verified document"
+    },
+    {
+      "date": "2023-06-04",
+      "location": "Manipur / New Delhi",
+      "title": "Commission of Inquiry notified",
+      "text": "The Union government notified an inquiry chaired by Justice Ajai Lamba to examine causes, spread and possible lapses by responsible authorities or individuals.",
+      "source": "inquiry",
+      "classification": "Primary government record",
+      "status": "Verified document"
+    },
+    {
+      "date": "2023-09-06",
+      "location": "Supreme Court, New Delhi",
+      "title": "Relief supplies and committee coordination",
+      "text": "The Court addressed essential supplies in relief camps and coordination of experts with the committee chaired by Justice Gita Mittal. Court directions are distinguished from findings on the underlying allegations.",
+      "source": "court",
+      "classification": "Primary judicial order",
+      "status": "Verified document"
+    },
+    {
+      "date": "2025-02-13",
+      "location": "Manipur",
+      "title": "President's Rule imposed",
+      "text": "The date of imposition is documented in the Ministry of Home Affairs account of parliamentary approval. Broader claims made in the ministerial speech are not adopted as independent findings.",
+      "source": "presidents-rule",
+      "classification": "Primary government record",
+      "status": "Verified document"
+    },
+    {
+      "date": "2026-02-04",
+      "location": "Imphal",
+      "title": "Elected government restored",
+      "text": "Public broadcaster Akashvani reported revocation of President's Rule and the swearing-in of Yumnam Khemchand Singh as Chief Minister.",
+      "source": "restoration",
+      "classification": "Public broadcaster report",
+      "status": "Verified dated report"
+    },
+    {
+      "date": "2026-03-09",
+      "location": "Manipur Legislative Assembly",
+      "title": "Supplementary demands presented",
+      "text": "The state published the Chief Minister's speech for supplementary demands for grants for 2025–26.",
+      "source": "budget-2026",
+      "classification": "Primary budget document",
+      "status": "Verified document"
+    }
+  ],
+  "indicators": [
+    {
+      "name": "Population",
+      "value": 2855794,
+      "unit": "people",
+      "year": "2011",
+      "source": "economic-survey",
+      "note": "Census reference-year figure reproduced by the Economic Survey. Not a 2026 estimate."
+    },
+    {
+      "name": "Literacy",
+      "value": 76.94,
+      "unit": "% · age 7+",
+      "year": "2011",
+      "source": "economic-survey",
+      "note": "Final Census figure as reproduced in the survey. Not current educational attainment."
+    },
+    {
+      "name": "GSDP",
+      "value": 27869,
+      "unit": "₹ crore · current prices",
+      "year": "2018–19",
+      "source": "economic-survey",
+      "note": "Quick estimate; vintage Economic Survey 2019–20."
+    },
+    {
+      "name": "GSDP",
+      "value": 31989,
+      "unit": "₹ crore · current prices",
+      "year": "2019–20",
+      "source": "economic-survey",
+      "note": "Advance estimate; vintage Economic Survey 2019–20. Revisions may differ."
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "Historical patterns persist",
+      "assumption": "The election-day party and candidate patterns of previous Assembly contests remain informative.",
+      "test": "Compare party retention, candidate continuity and margins over identical constituencies.",
+      "limit": "Conflict, defections and changes in candidate selection can break historical relationships."
+    },
+    {
+      "title": "Greater fragmentation",
+      "assumption": "More parties or independents attract substantial candidate votes.",
+      "test": "Track party-level vote concentration, effective number of parties and seat-to-vote differences.",
+      "limit": "A statewide swing cannot determine each constituency result; alliances and candidates matter."
+    },
+    {
+      "title": "Regional parties gain influence",
+      "assumption": "Regional parties and independents become more important in representation or coalition formation.",
+      "test": "Compare their verified seat totals, vote shares and public coalition agreements.",
+      "limit": "Coalition arithmetic is not a probability model and does not imply a common community preference."
+    },
+    {
+      "title": "Participation changes",
+      "assumption": "Turnout and access differ from earlier elections.",
+      "test": "Use official electors, votes-polled and turnout denominators; document disrupted participation.",
+      "limit": "Turnout change alone cannot identify individual voter movement or party conversion."
+    },
+    {
+      "title": "Coalition arrangements differ",
+      "assumption": "Parties form different pre-election or post-election arrangements.",
+      "test": "Distinguish election-day wins from subsequent support, mergers, defections and by-elections.",
+      "limit": "Hypothetical combinations are not endorsed, predicted or assigned numerical probabilities."
+    }
+  ]
+}
