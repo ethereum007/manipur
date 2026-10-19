@@ -6,7 +6,7 @@ All project authoring, research, builds, source archives, screenshots and docume
 
 Cinematic editorial homepage, all 60 constituency routes, linked election maps for 2012/2017/2022, margin shading, candidate directory/compare, reviewed candidate profile, historical party charts, 2024 parliamentary results, sourced governance chronology, development and fiscal explorers, neutral scenarios, public downloads and a 15-slide research presentation.
 
-Added a separate five-minute executive walkthrough with five chapters, presenter notes, keyboard navigation, PDF handout and explicit coverage/readiness. Custom-domain asset paths and optional GitHub Actions CUSTOM_DOMAIN variable are prepared; no domain has been configured.
+Added a separate five-minute executive walkthrough with five chapters, presenter notes, keyboard navigation, PDF handout and explicit coverage/readiness. Mandate Terrain — Manipur Analysis is deployed to mandateterrain.com with GoDaddy DNS, GitHub Pages, root-path assets and HTTPS enforcement. Nine browser tests and a five-page PDF check passed.
 
 ## Verified and reconciled data
 

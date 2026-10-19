@@ -2,7 +2,7 @@
 
 A source-led, nonpartisan data-journalism application built with Next.js App Router, TypeScript, React and D3 geographic projection.
 
-**Preview:** https://ethereum007.github.io/manipur/
+**Website:** https://mandateterrain.com/
 
 ## GitHub-only workflow
 

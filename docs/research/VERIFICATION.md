@@ -33,3 +33,12 @@ All subsequent project authoring, builds, raw scans, OCR, screenshots and test a
 - Official candidate-index parser validates 265 unique 2022 candidacies across 60 constituencies, party codes and affidavit AC numbers while retaining reviewed votes.
 - Accepted numerical coverage: 180 winner records; 259 Assembly vote records (58 complete 2017 contests and one 2022 contest); ten 2024 parliamentary candidates. This does not establish full historical candidate-vote or affidavit coverage.
 - Screenshots retained in GitHub visual-review artifact for seven days; sources permanently in GitHub release. No local screenshot files or dependencies were created in this review.
+
+
+## 19 October 2026 — Mandate Terrain launch
+
+- GitHub Actions [39241399523](https://github.com/ethereum007/manipur/actions/runs/39241399523): build, arithmetic/source checks, nine browser tests, five-page PDF verification and deployment passed. Source commit 0c2646ef8850340b432c0db3fbbbd3e4c3578988.
+- Brand: Mandate Terrain — Manipur Analysis. Custom-domain build uses root paths. Homepage, desktop/mobile charts and print PDF reviewed; final screenshot preserved in docs/review/mandate-terrain-preview.png.
+- GoDaddy authoritative DNS and Google/Cloudflare public resolvers show all four GitHub Pages addresses; www CNAME points directly to ethereum007.github.io. GitHub DNS check successful.
+- GitHub approved certificates for apex and www; HTTPS enforcement enabled. Standard certificate-validated HTTPS requests using the authoritative address return 200 for homepage, atlas, walkthrough, fonts, map JSON and PDF. www returns 301 to https://mandateterrain.com/. Local resolver initially retained the old GoDaddy parking addresses for the remainder of their TTL.
+- Current Assembly vote coverage: 418 candidate records, with full contests in 2012 (1/60), 2017 (58/60), 2022 (37/60). All 180 winner records and ten 2024 parliamentary candidate totals retained. Full research verification remains incomplete.
