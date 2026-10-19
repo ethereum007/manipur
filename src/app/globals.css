@@ -2944,3 +2944,11 @@ thead th {
 .revenue-legend strong{text-align:right;font-weight:500}
 .revenue-legend>span:last-child{text-align:right;color:#65727a}
 @media(max-width:650px){.research-figure{padding:25px 0;margin-bottom:40px}.research-figure figcaption{font-size:25px}.research-bar-row{grid-template-columns:90px 1fr 65px;gap:8px;font-size:10px}.research-bar-row strong{font-size:11px}.revenue-legend{grid-template-columns:10px 1fr 85px 40px;gap:8px;font-size:11px}.flow-chart-row{grid-template-columns:40px 1fr;gap:12px}}
+
+@media(max-width:650px){
+ .research-crosslink .text-link{display:block;width:fit-content;margin-top:18px}
+ .analysis-stat-grid strong{white-space:nowrap;font-size:42px;flex-shrink:0}
+ .analysis-stat-grid article,.analysis-stat-grid>div{gap:18px}
+ .analysis-stat-grid span{min-width:0}
+ .analysis-block .table-scroll::before,.deep-constituency .table-scroll::before{content:"Swipe or scroll to read the full table →";display:block;color:var(--gold);font-size:10px;letter-spacing:.04em;padding:10px 0 16px;position:sticky;left:0}
+}

@@ -45,11 +45,16 @@
     "fiscal-framework-2026-27": [
       3,
       4
+    ],
+    "cag-state-finances-2023-24": [
+      14,
+      18,
+      121
     ]
   },
   "notes": [
     "Economic and fiscal page images checked against cited values.",
-    "CAG exact locators reconciled against embedded source text; selected corrected pages queued for visual review.",
+    "CAG PDF pp.14,18,121 visually reviewed, including the recurring/non-recurring grant qualification. Review cloud run: 39247522494.",
     "Article 371C text was read through web retrieval; cloud download preserves certificate failure and does not bypass TLS verification."
   ]
 }
