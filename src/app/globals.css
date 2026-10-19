@@ -2830,3 +2830,96 @@ thead th {
 }
 
 @media print{.walkthrough-time,.walkthrough-folio{color:#53626b!important}}
+
+/* Research publication: shared reading and evidence components. */
+.analysis-block,.deep-constituency{padding:84px 6%;border-top:1px solid var(--line)}
+.deep-constituency{background:#132230}
+.analysis-section-heading{max-width:850px;margin-bottom:38px}
+.analysis-section-heading h2{margin-bottom:28px}
+.analysis-section-heading .lead{max-width:740px;color:#c4cbd0;font-size:18px}
+.analysis-controls{display:flex;flex-wrap:wrap;gap:24px;align-items:end;margin:35px 0}
+.analysis-controls label{display:grid;gap:9px;color:var(--muted);font-size:12px}
+.analysis-controls select{min-width:130px;padding:12px 38px 12px 14px;border:1px solid #ffffff38;background:var(--panel);color:var(--paper)}
+.analysis-controls button{background:transparent;color:var(--paper);border:1px solid #ceb08077;padding:12px 20px}
+.analysis-controls button:hover{background:#ceb08018}
+.analysis-stat-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));margin:36px 0 50px;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.analysis-stat-grid article,.analysis-stat-grid>div{padding:28px 24px 28px 0}
+.analysis-stat-grid strong{display:block;font-family:var(--serif);font-weight:400;color:var(--gold);font-size:clamp(40px,5vw,72px);line-height:1.1}
+.analysis-stat-grid span{display:block;color:#c5ccd1;font-size:13px;margin-top:13px}
+.analysis-verdict{padding:32px 38px;border-left:2px solid var(--gold);background:#ceb0800c;margin:35px 0}
+.analysis-verdict>span{font-size:10px;letter-spacing:.16em;color:var(--gold)}
+.analysis-verdict>p{font-family:var(--serif);font-size:25px;line-height:1.5;max-width:950px;margin:18px 0}
+.analysis-reading-grid{display:grid;grid-template-columns:1fr 1fr;gap:8%;margin:60px 0}
+.analysis-reading-grid h3{font-size:31px;margin-bottom:25px}
+.analysis-reading-grid p{color:#c2cbd1;line-height:1.9}
+.party-history-track{display:grid;grid-template-columns:repeat(3,1fr);gap:25px;border-top:1px solid var(--line);padding-top:25px;margin-top:26px}
+.party-history-track span{font-size:12px;color:var(--muted)}
+.party-history-track strong{display:block;font-size:23px;color:var(--paper);font-weight:500}
+.party-history-track p{font-size:12px;color:#b3bdc5;margin:8px 0 18px}
+.analysis-block table,.deep-constituency table{font-variant-numeric:tabular-nums;min-width:720px;width:100%;border-collapse:collapse}
+.analysis-block th,.analysis-block td,.deep-constituency th,.deep-constituency td{padding:16px 14px;text-align:left;border-bottom:1px solid var(--line);font-size:13px}
+.analysis-block thead th,.deep-constituency thead th{color:var(--gold);font-weight:500;font-size:11px;white-space:nowrap}
+.analysis-block caption,.deep-constituency caption{text-align:left;padding:20px 0;color:var(--muted);font-size:12px}
+.transition-matrix{margin-top:35px}
+.transition-matrix th,.transition-matrix td{text-align:center;padding:15px 10px}
+.transition-matrix tbody th{text-align:left;color:var(--gold)}
+.analysis-details{margin:30px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:20px 0}
+.analysis-details summary{cursor:pointer;color:var(--gold);font-size:13px}
+.analysis-details[open] summary{margin-bottom:25px}
+.analysis-limit{max-width:920px;margin-top:48px;border-top:1px solid var(--line);padding-top:30px;color:#b8c3ca}
+.analysis-limit h3{font-size:29px;color:var(--paper);margin-bottom:20px}
+.research-lead{display:grid;grid-template-columns:1.2fr 1fr;gap:9%;padding:65px 8% 85px;border-top:1px solid var(--line)}
+.research-lead h2{font-size:clamp(42px,5vw,76px)}
+.research-lead p:not(.eyebrow){max-width:550px;color:#bdc6cd;margin-top:30px;font-size:17px}
+.research-big-number{display:flex;flex-direction:column;justify-content:center;border-left:1px solid #ceb08055;padding-left:18%}
+.research-big-number strong{font-size:clamp(100px,12vw,180px);font-weight:400;font-family:var(--serif);color:var(--gold);line-height:1}
+.research-big-number strong span{font-family:var(--sans);font-size:24px;color:var(--muted);margin-left:8px}
+.research-big-number p{font-size:12px!important}
+.research-index{padding:80px 8%;background:var(--paper);color:var(--ink)}
+.research-index-heading{display:flex;justify-content:space-between;gap:30px;align-items:end;padding-bottom:45px}
+.research-index-heading p{font-size:14px;color:#56636b;margin:0}
+.research-index-row{display:grid;grid-template-columns:55px 1fr 35px;gap:30px;border-top:1px solid #101d2a33;padding:35px 0;transition:padding .2s}
+.research-index-row:hover{padding-left:12px}
+.research-row-number{font-family:var(--serif);font-size:24px;color:#7d6850}
+.research-index-row .eyebrow{color:#766044;margin-bottom:12px}
+.research-index-row h3{font-size:clamp(28px,3vw,42px);margin-bottom:12px}
+.research-index-row p:not(.eyebrow){color:#53616b;max-width:740px;margin:0;font-size:15px}
+.research-row-arrow{font-size:28px;color:#7d6850}
+.research-bottom{padding:90px 8%;max-width:1100px}
+.research-bottom>p:not(.eyebrow){max-width:650px;color:#bdc6cd;margin-top:32px;font-size:17px}
+.dossier-header{padding:42px 8% 65px;max-width:1400px;margin:auto}
+.dossier-header h1{font-size:clamp(52px,6.8vw,102px);letter-spacing:-.045em;max-width:1000px}
+.dossier-deck{max-width:740px;font-size:22px;color:#bec8cf;line-height:1.65;margin:30px 0 40px}
+.dossier-byline{display:flex;flex-wrap:wrap;gap:16px 45px;font-size:10px;letter-spacing:.12em;color:var(--muted);border-top:1px solid var(--line);padding-top:25px}
+.dossier-layout{background:var(--paper);color:var(--ink);display:grid;grid-template-columns:250px minmax(0,760px);justify-content:center;gap:7%;padding:75px 7% 100px}
+.dossier-contents{align-self:start;position:sticky;top:30px;font-size:13px;border-top:2px solid #8d744e;padding-top:24px}
+.dossier-contents .eyebrow{color:#756043}
+.dossier-contents ol{padding-left:20px;line-height:1.55;margin-bottom:28px}
+.dossier-contents li{padding:0 0 17px 8px;color:#52616b}
+.dossier-contents>a{display:block;margin:17px 0;color:#756043}
+.dossier-contents a:hover{text-decoration:underline}
+.dossier-body{min-width:0}
+.dossier-finding{border-bottom:1px solid #101d2a33;padding:0 0 36px;margin-bottom:55px}
+.dossier-finding>span{font-size:10px;letter-spacing:.16em;color:#766044}
+.dossier-finding p{font-family:var(--serif);font-size:32px;line-height:1.4;margin:18px 0 0}
+.dossier-body>section{margin-bottom:65px;scroll-margin-top:35px}
+.dossier-section-number{font-size:12px;color:#8a6c43;margin-bottom:15px}
+.dossier-body h2{font-size:38px;letter-spacing:-.025em;line-height:1.2;margin-bottom:28px}
+.dossier-body section>p{font-size:18px;line-height:1.9;color:#344650;max-width:68ch}
+.dossier-body .eyebrow{color:#766044}
+.dossier-references{border-top:1px solid #101d2a44;padding-top:42px}
+.dossier-references ol{padding-left:20px}
+.dossier-references li{padding:0 0 20px 10px}
+.dossier-references li a{color:#70552e;border-bottom:1px solid #70552e66}
+.dossier-references li p{font-size:13px;line-height:1.6;color:#53616b;margin:8px 0 0}
+.dossier-body .source-note{color:#53616b;font-size:12px}
+.dossier-related{border-top:1px solid #101d2a44;padding-top:35px}
+.dossier-related a{display:flex;justify-content:space-between;gap:20px;padding:18px 0;border-bottom:1px solid #101d2a22;font-size:15px}
+.research-crosslink{margin:0 6% 55px;padding:24px 0;border-top:1px solid var(--line);display:flex;justify-content:space-between;align-items:center;gap:25px;color:#c0cad0}
+.research-crosslink .eyebrow{margin:0}
+.research-home-feature{padding:55px 6%;border-bottom:1px solid var(--line);display:grid;grid-template-columns:1fr 2fr;gap:50px}
+.research-home-feature h2{font-size:40px}
+.research-home-feature p{max-width:700px;color:#bdc6cd;font-size:16px}
+@media(max-width:900px){.dossier-layout{grid-template-columns:180px minmax(0,1fr);gap:6%;padding:55px 6%}.dossier-header{padding-left:6%;padding-right:6%}.analysis-reading-grid{gap:5%}.research-lead{gap:5%}.research-big-number{padding-left:12%}}
+@media(max-width:650px){.analysis-block,.deep-constituency{padding:50px 6%}.analysis-reading-grid{grid-template-columns:1fr;gap:30px;margin:40px 0}.analysis-stat-grid{grid-template-columns:1fr;gap:0}.analysis-stat-grid article,.analysis-stat-grid>div{display:flex;align-items:center;gap:24px;padding:20px 0;border-bottom:1px solid var(--line)}.analysis-stat-grid strong{font-size:48px;min-width:85px}.analysis-stat-grid span{margin-top:0}.analysis-verdict{padding:24px}.analysis-verdict>p{font-size:23px}.party-history-track{grid-template-columns:1fr;gap:0}.party-history-track>div{display:grid;grid-template-columns:50px 70px 1fr;gap:8px;align-items:start;margin-bottom:15px}.party-history-track p{margin-top:2px}.party-history-track strong{font-size:18px}.analysis-controls{gap:16px}.analysis-controls label{flex:1;min-width:120px}.analysis-controls select{width:100%;min-width:0}.research-lead{grid-template-columns:1fr;padding:45px 6%;gap:45px}.research-big-number{padding-left:25px}.research-big-number strong{font-size:110px}.research-index{padding:55px 6%}.research-index-heading{display:block}.research-index-heading p{margin-top:25px}.research-index-row{grid-template-columns:25px 1fr 20px;gap:12px;padding:28px 0}.research-index-row h3{font-size:29px}.research-row-number{font-size:18px}.research-index-row .eyebrow{font-size:9px}.research-bottom{padding:60px 6%}.dossier-header{padding-top:25px;padding-bottom:45px}.dossier-header h1{font-size:54px}.dossier-deck{font-size:19px}.dossier-layout{display:block;padding:35px 6% 70px}.dossier-contents{position:static;margin-bottom:40px;padding-bottom:20px;border-bottom:1px solid #101d2a33}.dossier-contents ol{columns:2;column-gap:25px;font-size:12px}.dossier-contents li{break-inside:avoid;padding-bottom:12px}.dossier-body h2{font-size:31px}.dossier-body section>p{font-size:17px;line-height:1.85}.dossier-finding p{font-size:28px}.dossier-body>section{margin-bottom:45px}.research-crosslink{display:block}.research-crosslink .text-link{margin-top:15px}.research-home-feature{grid-template-columns:1fr;gap:24px;padding:40px 6%}}
+@media(prefers-reduced-motion:reduce){.research-index-row{transition:none}}
