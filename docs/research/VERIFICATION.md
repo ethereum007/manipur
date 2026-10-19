@@ -23,3 +23,13 @@ Official reports and affidavits take priority. ADR / MyNeta 2022 disclosures are
 ## Storage
 
 All subsequent project authoring, builds, raw scans, OCR, screenshots and test artifacts run in GitHub. The initial local checkout cleanup was rejected by the command policy, and its exact path was reported to the owner. No later project files or dependencies were written locally.
+
+
+## 19 October 2026 — cloud acceptance
+
+- Commit `6f3fd07bc7574504239b26e085f69f52a194b171`; Actions run [39237907318](https://github.com/ethereum007/manipur/actions/runs/39237907318). Production build, structural/arithmetic checks and seven browser tests passed.
+- Desktop 1440px and mobile 390px screenshots reviewed for homepage, atlas and candidate profile; mobile parliamentary charts and desktop linked comparison reviewed. Corrected stacked comparison maps to matching adjacent views.
+- All 60 constituency routes return HTTP 200. Year selection, search, party filter, margin metric, comparison maps and briefing keyboard navigation verified.
+- Official candidate-index parser validates 265 unique 2022 candidacies across 60 constituencies, party codes and affidavit AC numbers while retaining reviewed votes.
+- Accepted numerical coverage: 180 winner records; 259 Assembly vote records (58 complete 2017 contests and one 2022 contest); ten 2024 parliamentary candidates. This does not establish full historical candidate-vote or affidavit coverage.
+- Screenshots retained in GitHub visual-review artifact for seven days; sources permanently in GitHub release. No local screenshot files or dependencies were created in this review.
