@@ -1,0 +1,94 @@
+{
+  "year": 2024,
+  "source": "https://ceomanipur.nic.in/StatisticalReport/LokSabhaElection/SR_lok_Sabha_2024.pdf",
+  "sourcePages": [
+    32,
+    34
+  ],
+  "verification": "Candidate totals reviewed against source page images and party aggregate; candidate votes exclude NOTA.",
+  "constituencies": [
+    {
+      "id": 1,
+      "name": "Inner Manipur",
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 374017,
+          "rank": 1
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 264216,
+          "rank": 2
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 135640,
+          "rank": 3
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 13050,
+          "rank": 4
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 4881,
+          "rank": 5
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 1296,
+          "rank": 6
+        }
+      ],
+      "candidateVotes": 793100,
+      "turnout": null,
+      "nota": null
+    },
+    {
+      "id": 2,
+      "name": "Outer Manipur",
+      "candidates": [
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 384954,
+          "rank": 1
+        },
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 299536,
+          "rank": 2
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 89910,
+          "rank": 3
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 15110,
+          "rank": 4
+        }
+      ],
+      "candidateVotes": 789510,
+      "turnout": null,
+      "nota": null
+    }
+  ],
+  "normalizationNotes": [
+    "Page 34 labels Kachui Timothy Zimik’s party Naga Peoples Party. Page 32 identifies the 299,536 votes as Naga People’s Front; NPF is used with this discrepancy disclosed.",
+    "Vote shares use the sum of candidate votes, excluding NOTA; they are not shares of all ballots.",
+    "Assembly-segment EVM totals and displaced-voter special polling stations remain under review."
+  ]
+}
