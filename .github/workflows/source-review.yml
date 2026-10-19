@@ -1,0 +1,40 @@
+name: Render primary source pages
+on:
+  workflow_dispatch:
+    inputs:
+      document:
+        type: choice
+        options: [assembly-2012, assembly-2022, parliament-2024, biren-affidavit-2022]
+        default: assembly-2012
+      pages:
+        description: PDF page numbers, comma-separated
+        required: true
+        default: '33,34'
+permissions:
+  actions: read
+  contents: read
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - uses: actions/download-artifact@v4
+        with:
+          name: primary-source-archive
+          run-id: 39230937221
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          path: data/raw
+      - run: pip install pymupdf
+      - run: python scripts/ingest/render_source.py
+        env:
+          SOURCE_DOCUMENT: ${{ inputs.document }}
+          SOURCE_PAGES: ${{ inputs.pages }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: source-review-${{ inputs.document }}
+          path: source-review
+          retention-days: 7
