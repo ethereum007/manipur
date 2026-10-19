@@ -1,0 +1,1 @@
+import {ExecutiveWalkthrough} from '@/components/executive-walkthrough';export const metadata={title:'Executive walkthrough · Five-minute briefing',description:'A focused, source-backed introduction to Manipur’s political atlas, with presenter notes and a printable evidence handout.'};export default function BriefingPage(){return <ExecutiveWalkthrough/>}
