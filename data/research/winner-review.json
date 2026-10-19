@@ -1,0 +1,42 @@
+{
+  "reviewed": "2026-10-19",
+  "records": 180,
+  "sourceReviews": {
+    "2012": {
+      "run": 39235691949,
+      "pages": [
+        33,
+        34
+      ]
+    },
+    "2022": {
+      "run": 39236067035,
+      "pages": [
+        46
+      ]
+    }
+  },
+  "corrections": [
+    "OCR punctuation corrected against source images; canonical constituency names keyed by AC number.",
+    "2022 BUP OCR corrected to BJP; source NPEP standardized to NPP."
+  ],
+  "partyTotals": {
+    "2012": {
+      "INC": 42,
+      "AITC": 7,
+      "MSCP": 5,
+      "NCP": 1,
+      "LJP": 1,
+      "NPF": 4
+    },
+    "2022": {
+      "BJP": 32,
+      "INC": 5,
+      "NPP": 7,
+      "JD(U)": 6,
+      "IND": 3,
+      "NPF": 5,
+      "KPA": 2
+    }
+  }
+}

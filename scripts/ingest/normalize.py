@@ -60,7 +60,8 @@ for ac,group in by_ac.items():
 existing=json.loads((out/'results.json').read_text()) if (out/'results.json').exists() else []
 existing=[r for r in existing if r['year']!=2017]+accepted
 (out/'results.json').write_text(json.dumps(existing,ensure_ascii=False,indent=2))
-(out/'winners.json').write_text(json.dumps(winners,ensure_ascii=False,indent=2))
+existing_winners=json.loads((out/'winners.json').read_text()) if (out/'winners.json').exists() else []
+(out/'winners.json').write_text(json.dumps([w for w in existing_winners if w['year']!=2017]+winners,ensure_ascii=False,indent=2))
 report={'year':2017,'publishedContests':len(set(r['ac'] for r in accepted)),'candidacies':len(accepted),'winnerRegister':len(winners),'missingContests':[a for a in range(1,61) if a not in set(r['ac'] for r in accepted)],'issues':issues,'source':url,'method':'Candidate header order paired with Form 20 total-votes row; sums, NOTA/rejected/total and winning party reconciled. Source discrepancies withheld.'}
 (out/'normalization-report.json').write_text(json.dumps(report,indent=2));print(json.dumps(report),flush=True)
 
