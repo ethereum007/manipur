@@ -15,7 +15,7 @@ for i,page in enumerate(d):
    if m and j+2<len(ls) and ls[j+2] in party_map:
     winners.append({'year':2017,'ac':int(m[1]),'name':m[2],'candidate':ls[j+1],'party':party_map[ls[j+2]],'source':'assembly-2017','sourcePage':i+1})
  if 'Total votes polled' not in text:continue
- m=re.search(r'FROM\s*(\d+)\s*[-–]\s*(.+?)\s+ASSEMBLY CONSTITUENCY',text,re.I)
+ m=re.search(r'FROM\s*(\d+)\s*[-–]\s*(.+?)\s+AS+EMBLY CONSTITUENCY',text,re.I)
  if not m:continue
  ac=int(m[1]);name=m[2].strip()
  try:
@@ -64,7 +64,7 @@ report={'year':2017,'publishedContests':len(set(r['ac'] for r in accepted)),'can
 
 unresolved=[]
 for i,page in enumerate(d):
- text=page.get_text();m=re.search(r'FROM\s*(\d+)\s*[-–]\s*(.+?)\s+ASSEMBLY CONSTITUENCY',text,re.I)
+ text=page.get_text();m=re.search(r'FROM\s*(\d+)\s*[-–]\s*(.+?)\s+AS+EMBLY CONSTITUENCY',text,re.I)
  if m and int(m[1]) in report['missingContests']:
   unresolved.append({'page':i+1,'ac':int(m[1]),'text':text})
 (out/'normalization-unresolved.json').write_text(json.dumps(unresolved,ensure_ascii=False,indent=2))
