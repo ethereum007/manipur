@@ -1,0 +1,95 @@
+{
+  "title": "Manipur Budget at a Glance 2026–27",
+  "source": "https://manipur.gov.in/wp-content/uploads/2026/03/Budget-At-A-Glance-2026-27.pdf",
+  "publisher": "Government of Manipur",
+  "published": "March 2026",
+  "accessed": "2026-10-19",
+  "pdfPage": 3,
+  "printedPage": 1,
+  "unit": "₹ crore",
+  "periods": [
+    {
+      "id": "2024-25-actual",
+      "label": "2024–25 · Actual"
+    },
+    {
+      "id": "2025-26-be",
+      "label": "2025–26 · Budget estimate"
+    },
+    {
+      "id": "2025-26-re",
+      "label": "2025–26 · Revised estimate"
+    },
+    {
+      "id": "2026-27-be",
+      "label": "2026–27 · Budget estimate"
+    }
+  ],
+  "metrics": [
+    {
+      "id": "revenue-receipts",
+      "label": "Revenue receipts",
+      "values": [
+        16775.6,
+        21438.54,
+        22835.48,
+        23102.44
+      ]
+    },
+    {
+      "id": "own-tax",
+      "label": "Own tax revenue",
+      "values": [
+        1611.74,
+        1900.77,
+        1934.09,
+        2437.42
+      ]
+    },
+    {
+      "id": "central-taxes",
+      "label": "Share in central taxes",
+      "values": [
+        9214.14,
+        10184.7,
+        10038.7,
+        9554.36
+      ]
+    },
+    {
+      "id": "central-grants",
+      "label": "Grants from Centre",
+      "values": [
+        5473.21,
+        9051.21,
+        10412.69,
+        10660.66
+      ]
+    },
+    {
+      "id": "revenue-expenditure",
+      "label": "Revenue expenditure",
+      "values": [
+        15662.82,
+        19495.85,
+        20767.83,
+        19807.23
+      ]
+    },
+    {
+      "id": "capital-outlay",
+      "label": "Capital outlay",
+      "values": [
+        2704.23,
+        4040,
+        4761.22,
+        4716.32
+      ]
+    }
+  ],
+  "notes": [
+    "BE and RE are estimates, not expenditure achieved. A comparison between estimates does not measure delivery.",
+    "Capital outlay is shown separately from capital expenditure, which also includes debt repayments and other items.",
+    "These are aggregate state finances, not constituency-level service outcomes. Nominal values are not inflation adjusted."
+  ]
+}

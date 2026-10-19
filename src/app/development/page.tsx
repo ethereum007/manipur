@@ -1,3 +1,4 @@
+import {FiscalExplorer} from "@/components/fiscal-explorer";
 import { PageIntro } from "@/components/ui";
 import { DevelopmentExplorer } from "@/components/development-explorer";
 export const metadata = { title: "Economy & development" };
@@ -6,10 +7,10 @@ export default function Development() {
     <>
       <PageIntro
         label="ECONOMY & DEVELOPMENT"
-        title="A baseline, not the present."
+        title="The economy, with its dates intact."
         description="Reference-year indicators with estimate status, source vintage and gaps kept in view."
       />
-      <DevelopmentExplorer />
+      <FiscalExplorer /><DevelopmentExplorer />
     </>
   );
 }
