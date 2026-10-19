@@ -54,3 +54,10 @@ existing=[r for r in existing if r['year']!=2017]+accepted
 (out/'winners.json').write_text(json.dumps(winners,ensure_ascii=False,indent=2))
 report={'year':2017,'publishedContests':len(set(r['ac'] for r in accepted)),'candidacies':len(accepted),'winnerRegister':len(winners),'missingContests':[a for a in range(1,61) if a not in set(r['ac'] for r in accepted)],'issues':issues,'source':url,'method':'Candidate header order paired with Form 20 total-votes row; sums, NOTA/rejected/total and winning party reconciled. Source discrepancies withheld.'}
 (out/'normalization-report.json').write_text(json.dumps(report,indent=2));print(json.dumps(report),flush=True)
+
+unresolved=[]
+for i,page in enumerate(d):
+ text=page.get_text();m=re.search(r'FROM\\s+(\\d+)\\s*[-–]\\s*(.+?)\\s+ASSEMBLY CONSTITUENCY',text,re.I)
+ if m and int(m[1]) in report['missingContests']:
+  unresolved.append({'page':i+1,'ac':int(m[1]),'text':text})
+(out/'normalization-unresolved.json').write_text(json.dumps(unresolved,ensure_ascii=False,indent=2))
