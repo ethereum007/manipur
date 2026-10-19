@@ -1,0 +1,25 @@
+name: Preserve primary reports in GitHub release
+on:
+  workflow_dispatch:
+permissions:
+  actions: read
+  contents: write
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: primary-source-archive
+          run-id: 39230937221
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          path: data/raw
+      - name: Preserve original election publications
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          sha256sum data/raw/assembly-2012.pdf data/raw/assembly-2017.pdf data/raw/assembly-2022.pdf data/raw/parliament-2024.pdf > data/raw/SHA256SUMS.txt
+          gh release view primary-sources-2026-10-19 --repo ethereum007/manipur || gh release create primary-sources-2026-10-19 --repo ethereum007/manipur --title "Primary electoral source archive · 19 October 2026" --notes-file docs/research/SOURCE_ARCHIVE.md
+          gh release upload primary-sources-2026-10-19 --repo ethereum007/manipur data/raw/assembly-2012.pdf data/raw/assembly-2017.pdf data/raw/assembly-2022.pdf data/raw/parliament-2024.pdf data/raw/SHA256SUMS.txt --clobber
