@@ -1,0 +1,542 @@
+[
+  {
+    "year": 2017,
+    "ac": 1,
+    "name": "KHUNDRAKPAM",
+    "candidate": "THOKCHOM LOKESHWAR SINGH",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 2,
+    "name": "HEINGANG",
+    "candidate": "NONGTHOMBAM BIREN SINGH",
+    "party": "BJP",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 3,
+    "name": "KHURAI",
+    "candidate": "LEISHANGTHEM SUSINDRO MEITEI",
+    "party": "BJP",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 4,
+    "name": "KHETRIGAO",
+    "candidate": "NAHAKPAM INDRAJIT",
+    "party": "BJP",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 5,
+    "name": "THONGJU",
+    "candidate": "THONGAM BISWAJIT SINGH",
+    "party": "BJP",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 6,
+    "name": "KEIRAO",
+    "candidate": "LOUREMBAM RAMESHWOR MEETEI",
+    "party": "BJP",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 7,
+    "name": "ANDRO",
+    "candidate": "THOUNAOJAM SHYAMKUMAR",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 8,
+    "name": "LAMLAI",
+    "candidate": "KSHETRIMAYUM BIREN SINGH",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 9,
+    "name": "THANGMEIBAND",
+    "candidate": "KHUMUKCHAM JOYKISAN SINGH",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 10,
+    "name": "URIPOK",
+    "candidate": "YUMNAM JOYKUMAR SINGH",
+    "party": "NPP",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 11,
+    "name": "SAGOLBAND",
+    "candidate": "RAJKUMAR IMO SINGH",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 12,
+    "name": "KEISAMTHONG",
+    "candidate": "LANGPOKLAKPAM JAYANTAKUMAR SINGH",
+    "party": "NPP",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 13,
+    "name": "SINGJAMEI",
+    "candidate": "YUMNAM KHEMCHAND SINGH",
+    "party": "BJP",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 14,
+    "name": "YAISKUL",
+    "candidate": "THOKCHOM SATYABRATA SINGH",
+    "party": "BJP",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 15,
+    "name": "WANGKHEI",
+    "candidate": "OKRAM HENRY SINGH",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 16,
+    "name": "SEKMAI (SC)",
+    "candidate": "HEIKHAM DINGO SINGH",
+    "party": "BJP",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 17,
+    "name": "LAMSANG",
+    "candidate": "SOROKHAIBAM RAJEN SINGH",
+    "party": "BJP",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 18,
+    "name": "KONTHOUJAM",
+    "candidate": "DR. SAPAM RANJAN SINGH",
+    "party": "BJP",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 19,
+    "name": "PATSOI",
+    "candidate": "AKOIJAM MIRABAI DEVI",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 20,
+    "name": "LANGTHABAL",
+    "candidate": "KARAM SHYAM",
+    "party": "LJP",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 21,
+    "name": "NAORIYA PAKHANGLAKPA",
+    "candidate": "SOIBAM SUBHASCHANDRA SINGH",
+    "party": "BJP",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 22,
+    "name": "WANGOI",
+    "candidate": "OINAM LUKHOI SINGH",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 23,
+    "name": "MAYANG IMPHAL",
+    "candidate": "KONGKHAM ROBINDRO SINGH",
+    "party": "BJP",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 24,
+    "name": "NAMBOL",
+    "candidate": "NAMEIRAKPAM LOKEN SINGH",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 25,
+    "name": "OINAM",
+    "candidate": "LAISHRAM RADHAKISHORE SINGH",
+    "party": "BJP",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 26,
+    "name": "BISHENPUR",
+    "candidate": "KONTHOUJAM GOVINDAS",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 27,
+    "name": "MOIRANG",
+    "candidate": "PUKHREM SHARATCHANDRA SINGH",
+    "party": "BJP",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 28,
+    "name": "THANGA",
+    "candidate": "TONGBRAM ROBINDRO SINGH",
+    "party": "AITC",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 29,
+    "name": "KUMBI",
+    "candidate": "SANASAM BIRA SINGH",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 30,
+    "name": "LILONG",
+    "candidate": "MD. ABDUL NASIR",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 51
+  },
+  {
+    "year": 2017,
+    "ac": 31,
+    "name": "THOUBAL",
+    "candidate": "OKRAM IBOBI SINGH",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 32,
+    "name": "WANGKHEM",
+    "candidate": "KEISHAM MEGHACHANDRA SINGH",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 33,
+    "name": "HEIROK",
+    "candidate": "THOKCHOM RADHESHYAM SINGH",
+    "party": "BJP",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 34,
+    "name": "WANGJING TENTHA",
+    "candidate": "PAONAM BROJEN SINGH",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 35,
+    "name": "KHANGABOK",
+    "candidate": "SURJAKUMAR OKRAM",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 36,
+    "name": "WABGAI",
+    "candidate": "MD. FAJUR RAHIM",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 37,
+    "name": "KAKCHING",
+    "candidate": "YENGKHOM SURCHANDRA SINGH",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 38,
+    "name": "HIYANGLAM",
+    "candidate": "DR. RADHESHYAM YUMNAM",
+    "party": "BJP",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 39,
+    "name": "SUGNOO",
+    "candidate": "KANGUJAM RANJIT SINGH",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 40,
+    "name": "JIRIBAM",
+    "candidate": "ASHAB UDDIN",
+    "party": "IND",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 41,
+    "name": "CHANDEL (ST)",
+    "candidate": "LETPAO HAOKIP",
+    "party": "NPP",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 42,
+    "name": "TENGNOUPAL (ST)",
+    "candidate": "D. KORUNGTHANG",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 43,
+    "name": "PHUNGYAR (ST)",
+    "candidate": "K. LEISHIYO",
+    "party": "NPF",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 44,
+    "name": "UKHRUL (ST)",
+    "candidate": "ALFRED KANNGAM ARTHUR",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 45,
+    "name": "CHINGAI (ST)",
+    "candidate": "KHASHIM VASHUM",
+    "party": "NPF",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 46,
+    "name": "SAIKUL (ST)",
+    "candidate": "YAMTHONG HAOKIP",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 47,
+    "name": "KARONG (ST)",
+    "candidate": "D.D. THAISII",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 48,
+    "name": "MAO (ST)",
+    "candidate": "LOSII DIKHO",
+    "party": "NPF",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 49,
+    "name": "TADUBI (ST)",
+    "candidate": "N. KAYISII",
+    "party": "NPP",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 50,
+    "name": "KANGPOKPI",
+    "candidate": "NEMCHA KIPGEN",
+    "party": "BJP",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 51,
+    "name": "SAITU (ST)",
+    "candidate": "NGAMTHANG HAOKIP",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 52,
+    "name": "TAMEI (ST)",
+    "candidate": "AWANGBOW NEWMAI",
+    "party": "NPF",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 53,
+    "name": "TAMENGLONG (ST)",
+    "candidate": "SAMUEL JENDAI KAMEI",
+    "party": "BJP",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 54,
+    "name": "NUNGBA (ST)",
+    "candidate": "GAIKHANGAM",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 55,
+    "name": "TIPAIMUKH (ST)",
+    "candidate": "DR. CHALTONLIEN AMO",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 56,
+    "name": "THANLON (ST)",
+    "candidate": "VUNGZAGIN VALTE",
+    "party": "BJP",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 57,
+    "name": "HENGLEP (ST)",
+    "candidate": "T. THANGZALAM HAOKIP",
+    "party": "BJP",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 58,
+    "name": "CHURACHANDPUR (ST)",
+    "candidate": "V. HANGKHANLIAN",
+    "party": "BJP",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 59,
+    "name": "SAIKOT (ST)",
+    "candidate": "T. N. HAOKIP",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  },
+  {
+    "year": 2017,
+    "ac": 60,
+    "name": "SINGHAT (ST)",
+    "candidate": "GINSUANHAU",
+    "party": "INC",
+    "source": "assembly-2017",
+    "sourcePage": 52
+  }
+]
