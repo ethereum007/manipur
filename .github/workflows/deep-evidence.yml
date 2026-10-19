@@ -1,0 +1,28 @@
+name: Deep primary election evidence
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  acquire:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests beautifulsoup4 pymupdf
+      - run: python -u scripts/ingest/deep-evidence.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: deep-text-extracts
+          path: work-evidence/*.json
+          retention-days: 7
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: deep-primary-pdfs
+          path: work-evidence/*/*.pdf
+          retention-days: 7
