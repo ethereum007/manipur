@@ -57,7 +57,7 @@ report={'year':2017,'publishedContests':len(set(r['ac'] for r in accepted)),'can
 
 unresolved=[]
 for i,page in enumerate(d):
- text=page.get_text();m=re.search(r'FROM\\s+(\\d+)\\s*[-–]\\s*(.+?)\\s+ASSEMBLY CONSTITUENCY',text,re.I)
+ text=page.get_text();m=re.search(r'FROM\s+(\d+)\s*[-–]\s*(.+?)\s+ASSEMBLY CONSTITUENCY',text,re.I)
  if m and int(m[1]) in report['missingContests']:
   unresolved.append({'page':i+1,'ac':int(m[1]),'text':text})
 (out/'normalization-unresolved.json').write_text(json.dumps(unresolved,ensure_ascii=False,indent=2))
