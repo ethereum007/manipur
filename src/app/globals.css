@@ -2952,3 +2952,5 @@ thead th {
  .analysis-stat-grid span{min-width:0}
  .analysis-block .table-scroll::before,.deep-constituency .table-scroll::before{content:"Swipe or scroll to read the full table →";display:block;color:var(--gold);font-size:10px;letter-spacing:.04em;padding:10px 0 16px;position:sticky;left:0}
 }
+
+.analysis-verdict>.source-note{font-family:var(--sans);font-size:12px;line-height:1.7;color:var(--muted);margin-top:25px}.research-bottom>p.source-note{font-size:12px;line-height:1.7;color:var(--muted)}
