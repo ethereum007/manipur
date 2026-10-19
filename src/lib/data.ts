@@ -11,7 +11,8 @@ export const partyColors:Record<string,string> = { BJP:"#e9a16b",INC:"#76b9dc",N
 export const partyNames:Record<string,string>={BJP:"Bharatiya Janata Party",INC:"Indian National Congress",NPP:"National People's Party",NPF:"Naga People's Front","JD(U)":"Janata Dal (United)",IND:"Independent",KPA:"Kuki People's Alliance",AITC:"All India Trinamool Congress",LJP:"Lok Janshakti Party",MSCP:"Manipur State Congress Party",CPI:"Communist Party of India"};
 const names="Khundrakpam|Heingang|Khurai|Kshetrigao|Thongju|Keirao|Andro|Lamlai|Thangmeiband|Uripok|Sagolband|Keishamthong|Singjamei|Yaiskul|Wangkhei|Sekmai|Lamsang|Konthoujam|Patsoi|Langthabal|Naoriya Pakhanglakpa|Wangoi|Mayang Imphal|Nambol|Oinam|Bishnupur|Moirang|Thanga|Kumbi|Lilong|Thoubal|Wangkhem|Heirok|Wangjing Tentha|Khangabok|Wabgai|Kakching|Hiyanglam|Sugnu|Jiribam|Chandel|Tengnoupal|Phungyar|Ukhrul|Chingai|Saikul|Karong|Mao|Tadubi|Kangpokpi|Saitu|Tamei|Tamenglong|Nungba|Tipaimukh|Thanlon|Henglep|Churachandpur|Saikot|Singhat".split("|");
 export const constituencies=names.map((name,i)=>({id:i+1,name,slug:name.toLowerCase().replaceAll(" ","-"),reservation:i+1===16?"SC":i+1>=41&&i+1!==50?"ST":"GEN"}));
-export function contest(year:number,ac:number){return results.filter(r=>r.year===year&&r.ac===ac).sort((a,b)=>b.votes-a.votes)}
+const contests=new Map<string,Result[]>();for(const r of results){const key=r.year+"/"+r.ac;const group=contests.get(key)||[];group.push(r);contests.set(key,group)}for(const group of contests.values())group.sort((a,b)=>b.votes-a.votes);
+export function contest(year:number,ac:number){return contests.get(year+"/"+ac)||[]}
 export function winner(year:number,ac:number){return contest(year,ac)[0]}
 export const winnerRegister=winnerData as Omit<Result,"votes"|"rank"|"electors"|"nota">[];
 export function registeredWinner(year:number,ac:number){return winnerRegister.find(r=>r.year===year&&r.ac===ac)}
