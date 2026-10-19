@@ -5,7 +5,7 @@ root=Path(__file__).resolve().parents[2];out=root/'data/processed';out.mkdir(par
 url='https://ceomanipur.nic.in/StatisticalReport/AssemblyElection/statistical_report_2017.pdf'
 r=requests.get(url,timeout=180);r.raise_for_status();d=fitz.open(stream=r.content,filetype='pdf')
 party_map={'INDIAN NATIONAL CONGRESS':'INC','BHARATIYA JANATA PARTY':'BJP','NATIONAL PEOPLES PARTY':'NPP','NAGA PEOPLES FRONT':'NPF','LOK JAN SHAKTI PARTY':'LJP','ALL INDIA TRINAMOOL CONGRESS':'AITC','INDEPENDENT':'IND'}
-winners=[];records=[];issues=[]
+winners=[];records=[];issues=[];candidate_headers=[]
 for i,page in enumerate(d):
  text=page.get_text()
  if 'LIST OF SUCCESSFUL CANDIDATES' in text:
@@ -32,6 +32,8 @@ for i,page in enumerate(d):
     if match:
      candidates.append((match[1].strip(),code));pending=[];break
   candidates=list(dict.fromkeys(candidates))
+  for candidate,party in candidates:
+   candidate_headers.append({'year':2017,'ac':ac,'name':name,'candidate':candidate,'party':party.replace('CPM','CP(M)'),'source':'assembly-2017','sourcePage':i+1,'votes':None,'rank':None,'verification':'Source discrepancy; vote totals withheld'})
   tail=text.rsplit('Total votes polled',1)[1]
   nums=[int(x.replace(',','')) for x in re.findall(r'(?m)^\s*(\d[\d,]*)\s*$',tail)]
   n=len(candidates)
@@ -71,3 +73,12 @@ for i,page in enumerate(d):
 
 extra_pages=[{'page':i+1,'text':d[i].get_text()} for i in range(69,74)]
 (out/'uripok-source-audit.json').write_text(json.dumps(extra_pages,ensure_ascii=False,indent=2))
+
+accepted_by_key={(r['year'],r['ac'],r['candidate']):r for r in accepted}
+registry={}
+for r in candidate_headers:
+ key=(r['year'],r['ac'],r['candidate']);registry[key]=accepted_by_key.get(key,r)
+old_registry=json.loads((out/'candidate-register.json').read_text()) if (out/'candidate-register.json').exists() else []
+merged=[r for r in old_registry if r['year']!=2017]+list(registry.values())
+(out/'candidate-register.json').write_text(json.dumps(merged,ensure_ascii=False,indent=2))
+print('Indexed candidate names',len(registry),'published vote records',len(accepted),flush=True)

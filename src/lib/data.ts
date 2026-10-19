@@ -1,3 +1,4 @@
+import registryData from "../../data/processed/candidate-register.json";
 import records from "../../data/processed/results.json";
 import sources from "../../data/processed/sources.json";
 import winnerData from "../../data/processed/winners.json";
@@ -20,3 +21,6 @@ export function candidateSlug(r:Pick<Result,"candidate"|"year"|"ac">){return r.c
 export function number(n:number|null|undefined){return n==null?"Not available":n.toLocaleString("en-IN")}
 export const electionSource=(year:number)=>"https://ceomanipur.nic.in/StatisticalReport/AssemblyElection/"+({2012:"statistical_report_2012.pdf",2017:"statistical_report_2017.pdf",2022:"Statistical%20Report%202022.pdf"}[year]||"");
 export const directorySource="https://ceomanipur.nic.in/ResultSheets/StateLegislativeAssembly/2022/results";
+
+export type CandidateEntry=Omit<Result,"votes"|"rank"|"electors"|"nota">&{votes:number|null;rank:number|null;verification?:string};
+export const candidateIndex=(registryData.length?registryData:records) as CandidateEntry[];
