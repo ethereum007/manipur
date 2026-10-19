@@ -1,0 +1,1 @@
+"use client";export default function Error({reset}:{reset:()=>void}){return <section className="editorial-section"><h1>The page could not load.</h1><p>The source archive remains available. You can retry this view.</p><button className="compare-button" onClick={reset}>Try again</button></section>}
