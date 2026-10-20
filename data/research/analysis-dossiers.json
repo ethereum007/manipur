@@ -446,7 +446,7 @@
         "title": "Read local leads without inventing a forecast",
         "paragraphs": [
           "The 2024 explorer publishes all sixty segment leaders, exact vote leads, candidate shares and full candidate tables. Each constituency page links the original result sheet and places the observation beside its complete 2022 Assembly field. Local NOTA and rejected-ballot totals reconcile; complete constituency-level turnout and NOTA remain outside the reviewed aggregate record.",
-          "A cross-election difference cannot establish the reason for a win or a named 2027 favourite. A candidate’s explanation of public dissatisfaction is identified as an attributed claim. Constituency-specific voter motivation, current nominations and credible local opinion evidence remain incomplete. Public religion or community fields are sourced to self-description, with unknowns retained."
+          "A cross-election difference does not by itself establish why a candidate won or who will be a 2027 favourite. Contemporary reporting quoted analysts linking the Inner result to dissatisfaction with central leadership and confidence in Akoijam, while Outer accounts discussed representation and Arthur’s advocacy. These are attributed interpretations, not measured local causal effects or community-level vote-transfer estimates. Current nominations and credible local opinion evidence remain incomplete."
         ]
       }
     ],
@@ -465,6 +465,11 @@
         "title": "CEO Manipur · 2024 segment Form 20 index",
         "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/ge2024resultsheet",
         "locator": "All sixty ordinary segments; per-source SHA-256 and ballot reconciliation published in the dataset"
+      },
+      {
+        "title": "Scroll · contemporary post-election interviews",
+        "url": "https://amp.scroll.in/article/1068808/scroll_in",
+        "locator": "5 June 2024; attributed explanations, not a representative survey. Provisional article totals are not substituted for official final results."
       }
     ],
     "related": [
