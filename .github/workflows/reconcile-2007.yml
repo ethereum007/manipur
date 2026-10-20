@@ -11,7 +11,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+      - run: python scripts/ingest/test_reconcile_2007.py
       - run: python scripts/ingest/reconcile-2007.py
+      - run: pip install requests==2.34.2 pymupdf==2.0
+      - run: python scripts/ingest/render-2007-review.py
       - uses: actions/upload-artifact@v4
         with:
           name: assembly-2007-normalization
