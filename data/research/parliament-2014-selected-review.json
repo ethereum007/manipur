@@ -1,0 +1,204 @@
+{
+  "reviewedAt": "2026-10-21",
+  "method": "Codex selected original-page visual comparison; not independent human audit or all-station review",
+  "candidateColumns": {
+    "1": [
+      [
+        "Dr. Thokchom Meinya",
+        "INC"
+      ],
+      [
+        "Moirangthem Nara",
+        "CPI"
+      ],
+      [
+        "R. K. Ranjan Singh",
+        "BJP"
+      ],
+      [
+        "Sarangthem Manaobi",
+        "AITC"
+      ],
+      [
+        "Dr. Kh. Ibomcha Singh",
+        "AAP"
+      ],
+      [
+        "Oinam Jotin Singh",
+        "JMBP"
+      ],
+      [
+        "Dr. Gurumayum Tonsana Sharma",
+        "MDPF"
+      ],
+      [
+        "Indira Oinam",
+        "IND"
+      ]
+    ],
+    "2": [
+      [
+        "Kim Gangte",
+        "AITC"
+      ],
+      [
+        "Gangmumei Kamei",
+        "BJP"
+      ],
+      [
+        "Chungkhokai Doungel",
+        "NCP"
+      ],
+      [
+        "Thangso Baite",
+        "INC"
+      ],
+      [
+        "Soso Lorho",
+        "NPF"
+      ],
+      [
+        "M. Khamchinpau @ K. Zou",
+        "AAP"
+      ],
+      [
+        "Lamminlien @ Lien Gangte",
+        "JD(U)"
+      ],
+      [
+        "Amarson Sankhil",
+        "IND"
+      ],
+      [
+        "Mani Charenamei",
+        "IND"
+      ],
+      [
+        "Lamlalmoi @ Momoi Gangte",
+        "IND"
+      ]
+    ]
+  },
+  "footers": [
+    {
+      "ac": 1,
+      "candidateVotes": [
+        11809,
+        3761,
+        1618,
+        812,
+        36,
+        27,
+        130,
+        161
+      ],
+      "candidateSum": 18354,
+      "nota": 129,
+      "total": 18483,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/01.pdf",
+      "sha256": "e8bd8b301269bc2db1a3bcd210898067437cb0b0937b2a132be3604e02cc0e9f",
+      "page": 2,
+      "sourceRole": "indexed-segment"
+    },
+    {
+      "ac": 29,
+      "candidateVotes": [
+        10319,
+        4892,
+        1609,
+        647,
+        76,
+        22,
+        45,
+        179
+      ],
+      "candidateSum": 17789,
+      "nota": 82,
+      "total": 17871,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/29.pdf",
+      "sha256": "3ccb204f381385c7258140d4b3ee964e0ef87833f443a41b92d08f1dafb66933",
+      "page": 2,
+      "sourceRole": "indexed-segment"
+    },
+    {
+      "ac": 33,
+      "candidateVotes": [
+        143,
+        3264,
+        2020,
+        16826,
+        987,
+        30,
+        38,
+        16,
+        538,
+        38
+      ],
+      "candidateSum": 23900,
+      "nota": 196,
+      "total": 24096,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/33.pdf",
+      "sha256": "390b4af9479777f1caf28bb67a5dde0d699ee779fad153a9d36a5eac54c4d363",
+      "page": 2,
+      "sourceRole": "unlisted-diagnostic-probe"
+    },
+    {
+      "ac": 34,
+      "candidateVotes": [
+        219,
+        4525,
+        2021,
+        13251,
+        1208,
+        38,
+        12,
+        12,
+        1229,
+        29
+      ],
+      "candidateSum": 22544,
+      "nota": 261,
+      "total": 22805,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/34.pdf",
+      "sha256": "c563e02a8c3918bd89a077956404d0ed309e0e185158edbf7d266fac12a30cc2",
+      "page": 2,
+      "sourceRole": "indexed-segment"
+    },
+    {
+      "ac": 60,
+      "candidateVotes": [
+        179,
+        111,
+        2630,
+        13389,
+        2375,
+        730,
+        18,
+        11,
+        454,
+        14
+      ],
+      "candidateSum": 19911,
+      "nota": 27,
+      "total": 19938,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/60.pdf",
+      "sha256": "bb51be70505cf6e478c7f822a5122da3dd1c62bedd8f33e03c330e5b496bd1cb",
+      "page": 2,
+      "sourceRole": "indexed-segment"
+    }
+  ],
+  "labelDiscrepancy": {
+    "ac": 29,
+    "combinedPrintedLabel": "Moirang",
+    "individualHeader": "29 - Kumbi",
+    "individualSourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/29.pdf",
+    "headerPage": 1
+  },
+  "nativeCellException": {
+    "ac": 50,
+    "sourceColumn": 1,
+    "raw": ") 1236",
+    "value": 1236,
+    "reason": "Closing parenthesis from Kangpokpi (GEN) name overflows into first numeric cell; selected combined-page visual check confirms 1236."
+  }
+}
