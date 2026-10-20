@@ -292,3 +292,16 @@ test('policy notes preserve scope and show primary source locators on mobile',as
  await page.goto(base+'/policy/livelihoods/');await expect(page.locator('.policy-findings')).toContainText('opening SNA balances');await page.screenshot({path:info.outputPath('policy-livelihoods-mobile.png'),fullPage:true});expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();expect(errors).toEqual([]);
  const exportData=await request.get(base+'/data/representation-snapshot.json');expect(exportData.status()).toBe(200);expect((await exportData.json()).records).toHaveLength(60);
 });
+
+test('primary affidavit audit distinguishes access from manual field review',async({page,request},info)=>{
+ const base=process.env.NEXT_PUBLIC_BASE_PATH||'';
+ const response=await request.get(base+'/data/affidavit-availability-2022.json');expect(response.status()).toBe(200);const audit=await response.json();expect(audit.records).toHaveLength(265);expect(audit.manualAuditComplete).toBe(false);
+ await page.setViewportSize({width:1440,height:1000});await page.goto(base+'/analysis/disclosures/#primary-affidavits');
+ await expect(page.locator('#primary-affidavits')).toContainText('It did not run OCR');
+ await expect(page.locator('#primary-affidavits')).toContainText(audit.records.filter((r:{status:string})=>r.status==='pdf-opened').length+'/265');
+ await page.evaluate(()=>document.fonts.ready);await page.locator('#primary-affidavits').screenshot({path:info.outputPath('primary-affidavit-coverage-desktop.png')});
+ await page.setViewportSize({width:390,height:844});await page.locator('#primary-affidavits').screenshot({path:info.outputPath('primary-affidavit-coverage-mobile.png')});expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();
+ const available=audit.records.find((r:{status:string,candidate:string})=>r.status==='pdf-opened'&&!r.candidate.toLowerCase().includes('biren'));expect(available).toBeTruthy();await page.getByLabel('Candidate or constituency').fill(available.candidate);await page.locator('tbody th a').first().click();await expect(page.locator('.primary-affidavit-note')).toContainText('performs no manual field review or OCR');
+ await page.locator('.primary-affidavit-note summary').click();await expect(page.locator('.primary-affidavit-note')).toContainText('SHA-256');await page.locator('.primary-affidavit-note').screenshot({path:info.outputPath('primary-affidavit-profile-mobile.png')});expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();
+ await page.goto(base+'/candidates/nongthombam-biren-singh/');await expect(page.locator('.primary-affidavit-note')).toContainText('DOCUMENT AVAILABILITY');
+});

@@ -53,3 +53,6 @@ for s in segments:
 # Dated institutional and policy observations, with original-source scope intact.
 for filename in ['representation-snapshot.json','policy-evidence.json','public-evidence-audit.json']:
  (p/'data'/filename).write_text((root/'data/research'/filename).read_text(),encoding='utf-8')
+
+# Public metadata only: no PDF text, identifiers, addresses or signatures.
+(p/'data/affidavit-availability-2022.json').write_text((root/'data/research/affidavit-availability-2022.json').read_text(),encoding='utf-8')
