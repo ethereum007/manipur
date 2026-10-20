@@ -1,0 +1,1470 @@
+{
+  "protocolVersion": "1.0",
+  "reviewedAt": "2026-10-20",
+  "target": "Assembly election-day winning party code",
+  "kind": "Retrospective fixed-rule benchmark replay; not a prospective forecast",
+  "rules": {
+    "repeat": "Repeat the previous Assembly winning-party code for that seat; abstain for previous IND",
+    "statewide": "Predict the previous statewide largest party by Assembly seat count everywhere; alphabetic tie break",
+    "comparison": "Both benchmarks scored on the same non-IND-prior cohort; excluded seats remain visible",
+    "partyContinuity": "Literal source party codes; no assumed mergers, alliance pooling, defections or candidate identity matches"
+  },
+  "windows": [
+    {
+      "trainingYear": 2012,
+      "targetYear": 2017,
+      "statewideParty": "INC",
+      "totalSeats": 60,
+      "eligibleSeats": 60,
+      "excludedSeats": [],
+      "repeat": {
+        "correct": 23,
+        "total": 60,
+        "accuracy": 0.38333333333333336,
+        "confusion": [
+          {
+            "predicted": "INC",
+            "actual": "INC",
+            "count": 21
+          },
+          {
+            "predicted": "INC",
+            "actual": "BJP",
+            "count": 14
+          },
+          {
+            "predicted": "AITC",
+            "actual": "BJP",
+            "count": 4
+          },
+          {
+            "predicted": "AITC",
+            "actual": "INC",
+            "count": 3
+          },
+          {
+            "predicted": "INC",
+            "actual": "NPF",
+            "count": 3
+          },
+          {
+            "predicted": "MSCP",
+            "actual": "BJP",
+            "count": 3
+          },
+          {
+            "predicted": "INC",
+            "actual": "NPP",
+            "count": 2
+          },
+          {
+            "predicted": "MSCP",
+            "actual": "INC",
+            "count": 2
+          },
+          {
+            "predicted": "NPF",
+            "actual": "INC",
+            "count": 2
+          },
+          {
+            "predicted": "INC",
+            "actual": "AITC",
+            "count": 1
+          },
+          {
+            "predicted": "INC",
+            "actual": "IND",
+            "count": 1
+          },
+          {
+            "predicted": "LJP",
+            "actual": "LJP",
+            "count": 1
+          },
+          {
+            "predicted": "NCP",
+            "actual": "NPP",
+            "count": 1
+          },
+          {
+            "predicted": "NPF",
+            "actual": "NPF",
+            "count": 1
+          },
+          {
+            "predicted": "NPF",
+            "actual": "NPP",
+            "count": 1
+          }
+        ]
+      },
+      "statewide": {
+        "correct": 28,
+        "total": 60,
+        "accuracy": 0.4666666666666667,
+        "confusion": [
+          {
+            "predicted": "INC",
+            "actual": "INC",
+            "count": 28
+          },
+          {
+            "predicted": "INC",
+            "actual": "BJP",
+            "count": 21
+          },
+          {
+            "predicted": "INC",
+            "actual": "NPF",
+            "count": 4
+          },
+          {
+            "predicted": "INC",
+            "actual": "NPP",
+            "count": 4
+          },
+          {
+            "predicted": "INC",
+            "actual": "AITC",
+            "count": 1
+          },
+          {
+            "predicted": "INC",
+            "actual": "IND",
+            "count": 1
+          },
+          {
+            "predicted": "INC",
+            "actual": "LJP",
+            "count": 1
+          }
+        ]
+      },
+      "statewideFullCohort": {
+        "correct": 28,
+        "total": 60,
+        "accuracy": 0.4666666666666667,
+        "confusion": [
+          {
+            "predicted": "INC",
+            "actual": "INC",
+            "count": 28
+          },
+          {
+            "predicted": "INC",
+            "actual": "BJP",
+            "count": 21
+          },
+          {
+            "predicted": "INC",
+            "actual": "NPF",
+            "count": 4
+          },
+          {
+            "predicted": "INC",
+            "actual": "NPP",
+            "count": 4
+          },
+          {
+            "predicted": "INC",
+            "actual": "AITC",
+            "count": 1
+          },
+          {
+            "predicted": "INC",
+            "actual": "IND",
+            "count": 1
+          },
+          {
+            "predicted": "INC",
+            "actual": "LJP",
+            "count": 1
+          }
+        ]
+      },
+      "rows": [
+        {
+          "ac": 1,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 2,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 3,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 4,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 5,
+          "previousParty": "AITC",
+          "repeatParty": "AITC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 6,
+          "previousParty": "MSCP",
+          "repeatParty": "MSCP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 7,
+          "previousParty": "AITC",
+          "repeatParty": "AITC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 8,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 9,
+          "previousParty": "AITC",
+          "repeatParty": "AITC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 10,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "NPP"
+        },
+        {
+          "ac": 11,
+          "previousParty": "MSCP",
+          "repeatParty": "MSCP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 12,
+          "previousParty": "NCP",
+          "repeatParty": "NCP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "NPP"
+        },
+        {
+          "ac": 13,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 14,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 15,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 16,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 17,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 18,
+          "previousParty": "AITC",
+          "repeatParty": "AITC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 19,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 20,
+          "previousParty": "LJP",
+          "repeatParty": "LJP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "LJP"
+        },
+        {
+          "ac": 21,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 22,
+          "previousParty": "AITC",
+          "repeatParty": "AITC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 23,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 24,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 25,
+          "previousParty": "AITC",
+          "repeatParty": "AITC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 26,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 27,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 28,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "AITC"
+        },
+        {
+          "ac": 29,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 30,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 31,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 32,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 33,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 34,
+          "previousParty": "MSCP",
+          "repeatParty": "MSCP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 35,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 36,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 37,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 38,
+          "previousParty": "AITC",
+          "repeatParty": "AITC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 39,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 40,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "IND"
+        },
+        {
+          "ac": 41,
+          "previousParty": "NPF",
+          "repeatParty": "NPF",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "NPP"
+        },
+        {
+          "ac": 42,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 43,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "NPF"
+        },
+        {
+          "ac": 44,
+          "previousParty": "NPF",
+          "repeatParty": "NPF",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 45,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "NPF"
+        },
+        {
+          "ac": 46,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 47,
+          "previousParty": "NPF",
+          "repeatParty": "NPF",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 48,
+          "previousParty": "NPF",
+          "repeatParty": "NPF",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "NPF"
+        },
+        {
+          "ac": 49,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "NPP"
+        },
+        {
+          "ac": 50,
+          "previousParty": "MSCP",
+          "repeatParty": "MSCP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 51,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 52,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "NPF"
+        },
+        {
+          "ac": 53,
+          "previousParty": "MSCP",
+          "repeatParty": "MSCP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 54,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 55,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 56,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 57,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 58,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 59,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 60,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        }
+      ]
+    },
+    {
+      "trainingYear": 2017,
+      "targetYear": 2022,
+      "statewideParty": "INC",
+      "totalSeats": 60,
+      "eligibleSeats": 59,
+      "excludedSeats": [
+        {
+          "ac": 40,
+          "reason": "Previous IND category is not one continuous party or a verified cross-election person match"
+        }
+      ],
+      "repeat": {
+        "correct": 26,
+        "total": 59,
+        "accuracy": 0.4406779661016949,
+        "confusion": [
+          {
+            "predicted": "BJP",
+            "actual": "BJP",
+            "count": 16
+          },
+          {
+            "predicted": "INC",
+            "actual": "BJP",
+            "count": 12
+          },
+          {
+            "predicted": "INC",
+            "actual": "INC",
+            "count": 5
+          },
+          {
+            "predicted": "BJP",
+            "actual": "NPP",
+            "count": 4
+          },
+          {
+            "predicted": "INC",
+            "actual": "JD(U)",
+            "count": 4
+          },
+          {
+            "predicted": "NPF",
+            "actual": "NPF",
+            "count": 4
+          },
+          {
+            "predicted": "INC",
+            "actual": "IND",
+            "count": 2
+          },
+          {
+            "predicted": "INC",
+            "actual": "KPA",
+            "count": 2
+          },
+          {
+            "predicted": "INC",
+            "actual": "NPP",
+            "count": 2
+          },
+          {
+            "predicted": "NPP",
+            "actual": "BJP",
+            "count": 2
+          },
+          {
+            "predicted": "AITC",
+            "actual": "BJP",
+            "count": 1
+          },
+          {
+            "predicted": "BJP",
+            "actual": "JD(U)",
+            "count": 1
+          },
+          {
+            "predicted": "INC",
+            "actual": "NPF",
+            "count": 1
+          },
+          {
+            "predicted": "LJP",
+            "actual": "BJP",
+            "count": 1
+          },
+          {
+            "predicted": "NPP",
+            "actual": "IND",
+            "count": 1
+          },
+          {
+            "predicted": "NPP",
+            "actual": "NPP",
+            "count": 1
+          }
+        ]
+      },
+      "statewide": {
+        "correct": 5,
+        "total": 59,
+        "accuracy": 0.0847457627118644,
+        "confusion": [
+          {
+            "predicted": "INC",
+            "actual": "BJP",
+            "count": 32
+          },
+          {
+            "predicted": "INC",
+            "actual": "NPP",
+            "count": 7
+          },
+          {
+            "predicted": "INC",
+            "actual": "INC",
+            "count": 5
+          },
+          {
+            "predicted": "INC",
+            "actual": "JD(U)",
+            "count": 5
+          },
+          {
+            "predicted": "INC",
+            "actual": "NPF",
+            "count": 5
+          },
+          {
+            "predicted": "INC",
+            "actual": "IND",
+            "count": 3
+          },
+          {
+            "predicted": "INC",
+            "actual": "KPA",
+            "count": 2
+          }
+        ]
+      },
+      "statewideFullCohort": {
+        "correct": 5,
+        "total": 60,
+        "accuracy": 0.08333333333333333,
+        "confusion": [
+          {
+            "predicted": "INC",
+            "actual": "BJP",
+            "count": 32
+          },
+          {
+            "predicted": "INC",
+            "actual": "NPP",
+            "count": 7
+          },
+          {
+            "predicted": "INC",
+            "actual": "JD(U)",
+            "count": 6
+          },
+          {
+            "predicted": "INC",
+            "actual": "INC",
+            "count": 5
+          },
+          {
+            "predicted": "INC",
+            "actual": "NPF",
+            "count": 5
+          },
+          {
+            "predicted": "INC",
+            "actual": "IND",
+            "count": 3
+          },
+          {
+            "predicted": "INC",
+            "actual": "KPA",
+            "count": 2
+          }
+        ]
+      },
+      "rows": [
+        {
+          "ac": 1,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 2,
+          "previousParty": "BJP",
+          "repeatParty": "BJP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 3,
+          "previousParty": "BJP",
+          "repeatParty": "BJP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 4,
+          "previousParty": "BJP",
+          "repeatParty": "BJP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "NPP"
+        },
+        {
+          "ac": 5,
+          "previousParty": "BJP",
+          "repeatParty": "BJP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 6,
+          "previousParty": "BJP",
+          "repeatParty": "BJP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 7,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 8,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 9,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "JD(U)"
+        },
+        {
+          "ac": 10,
+          "previousParty": "NPP",
+          "repeatParty": "NPP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 11,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 12,
+          "previousParty": "NPP",
+          "repeatParty": "NPP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "IND"
+        },
+        {
+          "ac": 13,
+          "previousParty": "BJP",
+          "repeatParty": "BJP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 14,
+          "previousParty": "BJP",
+          "repeatParty": "BJP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 15,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "JD(U)"
+        },
+        {
+          "ac": 16,
+          "previousParty": "BJP",
+          "repeatParty": "BJP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 17,
+          "previousParty": "BJP",
+          "repeatParty": "BJP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 18,
+          "previousParty": "BJP",
+          "repeatParty": "BJP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 19,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 20,
+          "previousParty": "LJP",
+          "repeatParty": "LJP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 21,
+          "previousParty": "BJP",
+          "repeatParty": "BJP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 22,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "NPP"
+        },
+        {
+          "ac": 23,
+          "previousParty": "BJP",
+          "repeatParty": "BJP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 24,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 25,
+          "previousParty": "BJP",
+          "repeatParty": "BJP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "NPP"
+        },
+        {
+          "ac": 26,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 27,
+          "previousParty": "BJP",
+          "repeatParty": "BJP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "NPP"
+        },
+        {
+          "ac": 28,
+          "previousParty": "AITC",
+          "repeatParty": "AITC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 29,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 30,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "JD(U)"
+        },
+        {
+          "ac": 31,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 32,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 33,
+          "previousParty": "BJP",
+          "repeatParty": "BJP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 34,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 35,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 36,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 37,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "NPP"
+        },
+        {
+          "ac": 38,
+          "previousParty": "BJP",
+          "repeatParty": "BJP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 39,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 40,
+          "previousParty": "IND",
+          "repeatParty": null,
+          "statewideParty": "INC",
+          "eligible": false,
+          "exclusion": "Previous IND category is not one continuous party or a verified cross-election person match",
+          "actualParty": "JD(U)"
+        },
+        {
+          "ac": 41,
+          "previousParty": "NPP",
+          "repeatParty": "NPP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 42,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 43,
+          "previousParty": "NPF",
+          "repeatParty": "NPF",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "NPF"
+        },
+        {
+          "ac": 44,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "NPF"
+        },
+        {
+          "ac": 45,
+          "previousParty": "NPF",
+          "repeatParty": "NPF",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "NPF"
+        },
+        {
+          "ac": 46,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "KPA"
+        },
+        {
+          "ac": 47,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "IND"
+        },
+        {
+          "ac": 48,
+          "previousParty": "NPF",
+          "repeatParty": "NPF",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "NPF"
+        },
+        {
+          "ac": 49,
+          "previousParty": "NPP",
+          "repeatParty": "NPP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "NPP"
+        },
+        {
+          "ac": 50,
+          "previousParty": "BJP",
+          "repeatParty": "BJP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 51,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "IND"
+        },
+        {
+          "ac": 52,
+          "previousParty": "NPF",
+          "repeatParty": "NPF",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "NPF"
+        },
+        {
+          "ac": 53,
+          "previousParty": "BJP",
+          "repeatParty": "BJP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "NPP"
+        },
+        {
+          "ac": 54,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 55,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "JD(U)"
+        },
+        {
+          "ac": 56,
+          "previousParty": "BJP",
+          "repeatParty": "BJP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 57,
+          "previousParty": "BJP",
+          "repeatParty": "BJP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 58,
+          "previousParty": "BJP",
+          "repeatParty": "BJP",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "JD(U)"
+        },
+        {
+          "ac": 59,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 60,
+          "previousParty": "INC",
+          "repeatParty": "INC",
+          "statewideParty": "INC",
+          "eligible": true,
+          "exclusion": null,
+          "actualParty": "KPA"
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "Only two Assembly transitions; correlated constituencies are not independent repeated elections.",
+    "Rules are replayed retrospectively after outcomes are known, not prospectively pre-registered predictions.",
+    "No probabilities, calibration scores or 2027 predictions are produced.",
+    "The 2024 Parliamentary election is not substituted for an Assembly target.",
+    "Winner-only registers cover all sixty seats, including the 2017 AC21 winner whose full candidate contest remains withheld.",
+    "Current party affiliations, alliances, candidate choices, polls, turnout and post-2022 events are not model inputs."
+  ],
+  "input": {
+    "path": "data/processed/winners.json",
+    "sha256": "cba5b2aec5f6018cb7ce3a3fd2ddca30f66c8b74de9bc2a6ffb8852897432803",
+    "sourceRegister": "https://github.com/ethereum007/manipur/blob/main/data/processed/sources.json",
+    "winnerRegister": "https://github.com/ethereum007/manipur/blob/main/data/processed/winners.json"
+  }
+}

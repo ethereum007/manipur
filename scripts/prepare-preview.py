@@ -59,3 +59,6 @@ for filename in ['representation-snapshot.json','policy-evidence.json','public-e
 
 # Selected primary field observations; no raw affidavit text or identifiers.
 (p/'data/disclosure-field-reviews-2022.json').write_text((root/'data/research/disclosure-field-reviews-2022.json').read_text(),encoding='utf-8')
+
+# Dated forecast-research gates; historical replay report is recomputed separately.
+(p/'data/forecast-readiness.json').write_text((root/'data/research/forecast-readiness.json').read_text(),encoding='utf-8')

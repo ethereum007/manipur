@@ -10,6 +10,7 @@ export default function Outlook() {
         title="Evidence. Assumptions. Uncertainty."
         description="Explore five neutral scenarios. None is assigned a probability, a seat prediction or a campaign recommendation."
       />
+      <section className="analysis-block"><p className="eyebrow">NEW / FORECAST RESEARCH</p><h2>Test the method<br/><em>before trusting the number.</em></h2><p className="lead">Replay two historical Assembly benchmarks, inspect every seat-level miss, and examine the evidence still needed for a 2027 probability model.</p><p>The repeat-winning-party rule matches 23/60 outcomes in 2017 and 26/59 comparable outcomes in 2022. Historical agreement is not a probability of future victory.</p><Link className="primary-link" href="/outlook/validation">Open the forecast validation lab <span>↗</span></Link></section>
       <ScenarioExplorer />
       <section className="profile-section">
         <h2>
@@ -31,10 +32,7 @@ export default function Outlook() {
             administration remain important uncertainties.
           </p>
           <p>
-            Research priorities: reconcile complete candidate records, date
-            party switches separately, index official 2024 Assembly-segment
-            results, and document current public-service and humanitarian
-            conditions.
+            Research priorities: date nomination, affiliation and alliance evidence; extend Assembly evaluation history; test prospective model assumptions; and document local public-service conditions. All sixty 2024 ordinary Parliamentary segments are already indexed separately.
           </p>
         </div>
       </section>

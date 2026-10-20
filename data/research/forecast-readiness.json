@@ -1,0 +1,46 @@
+{
+  "reviewedAt": "2026-10-20",
+  "publicationStatus": "Historical benchmark research only; calibrated 2027 probability model unavailable",
+  "gates": [
+    {
+      "name": "Historical Assembly targets",
+      "status": "available",
+      "evidence": "Independent winning-party register: 60 seats for each of 2012, 2017 and 2022. Full candidate contest coverage is a separate dataset."
+    },
+    {
+      "name": "Reproducible reference rules",
+      "status": "available",
+      "evidence": "Two retrospective transitions, fixed prior-party and statewide-seat-leader rules, same-cohort comparison and seat-level errors."
+    },
+    {
+      "name": "Dated current membership",
+      "status": "partial",
+      "evidence": "All 60 official-directory entries captured; individual effective dates are not supplied. Directory labels are not certified current membership."
+    },
+    {
+      "name": "2027 candidate and alliance inputs",
+      "status": "not-ready",
+      "evidence": "No complete verified, dated nomination and alliance dataset is indexed. Missing information is not an assumption that no announcements exist."
+    },
+    {
+      "name": "Representative opinion inputs",
+      "status": "not-ready",
+      "evidence": "No sufficiently reviewed representative constituency-level opinion dataset is included."
+    },
+    {
+      "name": "Additional independent evaluation windows",
+      "status": "partial",
+      "evidence": "Only two Assembly transitions are available here. Seats within an election are correlated; do not interpret 119 comparable rows as 119 independent elections."
+    },
+    {
+      "name": "Probability estimation and calibration",
+      "status": "not-ready",
+      "evidence": "No fitted 2027 probability model, held-out calibration or uncertainty validation is published. Deterministic benchmark hit rates are not win probabilities."
+    },
+    {
+      "name": "Prospective evaluation record",
+      "status": "not-ready",
+      "evidence": "These rules were replayed after outcomes were known. They were not pre-registered election predictions."
+    }
+  ]
+}
