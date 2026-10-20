@@ -37,6 +37,7 @@ jobs:
       - run: python scripts/prepare-preview.py
       - run: npm ci
       - run: node scripts/ingest/index-candidates-2022.mjs
+      - run: node scripts/ingest/reconcile-registry.mjs
       - run: node scripts/validate-data.mjs
       - run: npm test
       - run: npm run build

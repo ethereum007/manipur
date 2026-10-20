@@ -82,6 +82,10 @@ const registry = JSON.parse(fs.readFileSync('data/processed/candidate-register.j
 for (const [year,count] of [[2012,60],[2017,59],[2022,60]]) assert.equal([...groups.keys()].filter(k=>k.startsWith(year+'/')).length,count,'Coverage regression '+year);
 for(const [id,g] of groups){const top=[...g].sort((a,b)=>b.votes-a.votes)[0];assert.equal(top.party,winners.find(w=>w.year===top.year&&w.ac===top.ac)?.party,'Independent winner mismatch '+id);}
 for(const r of records.filter(r=>r.sourceUrl)){assert(/^https:\/\/ceomanipur\.nic\.in\//.test(r.sourceUrl));assert(/^[a-f0-9]{64}$/.test(r.sourceSha256));}
+const candidateKey=r=>[r.year,r.ac,r.candidate.toLowerCase().replace(/[^a-z0-9]/g,'')].join('/');
+assert.equal(new Set(registry.map(candidateKey)).size,registry.length,'Directory duplicate');
+assert.equal(registry.length,810,'Directory coverage regression');
+for(const r of records)assert(registry.some(c=>candidateKey(c)===candidateKey(r)&&c.party===r.party&&c.votes===r.votes),'Result-directory mismatch');
 assert.equal(disclosures.records.length,265);assert.equal(new Set(disclosures.records.map(r=>r.ac+'/'+r.registryCandidate)).size,265);
 for(const r of disclosures.records){assert(registry.some(c=>c.year===2022&&c.ac===r.ac&&c.candidate===r.registryCandidate&&c.party===r.party),'Unmatched disclosure');for(const key of ['assets','liabilities','declaredCases'])assert(Number.isSafeInteger(r[key])&&r[key]>=0);if(r.assetsSourceText==='Nil')assert.equal(r.assets,0);}
 assert.equal(segments.segments.length,60);assert.equal(new Set(segments.segments.map(s=>s.ac)).size,60);

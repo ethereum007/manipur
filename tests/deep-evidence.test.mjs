@@ -42,3 +42,11 @@ test('special-station groups reconcile separately and are never extra Assembly s
  assert.equal(segments.reconciliation[0].candidates.reduce((n,c)=>n+c.unallocatedAfterSpecialStations,0),6895);
  assert.equal(segments.reconciliation[1].candidates.reduce((n,c)=>n+c.unallocatedAfterSpecialStations,0),4797);
 });
+
+test('directory has one election-scoped entry per candidacy and agrees with every result',()=>{
+ const key=r=>[r.year,r.ac,r.candidate.toLowerCase().replace(/[^a-z0-9]/g,'')].join('/');
+ assert.equal(registry.length,810);assert.equal(new Set(registry.map(key)).size,810);
+ for(const r of results)assert(registry.some(c=>key(c)===key(r)&&c.votes===r.votes&&c.party===r.party));
+ assert.equal(registry.filter(r=>r.votes===null).length,6);
+ assert(registry.filter(r=>r.votes===null).every(r=>r.year===2017&&r.ac===21));
+});
