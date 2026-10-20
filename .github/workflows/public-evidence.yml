@@ -1,0 +1,22 @@
+name: Review public policy source evidence
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests beautifulsoup4 pymupdf
+      - run: python scripts/ingest/public-evidence.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: public-policy-evidence
+          path: work-public-evidence
+          retention-days: 7
