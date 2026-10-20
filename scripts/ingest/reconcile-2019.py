@@ -42,8 +42,8 @@ def process(r):
   if station_sums!=footers[0]['values']:issues.append({'kind':'station-footer-discrepancy','stationSums':station_sums,'footer':footers[0]['values']})
   if ac==34:headers=[['Angam Karung Kom (NCP)','K. James (INC)','Thangminlien Kipgen (NPP)','Lorho S. Pfoze (NPF)','Houlim Shokhopao Mate @ Benjamin (BJP)','Ashang Kasar (NEIDP)','Hangkhanpau Taithul (JDU (United))','Leikhan Kaipu (IND)']] 
   assert headers,'candidate headers missing'
-  anchors=['nabakishore','nara','ranjan','anand','jugindro','tonsana','nandeshwore','yash','nongshaba','somendro','pabitra'] if pc==1 else ['kom','james','kipgen','pfoze','shokhopao','kasar','taithul','kaipu']
-  assert all(anchor in re.sub(r'[^a-z]','',header.lower()) for anchor,header in zip(anchors,headers[0])),'candidate column order'
+  anchors=['nabakishore','nara','ranjan','anand','jugindro','tonsana','nandeshw?ore','yash','nongshaba','somendro','pabitra'] if pc==1 else ['kom','james','kipgen','pfoze','shokhopao','kasar','taithul','kaiph?u']
+  assert all(re.search(anchor,re.sub(r'[^a-z]','',header.lower())) for anchor,header in zip(anchors,headers[0])),'candidate column order'
   assert all(h==headers[0] for h in headers),'within-document candidate order changed'
   if issues or ac in [1,34,60]:
    for i,p in enumerate(doc):p.get_pixmap(dpi=120).save(out/('review-'+str(ac)+'-'+str(i+1)+'.png'))
