@@ -41,11 +41,11 @@ jobs:
       - run: node scripts/validate-data.mjs
       - run: npm test
       - run: npm run build
-      - run: python scripts/audit-static-site.py
       - run: npx playwright install --with-deps chromium
       - run: npm run test:e2e
       - run: pip install pymupdf
       - run: python scripts/verify-briefing.py
+      - run: python scripts/audit-static-site.py
       - uses: actions/upload-artifact@v4
         if: always()
         with:
