@@ -65,3 +65,6 @@ for filename in ['representation-snapshot.json','policy-evidence.json','public-e
 
 # Acquisition evidence remains distinct from normalized model inputs.
 (p/'data/historical-parliament-sources.json').write_text((root/'data/research/historical-parliament-sources.json').read_text(),encoding='utf-8')
+
+# Partial historical numerical audit preserves known official-source conflicts.
+(p/'data/parliament-segments-2019.json').write_text((root/'data/research/parliament-segments-2019.json').read_text(),encoding='utf-8')
