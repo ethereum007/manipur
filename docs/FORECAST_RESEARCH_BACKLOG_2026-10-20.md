@@ -25,3 +25,9 @@ All project files, acquisition, processing, tests and screenshots in GitHub only
 ## Step 1 delivered
 
 The 60-seat, 12-slot input register is deployed with three explicit missing 2027 input sets, source provenance, conservative capture-vintage checks and vacancy semantics. See FORECAST_INPUTS_QA_2026-10-20.md. Thirty data tests and eighteen browser tests passed; screenshots and production verified. This does not authorize automatic model feature inclusion or establish calibration. Step 2 is the next primary research task. Hourly cadence remains ACTIVE.
+
+## Step 2 source recovery delivered
+
+2014/2019 source acquisition recovered 124 unique official PDF URLs (125 index/combined/diagnostic references), all opened and archived in GitHub Releases. Native text detected for all 60 indexed 2019 sources and none of the 2014 segment sources. The 2014 AC33 Heirok index mistakenly points to AC34; separate 33.pdf and 34.pdf headers were visually verified without conflating the records. Source availability is not numerical normalization. See HISTORICAL_PARLIAMENT_QA_2026-10-20.md.
+
+Next concrete batch: 2019 native table normalization across all sixty segments, with two independently checked Parliamentary candidate column maps, arithmetic reconciliation, separate non-ordinary residuals and selected header/footer visual review. Do not publish derived local leaders or margins until those checks pass. Then address 2014 OCR with the preserved mapping exception. Existing Assembly benchmark targets remain unchanged; Parliamentary data can only be separately dated context.
