@@ -30,3 +30,9 @@ All 265 official 2022 affidavits retrieved and opened in GitHub: 4,799 pages; 26
 ## Selected original financial cells — 20 October 2026
 
 Three candidate records now have visually compared primary financial-summary observations, with six field notes and precise PDF page/hash locators. Two ADR Nil records have N/A primary wording; primary numeric fields stay null. Biren selected summary cells yield a ₹1.23 difference from ADR; the cause stays unresolved. Reviewed liability summary agrees. Coverage and limitations are explicit; the other 262 candidates have no field review in this register. Release verified with 23 data tests, 16 browser tests, five-page PDF and 30,746 internal-reference checks. See docs/SELECTED_FIELD_QA_2026-10-20.md.
+
+## Predictive readiness foundation — 20 October 2026
+
+Historical forecast validation lab deployed at /outlook/validation. Two prior-only benchmark rules are replayed over 2012→2017 and 2017→2022 with all seat-level outputs, misses, confusion counts, exclusion rules and input fingerprints. Repeat-party results: 23/60 and 26/59 comparable seats; prior statewide seat-leader results: 28/60 and 5/59. AC40 prior independent is excluded from both comparison scores, not silently treated as party/person continuity. No 2027 probability or calibrated forecast is claimed.
+
+User priority is now predictive readiness plus continued overall quality. Hourly cadence remains ACTIVE. Next: dated sixty-seat feature inventory and historical-input coverage. See docs/FORECAST_RESEARCH_BACKLOG_2026-10-20.md. Final release passed 27 data tests, 17 browser tests, five-page PDF and 30,903 internal-reference checks across 908 HTML pages. Mobile filter defect was corrected and screenshots reviewed. See docs/FORECAST_VALIDATION_QA_2026-10-20.md.

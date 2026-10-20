@@ -21,3 +21,7 @@ Do not publish extracted affidavit addresses, contact details, bank/PAN/voter id
 Step 3 advanced: three candidate financial-summary comparisons, six field observations, original PDF page/hash locators. Two secondary Nil values have primary N/A wording; no primary numeric zero inferred. Biren selected asset cells sum ₹1.23 above ADR, unresolved; reviewed liability total agrees. Other 262 candidates remain unreviewed in this field register. See SELECTED_FIELD_QA_2026-10-20.md.
 
 Next bounded batch: original-page case-declaration observations for these three records, then five additional candidates among ADR case-declaring records; compare scope with the official compiled 56 count before proposing an explanation. Do not add raw personal text or infer current case status. Complete Popilal current-market asset-page coverage separately. Cadence remains active.
+
+## User priority update — predictive readiness
+
+The user now prioritizes forecasting readiness while asking continued quality across the product. The historical validation lab is deployed; see FORECAST_VALIDATION_QA_2026-10-20.md. FORECAST_RESEARCH_BACKLOG_2026-10-20.md now defines the primary next phases, beginning with a dated sixty-seat feature inventory. The disclosure/case batches above remain a secondary track. Hourly continuation remains active.
