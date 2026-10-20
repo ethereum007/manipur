@@ -11,7 +11,7 @@ Scope: a usable, source-led statewide research platform; unavailable evidence is
 - [x] Public downloads, source register, research desk and five-page briefing available.
 - [x] Full-export internal link, asset, download and section-anchor audit passes: 907 exported HTML pages; 30,474 local references; zero errors.
 - [x] Final data/browser/PDF checks and production smoke verification pass for this release: 18 data tests, 14 browser tests, five-page PDF; homepage/register/policy/PDF HTTPS 200.
-- [ ] Final QA receipt records unresolved evidence limitations; completion cadence disabled.
+- [x] Final QA receipt records unresolved evidence limitations; completion cadence disabled (paused on 20 October 2026 after production verification).
 
 ## Evidence that cannot be replaced by product development
 
