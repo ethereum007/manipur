@@ -1,0 +1,133 @@
+{
+  "reviewedAt": "2026-10-21",
+  "reviewScope": "Selected combined original page 1 visual transcription of ordinary, explicitly labelled postal and grand totals; not an independent human audit. Candidate labels in normalized output remain source-native headers.",
+  "sources": [
+    {
+      "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/Inner%20Manipur%20PC%20Result%20Sheet.pdf",
+      "sha256": "10eb213fb75b505510575da9fa3af1b9ef05561d0037db091958e95a56645c01",
+      "page": 1
+    },
+    {
+      "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/Outer%20Manipur%20PC%20Result%20Sheet.pdf",
+      "sha256": "2b850c8e223c5adeee47a8635e286f44249fc018ddb1f42d4cf6c515601e5707",
+      "page": 1
+    }
+  ],
+  "parliamentaryTotals": {
+    "1": {
+      "ordinary": {
+        "votes": [
+          244972,
+          133093,
+          261802,
+          24938,
+          1755,
+          1245,
+          739,
+          468,
+          960,
+          80566,
+          1465
+        ],
+        "valid": 752003,
+        "rejected": 0,
+        "nota": 2570,
+        "total": 754573,
+        "tendered": 2
+      },
+      "postal": {
+        "votes": [
+          905,
+          720,
+          1830,
+          72,
+          28,
+          11,
+          8,
+          24,
+          13,
+          1068,
+          5
+        ],
+        "valid": 4684,
+        "rejected": 1155,
+        "nota": 44,
+        "total": 5883,
+        "tendered": 0
+      },
+      "grand": {
+        "votes": [
+          245877,
+          133813,
+          263632,
+          25010,
+          1783,
+          1256,
+          747,
+          492,
+          973,
+          81634,
+          1470
+        ],
+        "valid": 756687,
+        "rejected": 1155,
+        "nota": 2614,
+        "total": 760456,
+        "tendered": 2
+      }
+    },
+    "2": {
+      "ordinary": {
+        "votes": [
+          2145,
+          151103,
+          30261,
+          362707,
+          287058,
+          12081,
+          2879,
+          933
+        ],
+        "valid": 849167,
+        "rejected": 0,
+        "nota": 2668,
+        "total": 851835,
+        "tendered": 0
+      },
+      "postal": {
+        "votes": [
+          407,
+          1407,
+          465,
+          820,
+          2687,
+          130,
+          108,
+          63
+        ],
+        "valid": 6087,
+        "rejected": 1966,
+        "nota": 107,
+        "total": 8160,
+        "tendered": 0
+      },
+      "grand": {
+        "votes": [
+          2552,
+          152510,
+          30726,
+          363527,
+          289745,
+          12211,
+          2987,
+          996
+        ],
+        "valid": 855254,
+        "rejected": 1966,
+        "nota": 2775,
+        "total": 859995,
+        "tendered": 0
+      }
+    }
+  }
+}
