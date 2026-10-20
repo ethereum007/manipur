@@ -1,0 +1,21 @@
+name: Review 2019 context source header
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests==2.34.2 pymupdf==2.0
+      - run: python scripts/ingest/review-context-header.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: context-source-header-review
+          path: work-context-review/
+          retention-days: 14
