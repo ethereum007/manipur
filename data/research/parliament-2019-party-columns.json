@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "fixedAt": "2026-10-21",
+  "scope": "Election-scoped source-column party codes for the 2019 official segment sheets; original native headers retained. No cross-election candidate identity or party merger inferred.",
+  "sources": [
+    {
+      "pc": 1,
+      "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/01.pdf",
+      "sha256": "06a5737bc6315db90d242b00d38b2ec65d8aa8d4ad12670930e99d9a0315f58a",
+      "page": 1,
+      "parties": [
+        "INC",
+        "CPI",
+        "BJP",
+        "NEIDP",
+        "MPP",
+        "MDPF",
+        "RJSP",
+        "IND",
+        "IND",
+        "IND",
+        "IND"
+      ]
+    },
+    {
+      "pc": 2,
+      "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/60.pdf",
+      "sha256": "480667e1eca58f9b5dfe6ae1e0e6c214e45df293bfc874638301c0f1713e7298",
+      "page": 1,
+      "parties": [
+        "NCP",
+        "INC",
+        "NPP",
+        "NPF",
+        "BJP",
+        "NEIDP",
+        "JD(U)",
+        "IND"
+      ]
+    }
+  ],
+  "punctuationNote": "JD(U), JDU (United) and (United)(JD(U)) are source-header punctuation/name renderings of the same explicitly named party in selected sheets; retained as JD(U). No merger, alliance or defection alias is applied. Other source codes remain literal, including RJSP."
+}
