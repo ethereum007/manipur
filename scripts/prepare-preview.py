@@ -68,3 +68,6 @@ for filename in ['representation-snapshot.json','policy-evidence.json','public-e
 
 # Partial historical numerical audit preserves known official-source conflicts.
 (p/'data/parliament-segments-2019.json').write_text((root/'data/research/parliament-segments-2019.json').read_text(),encoding='utf-8')
+
+# Official 2014 combined-sheet normalization; selected scan review is separately scoped.
+(p/'data/parliament-segments-2014.json').write_text((root/'data/research/parliament-segments-2014.json').read_text(),encoding='utf-8')

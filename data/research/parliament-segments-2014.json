@@ -1,0 +1,6812 @@
+{
+  "year": 2014,
+  "electionType": "Parliamentary",
+  "processedAt": "2026-10-20T20:25:45.190521+00:00",
+  "cloudRun": "https://github.com/ethereum007/manipur/actions/runs/39491833129",
+  "scope": "60 ordinary segment rows from two official combined sheets. Numerical within-source reconciliation; five selected scanned footer comparisons. Not a 60-document station audit, Assembly target, original publication-time proof or approved forecast feature.",
+  "accountingConvention": "Combined printed valid totals include NOTA; normalized candidateVotes excludes NOTA. Individual scanned Form20 footers separate candidate-valid votes and NOTA.",
+  "combinedNormalizationComplete": true,
+  "allIndividualStationAuditsComplete": false,
+  "segments": [
+    {
+      "year": 2014,
+      "ac": 1,
+      "name": "Khundrakpam",
+      "sourceLabel": "Kundrakpam",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "1",
+        "Kundrakpam",
+        "11809",
+        "3761",
+        "1618",
+        "812",
+        "36",
+        "27",
+        "130",
+        "161",
+        "129",
+        "18483",
+        "0",
+        "18483",
+        "0"
+      ],
+      "candidateVotes": 18354,
+      "nota": 129,
+      "printedValidIncludingNota": 18483,
+      "rejected": 0,
+      "votesPolled": 18483,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 11809
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 3761
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 1618
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 812
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 161
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 130
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 36
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 27
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": true,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 2,
+      "name": "Heingang",
+      "sourceLabel": "Heingang",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "2",
+        "Heingang",
+        "10372",
+        "4303",
+        "4764",
+        "749",
+        "76",
+        "42",
+        "430",
+        "191",
+        "197",
+        "21124",
+        "0",
+        "21124",
+        "0"
+      ],
+      "candidateVotes": 20927,
+      "nota": 197,
+      "printedValidIncludingNota": 21124,
+      "rejected": 0,
+      "votesPolled": 21124,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 10372
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 4764
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 4303
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 749
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 430
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 191
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 76
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 42
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 3,
+      "name": "Khurai",
+      "sourceLabel": "Khurai",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "3",
+        "Khurai",
+        "9863",
+        "5696",
+        "3639",
+        "1312",
+        "69",
+        "38",
+        "238",
+        "397",
+        "269",
+        "21521",
+        "0",
+        "21521",
+        "0"
+      ],
+      "candidateVotes": 21252,
+      "nota": 269,
+      "printedValidIncludingNota": 21521,
+      "rejected": 0,
+      "votesPolled": 21521,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 9863
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 5696
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 3639
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 1312
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 397
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 238
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 69
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 38
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 4,
+      "name": "Kshetrigao",
+      "sourceLabel": "Kshetrigao",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "4",
+        "Kshetrigao",
+        "12043",
+        "7168",
+        "2576",
+        "1682",
+        "83",
+        "27",
+        "73",
+        "272",
+        "236",
+        "24160",
+        "0",
+        "24160",
+        "0"
+      ],
+      "candidateVotes": 23924,
+      "nota": 236,
+      "printedValidIncludingNota": 24160,
+      "rejected": 0,
+      "votesPolled": 24160,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 12043
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 7168
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 2576
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 1682
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 272
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 83
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 73
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 27
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 5,
+      "name": "Thongju",
+      "sourceLabel": "Thongju",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "5",
+        "Thongju",
+        "3884",
+        "8043",
+        "6701",
+        "988",
+        "28",
+        "63",
+        "34",
+        "295",
+        "184",
+        "20220",
+        "0",
+        "20220",
+        "0"
+      ],
+      "candidateVotes": 20036,
+      "nota": 184,
+      "printedValidIncludingNota": 20220,
+      "rejected": 0,
+      "votesPolled": 20220,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 8043
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 6701
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 3884
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 988
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 295
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 63
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 34
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 28
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 6,
+      "name": "Keirao",
+      "sourceLabel": "Keirao",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "6",
+        "Keirao",
+        "10743",
+        "5479",
+        "2046",
+        "1765",
+        "55",
+        "40",
+        "31",
+        "133",
+        "91",
+        "20383",
+        "0",
+        "20383",
+        "0"
+      ],
+      "candidateVotes": 20292,
+      "nota": 91,
+      "printedValidIncludingNota": 20383,
+      "rejected": 0,
+      "votesPolled": 20383,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 10743
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 5479
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 2046
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 1765
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 133
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 55
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 40
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 31
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 7,
+      "name": "Andro",
+      "sourceLabel": "Andro",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "7",
+        "Andro",
+        "5847",
+        "4296",
+        "748",
+        "13297",
+        "217",
+        "99",
+        "26",
+        "202",
+        "131",
+        "24863",
+        "0",
+        "24863",
+        "0"
+      ],
+      "candidateVotes": 24732,
+      "nota": 131,
+      "printedValidIncludingNota": 24863,
+      "rejected": 0,
+      "votesPolled": 24863,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 13297
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 5847
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 4296
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 748
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 217
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 202
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 99
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 26
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 8,
+      "name": "Lamlai",
+      "sourceLabel": "Lamlai",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "8",
+        "Lamlai",
+        "9339",
+        "5433",
+        "891",
+        "4080",
+        "49",
+        "21",
+        "77",
+        "145",
+        "144",
+        "20179",
+        "0",
+        "20179",
+        "0"
+      ],
+      "candidateVotes": 20035,
+      "nota": 144,
+      "printedValidIncludingNota": 20179,
+      "rejected": 0,
+      "votesPolled": 20179,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 9339
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 5433
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 4080
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 891
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 145
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 77
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 49
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 21
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 9,
+      "name": "Thangmeiband",
+      "sourceLabel": "Thangmeiband",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "9",
+        "Thangmeiband",
+        "6279",
+        "4008",
+        "6582",
+        "327",
+        "59",
+        "42",
+        "102",
+        "117",
+        "218",
+        "17734",
+        "0",
+        "17734",
+        "0"
+      ],
+      "candidateVotes": 17516,
+      "nota": 218,
+      "printedValidIncludingNota": 17734,
+      "rejected": 0,
+      "votesPolled": 17734,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 6582
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 6279
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 4008
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 327
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 117
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 102
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 59
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 42
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 10,
+      "name": "Uripok",
+      "sourceLabel": "Uripok",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "10",
+        "Uripok",
+        "4738",
+        "6047",
+        "2218",
+        "348",
+        "103",
+        "16",
+        "85",
+        "316",
+        "251",
+        "14122",
+        "0",
+        "14122",
+        "0"
+      ],
+      "candidateVotes": 13871,
+      "nota": 251,
+      "printedValidIncludingNota": 14122,
+      "rejected": 0,
+      "votesPolled": 14122,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 6047
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 4738
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 2218
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 348
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 316
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 103
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 85
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 16
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 11,
+      "name": "Sagolband",
+      "sourceLabel": "Sagolband",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "11",
+        "Sagolband",
+        "5308",
+        "6689",
+        "2226",
+        "224",
+        "56",
+        "42",
+        "33",
+        "139",
+        "196",
+        "14913",
+        "0",
+        "14913",
+        "0"
+      ],
+      "candidateVotes": 14717,
+      "nota": 196,
+      "printedValidIncludingNota": 14913,
+      "rejected": 0,
+      "votesPolled": 14913,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 6689
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 5308
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 2226
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 224
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 139
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 56
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 42
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 33
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 12,
+      "name": "Keisamthong",
+      "sourceLabel": "Keisamthong",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "12",
+        "Keisamthong",
+        "3793",
+        "9421",
+        "1890",
+        "501",
+        "54",
+        "42",
+        "41",
+        "244",
+        "265",
+        "16251",
+        "0",
+        "16251",
+        "0"
+      ],
+      "candidateVotes": 15986,
+      "nota": 265,
+      "printedValidIncludingNota": 16251,
+      "rejected": 0,
+      "votesPolled": 16251,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 9421
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 3793
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 1890
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 501
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 244
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 54
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 42
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 41
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 13,
+      "name": "Singjamei",
+      "sourceLabel": "Singjamei",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "13",
+        "Singjamei",
+        "3348",
+        "6718",
+        "1835",
+        "266",
+        "23",
+        "183",
+        "21",
+        "179",
+        "175",
+        "12748",
+        "0",
+        "12748",
+        "0"
+      ],
+      "candidateVotes": 12573,
+      "nota": 175,
+      "printedValidIncludingNota": 12748,
+      "rejected": 0,
+      "votesPolled": 12748,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 6718
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 3348
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 1835
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 266
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 183
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 179
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 23
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 21
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 14,
+      "name": "Yaiskul",
+      "sourceLabel": "Yaiskul",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "14",
+        "Yaiskul",
+        "5916",
+        "5572",
+        "3602",
+        "417",
+        "93",
+        "29",
+        "84",
+        "182",
+        "277",
+        "16172",
+        "0",
+        "16172",
+        "0"
+      ],
+      "candidateVotes": 15895,
+      "nota": 277,
+      "printedValidIncludingNota": 16172,
+      "rejected": 0,
+      "votesPolled": 16172,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 5916
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 5572
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 3602
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 417
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 182
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 93
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 84
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 29
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 15,
+      "name": "Wangkhei",
+      "sourceLabel": "Wangkhei",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "15",
+        "Wangkhei",
+        "7497",
+        "7086",
+        "5182",
+        "1055",
+        "109",
+        "36",
+        "78",
+        "203",
+        "245",
+        "21491",
+        "0",
+        "21491",
+        "0"
+      ],
+      "candidateVotes": 21246,
+      "nota": 245,
+      "printedValidIncludingNota": 21491,
+      "rejected": 0,
+      "votesPolled": 21491,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 7497
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 7086
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 5182
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 1055
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 203
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 109
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 78
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 36
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 16,
+      "name": "Sekmai",
+      "sourceLabel": "Sekmai",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "16",
+        "Sekmai",
+        "6556",
+        "3405",
+        "4218",
+        "1703",
+        "138",
+        "57",
+        "75",
+        "447",
+        "187",
+        "16786",
+        "0",
+        "16786",
+        "0"
+      ],
+      "candidateVotes": 16599,
+      "nota": 187,
+      "printedValidIncludingNota": 16786,
+      "rejected": 0,
+      "votesPolled": 16786,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 6556
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 4218
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 3405
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 1703
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 447
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 138
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 75
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 57
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 17,
+      "name": "Lamsang",
+      "sourceLabel": "Lamsang",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "17",
+        "Lamsang",
+        "9138",
+        "6018",
+        "4093",
+        "649",
+        "53",
+        "35",
+        "45",
+        "221",
+        "172",
+        "20424",
+        "0",
+        "20424",
+        "0"
+      ],
+      "candidateVotes": 20252,
+      "nota": 172,
+      "printedValidIncludingNota": 20424,
+      "rejected": 0,
+      "votesPolled": 20424,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 9138
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 6018
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 4093
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 649
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 221
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 53
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 45
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 35
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 18,
+      "name": "Konthoujam",
+      "sourceLabel": "Konthoujam",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "18",
+        "Konthoujam",
+        "7720",
+        "9560",
+        "1666",
+        "255",
+        "121",
+        "16",
+        "18",
+        "120",
+        "201",
+        "19677",
+        "0",
+        "19677",
+        "0"
+      ],
+      "candidateVotes": 19476,
+      "nota": 201,
+      "printedValidIncludingNota": 19677,
+      "rejected": 0,
+      "votesPolled": 19677,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 9560
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 7720
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 1666
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 255
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 121
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 120
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 18
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 16
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 19,
+      "name": "Patsoi",
+      "sourceLabel": "Patsoi",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "19",
+        "Patsoi",
+        "10963",
+        "7573",
+        "4733",
+        "241",
+        "62",
+        "33",
+        "22",
+        "236",
+        "314",
+        "24177",
+        "0",
+        "24177",
+        "0"
+      ],
+      "candidateVotes": 23863,
+      "nota": 314,
+      "printedValidIncludingNota": 24177,
+      "rejected": 0,
+      "votesPolled": 24177,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 10963
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 7573
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 4733
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 241
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 236
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 62
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 33
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 22
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 20,
+      "name": "Langthabal",
+      "sourceLabel": "Langthabal",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "20",
+        "Langthabal",
+        "7636",
+        "9121",
+        "1437",
+        "675",
+        "35",
+        "91",
+        "37",
+        "169",
+        "140",
+        "19341",
+        "0",
+        "19341",
+        "0"
+      ],
+      "candidateVotes": 19201,
+      "nota": 140,
+      "printedValidIncludingNota": 19341,
+      "rejected": 0,
+      "votesPolled": 19341,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 9121
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 7636
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 1437
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 675
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 169
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 91
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 37
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 35
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 21,
+      "name": "Naoria Pakhanglakpa",
+      "sourceLabel": "Naoria\nPakhanglakpa",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "21",
+        "Naoria\nPakhanglakpa",
+        "8167",
+        "10938",
+        "2303",
+        "487",
+        "222",
+        "124",
+        "22",
+        "437",
+        "206",
+        "22906",
+        "0",
+        "22906",
+        "0"
+      ],
+      "candidateVotes": 22700,
+      "nota": 206,
+      "printedValidIncludingNota": 22906,
+      "rejected": 0,
+      "votesPolled": 22906,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 10938
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 8167
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 2303
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 487
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 437
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 222
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 124
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 22
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 22,
+      "name": "Wangoi",
+      "sourceLabel": "Wangoi",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "22",
+        "Wangoi",
+        "6905",
+        "9318",
+        "818",
+        "2557",
+        "70",
+        "44",
+        "34",
+        "229",
+        "110",
+        "20085",
+        "0",
+        "20085",
+        "0"
+      ],
+      "candidateVotes": 19975,
+      "nota": 110,
+      "printedValidIncludingNota": 20085,
+      "rejected": 0,
+      "votesPolled": 20085,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 9318
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 6905
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 2557
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 818
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 229
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 70
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 44
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 34
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 23,
+      "name": "Mayang Imphal",
+      "sourceLabel": "MayangImphal",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "23",
+        "MayangImphal",
+        "13817",
+        "5680",
+        "1358",
+        "481",
+        "102",
+        "30",
+        "27",
+        "134",
+        "98",
+        "21727",
+        "0",
+        "21727",
+        "0"
+      ],
+      "candidateVotes": 21629,
+      "nota": 98,
+      "printedValidIncludingNota": 21727,
+      "rejected": 0,
+      "votesPolled": 21727,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 13817
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 5680
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 1358
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 481
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 134
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 102
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 30
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 27
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 24,
+      "name": "Nambol",
+      "sourceLabel": "Nambol",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "24",
+        "Nambol",
+        "13650",
+        "1929",
+        "9177",
+        "138",
+        "33",
+        "17",
+        "54",
+        "79",
+        "85",
+        "25162",
+        "0",
+        "25162",
+        "0"
+      ],
+      "candidateVotes": 25077,
+      "nota": 85,
+      "printedValidIncludingNota": 25162,
+      "rejected": 0,
+      "votesPolled": 25162,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 13650
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 9177
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 1929
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 138
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 79
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 54
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 33
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 17
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 25,
+      "name": "Oinam",
+      "sourceLabel": "Oinam",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "25",
+        "Oinam",
+        "11329",
+        "3630",
+        "1993",
+        "325",
+        "38",
+        "22",
+        "18",
+        "83",
+        "78",
+        "17516",
+        "0",
+        "17516",
+        "0"
+      ],
+      "candidateVotes": 17438,
+      "nota": 78,
+      "printedValidIncludingNota": 17516,
+      "rejected": 0,
+      "votesPolled": 17516,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 11329
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 3630
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 1993
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 325
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 83
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 38
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 22
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 18
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 26,
+      "name": "Bishnupur",
+      "sourceLabel": "Bishnupur",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "26",
+        "Bishnupur",
+        "12992",
+        "3450",
+        "4875",
+        "144",
+        "82",
+        "26",
+        "20",
+        "86",
+        "130",
+        "21805",
+        "0",
+        "21805",
+        "0"
+      ],
+      "candidateVotes": 21675,
+      "nota": 130,
+      "printedValidIncludingNota": 21805,
+      "rejected": 0,
+      "votesPolled": 21805,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 12992
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 4875
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 3450
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 144
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 86
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 82
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 26
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 20
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 27,
+      "name": "Moirang",
+      "sourceLabel": "Moirang",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "27",
+        "Moirang",
+        "11041",
+        "7595",
+        "1553",
+        "188",
+        "804",
+        "30",
+        "31",
+        "331",
+        "115",
+        "21688",
+        "0",
+        "21688",
+        "0"
+      ],
+      "candidateVotes": 21573,
+      "nota": 115,
+      "printedValidIncludingNota": 21688,
+      "rejected": 0,
+      "votesPolled": 21688,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 11041
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 7595
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 1553
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 804
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 331
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 188
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 31
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 30
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 28,
+      "name": "Thanga",
+      "sourceLabel": "Thanga",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "28",
+        "Thanga",
+        "4115",
+        "2006",
+        "4372",
+        "2631",
+        "130",
+        "25",
+        "22",
+        "228",
+        "51",
+        "13580",
+        "0",
+        "13580",
+        "0"
+      ],
+      "candidateVotes": 13529,
+      "nota": 51,
+      "printedValidIncludingNota": 13580,
+      "rejected": 0,
+      "votesPolled": 13580,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 4372
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 4115
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 2631
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 2006
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 228
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 130
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 25
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 22
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 29,
+      "name": "Kumbi",
+      "sourceLabel": "Moirang",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "29",
+        "Moirang",
+        "10319",
+        "4892",
+        "1609",
+        "647",
+        "76",
+        "22",
+        "45",
+        "179",
+        "82",
+        "17871",
+        "0",
+        "17871",
+        "0"
+      ],
+      "candidateVotes": 17789,
+      "nota": 82,
+      "printedValidIncludingNota": 17871,
+      "rejected": 0,
+      "votesPolled": 17871,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 10319
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 4892
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 1609
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 647
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 179
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 76
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 45
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 22
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": true,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": {
+        "ac": 29,
+        "combinedPrintedLabel": "Moirang",
+        "individualHeader": "29 - Kumbi",
+        "individualSourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/29.pdf",
+        "headerPage": 1
+      }
+    },
+    {
+      "year": 2014,
+      "ac": 30,
+      "name": "Lilong",
+      "sourceLabel": "Lilong",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "30",
+        "Lilong",
+        "14420",
+        "9335",
+        "208",
+        "291",
+        "47",
+        "34",
+        "13",
+        "289",
+        "74",
+        "24711",
+        "0",
+        "24711",
+        "0"
+      ],
+      "candidateVotes": 24637,
+      "nota": 74,
+      "printedValidIncludingNota": 24711,
+      "rejected": 0,
+      "votesPolled": 24711,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 14420
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 9335
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 291
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 289
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 208
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 47
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 34
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 13
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 31,
+      "name": "Thoubal",
+      "sourceLabel": "Thoubal",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "31",
+        "Thoubal",
+        "18014",
+        "6269",
+        "382",
+        "124",
+        "22",
+        "22",
+        "20",
+        "384",
+        "135",
+        "25372",
+        "0",
+        "25372",
+        "0"
+      ],
+      "candidateVotes": 25237,
+      "nota": 135,
+      "printedValidIncludingNota": 25372,
+      "rejected": 0,
+      "votesPolled": 25372,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 18014
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 6269
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 384
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 382
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 124
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 22
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 22
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 20
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 32,
+      "name": "Wangkhem",
+      "sourceLabel": "Wangkhem",
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "capturedAt": "2026-10-20T18:23:22.645458+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "32",
+        "Wangkhem",
+        "14524",
+        "6981",
+        "1118",
+        "544",
+        "126",
+        "28",
+        "18",
+        "185",
+        "112",
+        "23636",
+        "0",
+        "23636",
+        "0"
+      ],
+      "candidateVotes": 23524,
+      "nota": 112,
+      "printedValidIncludingNota": 23636,
+      "rejected": 0,
+      "votesPolled": 23636,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 1,
+          "candidate": "Dr. Thokchom Meinya",
+          "party": "INC",
+          "sourceHeader": "Dr . ThokchomMeinya(INC)",
+          "votes": 14524
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Moirangthem Nara",
+          "party": "CPI",
+          "sourceHeader": "MoirangthemNara(CPI)",
+          "votes": 6981
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "R. K. Ranjan Singh",
+          "party": "BJP",
+          "sourceHeader": "R . K . RanjanSingh(BJP)",
+          "votes": 1118
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Sarangthem Manaobi",
+          "party": "AITC",
+          "sourceHeader": "SarangthemManaobi(AITC)",
+          "votes": 544
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Indira Oinam",
+          "party": "IND",
+          "sourceHeader": "IndiraOinam(IND)",
+          "votes": 185
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Dr. Kh. Ibomcha Singh",
+          "party": "AAP",
+          "sourceHeader": "Dr . Kh . IbomchaSingh(AAP)",
+          "votes": 126
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "Oinam Jotin Singh",
+          "party": "JMBP",
+          "sourceHeader": "OinamJotinSingh(JMBP)",
+          "votes": 28
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Dr. Gurumayum Tonsana Sharma",
+          "party": "MDPF",
+          "sourceHeader": "Dr . GurumayumTonsana Sharma(MDPF)",
+          "votes": 18
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 33,
+      "name": "Heirok",
+      "sourceLabel": "Heirok",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "33",
+        "Heirok",
+        "143",
+        "3264",
+        "2020",
+        "16826",
+        "987",
+        "30",
+        "38",
+        "16",
+        "538",
+        "38",
+        "196",
+        "24096",
+        "0",
+        "24096",
+        "0"
+      ],
+      "candidateVotes": 23900,
+      "nota": 196,
+      "printedValidIncludingNota": 24096,
+      "rejected": 0,
+      "votesPolled": 24096,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 16826
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 3264
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 2020
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 987
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 538
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 143
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 38
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 38
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 30
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 16
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": true,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 34,
+      "name": "Wangjing Tentha",
+      "sourceLabel": "Wangjing\nTentha",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "34",
+        "Wangjing\nTentha",
+        "219",
+        "4525",
+        "2021",
+        "13251",
+        "1208",
+        "38",
+        "12",
+        "12",
+        "1229",
+        "29",
+        "261",
+        "22805",
+        "0",
+        "22805",
+        "0"
+      ],
+      "candidateVotes": 22544,
+      "nota": 261,
+      "printedValidIncludingNota": 22805,
+      "rejected": 0,
+      "votesPolled": 22805,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 13251
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 4525
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 2021
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 1229
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 1208
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 219
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 38
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 29
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 12
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 12
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": true,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 35,
+      "name": "Khangabok",
+      "sourceLabel": "Khangabok",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "35",
+        "Khangabok",
+        "115",
+        "7980",
+        "384",
+        "18914",
+        "396",
+        "33",
+        "15",
+        "16",
+        "165",
+        "16",
+        "194",
+        "28228",
+        "0",
+        "28228",
+        "0"
+      ],
+      "candidateVotes": 28034,
+      "nota": 194,
+      "printedValidIncludingNota": 28228,
+      "rejected": 0,
+      "votesPolled": 28228,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 18914
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 7980
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 396
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 384
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 165
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 115
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 33
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 16
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 16
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 15
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 36,
+      "name": "Wabgai",
+      "sourceLabel": "Wabagai",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "36",
+        "Wabagai",
+        "542",
+        "3754",
+        "2531",
+        "14675",
+        "620",
+        "41",
+        "6",
+        "6",
+        "173",
+        "6",
+        "135",
+        "22489",
+        "0",
+        "22489",
+        "0"
+      ],
+      "candidateVotes": 22354,
+      "nota": 135,
+      "printedValidIncludingNota": 22489,
+      "rejected": 0,
+      "votesPolled": 22489,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 14675
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 3754
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 2531
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 620
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 542
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 173
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 41
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 6
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 6
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 6
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 37,
+      "name": "Kakching",
+      "sourceLabel": "Kakching",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "37",
+        "Kakching",
+        "206",
+        "5146",
+        "1539",
+        "10338",
+        "568",
+        "52",
+        "10",
+        "19",
+        "259",
+        "23",
+        "209",
+        "18369",
+        "0",
+        "18369",
+        "0"
+      ],
+      "candidateVotes": 18160,
+      "nota": 209,
+      "printedValidIncludingNota": 18369,
+      "rejected": 0,
+      "votesPolled": 18369,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 10338
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 5146
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 1539
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 568
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 259
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 206
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 52
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 23
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 19
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 10
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 38,
+      "name": "Hiyanglam",
+      "sourceLabel": "Hiyanglam",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "38",
+        "Hiyanglam",
+        "460",
+        "3414",
+        "2212",
+        "9270",
+        "704",
+        "36",
+        "63",
+        "16",
+        "633",
+        "22",
+        "138",
+        "16968",
+        "0",
+        "16968",
+        "0"
+      ],
+      "candidateVotes": 16830,
+      "nota": 138,
+      "printedValidIncludingNota": 16968,
+      "rejected": 0,
+      "votesPolled": 16968,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 9270
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 3414
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 2212
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 704
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 633
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 460
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 63
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 36
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 22
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 16
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 39,
+      "name": "Sugnu",
+      "sourceLabel": "Sugnu",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "39",
+        "Sugnu",
+        "167",
+        "3829",
+        "1158",
+        "12626",
+        "503",
+        "25",
+        "13",
+        "17",
+        "630",
+        "13",
+        "154",
+        "19135",
+        "0",
+        "19135",
+        "0"
+      ],
+      "candidateVotes": 18981,
+      "nota": 154,
+      "printedValidIncludingNota": 19135,
+      "rejected": 0,
+      "votesPolled": 19135,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 12626
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 3829
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 1158
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 630
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 503
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 167
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 25
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 17
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 13
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 13
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 40,
+      "name": "Jiribam",
+      "sourceLabel": "Jiribam",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "40",
+        "Jiribam",
+        "285",
+        "3579",
+        "781",
+        "10220",
+        "372",
+        "77",
+        "36",
+        "59",
+        "148",
+        "69",
+        "251",
+        "15877",
+        "0",
+        "15877",
+        "0"
+      ],
+      "candidateVotes": 15626,
+      "nota": 251,
+      "printedValidIncludingNota": 15877,
+      "rejected": 0,
+      "votesPolled": 15877,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 10220
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 3579
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 781
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 372
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 285
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 148
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 77
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 69
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 59
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 36
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 41,
+      "name": "Chandel",
+      "sourceLabel": "Chandel(ST)",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "41",
+        "Chandel(ST)",
+        "682",
+        "3281",
+        "6424",
+        "8718",
+        "18205",
+        "488",
+        "137",
+        "13",
+        "852",
+        "9",
+        "19",
+        "38828",
+        "0",
+        "38828",
+        "0"
+      ],
+      "candidateVotes": 38809,
+      "nota": 19,
+      "printedValidIncludingNota": 38828,
+      "rejected": 0,
+      "votesPolled": 38828,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 18205
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 8718
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 6424
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 3281
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 852
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 682
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 488
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 137
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 13
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 9
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 42,
+      "name": "Tengnoupal",
+      "sourceLabel": "Tengnoupal(ST)",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "42",
+        "Tengnoupal(ST)",
+        "345",
+        "1457",
+        "1038",
+        "15705",
+        "20590",
+        "68",
+        "131",
+        "9",
+        "334",
+        "13",
+        "35",
+        "39725",
+        "0",
+        "39725",
+        "0"
+      ],
+      "candidateVotes": 39690,
+      "nota": 35,
+      "printedValidIncludingNota": 39725,
+      "rejected": 0,
+      "votesPolled": 39725,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 20590
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 15705
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 1457
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 1038
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 345
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 334
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 131
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 68
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 13
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 9
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 43,
+      "name": "Phungyar",
+      "sourceLabel": "Phungyar(ST)",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "43",
+        "Phungyar(ST)",
+        "172",
+        "540",
+        "244",
+        "3747",
+        "17336",
+        "45",
+        "30",
+        "9",
+        "515",
+        "7",
+        "26",
+        "22671",
+        "0",
+        "22671",
+        "0"
+      ],
+      "candidateVotes": 22645,
+      "nota": 26,
+      "printedValidIncludingNota": 22671,
+      "rejected": 0,
+      "votesPolled": 22671,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 17336
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 3747
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 540
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 515
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 244
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 172
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 45
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 30
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 9
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 7
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 44,
+      "name": "Ukhrul",
+      "sourceLabel": "Ukhrul(ST)",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "44",
+        "Ukhrul(ST)",
+        "157",
+        "2205",
+        "808",
+        "5041",
+        "21031",
+        "41",
+        "11",
+        "4",
+        "1654",
+        "18",
+        "28",
+        "30998",
+        "0",
+        "30998",
+        "0"
+      ],
+      "candidateVotes": 30970,
+      "nota": 28,
+      "printedValidIncludingNota": 30998,
+      "rejected": 0,
+      "votesPolled": 30998,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 21031
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 5041
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 2205
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 1654
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 808
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 157
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 41
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 18
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 11
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 4
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 45,
+      "name": "Chingai",
+      "sourceLabel": "Chingai(ST)",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "45",
+        "Chingai(ST)",
+        "10",
+        "287",
+        "7",
+        "1885",
+        "30891",
+        "35",
+        "1",
+        "10",
+        "145",
+        "4",
+        "42",
+        "33317",
+        "0",
+        "33317",
+        "0"
+      ],
+      "candidateVotes": 33275,
+      "nota": 42,
+      "printedValidIncludingNota": 33317,
+      "rejected": 0,
+      "votesPolled": 33317,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 30891
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 1885
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 287
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 145
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 35
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 10
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 10
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 7
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 4
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 1
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 46,
+      "name": "Saiku",
+      "sourceLabel": "Saikul(ST)",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "46",
+        "Saikul(ST)",
+        "777",
+        "897",
+        "7086",
+        "15706",
+        "4284",
+        "12",
+        "43",
+        "6",
+        "401",
+        "14",
+        "38",
+        "29264",
+        "0",
+        "29264",
+        "0"
+      ],
+      "candidateVotes": 29226,
+      "nota": 38,
+      "printedValidIncludingNota": 29264,
+      "rejected": 0,
+      "votesPolled": 29264,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 15706
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 7086
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 4284
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 897
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 777
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 401
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 43
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 14
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 12
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 6
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 47,
+      "name": "Karong",
+      "sourceLabel": "Karong(ST)",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "47",
+        "Karong(ST)",
+        "36",
+        "253",
+        "938",
+        "1275",
+        "46504",
+        "22",
+        "3",
+        "1",
+        "171",
+        "6",
+        "6",
+        "49215",
+        "0",
+        "49215",
+        "0"
+      ],
+      "candidateVotes": 49209,
+      "nota": 6,
+      "printedValidIncludingNota": 49215,
+      "rejected": 0,
+      "votesPolled": 49215,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 46504
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 1275
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 938
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 253
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 171
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 36
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 22
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 6
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 3
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 1
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 48,
+      "name": "Mao",
+      "sourceLabel": "Mao(ST)",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "48",
+        "Mao(ST)",
+        "24",
+        "291",
+        "9",
+        "1662",
+        "46605",
+        "24",
+        "1",
+        "1",
+        "154",
+        "6",
+        "5",
+        "48782",
+        "0",
+        "48782",
+        "0"
+      ],
+      "candidateVotes": 48777,
+      "nota": 5,
+      "printedValidIncludingNota": 48782,
+      "rejected": 0,
+      "votesPolled": 48782,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 46605
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 1662
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 291
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 154
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 24
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 24
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 9
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 6
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 1
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 1
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 49,
+      "name": "Tadubi",
+      "sourceLabel": "Tadubi(ST)",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "49",
+        "Tadubi(ST)",
+        "338",
+        "1051",
+        "1348",
+        "11831",
+        "23767",
+        "38",
+        "9",
+        "19",
+        "1890",
+        "24",
+        "57",
+        "40372",
+        "0",
+        "40372",
+        "0"
+      ],
+      "candidateVotes": 40315,
+      "nota": 57,
+      "printedValidIncludingNota": 40372,
+      "rejected": 0,
+      "votesPolled": 40372,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 23767
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 11831
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 1890
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 1348
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 1051
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 338
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 38
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 24
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 19
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 9
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 50,
+      "name": "Kangpokpi",
+      "sourceLabel": "Kangpokpi(GEN",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "50",
+        "Kangpokpi(GEN",
+        ") 1236",
+        "2682",
+        "2685",
+        "8194",
+        "2895",
+        "61",
+        "36",
+        "40",
+        "4933",
+        "71",
+        "68",
+        "22901",
+        "0",
+        "22901",
+        "0"
+      ],
+      "candidateVotes": 22833,
+      "nota": 68,
+      "printedValidIncludingNota": 22901,
+      "rejected": 0,
+      "votesPolled": 22901,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 8194
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 4933
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 2895
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 2685
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 2682
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 1236
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 71
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 61
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 40
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 36
+        }
+      ],
+      "normalizationNotes": [
+        {
+          "ac": 50,
+          "sourceColumn": 1,
+          "raw": ") 1236",
+          "value": 1236,
+          "reason": "Closing parenthesis from Kangpokpi (GEN) name overflows into first numeric cell; selected combined-page visual check confirms 1236."
+        }
+      ],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 51,
+      "name": "Saitu",
+      "sourceLabel": "Saitu(ST)",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "51",
+        "Saitu(ST)",
+        "1022",
+        "2584",
+        "4277",
+        "17807",
+        "5070",
+        "31",
+        "116",
+        "16",
+        "2322",
+        "30",
+        "38",
+        "33313",
+        "0",
+        "33313",
+        "0"
+      ],
+      "candidateVotes": 33275,
+      "nota": 38,
+      "printedValidIncludingNota": 33313,
+      "rejected": 0,
+      "votesPolled": 33313,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 17807
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 5070
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 4277
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 2584
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 2322
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 1022
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 116
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 31
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 30
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 16
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 52,
+      "name": "Tamei",
+      "sourceLabel": "Tamei(ST)",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "52",
+        "Tamei(ST)",
+        "235",
+        "3611",
+        "667",
+        "5496",
+        "12708",
+        "19",
+        "19",
+        "12",
+        "5615",
+        "19",
+        "18",
+        "28419",
+        "0",
+        "28419",
+        "0"
+      ],
+      "candidateVotes": 28401,
+      "nota": 18,
+      "printedValidIncludingNota": 28419,
+      "rejected": 0,
+      "votesPolled": 28419,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 12708
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 5615
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 5496
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 3611
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 667
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 235
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 19
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 19
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 19
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 12
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 53,
+      "name": "Tamenglong",
+      "sourceLabel": "Tamenglong(ST)",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "53",
+        "Tamenglong(ST)",
+        "136",
+        "8190",
+        "37",
+        "4835",
+        "6056",
+        "17",
+        "3",
+        "6",
+        "4700",
+        "16",
+        "19",
+        "24015",
+        "0",
+        "24015",
+        "0"
+      ],
+      "candidateVotes": 23996,
+      "nota": 19,
+      "printedValidIncludingNota": 24015,
+      "rejected": 0,
+      "votesPolled": 24015,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 8190
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 6056
+        },
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 4835
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 4700
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 136
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 37
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 17
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 16
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 6
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 3
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 54,
+      "name": "Nungba",
+      "sourceLabel": "Nungba(ST)",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "54",
+        "Nungba(ST)",
+        "153",
+        "7322",
+        "275",
+        "9512",
+        "2162",
+        "22",
+        "4",
+        "3",
+        "542",
+        "11",
+        "10",
+        "20016",
+        "0",
+        "20016",
+        "0"
+      ],
+      "candidateVotes": 20006,
+      "nota": 10,
+      "printedValidIncludingNota": 20016,
+      "rejected": 0,
+      "votesPolled": 20016,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 9512
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 7322
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 2162
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 542
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 275
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 153
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 22
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 11
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 4
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 3
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 55,
+      "name": "Tipaimukh",
+      "sourceLabel": "Tipaimukh(ST)",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "55",
+        "Tipaimukh(ST)",
+        "208",
+        "728",
+        "548",
+        "10637",
+        "514",
+        "31",
+        "23",
+        "13",
+        "395",
+        "16",
+        "10",
+        "13123",
+        "0",
+        "13123",
+        "0"
+      ],
+      "candidateVotes": 13113,
+      "nota": 10,
+      "printedValidIncludingNota": 13123,
+      "rejected": 0,
+      "votesPolled": 13123,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 10637
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 728
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 548
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 514
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 395
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 208
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 31
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 23
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 16
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 13
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 56,
+      "name": "Thanlon",
+      "sourceLabel": "Thanlon(ST)",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "56",
+        "Thanlon(ST)",
+        "74",
+        "16",
+        "760",
+        "12263",
+        "2134",
+        "24",
+        "15",
+        "6",
+        "46",
+        "13",
+        "9",
+        "15360",
+        "0",
+        "15360",
+        "0"
+      ],
+      "candidateVotes": 15351,
+      "nota": 9,
+      "printedValidIncludingNota": 15360,
+      "rejected": 0,
+      "votesPolled": 15360,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 12263
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 2134
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 760
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 74
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 46
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 24
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 16
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 15
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 13
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 6
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 57,
+      "name": "Henglep",
+      "sourceLabel": "Henglep(ST)",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "57",
+        "Henglep(ST)",
+        "2111",
+        "2297",
+        "4965",
+        "10747",
+        "1595",
+        "60",
+        "126",
+        "6",
+        "234",
+        "27",
+        "36",
+        "22204",
+        "0",
+        "22204",
+        "0"
+      ],
+      "candidateVotes": 22168,
+      "nota": 36,
+      "printedValidIncludingNota": 22204,
+      "rejected": 0,
+      "votesPolled": 22204,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 10747
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 4965
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 2297
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 2111
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 1595
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 234
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 126
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 60
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 27
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 6
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 58,
+      "name": "Churachandpur",
+      "sourceLabel": "Churachandpur\n(ST)",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "58",
+        "Churachandpur\n(ST)",
+        "799",
+        "1191",
+        "2991",
+        "14501",
+        "7959",
+        "1320",
+        "66",
+        "38",
+        "4467",
+        "47",
+        "99",
+        "33478",
+        "0",
+        "33478",
+        "0"
+      ],
+      "candidateVotes": 33379,
+      "nota": 99,
+      "printedValidIncludingNota": 33478,
+      "rejected": 0,
+      "votesPolled": 33478,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 14501
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 7959
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 4467
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 2991
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 1320
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 1191
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 799
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 66
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 47
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 38
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 59,
+      "name": "Saikot",
+      "sourceLabel": "Saikot(ST)",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "59",
+        "Saikot(ST)",
+        "1910",
+        "1330",
+        "11272",
+        "17547",
+        "3082",
+        "908",
+        "100",
+        "17",
+        "1396",
+        "22",
+        "78",
+        "37662",
+        "0",
+        "37662",
+        "0"
+      ],
+      "candidateVotes": 37584,
+      "nota": 78,
+      "printedValidIncludingNota": 37662,
+      "rejected": 0,
+      "votesPolled": 37662,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 17547
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 11272
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 3082
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 1910
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 1396
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 1330
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 908
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 100
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 22
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 17
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": false,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    },
+    {
+      "year": 2014,
+      "ac": 60,
+      "name": "Singhat",
+      "sourceLabel": "Singhat(ST)",
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourcePage": 1,
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "capturedAt": "2026-10-20T18:23:22.987897+00:00",
+      "originalPublicationDate": null,
+      "scope": "Ordinary segment row in official combined Parliamentary sheet; no all-station reconciliation",
+      "rawCells": [
+        "60",
+        "Singhat(ST)",
+        "179",
+        "111",
+        "2630",
+        "13389",
+        "2375",
+        "730",
+        "18",
+        "11",
+        "454",
+        "14",
+        "27",
+        "19938",
+        "0",
+        "19938",
+        "0"
+      ],
+      "candidateVotes": 19911,
+      "nota": 27,
+      "printedValidIncludingNota": 19938,
+      "rejected": 0,
+      "votesPolled": 19938,
+      "tendered": 0,
+      "candidates": [
+        {
+          "sourceColumn": 4,
+          "candidate": "Thangso Baite",
+          "party": "INC",
+          "sourceHeader": "ThangsoBaite(INC)",
+          "votes": 13389
+        },
+        {
+          "sourceColumn": 3,
+          "candidate": "Chungkhokai Doungel",
+          "party": "NCP",
+          "sourceHeader": "ChungkhokaiDoungel(NCP)",
+          "votes": 2630
+        },
+        {
+          "sourceColumn": 5,
+          "candidate": "Soso Lorho",
+          "party": "NPF",
+          "sourceHeader": "SosoLorho(NPF)",
+          "votes": 2375
+        },
+        {
+          "sourceColumn": 6,
+          "candidate": "M. Khamchinpau @ K. Zou",
+          "party": "AAP",
+          "sourceHeader": "M . . Zou(AAP) Khamchinpau@K",
+          "votes": 730
+        },
+        {
+          "sourceColumn": 9,
+          "candidate": "Mani Charenamei",
+          "party": "IND",
+          "sourceHeader": "ManiCharenamei(IND)",
+          "votes": 454
+        },
+        {
+          "sourceColumn": 1,
+          "candidate": "Kim Gangte",
+          "party": "AITC",
+          "sourceHeader": "KimGangte(AITC)",
+          "votes": 179
+        },
+        {
+          "sourceColumn": 2,
+          "candidate": "Gangmumei Kamei",
+          "party": "BJP",
+          "sourceHeader": "GangmumeiKamei(BJP)",
+          "votes": 111
+        },
+        {
+          "sourceColumn": 7,
+          "candidate": "Lamminlien @ Lien Gangte",
+          "party": "JD(U)",
+          "sourceHeader": ", Lamminlien@LienGangte JD(U)",
+          "votes": 18
+        },
+        {
+          "sourceColumn": 10,
+          "candidate": "Lamlalmoi @ Momoi Gangte",
+          "party": "IND",
+          "sourceHeader": "Lamlalmoi@MomoiGangte (IND)",
+          "votes": 14
+        },
+        {
+          "sourceColumn": 8,
+          "candidate": "Amarson Sankhil",
+          "party": "IND",
+          "sourceHeader": "AmarsonSankhil(IND)",
+          "votes": 11
+        }
+      ],
+      "normalizationNotes": [],
+      "selectedIndividualFooterReviewed": true,
+      "stationAuditComplete": false,
+      "labelDiscrepancy": null
+    }
+  ],
+  "parliamentaryTotals": [
+    {
+      "pc": 1,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+      "sourceSha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+      "sourcePage": 1,
+      "candidateHeaders": [
+        "Dr . ThokchomMeinya(INC)",
+        "MoirangthemNara(CPI)",
+        "R . K . RanjanSingh(BJP)",
+        "SarangthemManaobi(AITC)",
+        "Dr . Kh . IbomchaSingh(AAP)",
+        "OinamJotinSingh(JMBP)",
+        "Dr . GurumayumTonsana Sharma(MDPF)",
+        "IndiraOinam(IND)"
+      ],
+      "ordinary": {
+        "sourceLabel": "GrandTotal",
+        "values": [
+          292085,
+          197420,
+          92431,
+          39903,
+          3271,
+          1403,
+          2004,
+          7013,
+          5298,
+          640828,
+          0,
+          640828,
+          0
+        ],
+        "candidateVotes": [
+          292085,
+          197420,
+          92431,
+          39903,
+          3271,
+          1403,
+          2004,
+          7013
+        ],
+        "candidateSum": 635530,
+        "nota": 5298,
+        "printedValidIncludingNota": 640828,
+        "rejected": 0,
+        "votesPolled": 640828,
+        "tendered": 0
+      },
+      "postal": {
+        "sourceLabel": "No ofvoteson\n.\npostalballotpapers",
+        "values": [
+          17,
+          8,
+          13,
+          0,
+          2,
+          0,
+          1,
+          1,
+          0,
+          42,
+          0,
+          42,
+          0
+        ],
+        "candidateVotes": [
+          17,
+          8,
+          13,
+          0,
+          2,
+          0,
+          1,
+          1
+        ],
+        "candidateSum": 42,
+        "nota": 0,
+        "printedValidIncludingNota": 42,
+        "rejected": 0,
+        "votesPolled": 42,
+        "tendered": 0
+      },
+      "total": {
+        "sourceLabel": "Totalvotespolled",
+        "values": [
+          292102,
+          197428,
+          92444,
+          39903,
+          3273,
+          1403,
+          2005,
+          7014,
+          5298,
+          640870,
+          0,
+          640870,
+          0
+        ],
+        "candidateVotes": [
+          292102,
+          197428,
+          92444,
+          39903,
+          3273,
+          1403,
+          2005,
+          7014
+        ],
+        "candidateSum": 635572,
+        "nota": 5298,
+        "printedValidIncludingNota": 640870,
+        "rejected": 0,
+        "votesPolled": 640870,
+        "tendered": 0
+      },
+      "checksPassed": true
+    },
+    {
+      "pc": 2,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+      "sourceSha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+      "sourcePage": 1,
+      "candidateHeaders": [
+        "KimGangte(AITC)",
+        "GangmumeiKamei(BJP)",
+        "ChungkhokaiDoungel(NCP)",
+        "ThangsoBaite(INC)",
+        "SosoLorho(NPF)",
+        "M . . Zou(AAP) Khamchinpau@K",
+        ", Lamminlien@LienGangte JD(U)",
+        "AmarsonSankhil(IND)",
+        "ManiCharenamei(IND)",
+        "Lamlalmoi@MomoiGangte (IND)"
+      ],
+      "ordinary": {
+        "sourceLabel": "GrandTotal",
+        "values": [
+          12741,
+          75815,
+          61655,
+          296618,
+          281121,
+          4328,
+          1085,
+          401,
+          34995,
+          603,
+          2206,
+          771568,
+          0,
+          771568,
+          0
+        ],
+        "candidateVotes": [
+          12741,
+          75815,
+          61655,
+          296618,
+          281121,
+          4328,
+          1085,
+          401,
+          34995,
+          603
+        ],
+        "candidateSum": 769362,
+        "nota": 2206,
+        "printedValidIncludingNota": 771568,
+        "rejected": 0,
+        "votesPolled": 771568,
+        "tendered": 0
+      },
+      "postal": {
+        "sourceLabel": "No ofvoteson\n.\npostalballotpapers",
+        "values": [
+          11,
+          13,
+          7,
+          152,
+          12,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          198,
+          0,
+          198,
+          0
+        ],
+        "candidateVotes": [
+          11,
+          13,
+          7,
+          152,
+          12,
+          3,
+          0,
+          0,
+          0,
+          0
+        ],
+        "candidateSum": 198,
+        "nota": 0,
+        "printedValidIncludingNota": 198,
+        "rejected": 0,
+        "votesPolled": 198,
+        "tendered": 0
+      },
+      "total": {
+        "sourceLabel": "Totalvotespolled",
+        "values": [
+          12752,
+          75828,
+          61662,
+          296770,
+          281133,
+          4331,
+          1085,
+          401,
+          34995,
+          603,
+          2206,
+          771766,
+          0,
+          771766,
+          0
+        ],
+        "candidateVotes": [
+          12752,
+          75828,
+          61662,
+          296770,
+          281133,
+          4331,
+          1085,
+          401,
+          34995,
+          603
+        ],
+        "candidateSum": 769560,
+        "nota": 2206,
+        "printedValidIncludingNota": 771766,
+        "rejected": 0,
+        "votesPolled": 771766,
+        "tendered": 0
+      },
+      "checksPassed": true
+    }
+  ],
+  "selectedReview": {
+    "reviewedAt": "2026-10-21",
+    "method": "Codex selected original-page visual comparison; not independent human audit or all-station review",
+    "candidateColumns": {
+      "1": [
+        [
+          "Dr. Thokchom Meinya",
+          "INC"
+        ],
+        [
+          "Moirangthem Nara",
+          "CPI"
+        ],
+        [
+          "R. K. Ranjan Singh",
+          "BJP"
+        ],
+        [
+          "Sarangthem Manaobi",
+          "AITC"
+        ],
+        [
+          "Dr. Kh. Ibomcha Singh",
+          "AAP"
+        ],
+        [
+          "Oinam Jotin Singh",
+          "JMBP"
+        ],
+        [
+          "Dr. Gurumayum Tonsana Sharma",
+          "MDPF"
+        ],
+        [
+          "Indira Oinam",
+          "IND"
+        ]
+      ],
+      "2": [
+        [
+          "Kim Gangte",
+          "AITC"
+        ],
+        [
+          "Gangmumei Kamei",
+          "BJP"
+        ],
+        [
+          "Chungkhokai Doungel",
+          "NCP"
+        ],
+        [
+          "Thangso Baite",
+          "INC"
+        ],
+        [
+          "Soso Lorho",
+          "NPF"
+        ],
+        [
+          "M. Khamchinpau @ K. Zou",
+          "AAP"
+        ],
+        [
+          "Lamminlien @ Lien Gangte",
+          "JD(U)"
+        ],
+        [
+          "Amarson Sankhil",
+          "IND"
+        ],
+        [
+          "Mani Charenamei",
+          "IND"
+        ],
+        [
+          "Lamlalmoi @ Momoi Gangte",
+          "IND"
+        ]
+      ]
+    },
+    "footers": [
+      {
+        "ac": 1,
+        "candidateVotes": [
+          11809,
+          3761,
+          1618,
+          812,
+          36,
+          27,
+          130,
+          161
+        ],
+        "candidateSum": 18354,
+        "nota": 129,
+        "total": 18483,
+        "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/01.pdf",
+        "sha256": "e8bd8b301269bc2db1a3bcd210898067437cb0b0937b2a132be3604e02cc0e9f",
+        "page": 2,
+        "sourceRole": "indexed-segment"
+      },
+      {
+        "ac": 29,
+        "candidateVotes": [
+          10319,
+          4892,
+          1609,
+          647,
+          76,
+          22,
+          45,
+          179
+        ],
+        "candidateSum": 17789,
+        "nota": 82,
+        "total": 17871,
+        "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/29.pdf",
+        "sha256": "3ccb204f381385c7258140d4b3ee964e0ef87833f443a41b92d08f1dafb66933",
+        "page": 2,
+        "sourceRole": "indexed-segment"
+      },
+      {
+        "ac": 33,
+        "candidateVotes": [
+          143,
+          3264,
+          2020,
+          16826,
+          987,
+          30,
+          38,
+          16,
+          538,
+          38
+        ],
+        "candidateSum": 23900,
+        "nota": 196,
+        "total": 24096,
+        "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/33.pdf",
+        "sha256": "390b4af9479777f1caf28bb67a5dde0d699ee779fad153a9d36a5eac54c4d363",
+        "page": 2,
+        "sourceRole": "unlisted-diagnostic-probe"
+      },
+      {
+        "ac": 34,
+        "candidateVotes": [
+          219,
+          4525,
+          2021,
+          13251,
+          1208,
+          38,
+          12,
+          12,
+          1229,
+          29
+        ],
+        "candidateSum": 22544,
+        "nota": 261,
+        "total": 22805,
+        "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/34.pdf",
+        "sha256": "c563e02a8c3918bd89a077956404d0ed309e0e185158edbf7d266fac12a30cc2",
+        "page": 2,
+        "sourceRole": "indexed-segment"
+      },
+      {
+        "ac": 60,
+        "candidateVotes": [
+          179,
+          111,
+          2630,
+          13389,
+          2375,
+          730,
+          18,
+          11,
+          454,
+          14
+        ],
+        "candidateSum": 19911,
+        "nota": 27,
+        "total": 19938,
+        "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/60.pdf",
+        "sha256": "bb51be70505cf6e478c7f822a5122da3dd1c62bedd8f33e03c330e5b496bd1cb",
+        "page": 2,
+        "sourceRole": "indexed-segment"
+      }
+    ],
+    "labelDiscrepancy": {
+      "ac": 29,
+      "combinedPrintedLabel": "Moirang",
+      "individualHeader": "29 - Kumbi",
+      "individualSourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/29.pdf",
+      "headerPage": 1
+    },
+    "nativeCellException": {
+      "ac": 50,
+      "sourceColumn": 1,
+      "raw": ") 1236",
+      "value": 1236,
+      "reason": "Closing parenthesis from Kangpokpi (GEN) name overflows into first numeric cell; selected combined-page visual check confirms 1236."
+    }
+  }
+}
