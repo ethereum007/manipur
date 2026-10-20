@@ -19,15 +19,17 @@ def process(r):
   assert hashlib.sha256(raw).hexdigest()==r['sha256'],'Source hash changed'
   doc=pymupdf.open(stream=raw,filetype='pdf');stations=[];footers=[];headers=[]
   for pi,p in enumerate(doc):
-   text=p.get_text();match=re.search(r'Name\s*of\s*the\s*Assembly\s*Segment\s*:\s*(\d+)',text,re.I)
+   text=p.get_text();match=re.search(r'Name\s*of\s*(?:the\s*)?Assembly\s*(?:Segment|Segmen|Segement)\s*:\s*(\d+)',text,re.I)
    assert match and int(match[1])==ac,('AC header',ac,pi+1)
    for table in p.find_tables().tables:
     for row in table.extract():
      if len(row)!=n+7:continue
-     if row[0] is None and row[1] is None and all(row[2:2+n]):headers.append(row[2:2+n])
-     if re.fullmatch(r'\d+/\d+',re.sub(r'\s','',row[0] or '')):
-      v=list(map(num,row[2:]));ballot(v,n);stations.append({'id':re.sub(r'\s','',row[0]),'page':pi+1,'values':v})
-     elif 'totalvotespolled' in re.sub(r'[^a-z]','',(' '.join(str(x or '') for x in row[:2])).lower()):
+     if not row[0] and all(row[2:2+n]) and any('James' in str(c) or 'Nabakishore' in str(c) for c in row[2:2+n]):headers.append(row[2:2+n])
+     if re.fullmatch(r'\d+/\d+[A-Z]?',re.sub(r'\s','',row[0] or '')):
+      cells=row[2:]
+      if ac==31 and row[0]=='31/24' and re.sub(r'\s','',cells[7])=='0..':cells[7]='0'
+      v=list(map(num,cells));ballot(v,n);stations.append({'id':re.sub(r'\s','',row[0]),'page':pi+1,'values':v})
+     elif re.search(r'totalvotes?polled', re.sub(r'[^a-z]','',(' '.join(str(x or '') for x in row[:2])).lower())):
       v=list(map(num,row[2:]));ballot(v,n);footers.append({'page':pi+1,'values':v})
   assert len(footers)==1,('footer count',len(footers))
   assert stations and len({s['id'] for s in stations})==len(stations),'station coverage'
@@ -39,7 +41,7 @@ def process(r):
  except Exception as exc:
   if 'doc' in locals():
    (out/('diagnostic-'+str(ac)+'.json')).write_text(json.dumps([{'page':i+1,'text':p.get_text(),'tables':[t.extract() for t in p.find_tables().tables]} for i,p in enumerate(doc)]))
-   if ac in [31,43]:
+   if ac in [31,34,43]:
     for i,p in enumerate(doc):p.get_pixmap(dpi=120).save(out/('review-'+str(ac)+'-'+str(i+1)+'.png'))
   return {'ac':ac,'pc':pc,'status':'withheld','reason':str(exc),'sourceUrl':r['url'],'sha256':r['sha256']}
 records=sorted([r for r in m['records'] if r['year']==2019 and r['role']=='indexed-segment'],key=lambda r:r['ac'])
