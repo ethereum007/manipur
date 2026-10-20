@@ -2,7 +2,7 @@ from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime,timezone
 import json,hashlib,re,os,zipfile,requests,pymupdf
-spec=json.loads(Path('data/research/assembly-2007-source-index.json').read_text());out=Path('work-2007');out.mkdir(exist_ok=True);originals=out/'originals';originals.mkdir(exist_ok=True);review=out/'review';review.mkdir(exist_ok=True)
+spec=json.loads(Path(os.environ.get('SOURCE_SPEC','data/research/assembly-2007-source-index.json')).read_text());out=Path('work-2007');out.mkdir(exist_ok=True);originals=out/'originals';originals.mkdir(exist_ok=True);review=out/'review';review.mkdir(exist_ok=True)
 run=os.environ['GITHUB_RUN_ID'];archive='assembly-2007-and-boundaries-run-'+run+'.zip'
 def acquire(s):
  r={**s,'checkedAt':datetime.now(timezone.utc).isoformat()}
@@ -18,6 +18,8 @@ def acquire(s):
     selected=[i for i,t in enumerate(texts) if 'SUCCESSFUL' in t.upper() and 'CANDIDATE' in t.upper()][:10]
    elif s['role']=='delimitation-order':
     (out/'delimitation-manipur-pages.json').write_text(json.dumps([{'page':i+1,'text':texts[i],'tables':[table.extract() for table in doc[i].find_tables().tables]} for i in range(280,min(294,len(doc)))],indent=2));selected=[280,293]
+   elif s['role']=='boundary-handbook':
+    hits=[i for i,t in enumerate(texts) if '1976' in t and 'Manipur' in t];(out/'handbook-boundary-pages.json').write_text(json.dumps([{'page':i+1,'text':texts[i]} for i in hits],indent=2));selected=hits[:4]
    elif s['role']=='administrative-report':
     (out/'admin-pages.json').write_text(json.dumps([{'page':i+1,'text':t} for i,t in enumerate(texts)],indent=2));selected=[i for i,t in enumerate(texts) if '2007' in t and ('1976' in t or 'uploaded' in t.lower())][:3]
    elif s['role']=='indexed-form20':

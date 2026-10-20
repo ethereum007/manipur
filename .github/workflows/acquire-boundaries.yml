@@ -1,0 +1,35 @@
+name: Acquire published boundary documentation
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  acquire:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests==2.34.2 pymupdf==2.0
+      - run: python -u scripts/ingest/acquire-2007.py
+        env:
+          SOURCE_SPEC: data/research/boundary-source-index.json
+      - name: Archive original sources in GitHub Releases
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release upload primary-sources-2026-10-19 work-2007/*.zip --repo "$GITHUB_REPOSITORY"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: boundary-source-review
+          path: |
+            work-2007/manifest.json
+            work-2007/report-pages.json
+            work-2007/delimitation-manipur-pages.json
+            work-2007/admin-pages.json
+            work-2007/handbook-boundary-pages.json
+            work-2007/form20-*-pages.json
+            work-2007/review/
+          retention-days: 14

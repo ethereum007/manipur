@@ -1,0 +1,19 @@
+{
+  "indexUrl": "https://www.eci.gov.in/Documents/Delimitation/DelimitationofParliamentaryAssemblyConstituenciesOrder-2008(English).pdf",
+  "documents": [
+    {
+      "role": "delimitation-order",
+      "ac": null,
+      "year": 2008,
+      "label": "ECI published static consolidated order",
+      "url": "https://www.eci.gov.in/Documents/Delimitation/DelimitationofParliamentaryAssemblyConstituenciesOrder-2008(English).pdf"
+    },
+    {
+      "role": "boundary-handbook",
+      "ac": null,
+      "year": 2018,
+      "label": "Official ERO/AERO certification handbook, CEO Goa copy",
+      "url": "https://ceogoa.nic.in/pdf/ECIH/Electoral%20Registration%20Officer%20Handbook.pdf"
+    }
+  ]
+}
