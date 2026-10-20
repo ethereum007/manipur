@@ -1,5 +1,5 @@
 {
-  "reviewedAt": "2026-10-20",
+  "reviewedAt": "2026-10-21",
   "publicationStatus": "Historical benchmark research only; calibrated 2027 probability model unavailable",
   "gates": [
     {
@@ -11,6 +11,11 @@
       "name": "Reproducible reference rules",
       "status": "available",
       "evidence": "Two retrospective transitions, fixed prior-party and statewide-seat-leader rules, same-cohort comparison and seat-level errors."
+    },
+    {
+      "name": "Historical Parliamentary context comparison",
+      "status": "partial",
+      "evidence": "Separate event-prior context rule evaluated on 60-seat / 58-seat common cohorts, with all errors, abstentions and paired comparisons. Only two retrospective windows; original publication-version availability unverified. 2014 combined rows have five selected scan comparisons; 2019 Henglep remains withheld."
     },
     {
       "name": "Dated current membership",

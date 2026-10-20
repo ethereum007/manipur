@@ -1,0 +1,3957 @@
+{
+  "protocolVersion": "context-1.0",
+  "reviewedAt": "2026-10-21",
+  "kind": "Event-prior retrospective context-rule comparison; historical outcomes were already known",
+  "target": "Assembly election-day winning-party code",
+  "vintageVerified": false,
+  "prospectivelyValidated": false,
+  "probabilitiesAvailable": false,
+  "rules": {
+    "repeat": "Prior Assembly seat-winning party; prior IND abstains",
+    "statewide": "Prior statewide Assembly seat-count leader everywhere; ties and IND leader abstain",
+    "parliament": "Prior ordinary Parliamentary segment leading-party code; IND, ties, missing/withheld or unresolved coding abstain"
+  },
+  "comparison": "All three primary scores use the intersection of eligible seats. Full eligible denominators are separate. Existing Assembly-only reports are unchanged.",
+  "limitations": [
+    "Only two historical transitions; seats are correlated, not independent repeated elections.",
+    "Historical outcomes were inspected before this protocol; no unseen or prospective validation is claimed.",
+    "Sources were acquired in 2026; original historical publication-version availability remains unverified.",
+    "2014 uses combined-sheet rows with five selected scan comparisons, not sixty complete station audits.",
+    "2019 Henglep remains withheld; its combined-sheet row is not substituted.",
+    "Parliamentary local leads are contextual inputs, never Assembly target outcomes.",
+    "No fitted model, causal findings, sensitive-identity inputs, 2027 favourites or probabilities are produced."
+  ],
+  "windows": [
+    {
+      "assemblyYear": 2012,
+      "parliamentYear": 2014,
+      "targetYear": 2017,
+      "commonSeats": 60,
+      "commonScores": {
+        "repeat": {
+          "correct": 23,
+          "total": 60,
+          "accuracy": 0.38333333333333336,
+          "confusion": [
+            {
+              "predicted": "INC",
+              "actual": "INC",
+              "count": 21
+            },
+            {
+              "predicted": "INC",
+              "actual": "BJP",
+              "count": 14
+            },
+            {
+              "predicted": "AITC",
+              "actual": "BJP",
+              "count": 4
+            },
+            {
+              "predicted": "AITC",
+              "actual": "INC",
+              "count": 3
+            },
+            {
+              "predicted": "INC",
+              "actual": "NPF",
+              "count": 3
+            },
+            {
+              "predicted": "MSCP",
+              "actual": "BJP",
+              "count": 3
+            },
+            {
+              "predicted": "INC",
+              "actual": "NPP",
+              "count": 2
+            },
+            {
+              "predicted": "MSCP",
+              "actual": "INC",
+              "count": 2
+            },
+            {
+              "predicted": "NPF",
+              "actual": "INC",
+              "count": 2
+            },
+            {
+              "predicted": "INC",
+              "actual": "AITC",
+              "count": 1
+            },
+            {
+              "predicted": "INC",
+              "actual": "IND",
+              "count": 1
+            },
+            {
+              "predicted": "LJP",
+              "actual": "LJP",
+              "count": 1
+            },
+            {
+              "predicted": "NCP",
+              "actual": "NPP",
+              "count": 1
+            },
+            {
+              "predicted": "NPF",
+              "actual": "NPF",
+              "count": 1
+            },
+            {
+              "predicted": "NPF",
+              "actual": "NPP",
+              "count": 1
+            }
+          ]
+        },
+        "statewide": {
+          "correct": 28,
+          "total": 60,
+          "accuracy": 0.4666666666666667,
+          "confusion": [
+            {
+              "predicted": "INC",
+              "actual": "INC",
+              "count": 28
+            },
+            {
+              "predicted": "INC",
+              "actual": "BJP",
+              "count": 21
+            },
+            {
+              "predicted": "INC",
+              "actual": "NPF",
+              "count": 4
+            },
+            {
+              "predicted": "INC",
+              "actual": "NPP",
+              "count": 4
+            },
+            {
+              "predicted": "INC",
+              "actual": "AITC",
+              "count": 1
+            },
+            {
+              "predicted": "INC",
+              "actual": "IND",
+              "count": 1
+            },
+            {
+              "predicted": "INC",
+              "actual": "LJP",
+              "count": 1
+            }
+          ]
+        },
+        "parliament": {
+          "correct": 26,
+          "total": 60,
+          "accuracy": 0.43333333333333335,
+          "confusion": [
+            {
+              "predicted": "INC",
+              "actual": "INC",
+              "count": 21
+            },
+            {
+              "predicted": "INC",
+              "actual": "BJP",
+              "count": 16
+            },
+            {
+              "predicted": "CPI",
+              "actual": "BJP",
+              "count": 4
+            },
+            {
+              "predicted": "NPF",
+              "actual": "NPF",
+              "count": 4
+            },
+            {
+              "predicted": "NPF",
+              "actual": "INC",
+              "count": 3
+            },
+            {
+              "predicted": "CPI",
+              "actual": "INC",
+              "count": 2
+            },
+            {
+              "predicted": "CPI",
+              "actual": "NPP",
+              "count": 2
+            },
+            {
+              "predicted": "NPF",
+              "actual": "NPP",
+              "count": 2
+            },
+            {
+              "predicted": "AITC",
+              "actual": "INC",
+              "count": 1
+            },
+            {
+              "predicted": "BJP",
+              "actual": "AITC",
+              "count": 1
+            },
+            {
+              "predicted": "BJP",
+              "actual": "BJP",
+              "count": 1
+            },
+            {
+              "predicted": "BJP",
+              "actual": "INC",
+              "count": 1
+            },
+            {
+              "predicted": "CPI",
+              "actual": "LJP",
+              "count": 1
+            },
+            {
+              "predicted": "INC",
+              "actual": "IND",
+              "count": 1
+            }
+          ]
+        }
+      },
+      "fullEligibleScores": {
+        "repeat": {
+          "correct": 23,
+          "total": 60,
+          "accuracy": 0.38333333333333336,
+          "confusion": [
+            {
+              "predicted": "INC",
+              "actual": "INC",
+              "count": 21
+            },
+            {
+              "predicted": "INC",
+              "actual": "BJP",
+              "count": 14
+            },
+            {
+              "predicted": "AITC",
+              "actual": "BJP",
+              "count": 4
+            },
+            {
+              "predicted": "AITC",
+              "actual": "INC",
+              "count": 3
+            },
+            {
+              "predicted": "INC",
+              "actual": "NPF",
+              "count": 3
+            },
+            {
+              "predicted": "MSCP",
+              "actual": "BJP",
+              "count": 3
+            },
+            {
+              "predicted": "INC",
+              "actual": "NPP",
+              "count": 2
+            },
+            {
+              "predicted": "MSCP",
+              "actual": "INC",
+              "count": 2
+            },
+            {
+              "predicted": "NPF",
+              "actual": "INC",
+              "count": 2
+            },
+            {
+              "predicted": "INC",
+              "actual": "AITC",
+              "count": 1
+            },
+            {
+              "predicted": "INC",
+              "actual": "IND",
+              "count": 1
+            },
+            {
+              "predicted": "LJP",
+              "actual": "LJP",
+              "count": 1
+            },
+            {
+              "predicted": "NCP",
+              "actual": "NPP",
+              "count": 1
+            },
+            {
+              "predicted": "NPF",
+              "actual": "NPF",
+              "count": 1
+            },
+            {
+              "predicted": "NPF",
+              "actual": "NPP",
+              "count": 1
+            }
+          ]
+        },
+        "statewide": {
+          "correct": 28,
+          "total": 60,
+          "accuracy": 0.4666666666666667,
+          "confusion": [
+            {
+              "predicted": "INC",
+              "actual": "INC",
+              "count": 28
+            },
+            {
+              "predicted": "INC",
+              "actual": "BJP",
+              "count": 21
+            },
+            {
+              "predicted": "INC",
+              "actual": "NPF",
+              "count": 4
+            },
+            {
+              "predicted": "INC",
+              "actual": "NPP",
+              "count": 4
+            },
+            {
+              "predicted": "INC",
+              "actual": "AITC",
+              "count": 1
+            },
+            {
+              "predicted": "INC",
+              "actual": "IND",
+              "count": 1
+            },
+            {
+              "predicted": "INC",
+              "actual": "LJP",
+              "count": 1
+            }
+          ]
+        },
+        "parliament": {
+          "correct": 26,
+          "total": 60,
+          "accuracy": 0.43333333333333335,
+          "confusion": [
+            {
+              "predicted": "INC",
+              "actual": "INC",
+              "count": 21
+            },
+            {
+              "predicted": "INC",
+              "actual": "BJP",
+              "count": 16
+            },
+            {
+              "predicted": "CPI",
+              "actual": "BJP",
+              "count": 4
+            },
+            {
+              "predicted": "NPF",
+              "actual": "NPF",
+              "count": 4
+            },
+            {
+              "predicted": "NPF",
+              "actual": "INC",
+              "count": 3
+            },
+            {
+              "predicted": "CPI",
+              "actual": "INC",
+              "count": 2
+            },
+            {
+              "predicted": "CPI",
+              "actual": "NPP",
+              "count": 2
+            },
+            {
+              "predicted": "NPF",
+              "actual": "NPP",
+              "count": 2
+            },
+            {
+              "predicted": "AITC",
+              "actual": "INC",
+              "count": 1
+            },
+            {
+              "predicted": "BJP",
+              "actual": "AITC",
+              "count": 1
+            },
+            {
+              "predicted": "BJP",
+              "actual": "BJP",
+              "count": 1
+            },
+            {
+              "predicted": "BJP",
+              "actual": "INC",
+              "count": 1
+            },
+            {
+              "predicted": "CPI",
+              "actual": "LJP",
+              "count": 1
+            },
+            {
+              "predicted": "INC",
+              "actual": "IND",
+              "count": 1
+            }
+          ]
+        }
+      },
+      "excludedSeats": [],
+      "paired": {
+        "versusRepeat": {
+          "bothCorrect": 21,
+          "parliamentOnlyCorrect": 5,
+          "referenceOnlyCorrect": 2,
+          "bothWrong": 32,
+          "total": 60,
+          "netCorrect": 3
+        },
+        "versusStatewide": {
+          "bothCorrect": 21,
+          "parliamentOnlyCorrect": 5,
+          "referenceOnlyCorrect": 7,
+          "bothWrong": 27,
+          "total": 60,
+          "netCorrect": -2
+        }
+      },
+      "rows": [
+        {
+          "ac": 1,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 2,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 3,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 4,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 5,
+          "targetYear": 2017,
+          "priorAssemblyParty": "AITC",
+          "priorParliamentLeadParty": "CPI",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "AITC",
+            "statewide": "INC",
+            "parliament": "CPI"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 6,
+          "targetYear": 2017,
+          "priorAssemblyParty": "MSCP",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "MSCP",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 7,
+          "targetYear": 2017,
+          "priorAssemblyParty": "AITC",
+          "priorParliamentLeadParty": "AITC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "AITC",
+            "statewide": "INC",
+            "parliament": "AITC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 8,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 9,
+          "targetYear": 2017,
+          "priorAssemblyParty": "AITC",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "AITC",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 10,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "CPI",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "CPI"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "NPP"
+        },
+        {
+          "ac": 11,
+          "targetYear": 2017,
+          "priorAssemblyParty": "MSCP",
+          "priorParliamentLeadParty": "CPI",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "MSCP",
+            "statewide": "INC",
+            "parliament": "CPI"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 12,
+          "targetYear": 2017,
+          "priorAssemblyParty": "NCP",
+          "priorParliamentLeadParty": "CPI",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "NCP",
+            "statewide": "INC",
+            "parliament": "CPI"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "NPP"
+        },
+        {
+          "ac": 13,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "CPI",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "CPI"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 14,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 15,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 16,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 17,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 18,
+          "targetYear": 2017,
+          "priorAssemblyParty": "AITC",
+          "priorParliamentLeadParty": "CPI",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "AITC",
+            "statewide": "INC",
+            "parliament": "CPI"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 19,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 20,
+          "targetYear": 2017,
+          "priorAssemblyParty": "LJP",
+          "priorParliamentLeadParty": "CPI",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "LJP",
+            "statewide": "INC",
+            "parliament": "CPI"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "LJP"
+        },
+        {
+          "ac": 21,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "CPI",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "CPI"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 22,
+          "targetYear": 2017,
+          "priorAssemblyParty": "AITC",
+          "priorParliamentLeadParty": "CPI",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "AITC",
+            "statewide": "INC",
+            "parliament": "CPI"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 23,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 24,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 25,
+          "targetYear": 2017,
+          "priorAssemblyParty": "AITC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "AITC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 26,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 27,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 28,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "AITC"
+        },
+        {
+          "ac": 29,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 30,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 31,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 32,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/INNER(PT-I).pdf",
+            "sha256": "df0f0b810d7625273083d8773d72e03416872cd40921db912ff5bdd48b6ed05c",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 33,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 34,
+          "targetYear": 2017,
+          "priorAssemblyParty": "MSCP",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "MSCP",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 35,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 36,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 37,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 38,
+          "targetYear": 2017,
+          "priorAssemblyParty": "AITC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "AITC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 39,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 40,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "IND"
+        },
+        {
+          "ac": 41,
+          "targetYear": 2017,
+          "priorAssemblyParty": "NPF",
+          "priorParliamentLeadParty": "NPF",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "NPF",
+            "statewide": "INC",
+            "parliament": "NPF"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "NPP"
+        },
+        {
+          "ac": 42,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "NPF",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "NPF"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 43,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "NPF",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "NPF"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "NPF"
+        },
+        {
+          "ac": 44,
+          "targetYear": 2017,
+          "priorAssemblyParty": "NPF",
+          "priorParliamentLeadParty": "NPF",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "NPF",
+            "statewide": "INC",
+            "parliament": "NPF"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 45,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "NPF",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "NPF"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "NPF"
+        },
+        {
+          "ac": 46,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 47,
+          "targetYear": 2017,
+          "priorAssemblyParty": "NPF",
+          "priorParliamentLeadParty": "NPF",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "NPF",
+            "statewide": "INC",
+            "parliament": "NPF"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 48,
+          "targetYear": 2017,
+          "priorAssemblyParty": "NPF",
+          "priorParliamentLeadParty": "NPF",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "NPF",
+            "statewide": "INC",
+            "parliament": "NPF"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "NPF"
+        },
+        {
+          "ac": 49,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "NPF",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "NPF"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "NPP"
+        },
+        {
+          "ac": 50,
+          "targetYear": 2017,
+          "priorAssemblyParty": "MSCP",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "MSCP",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 51,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 52,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "NPF",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "NPF"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "NPF"
+        },
+        {
+          "ac": 53,
+          "targetYear": 2017,
+          "priorAssemblyParty": "MSCP",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "MSCP",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 54,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 55,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 56,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 57,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 58,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 59,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 60,
+          "targetYear": 2017,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2014/OUTER(PT-II).pdf",
+            "sha256": "11271da192a3a39ca30241572bd5719624c98a75d862d3a9e2f7a695551bf1ab",
+            "page": 1,
+            "scope": "official combined sheet; five selected scanned footers, no complete station audit"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        }
+      ]
+    },
+    {
+      "assemblyYear": 2017,
+      "parliamentYear": 2019,
+      "targetYear": 2022,
+      "commonSeats": 58,
+      "commonScores": {
+        "repeat": {
+          "correct": 25,
+          "total": 58,
+          "accuracy": 0.43103448275862066,
+          "confusion": [
+            {
+              "predicted": "BJP",
+              "actual": "BJP",
+              "count": 15
+            },
+            {
+              "predicted": "INC",
+              "actual": "BJP",
+              "count": 12
+            },
+            {
+              "predicted": "INC",
+              "actual": "INC",
+              "count": 5
+            },
+            {
+              "predicted": "BJP",
+              "actual": "NPP",
+              "count": 4
+            },
+            {
+              "predicted": "INC",
+              "actual": "JD(U)",
+              "count": 4
+            },
+            {
+              "predicted": "NPF",
+              "actual": "NPF",
+              "count": 4
+            },
+            {
+              "predicted": "INC",
+              "actual": "IND",
+              "count": 2
+            },
+            {
+              "predicted": "INC",
+              "actual": "KPA",
+              "count": 2
+            },
+            {
+              "predicted": "INC",
+              "actual": "NPP",
+              "count": 2
+            },
+            {
+              "predicted": "NPP",
+              "actual": "BJP",
+              "count": 2
+            },
+            {
+              "predicted": "AITC",
+              "actual": "BJP",
+              "count": 1
+            },
+            {
+              "predicted": "BJP",
+              "actual": "JD(U)",
+              "count": 1
+            },
+            {
+              "predicted": "INC",
+              "actual": "NPF",
+              "count": 1
+            },
+            {
+              "predicted": "LJP",
+              "actual": "BJP",
+              "count": 1
+            },
+            {
+              "predicted": "NPP",
+              "actual": "IND",
+              "count": 1
+            },
+            {
+              "predicted": "NPP",
+              "actual": "NPP",
+              "count": 1
+            }
+          ]
+        },
+        "statewide": {
+          "correct": 5,
+          "total": 58,
+          "accuracy": 0.08620689655172414,
+          "confusion": [
+            {
+              "predicted": "INC",
+              "actual": "BJP",
+              "count": 31
+            },
+            {
+              "predicted": "INC",
+              "actual": "NPP",
+              "count": 7
+            },
+            {
+              "predicted": "INC",
+              "actual": "INC",
+              "count": 5
+            },
+            {
+              "predicted": "INC",
+              "actual": "JD(U)",
+              "count": 5
+            },
+            {
+              "predicted": "INC",
+              "actual": "NPF",
+              "count": 5
+            },
+            {
+              "predicted": "INC",
+              "actual": "IND",
+              "count": 3
+            },
+            {
+              "predicted": "INC",
+              "actual": "KPA",
+              "count": 2
+            }
+          ]
+        },
+        "parliament": {
+          "correct": 27,
+          "total": 58,
+          "accuracy": 0.46551724137931033,
+          "confusion": [
+            {
+              "predicted": "BJP",
+              "actual": "BJP",
+              "count": 17
+            },
+            {
+              "predicted": "INC",
+              "actual": "BJP",
+              "count": 9
+            },
+            {
+              "predicted": "INC",
+              "actual": "INC",
+              "count": 5
+            },
+            {
+              "predicted": "NPF",
+              "actual": "NPF",
+              "count": 5
+            },
+            {
+              "predicted": "INC",
+              "actual": "JD(U)",
+              "count": 4
+            },
+            {
+              "predicted": "BJP",
+              "actual": "NPP",
+              "count": 3
+            },
+            {
+              "predicted": "NPF",
+              "actual": "BJP",
+              "count": 3
+            },
+            {
+              "predicted": "BJP",
+              "actual": "KPA",
+              "count": 2
+            },
+            {
+              "predicted": "CPI",
+              "actual": "BJP",
+              "count": 2
+            },
+            {
+              "predicted": "INC",
+              "actual": "NPP",
+              "count": 2
+            },
+            {
+              "predicted": "NPF",
+              "actual": "NPP",
+              "count": 2
+            },
+            {
+              "predicted": "BJP",
+              "actual": "IND",
+              "count": 1
+            },
+            {
+              "predicted": "BJP",
+              "actual": "JD(U)",
+              "count": 1
+            },
+            {
+              "predicted": "CPI",
+              "actual": "IND",
+              "count": 1
+            },
+            {
+              "predicted": "NPF",
+              "actual": "IND",
+              "count": 1
+            }
+          ]
+        }
+      },
+      "fullEligibleScores": {
+        "repeat": {
+          "correct": 26,
+          "total": 59,
+          "accuracy": 0.4406779661016949,
+          "confusion": [
+            {
+              "predicted": "BJP",
+              "actual": "BJP",
+              "count": 16
+            },
+            {
+              "predicted": "INC",
+              "actual": "BJP",
+              "count": 12
+            },
+            {
+              "predicted": "INC",
+              "actual": "INC",
+              "count": 5
+            },
+            {
+              "predicted": "BJP",
+              "actual": "NPP",
+              "count": 4
+            },
+            {
+              "predicted": "INC",
+              "actual": "JD(U)",
+              "count": 4
+            },
+            {
+              "predicted": "NPF",
+              "actual": "NPF",
+              "count": 4
+            },
+            {
+              "predicted": "INC",
+              "actual": "IND",
+              "count": 2
+            },
+            {
+              "predicted": "INC",
+              "actual": "KPA",
+              "count": 2
+            },
+            {
+              "predicted": "INC",
+              "actual": "NPP",
+              "count": 2
+            },
+            {
+              "predicted": "NPP",
+              "actual": "BJP",
+              "count": 2
+            },
+            {
+              "predicted": "AITC",
+              "actual": "BJP",
+              "count": 1
+            },
+            {
+              "predicted": "BJP",
+              "actual": "JD(U)",
+              "count": 1
+            },
+            {
+              "predicted": "INC",
+              "actual": "NPF",
+              "count": 1
+            },
+            {
+              "predicted": "LJP",
+              "actual": "BJP",
+              "count": 1
+            },
+            {
+              "predicted": "NPP",
+              "actual": "IND",
+              "count": 1
+            },
+            {
+              "predicted": "NPP",
+              "actual": "NPP",
+              "count": 1
+            }
+          ]
+        },
+        "statewide": {
+          "correct": 5,
+          "total": 60,
+          "accuracy": 0.08333333333333333,
+          "confusion": [
+            {
+              "predicted": "INC",
+              "actual": "BJP",
+              "count": 32
+            },
+            {
+              "predicted": "INC",
+              "actual": "NPP",
+              "count": 7
+            },
+            {
+              "predicted": "INC",
+              "actual": "JD(U)",
+              "count": 6
+            },
+            {
+              "predicted": "INC",
+              "actual": "INC",
+              "count": 5
+            },
+            {
+              "predicted": "INC",
+              "actual": "NPF",
+              "count": 5
+            },
+            {
+              "predicted": "INC",
+              "actual": "IND",
+              "count": 3
+            },
+            {
+              "predicted": "INC",
+              "actual": "KPA",
+              "count": 2
+            }
+          ]
+        },
+        "parliament": {
+          "correct": 27,
+          "total": 59,
+          "accuracy": 0.4576271186440678,
+          "confusion": [
+            {
+              "predicted": "BJP",
+              "actual": "BJP",
+              "count": 17
+            },
+            {
+              "predicted": "INC",
+              "actual": "BJP",
+              "count": 9
+            },
+            {
+              "predicted": "INC",
+              "actual": "INC",
+              "count": 5
+            },
+            {
+              "predicted": "NPF",
+              "actual": "NPF",
+              "count": 5
+            },
+            {
+              "predicted": "INC",
+              "actual": "JD(U)",
+              "count": 4
+            },
+            {
+              "predicted": "BJP",
+              "actual": "NPP",
+              "count": 3
+            },
+            {
+              "predicted": "NPF",
+              "actual": "BJP",
+              "count": 3
+            },
+            {
+              "predicted": "BJP",
+              "actual": "JD(U)",
+              "count": 2
+            },
+            {
+              "predicted": "BJP",
+              "actual": "KPA",
+              "count": 2
+            },
+            {
+              "predicted": "CPI",
+              "actual": "BJP",
+              "count": 2
+            },
+            {
+              "predicted": "INC",
+              "actual": "NPP",
+              "count": 2
+            },
+            {
+              "predicted": "NPF",
+              "actual": "NPP",
+              "count": 2
+            },
+            {
+              "predicted": "BJP",
+              "actual": "IND",
+              "count": 1
+            },
+            {
+              "predicted": "CPI",
+              "actual": "IND",
+              "count": 1
+            },
+            {
+              "predicted": "NPF",
+              "actual": "IND",
+              "count": 1
+            }
+          ]
+        }
+      },
+      "excludedSeats": [
+        {
+          "ac": 40,
+          "reasons": [
+            {
+              "rule": "repeat",
+              "reason": "Prior Assembly IND is not a persistent party or verified person match"
+            }
+          ]
+        },
+        {
+          "ac": 57,
+          "reasons": [
+            {
+              "rule": "parliament",
+              "reason": "Prior Parliamentary segment withheld: contradictory official sources"
+            }
+          ]
+        }
+      ],
+      "paired": {
+        "versusRepeat": {
+          "bothCorrect": 21,
+          "parliamentOnlyCorrect": 6,
+          "referenceOnlyCorrect": 4,
+          "bothWrong": 27,
+          "total": 58,
+          "netCorrect": 2
+        },
+        "versusStatewide": {
+          "bothCorrect": 5,
+          "parliamentOnlyCorrect": 22,
+          "referenceOnlyCorrect": 0,
+          "bothWrong": 31,
+          "total": 58,
+          "netCorrect": 22
+        }
+      },
+      "rows": [
+        {
+          "ac": 1,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/01.pdf",
+            "sha256": "06a5737bc6315db90d242b00d38b2ec65d8aa8d4ad12670930e99d9a0315f58a",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 2,
+          "targetYear": 2022,
+          "priorAssemblyParty": "BJP",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/02.pdf",
+            "sha256": "02d58e7b4bc80c2151f307b138c9c8bc8ceb144b9282faaa5ea12bd061343eff",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "BJP",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 3,
+          "targetYear": 2022,
+          "priorAssemblyParty": "BJP",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/03.pdf",
+            "sha256": "2f744cf2e3e5341a81f213a8ca8d579e4f0d1dd34fab50614472e7bbefb4a813",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "BJP",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 4,
+          "targetYear": 2022,
+          "priorAssemblyParty": "BJP",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/04.pdf",
+            "sha256": "85fb92b2a7ab102002df3cfd37cded2509cdbdb2d00a568bf79dc448e353a550",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "BJP",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "NPP"
+        },
+        {
+          "ac": 5,
+          "targetYear": 2022,
+          "priorAssemblyParty": "BJP",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/05.pdf",
+            "sha256": "6182f0e1233c70df7edc0718b5192ad2a7c82bed8fd85e74eba5db61075d5c17",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "BJP",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 6,
+          "targetYear": 2022,
+          "priorAssemblyParty": "BJP",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/06.pdf",
+            "sha256": "ae0b9d15dae1ed390f1fd24eb1a79f628a22e1ef28c4311223a9e2be88515778",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "BJP",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 7,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/07.pdf",
+            "sha256": "7646111af43e4d7d8aaf8e2da02848d008a3535b6c8566c12e9b2ab4d8ce1223",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 8,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "CPI",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/08.pdf",
+            "sha256": "9d2a46f723bd2dbe302799750c6ef192b0716c66434dcaa713ca6aba292a6a6f",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "CPI"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 9,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/09.pdf",
+            "sha256": "055edbdbedf7998830176c16a8419e1530c9657df03cb09c4f182e264a27423c",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "JD(U)"
+        },
+        {
+          "ac": 10,
+          "targetYear": 2022,
+          "priorAssemblyParty": "NPP",
+          "priorParliamentLeadParty": "CPI",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/10.pdf",
+            "sha256": "2564cae4c8d453ecac355aa3af42f3ce7928a3969b806f0b93d7fd340c85de72",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "NPP",
+            "statewide": "INC",
+            "parliament": "CPI"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 11,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/11.pdf",
+            "sha256": "b70d73ab22360941c89028731e27573c27dacaeda939d17f66925e8f90491d1d",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 12,
+          "targetYear": 2022,
+          "priorAssemblyParty": "NPP",
+          "priorParliamentLeadParty": "CPI",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/12.pdf",
+            "sha256": "75b40340cd674cac16e1f27282e2c218659edd79edb039a0e58da29cd1472cbf",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "NPP",
+            "statewide": "INC",
+            "parliament": "CPI"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "IND"
+        },
+        {
+          "ac": 13,
+          "targetYear": 2022,
+          "priorAssemblyParty": "BJP",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/13.pdf",
+            "sha256": "52c0e5902fca71a567f0f50798bb548c94f91320e4f797acfb4010e9e6f7777c",
+            "page": 1,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "BJP",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 14,
+          "targetYear": 2022,
+          "priorAssemblyParty": "BJP",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/14.pdf",
+            "sha256": "1390e480fd9119da32a1b63ecf9c195f34401360c3bfae9e0b95d3595708a173",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "BJP",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 15,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/15.pdf",
+            "sha256": "29f02ab119a4d8ee4f4d8ca2f80e2e47cff5e3ec1589bad342b20ec835394991",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "JD(U)"
+        },
+        {
+          "ac": 16,
+          "targetYear": 2022,
+          "priorAssemblyParty": "BJP",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/16.pdf",
+            "sha256": "f123665fcb7d027f490c7cdfde9c10e525b4b5c5a3b2d29be57e33de9eccfcb3",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "BJP",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 17,
+          "targetYear": 2022,
+          "priorAssemblyParty": "BJP",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/17.pdf",
+            "sha256": "a030f1cd6b7c061e337f5c8f328c0141f6b6df13194448d3937fb962edcb0efe",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "BJP",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 18,
+          "targetYear": 2022,
+          "priorAssemblyParty": "BJP",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/18.pdf",
+            "sha256": "d0de6adcec02e12ad29b5691ebd524d5b89346e672ba849f1f2575ead00066ed",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "BJP",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 19,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/19.pdf",
+            "sha256": "c8ba1d8f482c05e2cf2f8f6b5fab55017d1879963ca4ed304cb41e6eea42c805",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 20,
+          "targetYear": 2022,
+          "priorAssemblyParty": "LJP",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/20.pdf",
+            "sha256": "8063c2009b2c655d19668a049e80351cf7e4c57099ef09a127b9423fc9fd0e9d",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "LJP",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 21,
+          "targetYear": 2022,
+          "priorAssemblyParty": "BJP",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/21.pdf",
+            "sha256": "39c4227d85bc2b18f3c6c93e72ab3b7f059ee32ec67733114e886937418faae7",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "BJP",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 22,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/22.pdf",
+            "sha256": "eda3a4733005255b603da0f8161c1a286dd827f7c5e4e943a6451a5290526368",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "NPP"
+        },
+        {
+          "ac": 23,
+          "targetYear": 2022,
+          "priorAssemblyParty": "BJP",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/23.pdf",
+            "sha256": "0e02128d63d6fd902f7588ed8e91ef9f57fdebc0b7d28adde8affdb24c9aab7a",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "BJP",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 24,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/24.pdf",
+            "sha256": "d1d1aace9b39980ac7872874ad217e92f6cffa76c592d4fb9f9946ed31b90ad6",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 25,
+          "targetYear": 2022,
+          "priorAssemblyParty": "BJP",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/25.pdf",
+            "sha256": "c2f26efab7daedc8872dd714f560ceaec3387a7ca3a37293b8e9d77cc0478455",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "BJP",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "NPP"
+        },
+        {
+          "ac": 26,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/26.pdf",
+            "sha256": "8f8be7d483d33decae5012c63c71faf6fbf22c86ce67f289d8c48f073d4602ed",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 27,
+          "targetYear": 2022,
+          "priorAssemblyParty": "BJP",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/27.pdf",
+            "sha256": "9274c3c466a11cd561e7332b8f2c7921fc6625e0c17d568d9e031e02b69fb914",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "BJP",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "NPP"
+        },
+        {
+          "ac": 28,
+          "targetYear": 2022,
+          "priorAssemblyParty": "AITC",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/28.pdf",
+            "sha256": "6474297106a0f71b627517f77c85e5d091b284e2fbe01de8b685dfba9b602b7f",
+            "page": 1,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "AITC",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 29,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/29.pdf",
+            "sha256": "6e91f38d15370c8420686efac96d1f1dfd13e262ca53f8a78a7c3b125e64db39",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 30,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/30.pdf",
+            "sha256": "b847dc9b16a7a6afaf6bb6d103005c5173a46862f1106007d82baf8311b5726b",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "JD(U)"
+        },
+        {
+          "ac": 31,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/31.pdf",
+            "sha256": "75ce95aa0ad84b04058162221840b8904d029aef83852cd4d2ce455057eeb798",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 32,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/32.pdf",
+            "sha256": "1db1f2b63898c8dc0eb45d9d2d43e59eb6a8c9c2ca8739cca57c488036c9f333",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 33,
+          "targetYear": 2022,
+          "priorAssemblyParty": "BJP",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/33.pdf",
+            "sha256": "61911d8c41d472e0ed4c9c95035d0b4ad6d789d134abde7f729aa73a181bb794",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "BJP",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 34,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/34.pdf",
+            "sha256": "fc98f3ab17da55f7c9c9e8c96d78e129b25c6e4e5ef29aab893dd546fddd5189",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 35,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/35.pdf",
+            "sha256": "22bf0f2aaa952cfe4463e072f7d4600ae74e3c9cb15db56a5a4a20195e22592e",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 36,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/36.pdf",
+            "sha256": "1c585916a5f38dc53597e82a43bb708e66a29ca7b44b95f44cbea0ab562236c5",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 37,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/37.pdf",
+            "sha256": "c8e2b7909f5064a1d28e296c8bb3396eec84d1829fb3322a7c088c0a99756581",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "NPP"
+        },
+        {
+          "ac": 38,
+          "targetYear": 2022,
+          "priorAssemblyParty": "BJP",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/38.pdf",
+            "sha256": "34d6e23e00ab3f68a23138f3b48c157f7b45299777c108d5c192217dcb05a3e9",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "BJP",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 39,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/39.pdf",
+            "sha256": "b6bbd7a9ac16e995f5a0206a199c9270ef32fd9650dbe40c008999fd371a65ff",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "INC"
+        },
+        {
+          "ac": 40,
+          "targetYear": 2022,
+          "priorAssemblyParty": "IND",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/40.pdf",
+            "sha256": "a63ed909a3d693ec031cc1e3e0bf24dd20d5c4fe4757d784523ba6fa6372468c",
+            "page": 1,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": null,
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": "Prior Assembly IND is not a persistent party or verified person match",
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": false,
+          "actualParty": "JD(U)"
+        },
+        {
+          "ac": 41,
+          "targetYear": 2022,
+          "priorAssemblyParty": "NPP",
+          "priorParliamentLeadParty": "NPF",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/41.pdf",
+            "sha256": "56a0dcfd606ed0ba1840c5c83f88dc749d347de9439b3faa7024a8d47108150e",
+            "page": 3,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "NPP",
+            "statewide": "INC",
+            "parliament": "NPF"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 42,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "NPF",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/42.pdf",
+            "sha256": "cf414080b919bc1a8bfcd56acf7cc83d0b1082db887f2f76b977f69fec7b3605",
+            "page": 3,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "NPF"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 43,
+          "targetYear": 2022,
+          "priorAssemblyParty": "NPF",
+          "priorParliamentLeadParty": "NPF",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/43.pdf",
+            "sha256": "12a1f479b3d1e3c37dea60f49b2f41e0b33b97bad4c40f19937ce24da09613aa",
+            "page": 3,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "NPF",
+            "statewide": "INC",
+            "parliament": "NPF"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "NPF"
+        },
+        {
+          "ac": 44,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "NPF",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/44.pdf",
+            "sha256": "366f3e0f33f346df40eca585429a5e3f635785738b60c0601826fef71a0f1fcf",
+            "page": 3,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "NPF"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "NPF"
+        },
+        {
+          "ac": 45,
+          "targetYear": 2022,
+          "priorAssemblyParty": "NPF",
+          "priorParliamentLeadParty": "NPF",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/45.pdf",
+            "sha256": "b04c5395197f02be814739c3baf974d3c870566f8143237e4f74d7fb18d016ed",
+            "page": 3,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "NPF",
+            "statewide": "INC",
+            "parliament": "NPF"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "NPF"
+        },
+        {
+          "ac": 46,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/46.pdf",
+            "sha256": "75ae98339a8858a94c30d2518a30ed2cc65c13014f49c5cf012fc0d32aa6ed8a",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "KPA"
+        },
+        {
+          "ac": 47,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "NPF",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/47.pdf",
+            "sha256": "c9d3e4e6a07c97f48e5eab28684a75b026ad743ebf927d2e9dcea5bc43d6d088",
+            "page": 3,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "NPF"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "IND"
+        },
+        {
+          "ac": 48,
+          "targetYear": 2022,
+          "priorAssemblyParty": "NPF",
+          "priorParliamentLeadParty": "NPF",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/48.pdf",
+            "sha256": "22e61c579c15d07fe7d56a72b52b59ae290812428f1661b7059e1c0a8c1cc506",
+            "page": 3,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "NPF",
+            "statewide": "INC",
+            "parliament": "NPF"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "NPF"
+        },
+        {
+          "ac": 49,
+          "targetYear": 2022,
+          "priorAssemblyParty": "NPP",
+          "priorParliamentLeadParty": "NPF",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/49.pdf",
+            "sha256": "952abbff075d21aaeb1f47d769d8ed912a3a56e8fd9c7a195e450abfd89262d0",
+            "page": 3,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "NPP",
+            "statewide": "INC",
+            "parliament": "NPF"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "NPP"
+        },
+        {
+          "ac": 50,
+          "targetYear": 2022,
+          "priorAssemblyParty": "BJP",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/50.pdf",
+            "sha256": "e2b7e4102b3c5ecb9ade4381f59a544efcefae3962611b0a1e64dcc38dce55aa",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "BJP",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 51,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/51.pdf",
+            "sha256": "b3d9789acde7f2ced254c2c298e09a8d1ae4ba93ad2bf731ff689472763c079c",
+            "page": 3,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "IND"
+        },
+        {
+          "ac": 52,
+          "targetYear": 2022,
+          "priorAssemblyParty": "NPF",
+          "priorParliamentLeadParty": "NPF",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/52.pdf",
+            "sha256": "941da6e86fdb902b136cb26456f2d5d58c3ba72ddab8902a33aae7e93f43e92b",
+            "page": 3,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "NPF",
+            "statewide": "INC",
+            "parliament": "NPF"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "NPF"
+        },
+        {
+          "ac": 53,
+          "targetYear": 2022,
+          "priorAssemblyParty": "BJP",
+          "priorParliamentLeadParty": "NPF",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/53.pdf",
+            "sha256": "94e66ec1001166b942c1110e7ac3d713102f6c6c9b3a3ecb803abc7764e9d3a5",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "BJP",
+            "statewide": "INC",
+            "parliament": "NPF"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "NPP"
+        },
+        {
+          "ac": 54,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "NPF",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/54.pdf",
+            "sha256": "1fd76138cd3809aa9ccbc674edd052da681b95bafdef48d2eb7a1a603ff31732",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "NPF"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 55,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/55.pdf",
+            "sha256": "f2e5e7313f82d7da502413d5a5e082895676197449324724b9c6abb849e3af0d",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "JD(U)"
+        },
+        {
+          "ac": 56,
+          "targetYear": 2022,
+          "priorAssemblyParty": "BJP",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/56.pdf",
+            "sha256": "b8d319665db0cfd5aa0d3f5e9efe154620acc3b859bc28d72768b3de2e59d8ad",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "BJP",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 57,
+          "targetYear": 2022,
+          "priorAssemblyParty": "BJP",
+          "priorParliamentLeadParty": null,
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/57.pdf",
+            "sha256": "d829d53f131d54719d85a855a64db96218811fa6673bd1be67eb36b56bac5a26",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "BJP",
+            "statewide": "INC",
+            "parliament": null
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": "Prior Parliamentary segment withheld: contradictory official sources"
+          },
+          "commonEligible": false,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 58,
+          "targetYear": 2022,
+          "priorAssemblyParty": "BJP",
+          "priorParliamentLeadParty": "INC",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/58.pdf",
+            "sha256": "5539355ff54f2f61ae737e567e686214d4338c74e1d02706f874ef7a88a3b934",
+            "page": 3,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "BJP",
+            "statewide": "INC",
+            "parliament": "INC"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "JD(U)"
+        },
+        {
+          "ac": 59,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/59.pdf",
+            "sha256": "0751f31b6b6f0ff3eccf736d83b68959b93f9bd3e2f57f0fa20243b3cf0d96c9",
+            "page": 3,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "BJP"
+        },
+        {
+          "ac": 60,
+          "targetYear": 2022,
+          "priorAssemblyParty": "INC",
+          "priorParliamentLeadParty": "BJP",
+          "priorParliamentTiedParties": [],
+          "parliamentSource": {
+            "url": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/60.pdf",
+            "sha256": "480667e1eca58f9b5dfe6ae1e0e6c214e45df293bfc874638301c0f1713e7298",
+            "page": 2,
+            "scope": "individual native table; selected visual checks and source exceptions retained"
+          },
+          "predictions": {
+            "repeat": "INC",
+            "statewide": "INC",
+            "parliament": "BJP"
+          },
+          "abstentions": {
+            "repeat": null,
+            "statewide": null,
+            "parliament": null
+          },
+          "commonEligible": true,
+          "actualParty": "KPA"
+        }
+      ]
+    }
+  ],
+  "inputFingerprints": [
+    {
+      "path": "data/processed/winners.json",
+      "sha256": "cba5b2aec5f6018cb7ce3a3fd2ddca30f66c8b74de9bc2a6ffb8852897432803"
+    },
+    {
+      "path": "data/research/parliament-segments-2014.json",
+      "sha256": "b7a71a9fe03404e194eee352f8384cd183e4a3cffacbbf0e52d75834f8f582b3"
+    },
+    {
+      "path": "data/research/parliament-segments-2019.json",
+      "sha256": "8dcdedbfb518724d7e0f4f5cb154191fdd79760f9f177e95f97cac27e6f2d4cf"
+    },
+    {
+      "path": "data/research/parliament-2019-party-columns.json",
+      "sha256": "11fe77add378eb9ee05b79bfc1793dca9d811e751c33418338452c44ccc4969e"
+    },
+    {
+      "path": "src/lib/forecast-context.mjs",
+      "sha256": "65c440b7ad00937898cd9a2fa390a06bfab4b0f1b39475bca85b4fa4663dcf93"
+    },
+    {
+      "path": "docs/FORECAST_CONTEXT_PROTOCOL_2026-10-21.md",
+      "sha256": "8560be27f1ed2487c83e4f38f78dc27546772e219f3d06d3fe1598cb77420687"
+    }
+  ]
+}
