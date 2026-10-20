@@ -6,6 +6,7 @@ import {
   candidateSlug,
   registeredWinner,
   electionSource,
+  resultSource,
   number,
 } from "@/lib/data";
 import { PageIntro, SourceNote, Missing } from "@/components/ui";
@@ -68,9 +69,9 @@ export default async function Candidate({
           <SourceNote>
             {r.verification}
             <br />
-            <a href={r.indexUrl || electionSource(r.year)}>
+            <a href={r.sourceUrl || r.indexUrl || electionSource(r.year)}>
               CEO Manipur · official {r.year}{" "}
-              {r.indexUrl ? "candidate index" : "report"}
+              {r.sourceUrl ? "Form 20" : r.indexUrl ? "candidate index" : "report"}
             </a>
             {r.sourcePage > 0 ? ", PDF p. " + r.sourcePage : ""}.
           </SourceNote>

@@ -12,6 +12,9 @@ export type Result = {
   rank: number;
   source: string;
   sourcePage: number;
+  sourceUrl?: string;
+  sourceSha256?: string;
+  sourceNotes?: string;
   electors: number | null;
   nota: number | null;
 };
@@ -135,3 +138,5 @@ export type CandidateEntry = Omit<
 export const candidateIndex = (
   registryData.length ? registryData : records
 ) as CandidateEntry[];
+
+export const resultSource=(r: {year:number;sourceUrl?:string})=>r.sourceUrl||electionSource(r.year);

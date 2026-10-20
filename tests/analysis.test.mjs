@@ -20,7 +20,7 @@ test('matched comparisons include only identical constituencies in both years',(
  const a=new Set(rows.filter(r=>r.year===2017).map(r=>r.ac)),b=new Set(rows.filter(r=>r.year===2022).map(r=>r.ac));
  assert.equal(p.length,[...a].filter(id=>b.has(id)).length);
  assert.ok(p.every(r=>r.before.ac===r.after.ac&&r.ac===r.before.ac));
- assert.ok(!p.some(r=>r.ac===7));
+ assert.ok(!p.some(r=>r.ac===21));
 });
 test('competition denominators, fragmentation and tied majority are exact',()=>{
  const fixture=[{votes:50},{votes:50}].map((r,i)=>({...r,year:2022,ac:1,candidate:'candidate'+i,party:'IND',rank:i+1,source:'test',sourcePage:1}));

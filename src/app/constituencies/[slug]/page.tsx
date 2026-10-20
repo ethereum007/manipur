@@ -7,6 +7,7 @@ import {
   number,
   years,
   electionSource,
+  resultSource,
   candidateSlug,
   registeredWinner,
 } from "@/lib/data";
@@ -108,7 +109,7 @@ export default async function Constituency({
                   </>
                 )}
                 <SourceNote>
-                  <a href={electionSource(y)}>CEO Manipur · {y} report ↗</a>
+                  <a href={rows[0]?resultSource(rows[0]):electionSource(y)}>CEO Manipur · {y} report ↗</a>
                   {rows[0] ? ", PDF p. " + rows[0].sourcePage : ""}
                 </SourceNote>
               </article>
