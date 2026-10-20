@@ -33,7 +33,7 @@ def process(r):
       except AssertionError:issues.append({'kind':'station-ballot-accounting','station':row[0],'page':pi+1,'values':v,'candidateSum':sum(v[:n])})
       stations.append({'id':re.sub(r'\s','',row[0]),'page':pi+1,'values':v})
      elif re.search(r'totalvote[sd]?polled', re.sub(r'[^a-z]','',(' '.join(str(x or '') for x in row[:2])).lower())):
-      v=list(map(num,row[2:]));ballot(v,n);footers.append({'page':pi+1,'values':v})
+      v=list(map(num,row[2:]));footers.append({'page':pi+1,'values':v});ballot(v,n)
   assert len(footers)==1,('footer count',len(footers))
   assert stations and len({s['id'] for s in stations})==len(stations),'station coverage'
   for s in stations:
@@ -67,6 +67,6 @@ report={'generatedAt':datetime.now(timezone.utc).isoformat(),'cloudRun':'https:/
 exception=next((r for r in rows if r['ac']==57),None)
 combined57=[353,3373,944,3277,17743,65,199,17,25971,0,53,26024,0]
 report['combinedHenglepReview']={'values':combined57,'page':1,'sourceUrl':next(r['url'] for r in m['records'] if r['year']==2019 and r['role']=='combined-result' and 'Outer' in r['url']),'scope':'Selected original combined-page visual transcription; contradictory segment footer remains withheld.'}
-report['releaseChecksPassed']=len(rows)==60 and sum(r['status']=='reconciled' for r in rows)==59 and exception is not None and exception['status']=='withheld' and exception.get('printedFooter',{}).get('values')==[353,3373,924,3277,17473,65,196,17,25971,0,53,26024,0] and checks[0]['matchesCombinedOrdinary'] and all(a+b==c for a,b,c in zip(checks[1]['actual'],combined57,checks[1]['expected'])) and all(c['postalGrandConservation'] for c in checks)
+report['releaseChecksPassed']=len(rows)==60 and sum(r['status']=='reconciled' for r in rows)==59 and exception is not None and exception['status']=='withheld' and (exception.get('printedFooter') or {}).get('values')==[353,3373,924,3277,17473,65,196,17,25971,0,53,26024,0] and checks[0]['matchesCombinedOrdinary'] and all(a+b==c for a,b,c in zip(checks[1]['actual'],combined57,checks[1]['expected'])) and all(c['postalGrandConservation'] for c in checks)
 (out/'reconciliation.json').write_text(json.dumps(report,indent=2));print(json.dumps({'complete':report['complete'],'checks':checks,'withheld':[r for r in rows if r['status']=='withheld']}))
 if not report['releaseChecksPassed']:raise SystemExit('Unexpected reconciliation failure; publication blocked')
