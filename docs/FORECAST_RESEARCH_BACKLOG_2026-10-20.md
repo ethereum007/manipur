@@ -21,3 +21,7 @@ User priority: predictive readiness, while continuing overall product and eviden
 ## Release discipline
 
 All project files, acquisition, processing, tests and screenshots in GitHub only. Push tested changes directly to main. Review screenshots after visual changes, verify production and keep dated QA receipts. Keep quiet absent meaningful progress, notify on substantive releases or necessary blockers. Maintain active continuation while this scoped backlog remains.
+
+## Step 1 delivered
+
+The 60-seat, 12-slot input register is deployed with three explicit missing 2027 input sets, source provenance, conservative capture-vintage checks and vacancy semantics. See FORECAST_INPUTS_QA_2026-10-20.md. Thirty data tests and eighteen browser tests passed; screenshots and production verified. This does not authorize automatic model feature inclusion or establish calibration. Step 2 is the next primary research task. Hourly cadence remains ACTIVE.
