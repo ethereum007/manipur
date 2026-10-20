@@ -24,7 +24,7 @@ for doc in data['documents']:
     if key:
      if key in footers:problems.append({'type':'duplicate-footer','kind':key})
      footers[key]={**meta,'raw':row}
-    elif row[1] and number(row[14]) is not None and any(number(row[i]) is not None for i in range(2,14)):
+    elif row[1] and compact(row[1]) not in ['b/f','bf','c/f','cf'] and number(row[14]) is not None and any(number(row[i]) is not None for i in range(2,14)):
      stations.append({**meta,'printedId':row[0],'label':row[1],'raw':row})
  if not headers:problems.append({'type':'missing-candidate-header'});cols=[];labels=[]
  else:
