@@ -34,9 +34,18 @@ import csv,io
 records=json.loads((root/'data/processed/results.json').read_text())
 sources=json.loads((root/'data/processed/sources.json').read_text())
 (p/'data/results.json').write_text(json.dumps({'reference':'Assembly elections 2012/2017/2022','license':'Research transcription; original publication rights retained','sources':sources,'records':records},ensure_ascii=False,indent=2))
-columns=['year','ac','name','candidate','party','votes','rank','source','sourcePage']
+columns=['year','ac','name','candidate','party','votes','rank','source','sourcePage','sourceUrl','sourceSha256']
 f=io.StringIO();writer=csv.DictWriter(f,fieldnames=columns,extrasaction='ignore');writer.writeheader();writer.writerows(records)
 (p/'data/results.csv').write_text(f.getvalue(),encoding='utf-8')
 
 for filename in ['winners.json','parliament-2024.json','candidate-register.json']:
  (p/'data'/filename).write_text((root/'data/processed'/filename).read_text(),encoding='utf-8')
+
+# Research exports preserve provenance and separate segment leads from Assembly wins.
+for filename in ['parliament-segments-2024.json','disclosures-2022.json','election-context-2024.json']:
+ (p/'data'/filename).write_text((root/'data/research'/filename).read_text(),encoding='utf-8')
+segments=json.loads((root/'data/research/parliament-segments-2024.json').read_text())['segments']
+f=io.StringIO();w=csv.writer(f);w.writerow(['year','ac','constituency','pc','segment_leader','party','leader_votes','runner_up','runner_party','runner_votes','margin_votes','margin_candidate_vote_pct','candidate_votes','nota','rejected','votes_polled','source_url','source_page','source_sha256'])
+for s in segments:
+ a,b=s['candidates'][:2];w.writerow([2024,s['ac'],s['name'],s['pc'],a['candidate'],a['party'],a['votes'],b['candidate'],b['party'],b['votes'],a['votes']-b['votes'],(a['votes']-b['votes'])/s['candidateVotes']*100,s['candidateVotes'],s['nota'],s['rejected'],s['votesPolled'],s['sourceUrl'],s['sourcePage'],s['sourceSha256']])
+(p/'data/segment-leaders-2024.csv').write_text(f.getvalue(),encoding='utf-8')

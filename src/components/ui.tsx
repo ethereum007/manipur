@@ -73,7 +73,8 @@ export function SiteHeader() {
       </Link>
       <nav aria-label="Main navigation">
         <Link href="/analysis">Research & analysis</Link>
-        <Link href="/atlas">Electoral atlas</Link>
+        <Link href="/analysis/segments">2024 results</Link>
+        <Link href="/atlas">Assembly atlas</Link>
         <Link href="/candidates">People & power</Link>
         <Link href="/outlook">The road to 2027</Link>
       </nav>
@@ -105,7 +106,7 @@ export function SiteFooter() {
         <br />
         No forecasts. No voter targeting.
         <br />
-        Research edition · 19 October 2026
+        Research edition · 20 October 2026
       </p>
     </footer>
   );

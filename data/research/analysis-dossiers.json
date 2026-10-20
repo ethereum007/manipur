@@ -66,33 +66,33 @@
     "topic": "ELECTION METHODS",
     "title": "A narrow margin is only the beginning.",
     "deck": "Winning shares, fragmented fields and matched samples provide a more careful reading of electoral competition.",
-    "finding": "The published 2022 sample contains 37 reconciled contests. Nineteen have margins below five percentage points of candidate votes; this is a sample description, not a statewide estimate.",
+    "finding": "All 60 reconciled 2022 contests show 29 margins below five percentage points of candidate votes. In 39 constituencies the winner did not exceed half of candidate votes.",
     "sections": [
       {
         "title": "Define the denominator before the headline",
         "paragraphs": [
           "A vote margin is the winner’s votes minus the runner-up’s votes. The margin percentage used here divides that difference by the sum of all candidate votes in the constituency. NOTA and rejected ballots are excluded. A margin of five percentage points on this basis is neither five percent of registered electors nor a turnout figure.",
-          "The site publishes numerical competition metrics only where the candidate list and totals reconcile. Winner-register coverage is complete for all 60 constituencies in each Assembly election, but full candidate totals currently cover one contest in 2012, 58 in 2017 and 37 in 2022. The different coverages must not be mistaken for equally complete statewide samples."
+          "Full candidate totals now cover all 60 constituencies in 2012, 59 in 2017 and all 60 in 2022. The published series contains 804 candidate results. The independent winner register covers all 180 election–constituency pairs. One 2017 contest remains withheld, so comparisons involving that year retain an explicit coverage limit."
         ]
       },
       {
         "title": "The winner and the shape of the field",
         "paragraphs": [
-          "In the published 2022 sample, 22 of 37 winners did not exceed half of candidate votes. A plurality election permits this. It does not establish that all other voters preferred a common alternative, or that an alliance of losing candidates would have combined their votes.",
+          "Across all 60 constituencies in 2022, 39 winners did not exceed half of candidate votes. A plurality election permits this. It does not establish that all other voters preferred a common alternative, or that an alliance of losing candidates would have combined their votes.",
           "Top-two concentration measures how much of the candidate vote went to the two leading candidates. The effective-candidate count is one divided by the sum of squared candidate shares. Four equally supported candidates produce a value of four; a dominant candidate and several tiny candidacies produce a much smaller value than the raw field size."
         ]
       },
       {
         "title": "Read the closest observations precisely",
         "paragraphs": [
-          "Lamlai’s reconciled 2022 contest had a margin of 121 votes, about 0.42 percentage points of candidate votes. Keishamthong’s margin was 187 votes, about 0.74 percentage points. These are the closest observations within the current published sample, not certified rankings across all sixty constituencies.",
+          "Wabgai had the smallest 2022 margin: 50 votes, about 0.17 percentage points of candidate votes. Lamlai followed with 121 votes (0.42 pp), then Keishamthong with 187 votes (0.74 pp). These rankings now use all sixty reconciled contests rather than the earlier partial sample.",
           "The election lab can sort by margin or effective-candidate count. Every row links to the constituency report, where the full candidate table and source locator can be checked. Sorting by a measure changes the analytical question: closeness and fragmentation describe different aspects of competition."
         ]
       },
       {
         "title": "Compare the same places across time",
         "paragraphs": [
-          "Comparing a median from 58 constituencies in 2017 with a median from 37 in 2022 changes both year and sample composition. The matched-sample section first intersects the constituencies available in both selected years, then compares those same constituencies.",
+          "The matched comparison uses identical constituencies in both years: 59 for 2017 against 2022, and all sixty for 2012 against 2022. The unresolved 2017 Naoriya Pakhanglakpa total is excluded rather than treated as zero. A median from all sixty seats in one year should not be compared without qualification with a differently composed partial sample.",
           "Even this comparison remains descriptive. A changing margin can reflect a different winning party, a different runner-up, candidate withdrawal, alliances, participation or a broader political change. A smaller historical margin is not a calibrated probability of a future change in representation."
         ]
       },
@@ -100,7 +100,7 @@
         "title": "A reproducible reading protocol",
         "paragraphs": [
           "Begin with coverage, inspect the candidate list, identify the denominator, compare matched observations, and read the constituency’s party sequence alongside its vote shares. Downloaded CSV rows contain the same measures shown in the table.",
-          "Two 2017 contests remain withheld because of unresolved accounting discrepancies. Withholding a numerical comparison while retaining a separately verified winner is more informative than silently treating an unreconciled total as certain. The source register distinguishes machine reconciliation from visual review."
+          "One 2017 contest remains withheld. Naoriya Pakhanglakpa’s native Form 20 components sum to 30,335 ballots while its total prints 30,334. Andro was recovered from the native sheet and reconciles, although the older compiled table had failed reconciliation. Native PDF checks and selected-page visual reviews are separately documented."
         ]
       }
     ],
@@ -114,6 +114,11 @@
         "title": "Published data and verification log",
         "url": "https://github.com/ethereum007/manipur/tree/main/data/processed",
         "locator": "winners.json and results.json; verification metadata"
+      },
+      {
+        "title": "Native Form 20 verification audit",
+        "url": "https://github.com/ethereum007/manipur/blob/main/data/research/native-form20-audit.json",
+        "locator": "Candidate order, original source URLs, SHA-256 hashes and discrepancy ledger"
       }
     ],
     "related": [
@@ -121,7 +126,7 @@
       "/atlas",
       "/sources"
     ],
-    "reviewed": "19 October 2026"
+    "reviewed": "20 October 2026"
   },
   {
     "slug": "candidate-records",
@@ -162,7 +167,7 @@
         "title": "What meaningful accountability needs next",
         "paragraphs": [
           "An electoral career timeline should be complemented by dated officeholding, legislative questions, committee roles, attendance where officially published, and audited public-work records. A person’s wealth and a constituency’s development are different subjects; neither can substitute for evidence about the other.",
-          "Missing affidavit transcription remains explicitly missing for the general directory. It is not zero assets, no liabilities, no proceedings or an absence of qualifications. The research status of each field matters as much as the presence of a polished profile page."
+          "The general directory now contains ADR/MyNeta disclosure summaries for all 265 official 2022 candidates, joined within the same election by constituency, party and reviewed candidate-name matching. Assets, liabilities, education and declared case counts are secondary transcriptions, not a completed manual audit of every primary affidavit. Other years and unstructured fields remain explicitly missing."
         ]
       }
     ],
@@ -181,14 +186,20 @@
         "title": "Reviewed candidate profile and disclosure sources",
         "url": "/candidates/nongthombam-biren-singh/",
         "locator": "Career references, official election pages and ADR/MyNeta 2022 summary"
+      },
+      {
+        "title": "ADR/MyNeta · Manipur 2022 candidate summaries",
+        "url": "https://myneta.info/Manipur2022/index.php?action=summary&subAction=candidates_analyzed&sort=candidate",
+        "locator": "265 nomination summaries; 53 candidates declaring cases; source-specific counts, not current case status"
       }
     ],
     "related": [
+      "/analysis/disclosures",
       "/candidates/nongthombam-biren-singh",
       "/candidates",
       "/analysis/competition"
     ],
-    "reviewed": "19 October 2026"
+    "reviewed": "20 October 2026"
   },
   {
     "slug": "public-finances",
@@ -420,8 +431,8 @@
       {
         "title": "Why parliamentary and Assembly results do not map automatically",
         "paragraphs": [
-          "A parliamentary constituency aggregates many Assembly segments. A party can win the larger constituency while trailing in some segments, and postal or special polling arrangements require careful allocation before segment totals can be reconstructed. The present dataset has not completed that reconciliation.",
-          "The site therefore publishes the two parliamentary results and their candidate bars, but does not colour all sixty Assembly seats according to the parliamentary winner. Doing so would visually invent sixty outcomes from two aggregate observations."
+          "Every ordinary Assembly segment now has a reconciled native Form 20. Congress candidates led in 36 ordinary segments, NPF in 13, BJP in nine and independents in two. These are Parliamentary segment leads: there were only two elected MPs, not sixty new Assembly winners.",
+          "The sum of ordinary geographic segments is smaller than each Parliamentary constituency total. Candidate-by-candidate residuals are shown separately and are not allocated to the sixty segments. Special polling arrangements and postal voting must not be hidden by a forced geographic allocation."
         ]
       },
       {
@@ -432,10 +443,10 @@
         ]
       },
       {
-        "title": "What the next comparison requires",
+        "title": "Read local leads without inventing a forecast",
         "paragraphs": [
-          "A defensible Assembly-segment analysis needs the official segment-wise EVM totals, postal-ballot treatment and special polling-station treatment, followed by reconciliation to each parliamentary total. Every allocation rule should be published before interpreting local changes.",
-          "Even with that work complete, a 2022-to-2024 comparison would describe different elections with different candidate fields and contexts. It would not identify individual voter movement or establish a forecast for 2027."
+          "The 2024 explorer publishes all sixty segment leaders, exact vote leads, candidate shares and full candidate tables. Each constituency page links the original result sheet and places the observation beside its complete 2022 Assembly field. Local NOTA and rejected-ballot totals reconcile; complete constituency-level turnout and NOTA remain outside the reviewed aggregate record.",
+          "A cross-election difference cannot establish the reason for a win or a named 2027 favourite. A candidate’s explanation of public dissatisfaction is identified as an attributed claim. Constituency-specific voter motivation, current nominations and credible local opinion evidence remain incomplete. Public religion or community fields are sourced to self-description, with unknowns retained."
         ]
       }
     ],
@@ -449,14 +460,20 @@
         "title": "Normalized parliamentary record",
         "url": "https://github.com/ethereum007/manipur/blob/main/data/processed/parliament-2024.json",
         "locator": "Ten candidates; denominator and party-label notes"
+      },
+      {
+        "title": "CEO Manipur · 2024 segment Form 20 index",
+        "url": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/ge2024resultsheet",
+        "locator": "All sixty ordinary segments; per-source SHA-256 and ballot reconciliation published in the dataset"
       }
     ],
     "related": [
+      "/analysis/segments",
       "/elections",
       "/analysis/party-turnover",
       "/analysis/competition"
     ],
-    "reviewed": "19 October 2026"
+    "reviewed": "20 October 2026"
   },
   {
     "slug": "conflict-rehabilitation",
@@ -617,7 +634,7 @@
       {
         "title": "Begin with what is established",
         "paragraphs": [
-          "The site has complete winning-party registers for the 2012, 2017 and 2022 Assembly elections, reviewed parliamentary totals for 2024, and a partially reconciled candidate-vote series. Those are observations about completed elections. They do not contain a measured probability for the next one.",
+          "The site now publishes 804 Assembly candidate results across 179 of 180 contests, complete winning-party registers for 2012, 2017 and 2022, both 2024 Parliamentary results, and all sixty ordinary 2024 segment result sheets. These establish completed election outcomes. They do not supply a measured probability for the next election.",
           "The 2022 election also predates major later developments recorded in the governance chronology. Treating its margins as current political sentiment would skip intervening conditions. A historical baseline remains useful precisely when it is kept separate from an assessment of the present."
         ]
       },
@@ -678,10 +695,11 @@
       }
     ],
     "related": [
+      "/analysis/segments",
       "/outlook",
       "/governance",
       "/analysis/competition"
     ],
-    "reviewed": "19 October 2026"
+    "reviewed": "20 October 2026"
   }
 ]

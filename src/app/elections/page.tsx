@@ -12,7 +12,7 @@ export default function Elections() {
         title="Three elections. A changing record."
         description="Read seats and votes as separate measures, with incomplete coverage kept visible."
       />
-      <ElectionHistory />
+      <aside className="research-crosslink"><p className="eyebrow">2024 / CONSTITUENCY BY CONSTITUENCY</p><Link className="text-link" href="/analysis/segments">Explore the 2024 map, local leaders and vote margins ↗</Link></aside><ElectionHistory />
       <section className="profile-section">
         <h2>
           The parliamentary
@@ -25,7 +25,7 @@ export default function Elections() {
             constituencies. The official 2024 CEO report has been located and
             archived by the research workflow. All ten candidate totals have
             been reviewed against the report and reconcile with its party
-            aggregate. Assembly-segment tables remain under review.
+            aggregate. All 60 ordinary Assembly-segment result sheets now reconcile; special-station and other residual votes remain separate.
           </p>
           {parliament.constituencies.map((c) => (
             <div key={c.id} style={{ margin: "2.5rem 0" }}>

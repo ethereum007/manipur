@@ -13,6 +13,7 @@ import {
   years,
   winner,
   electionSource,
+  resultSource,
   winningParty,
   registeredWinner,
   seatTotals,
@@ -230,7 +231,7 @@ export function AtlasExplorer() {
                 ))}
               </div>
               <SourceNote>
-                <a href={electionSource(year)}>CEO Manipur · {year} report</a>,
+                <a href={resultSource(w)}>CEO Manipur · {year} report</a>,
                 p. {w.sourcePage}. Shares exclude NOTA and rejected votes.
               </SourceNote>
             </>

@@ -1,0 +1,161 @@
+{
+  "reviewedAt": "2026-10-20",
+  "identityPolicy": "Only public self-identification or explicitly attributed reporting of a self-description. No inference from names, reservation, geography or party. These fields do not describe voters.",
+  "people": [
+    {
+      "candidate": "Angomcha Bimol Akoijam",
+      "party": "INC",
+      "religion": null,
+      "community": "Meitei",
+      "identitySources": [
+        {
+          "field": "community",
+          "publisher": "Onmanorama",
+          "date": "2024-08-11",
+          "url": "https://www.onmanorama.com/news/kerala/2024/08/11/congress-mp-bimol-akoijam-suspects-move-divide-manipur-violence-centre-inaction-international-interview.amp.html",
+          "basis": "Published interview: the MP uses a first-person reference to the Meitei community. No personal religion established."
+        }
+      ]
+    },
+    {
+      "candidate": "Thounaojam Basanta Kumar Singh",
+      "party": "BJP",
+      "religion": null,
+      "community": null,
+      "identitySources": []
+    },
+    {
+      "candidate": "Maheshwar Thounaojam",
+      "party": "RPI(A)",
+      "religion": null,
+      "community": null,
+      "identitySources": []
+    },
+    {
+      "candidate": "Rajkumar Somendro Singh",
+      "party": "IND",
+      "religion": null,
+      "community": null,
+      "identitySources": []
+    },
+    {
+      "candidate": "Moirangthem Totomshana Nongshaba",
+      "party": "IND",
+      "religion": null,
+      "community": null,
+      "identitySources": []
+    },
+    {
+      "candidate": "Haorungbam Sarat Singh",
+      "party": "IND",
+      "religion": null,
+      "community": null,
+      "identitySources": []
+    },
+    {
+      "candidate": "Alfred Kanngam S Arthur",
+      "party": "INC",
+      "religion": "Christian",
+      "community": "Naga",
+      "identitySources": [
+        {
+          "field": "community and religion",
+          "publisher": "Times of India",
+          "date": "2024-07-31",
+          "url": "https://timesofindia.indiatimes.com/india/cant-you-hear-cries-of-women-kids-in-manipur-congress-mp-asks-pm/articleshow/112147641.cms",
+          "basis": "Reported self-description in his 30 July 2024 Parliamentary speech. Naga is the broad label in the cited self-description; no narrower subgroup or denomination inferred."
+        }
+      ]
+    },
+    {
+      "candidate": "Kachui Timothy Zimik",
+      "party": "NPF",
+      "religion": null,
+      "community": null,
+      "identitySources": []
+    },
+    {
+      "candidate": "S Kho John",
+      "party": "IND",
+      "religion": null,
+      "community": null,
+      "identitySources": []
+    },
+    {
+      "candidate": "Alyson Abonmai",
+      "party": "IND",
+      "religion": null,
+      "community": null,
+      "identitySources": []
+    }
+  ],
+  "repolls": [
+    {
+      "ac": 3,
+      "pollingStations": 2,
+      "date": "2024-04-22",
+      "sourceUrl": "https://ceomanipur.nic.in/Documents/PressNote/2023-2024/CEO%20Manipur-%20Press%20Note%20for%20Fresh%20poll%20dated%2020th%20April%2C%202024.pdf"
+    },
+    {
+      "ac": 4,
+      "pollingStations": 4,
+      "date": "2024-04-22",
+      "sourceUrl": "https://ceomanipur.nic.in/Documents/PressNote/2023-2024/CEO%20Manipur-%20Press%20Note%20for%20Fresh%20poll%20dated%2020th%20April%2C%202024.pdf"
+    },
+    {
+      "ac": 5,
+      "pollingStations": 1,
+      "date": "2024-04-22",
+      "sourceUrl": "https://ceomanipur.nic.in/Documents/PressNote/2023-2024/CEO%20Manipur-%20Press%20Note%20for%20Fresh%20poll%20dated%2020th%20April%2C%202024.pdf"
+    },
+    {
+      "ac": 10,
+      "pollingStations": 3,
+      "date": "2024-04-22",
+      "sourceUrl": "https://ceomanipur.nic.in/Documents/PressNote/2023-2024/CEO%20Manipur-%20Press%20Note%20for%20Fresh%20poll%20dated%2020th%20April%2C%202024.pdf"
+    },
+    {
+      "ac": 18,
+      "pollingStations": 1,
+      "date": "2024-04-22",
+      "sourceUrl": "https://ceomanipur.nic.in/Documents/PressNote/2023-2024/CEO%20Manipur-%20Press%20Note%20for%20Fresh%20poll%20dated%2020th%20April%2C%202024.pdf"
+    },
+    {
+      "ac": 44,
+      "pollingStations": 4,
+      "date": "2024-04-30",
+      "sourceUrl": "https://ceomanipur.nic.in/Documents/PressNote/2023-2024/CEO%20Manipur-%20Press%20Note%20for%20Repoll%20dated%2027th%20April%2C%202024.pdf"
+    },
+    {
+      "ac": 45,
+      "pollingStations": 1,
+      "date": "2024-04-30",
+      "sourceUrl": "https://ceomanipur.nic.in/Documents/PressNote/2023-2024/CEO%20Manipur-%20Press%20Note%20for%20Repoll%20dated%2027th%20April%2C%202024.pdf"
+    },
+    {
+      "ac": 47,
+      "pollingStations": 1,
+      "date": "2024-04-30",
+      "sourceUrl": "https://ceomanipur.nic.in/Documents/PressNote/2023-2024/CEO%20Manipur-%20Press%20Note%20for%20Repoll%20dated%2027th%20April%2C%202024.pdf"
+    }
+  ],
+  "explanations": [
+    {
+      "scope": "Inner Manipur campaign",
+      "type": "Candidate explanation, not independently established voter motive",
+      "text": "During polling, Bimol Akoijam presented his candidacy as an expression of public dissatisfaction. That is the candidate’s account; the result sheet cannot establish how many voters shared that motivation.",
+      "url": "https://www.thequint.com/news/india/manipur-imphal-election-voting-booth-capturing-gun-violence-evm-burnt",
+      "publisher": "The Quint, on-record candidate interview",
+      "date": "2024-04-19"
+    },
+    {
+      "scope": "Official election administration",
+      "type": "Verified context, not a causal explanation of the result",
+      "text": "CEO Manipur ordered fresh polls at 11 stations in Inner Manipur and six in Outer Manipur. These notices establish affected locations and dates; they do not measure a change in candidate support caused by the repolls.",
+      "url": "https://ceomanipur.nic.in/Documents/PressNote/2023-2024/CEO%20Manipur-%20Press%20Note%20for%20Fresh%20poll%20dated%2020th%20April%2C%202024.pdf",
+      "additionalUrl": "https://ceomanipur.nic.in/Documents/PressNote/2023-2024/CEO%20Manipur-%20Press%20Note%20for%20Repoll%20dated%2027th%20April%2C%202024.pdf",
+      "publisher": "CEO Manipur",
+      "date": "2024-04-20 / 2024-04-27"
+    }
+  ]
+}

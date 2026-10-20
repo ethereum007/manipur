@@ -57,6 +57,7 @@ test("all 60 constituency routes resolve", async ({ request }) => {
   for (const slug of names) {
     const r = await request.get("/manipur/constituencies/" + slug + "/");
     expect(r.status(), slug).toBe(200);
+    expect(await r.text(), slug).toContain('id="parliament-2024"');
   }
 });
 test("briefing supports keyboard navigation and screenshots", async ({
@@ -219,4 +220,50 @@ test('research desk, election lab, source studies and seat notes',async({page},i
  await expect(page.locator('.party-history-track>div')).toHaveCount(3);
  await page.screenshot({path:info.outputPath('constituency-study-desktop.png'),fullPage:true});
  expect(errors).toEqual([]);
+});
+
+test('2024 segment map, local margins, identities and 2027 evidence notes',async({page},info)=>{
+ const base=process.env.NEXT_PUBLIC_BASE_PATH||'';
+ const errors:string[]=[];page.on('pageerror',e=>errors.push(e.message));
+ await page.setViewportSize({width:1440,height:1000});await page.goto(base+'/analysis/segments/');
+ await page.evaluate(()=>document.fonts.ready);
+ await expect(page.locator('.geo-map path[role=button]')).toHaveCount(60);
+ await expect(page.locator('.analysis-verdict')).toContainText('2,162');
+ await page.getByLabel('Ordinary Assembly segment').selectOption('60');
+ await expect(page.locator('.analysis-verdict')).toContainText('18,794');
+ await expect(page.locator('.analysis-verdict')).toContainText('Christian');
+ await page.screenshot({path:info.outputPath('segments-desktop.png'),fullPage:true});
+ await page.getByLabel('Ordinary Assembly segment').selectOption('50');
+ await expect(page.locator('.analysis-verdict')).toContainText('Kachui Timothy Zimik');
+ await expect(page.locator('.analysis-verdict')).toContainText('Not verified');
+ await page.setViewportSize({width:390,height:844});
+ await page.screenshot({path:info.outputPath('segments-mobile.png'),fullPage:true});
+ expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();
+ await page.goto(base+'/constituencies/khundrakpam/#parliament-2024');
+ await expect(page.locator('#parliament-2024')).toContainText('2,162');
+ await expect(page.locator('#parliament-2024')).toContainText('2027');
+ await page.locator('#parliament-2024').screenshot({path:info.outputPath('seat-2024-mobile.png')});
+ expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();
+ expect(errors).toEqual([]);
+});
+test('disclosure pagination, filtering, explicit Nil and profile sources',async({page},info)=>{
+ const base=process.env.NEXT_PUBLIC_BASE_PATH||'';
+ await page.setViewportSize({width:1440,height:1000});await page.goto(base+'/analysis/disclosures/');
+ await expect(page.locator('tbody tr')).toHaveCount(25);
+ await page.getByRole('button',{name:'Next records',exact:true}).click();
+ await expect(page.locator('.register-pagination')).toContainText('Page 2 of 11');
+ await page.getByLabel('Candidate or constituency').fill('Biren');
+ await expect(page.locator('tbody tr')).toHaveCount(1);
+ await page.screenshot({path:info.outputPath('disclosures-desktop.png'),fullPage:true});
+ await page.getByLabel('Candidate or constituency').fill('Popilal');
+ await expect(page.locator('tbody')).toContainText('Declared Nil');
+ const profile=page.locator('tbody th a');await profile.click();
+ await expect(page.locator('.disclosure-metrics')).toContainText('₹0');
+ await expect(page.locator('body')).toContainText('Source explicitly states');
+ await page.setViewportSize({width:390,height:844});
+ await page.screenshot({path:info.outputPath('disclosure-profile-mobile.png'),fullPage:true});
+ expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();
+ const data=await page.request.get(base+'/data/segment-leaders-2024.csv');
+ expect(data.status()).toBe(200);expect((await data.text()).trim().split('\n')).toHaveLength(61);
+ await page.goto(base+'/analysis/evidence/');await expect(page.locator('body')).toContainText('179/180');
 });

@@ -5,6 +5,7 @@ import { useEffect, useId, useMemo, useState } from "react";
 import { partyColors, winner, registeredWinner, contest } from "@/lib/data";
 type Props = {
   year?: number;
+  segmentResults?: {ac:number;party:string;votes:number;marginPct:number}[];
   selected?: number;
   onSelect?: (id: number) => void;
   hero?: boolean;
@@ -13,6 +14,7 @@ type Props = {
 };
 export function GeoMap({
   year = 2022,
+  segmentResults,
   selected,
   onSelect,
   hero = false,
@@ -114,7 +116,7 @@ export function GeoMap({
           )}
           {data.features.map((f: Feature<Geometry>, i) => {
             const id = Number(f.properties?.AC_NO),
-              w = winner(year, id) || registeredWinner(year, id),
+              w = segmentResults ? segmentResults.find(r=>r.ac===id) : winner(year, id) || registeredWinner(year, id),
               isSelected = id === selected;
             let fill = hero
               ? "transparent"
@@ -124,7 +126,7 @@ export function GeoMap({
             if (metric === "margin") {
               const rows = contest(year, id),
                 sum = rows.reduce((s, r) => s + r.votes, 0);
-              const gap =
+              const gap = segmentResults ? segmentResults.find(r=>r.ac===id)?.marginPct ?? null :
                 rows.length > 1 && sum
                   ? ((rows[0].votes - rows[1].votes) / sum) * 100
                   : null;
@@ -167,7 +169,7 @@ export function GeoMap({
                       ". " +
                       f.properties?.AC_NAME +
                       (w
-                        ? ", " + w.party + " winner " + year
+                        ? ", " + w.party + (segmentResults ? " segment leader " : " winner ") + year
                         : ", result unavailable")
                 }
                 aria-pressed={hero ? undefined : isSelected}

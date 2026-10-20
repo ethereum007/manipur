@@ -7,6 +7,7 @@ import {
   number,
   partyColors,
   electionSource,
+  resultSource,
 } from "@/lib/data";
 export const metadata = { title: "N. Biren Singh · Public record" };
 export default function Profile() {
@@ -103,7 +104,7 @@ export default function Profile() {
                         />
                         {r.party} · {number(r.votes)} votes
                       </p>
-                      <a href={electionSource(y)}>
+                      <a href={resultSource(r)}>
                         Official result · page {r.sourcePage} ↗
                       </a>
                     </>

@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { PageIntro, SourceNote } from "@/components/ui";
 import { sourceRegister, results } from "@/lib/data";
 import { notes } from "@/lib/research";
@@ -12,7 +13,7 @@ export default function Sources() {
         title="Evidence before interpretation."
         description="The archive, definitions, verification rules and limits behind this atlas."
       />
-      <section className="directory-section">
+      <aside className="research-crosslink"><Link className="text-link" href="/analysis/evidence">Read the updated coverage and discrepancy ledger ↗</Link></aside><section className="directory-section">
         <div className="chart-heading">
           <h2>Coverage, made visible.</h2>
           <span>RESEARCH EDITION</span>

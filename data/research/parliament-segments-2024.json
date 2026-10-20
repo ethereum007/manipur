@@ -1,0 +1,2521 @@
+{
+  "year": 2024,
+  "reviewedAt": "2026-10-20",
+  "scope": "60 ordinary Assembly-segment Parliamentary result sheets. Segment lead is not an Assembly win. Special stations and other residual votes are not allocated to ordinary segments.",
+  "segments": [
+    {
+      "year": 2024,
+      "ac": 1,
+      "name": "Khundrakpam",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 8480
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 6318
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 4968
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 517
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 181
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 56
+        }
+      ],
+      "candidateVotes": 20520,
+      "rejected": 0,
+      "nota": 126,
+      "votesPolled": 20646,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form 20/Form20-S14_ac_no1_06-06-2024_1717662012.pdf",
+      "sourcePage": 3,
+      "sourceSha256": "72f2bd5c2a1c887a7a05bd36ebfc197c0c47e133c490be7ad2b268c62ce68f32"
+    },
+    {
+      "year": 2024,
+      "ac": 2,
+      "name": "Heingang",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 21263
+        },
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 5429
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 2567
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 288
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 100
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 27
+        }
+      ],
+      "candidateVotes": 29674,
+      "rejected": 0,
+      "nota": 127,
+      "votesPolled": 29801,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no2_06-06-2024_1717661672.pdf",
+      "sourcePage": 3,
+      "sourceSha256": "801e3b947bd71597f8e6f92c45619fefcd15ef736b9cd5236d68828800d55ba8"
+    },
+    {
+      "year": 2024,
+      "ac": 3,
+      "name": "Khurai",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 12466
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 7844
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 6427
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 522
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 211
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 33
+        }
+      ],
+      "candidateVotes": 27503,
+      "rejected": 0,
+      "nota": 150,
+      "votesPolled": 27653,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no3_06-06-2024_1717662074.pdf",
+      "sourcePage": 3,
+      "sourceSha256": "8af7f34dfc304b8171622e9671d47788e0f3802c864fc9665dbb2d50afabf57e"
+    },
+    {
+      "year": 2024,
+      "ac": 4,
+      "name": "Kshetrigao",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 17188
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 6369
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 4912
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 304
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 142
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 33
+        }
+      ],
+      "candidateVotes": 28948,
+      "rejected": 0,
+      "nota": 100,
+      "votesPolled": 29048,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no4_06-06-2024_1717662077.pdf",
+      "sourcePage": 3,
+      "sourceSha256": "89fcab95bf3831155f3725830f56e9e1b773870e13df42a704947483c693a741"
+    },
+    {
+      "year": 2024,
+      "ac": 5,
+      "name": "Thongju",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 11216
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 9482
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 5326
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 407
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 205
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 32
+        }
+      ],
+      "candidateVotes": 26668,
+      "rejected": 0,
+      "nota": 196,
+      "votesPolled": 26864,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no5_06-06-2024_1717662081.pdf",
+      "sourcePage": 3,
+      "sourceSha256": "1406a167a8530007b6ba63968b3c12e06475d4773459e71ae9dc5d99af256531"
+    },
+    {
+      "year": 2024,
+      "ac": 6,
+      "name": "Keirao",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 17772
+        },
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 6251
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 928
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 100
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 51
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 20
+        }
+      ],
+      "candidateVotes": 25122,
+      "rejected": 0,
+      "nota": 34,
+      "votesPolled": 25156,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no6_06-06-2024_1717662098.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "f760636637536b2447c4f4ea2ab6c3446151c09b4d5cfd067a161798b1880bad"
+    },
+    {
+      "year": 2024,
+      "ac": 7,
+      "name": "Andro",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 13744
+        },
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 11780
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 4184
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 398
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 153
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 64
+        }
+      ],
+      "candidateVotes": 30323,
+      "rejected": 0,
+      "nota": 106,
+      "votesPolled": 30429,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no7_06-06-2024_1717662103.pdf",
+      "sourcePage": 3,
+      "sourceSha256": "6986339c0d3c03a842d66b53e84aae24644eb0c2e181ebbc4191ccf826f58cb1"
+    },
+    {
+      "year": 2024,
+      "ac": 8,
+      "name": "Lamlai",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 10370
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 8353
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 4268
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 640
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 174
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 48
+        }
+      ],
+      "candidateVotes": 23853,
+      "rejected": 0,
+      "nota": 104,
+      "votesPolled": 23957,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no8_06-06-2024_1717662106.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "0fbf6b88e34c4cbcc24c3cdaf7e3dcaf81b20dbe0bd3ef0e75fa783a6d2dcf7b"
+    },
+    {
+      "year": 2024,
+      "ac": 9,
+      "name": "Thangmeiband",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 11260
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 4966
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 2696
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 525
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 107
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 48
+        }
+      ],
+      "candidateVotes": 19602,
+      "rejected": 0,
+      "nota": 134,
+      "votesPolled": 19736,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no9_06-06-2024_1717662110.pdf",
+      "sourcePage": 3,
+      "sourceSha256": "a3e94a7cb739f1ba6301642523f242267cc0924c783bba5cb448efea8f18fece"
+    },
+    {
+      "year": 2024,
+      "ac": 10,
+      "name": "Uripok",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 10471
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 3853
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 3415
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 318
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 107
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 29
+        }
+      ],
+      "candidateVotes": 18193,
+      "rejected": 0,
+      "nota": 100,
+      "votesPolled": 18293,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no10_06-06-2024_1717662114.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "6d266df3ea4ab7347192433ce4df378d24d83b8dda805b5cdedffe2f79c5aedd"
+    },
+    {
+      "year": 2024,
+      "ac": 11,
+      "name": "Sagolband",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 8901
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 5404
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 2713
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 210
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 82
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 35
+        }
+      ],
+      "candidateVotes": 17345,
+      "rejected": 0,
+      "nota": 113,
+      "votesPolled": 17458,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no11_06-06-2024_1717662117.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "d6fcd9a9ad489b40f849cdedc2af417772832edd3b5cd8b09ffc7462e1d8b056"
+    },
+    {
+      "year": 2024,
+      "ac": 12,
+      "name": "Keishamthong",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 10064
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 7894
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 2802
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 177
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 94
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 22
+        }
+      ],
+      "candidateVotes": 21053,
+      "rejected": 0,
+      "nota": 100,
+      "votesPolled": 21153,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no12_06-06-2024_1717662123.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "c45981be80fcf24790ed75fdbdddc47302a2a26b84639667022128b043b88707"
+    },
+    {
+      "year": 2024,
+      "ac": 13,
+      "name": "Singjamei",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 9386
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 3937
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 2872
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 161
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 110
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 13
+        }
+      ],
+      "candidateVotes": 16479,
+      "rejected": 0,
+      "nota": 83,
+      "votesPolled": 16562,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no13_06-06-2024_1717662169.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "8175ce6700f512a8922d97955e09f4a8d318cca0bea810781d29f464ae336459"
+    },
+    {
+      "year": 2024,
+      "ac": 14,
+      "name": "Yaiskul",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 11537
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 5402
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 3093
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 259
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 110
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 55
+        }
+      ],
+      "candidateVotes": 20456,
+      "rejected": 0,
+      "nota": 119,
+      "votesPolled": 20575,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no14_06-06-2024_1717662223.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "dd6fd902fdfcf252d893eb7be887ea1db4c5ae8d87afc071aa26de6a2fb265f2"
+    },
+    {
+      "year": 2024,
+      "ac": 15,
+      "name": "Wangkhei",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 14314
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 6711
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 3648
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 344
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 121
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 45
+        }
+      ],
+      "candidateVotes": 25183,
+      "rejected": 0,
+      "nota": 140,
+      "votesPolled": 25323,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no15_06-06-2024_1717662239.pdf",
+      "sourcePage": 3,
+      "sourceSha256": "0c0ecacd7580923298c90e555db83cbd0732eb76510ab6bb70c54d2e35cf69b1"
+    },
+    {
+      "year": 2024,
+      "ac": 16,
+      "name": "Sekmai",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 8820
+        },
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 7669
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 5326
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 683
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 258
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 108
+        }
+      ],
+      "candidateVotes": 22864,
+      "rejected": 0,
+      "nota": 193,
+      "votesPolled": 23057,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no16_06-06-2024_1717662178.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "39416dfc2ba42adbcce6ffb697497b370d44c34f8a4b29c69d32bf540b92d0e3"
+    },
+    {
+      "year": 2024,
+      "ac": 17,
+      "name": "Lamsang",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 10076
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 7537
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 7520
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 882
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 265
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 65
+        }
+      ],
+      "candidateVotes": 26345,
+      "rejected": 0,
+      "nota": 134,
+      "votesPolled": 26479,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no17_06-06-2024_1717662194.pdf",
+      "sourcePage": 3,
+      "sourceSha256": "9b3379f4ceff33a184b94d66683636e99c0866230be2ff13c91055e4a777b085"
+    },
+    {
+      "year": 2024,
+      "ac": 18,
+      "name": "Konthoujam",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 11241
+        },
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 8521
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 4580
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 434
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 177
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 34
+        }
+      ],
+      "candidateVotes": 24987,
+      "rejected": 0,
+      "nota": 103,
+      "votesPolled": 25090,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no18_06-06-2024_1717662248.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "dd80b8d02d870ec71d5258673f21e6122833fd7dfd9c9e08c468c3fb89efee23"
+    },
+    {
+      "year": 2024,
+      "ac": 19,
+      "name": "Patsoi",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 14169
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 8532
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 6376
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 635
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 227
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 33
+        }
+      ],
+      "candidateVotes": 29972,
+      "rejected": 0,
+      "nota": 168,
+      "votesPolled": 30140,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no19_06-06-2024_1717662253.pdf",
+      "sourcePage": 3,
+      "sourceSha256": "b2c6c4530aecd967260ca1d01cba65cda8ef12563800714b327615db9a3aa7e2"
+    },
+    {
+      "year": 2024,
+      "ac": 20,
+      "name": "Langthabal",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 11944
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 5310
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 4402
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 356
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 145
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 39
+        }
+      ],
+      "candidateVotes": 22196,
+      "rejected": 0,
+      "nota": 124,
+      "votesPolled": 22320,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no20_06-06-2024_1717662258.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "66cb7f6e91aaf1962484f2994e30531e1979a26c5ac053f6e2f55975ef99eed8"
+    },
+    {
+      "year": 2024,
+      "ac": 21,
+      "name": "Naoriya Pakhanglakpa",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 15282
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 6369
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 6066
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 511
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 247
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 38
+        }
+      ],
+      "candidateVotes": 28513,
+      "rejected": 0,
+      "nota": 128,
+      "votesPolled": 28641,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form 20/Form20-S14_ac_no21_06-06-2024_1717662276.pdf",
+      "sourcePage": 3,
+      "sourceSha256": "bdaadba5338e4744492448ac35c00e943cf05f00e8a660f0498d7d7e06a3c988"
+    },
+    {
+      "year": 2024,
+      "ac": 22,
+      "name": "Wangoi",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 11918
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 6474
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 5099
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 487
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 189
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 47
+        }
+      ],
+      "candidateVotes": 24214,
+      "rejected": 0,
+      "nota": 96,
+      "votesPolled": 24310,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no22_06-06-2024_1717662288.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "064e2dda4276af86bf03e691d947ca163035e1c4b1c69c6d4025687e445844c0"
+    },
+    {
+      "year": 2024,
+      "ac": 23,
+      "name": "Mayang Imphal",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 12707
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 7613
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 4136
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 319
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 118
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 33
+        }
+      ],
+      "candidateVotes": 24926,
+      "rejected": 0,
+      "nota": 86,
+      "votesPolled": 25012,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no23_06-06-2024_1717662298.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "7afd8b190f70639fd33d859eae43bf0c33967c1e4f1ba09e3b0fbf6599ded62c"
+    },
+    {
+      "year": 2024,
+      "ac": 24,
+      "name": "Nambol",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 16673
+        },
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 10634
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 1891
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 218
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 81
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 32
+        }
+      ],
+      "candidateVotes": 29529,
+      "rejected": 0,
+      "nota": 76,
+      "votesPolled": 29605,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no24_06-06-2024_1717662307.pdf",
+      "sourcePage": 3,
+      "sourceSha256": "f2373c0bc3984f0d99d91b8613e8099924317b689c24176c882dd5174574c596"
+    },
+    {
+      "year": 2024,
+      "ac": 25,
+      "name": "Oinam",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 7802
+        },
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 7617
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 5900
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 521
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 179
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 43
+        }
+      ],
+      "candidateVotes": 22062,
+      "rejected": 0,
+      "nota": 109,
+      "votesPolled": 22171,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no25_06-06-2024_1717662311.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "3287d7ca50d90f0116e1b493c63a947e0818300b562375cdd888a5a2a92d495c"
+    },
+    {
+      "year": 2024,
+      "ac": 26,
+      "name": "Bishnupur",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 12164
+        },
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 7433
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 5360
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 659
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 178
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 34
+        }
+      ],
+      "candidateVotes": 25828,
+      "rejected": 0,
+      "nota": 142,
+      "votesPolled": 25970,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no26_06-06-2024_1717662324.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "a21cd27e3ad1ad517c72a6bcc8b111e5dfbaf2d52ef33246b9d23c3304f36e49"
+    },
+    {
+      "year": 2024,
+      "ac": 27,
+      "name": "Moirang",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 18343
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 7955
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 3119
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 425
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 159
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 48
+        }
+      ],
+      "candidateVotes": 30049,
+      "rejected": 0,
+      "nota": 115,
+      "votesPolled": 30164,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no27_06-06-2024_1717662333.pdf",
+      "sourcePage": 3,
+      "sourceSha256": "0271309050b05b0817b757ed6d9c371b997864b7fda5be424ead426adf7e08c9"
+    },
+    {
+      "year": 2024,
+      "ac": 28,
+      "name": "Thanga",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 7104
+        },
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 5920
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 2994
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 342
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 120
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 40
+        }
+      ],
+      "candidateVotes": 16520,
+      "rejected": 0,
+      "nota": 67,
+      "votesPolled": 16587,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no28_06-06-2024_1717662344.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "ab6953e6dfdace7a27d969d550c45aff8619b5af226fafd52d6f6de05ec70493"
+    },
+    {
+      "year": 2024,
+      "ac": 29,
+      "name": "Kumbi",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 7746
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 7741
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 3605
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 434
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 134
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 33
+        }
+      ],
+      "candidateVotes": 19693,
+      "rejected": 0,
+      "nota": 73,
+      "votesPolled": 19766,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no29_06-06-2024_1717662350.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "fd75269754f1eebd3ad09a19f2b1488d28284ebc20538d1340f8bca244f1b4fa"
+    },
+    {
+      "year": 2024,
+      "ac": 30,
+      "name": "Lilong",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 21788
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 6285
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 1557
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 187
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 105
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 27
+        }
+      ],
+      "candidateVotes": 29949,
+      "rejected": 0,
+      "nota": 92,
+      "votesPolled": 30041,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no30_06-06-2024_1717662361.pdf",
+      "sourcePage": 3,
+      "sourceSha256": "9700f23c115cc178ba985747d16af797c93ff522677f1a2e9c442c0ad10d7b44"
+    },
+    {
+      "year": 2024,
+      "ac": 31,
+      "name": "Thoubal",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 19835
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 4923
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 1034
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 185
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 105
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 23
+        }
+      ],
+      "candidateVotes": 26105,
+      "rejected": 0,
+      "nota": 97,
+      "votesPolled": 26202,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no31_06-06-2024_1717662372.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "8ca918d7d5f847889da4f73efcdd2214795d3610b820cfca044cea6b853f47da"
+    },
+    {
+      "year": 2024,
+      "ac": 32,
+      "name": "Wangkhem",
+      "pc": 1,
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 18608
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 4406
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 4299
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 352
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 170
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 29
+        }
+      ],
+      "candidateVotes": 27864,
+      "rejected": 0,
+      "nota": 129,
+      "votesPolled": 27993,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no32_06-06-2024_1717662376.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "83d36c1021d62fe3c1b0e7342bea61f43272f5a9883ca663dd1ca332b95f0a28"
+    },
+    {
+      "year": 2024,
+      "ac": 33,
+      "name": "Heirok",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 11550
+        },
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 7882
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 645
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 230
+        }
+      ],
+      "candidateVotes": 20307,
+      "rejected": 0,
+      "nota": 818,
+      "votesPolled": 21125,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no33_06-06-2024_1717662380.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "d8de227644d86f46eae0705a4c669e18340d06c0b5348c8774acf7235f7709d3"
+    },
+    {
+      "year": 2024,
+      "ac": 34,
+      "name": "Wangjing Tentha",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 14817
+        },
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 7941
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 413
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 236
+        }
+      ],
+      "candidateVotes": 23407,
+      "rejected": 0,
+      "nota": 797,
+      "votesPolled": 24204,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no34_06-06-2024_1717662392.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "2d588ea185d781e60122ae71c537bab348fa08dca6bd3153e06d6f14eca63da6"
+    },
+    {
+      "year": 2024,
+      "ac": 35,
+      "name": "Khangabok",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 20198
+        },
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 7065
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 196
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 165
+        }
+      ],
+      "candidateVotes": 27624,
+      "rejected": 0,
+      "nota": 661,
+      "votesPolled": 28285,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no35_06-06-2024_1717662396.pdf",
+      "sourcePage": 3,
+      "sourceSha256": "32208a61452636f6d8e31065bce0f05c1c941ea97afce672e08f0e5227e19d96"
+    },
+    {
+      "year": 2024,
+      "ac": 36,
+      "name": "Wabgai",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 13601
+        },
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 11578
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 238
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 132
+        }
+      ],
+      "candidateVotes": 25549,
+      "rejected": 0,
+      "nota": 485,
+      "votesPolled": 26034,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no36_06-06-2024_1717662401.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "58ca3786de8f6c229e57d40ccca8f21c474befba9363f0351b8969c40d94cb3e"
+    },
+    {
+      "year": 2024,
+      "ac": 37,
+      "name": "Kakching",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 11869
+        },
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 6061
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 466
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 184
+        }
+      ],
+      "candidateVotes": 18580,
+      "rejected": 0,
+      "nota": 662,
+      "votesPolled": 19242,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no37_06-06-2024_1717662404.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "16a594aeb06f8560762ed9d9605d2488baed08228faa9f1fc2e9c05cb1ecd86d"
+    },
+    {
+      "year": 2024,
+      "ac": 38,
+      "name": "Hiyanglam",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 9769
+        },
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 7685
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 204
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 202
+        }
+      ],
+      "candidateVotes": 17860,
+      "rejected": 0,
+      "nota": 539,
+      "votesPolled": 18399,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no38_06-06-2024_1717662408.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "f908764e17aef60c014b05576ba7543dd8f9a19b2824548f631f70ee38d8fce2"
+    },
+    {
+      "year": 2024,
+      "ac": 39,
+      "name": "Sugnu",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 10338
+        },
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 6553
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 300
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 152
+        }
+      ],
+      "candidateVotes": 17343,
+      "rejected": 0,
+      "nota": 393,
+      "votesPolled": 17736,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no39_06-06-2024_1717662412.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "94d21b3da45164930ef439fe1a04048ca818c4bb91ae54f5b35324503a3affee"
+    },
+    {
+      "year": 2024,
+      "ac": 40,
+      "name": "Jiribam",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 9471
+        },
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 8524
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 388
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 386
+        }
+      ],
+      "candidateVotes": 18769,
+      "rejected": 0,
+      "nota": 526,
+      "votesPolled": 19295,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no40_06-06-2024_1717662415.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "617ec6333d504ec9173d3701de4febfe189d8d1fc0147c861889834f9d4b579c"
+    },
+    {
+      "year": 2024,
+      "ac": 41,
+      "name": "Chandel",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 23599
+        },
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 15520
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 990
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 231
+        }
+      ],
+      "candidateVotes": 40340,
+      "rejected": 0,
+      "nota": 40,
+      "votesPolled": 40380,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no41_06-06-2024_1717662419.pdf",
+      "sourcePage": 4,
+      "sourceSha256": "cf66c4208df451a8b283c44416931abffe60f73ff0f22052349b5652f0e3014e"
+    },
+    {
+      "year": 2024,
+      "ac": 42,
+      "name": "Tengnoupal",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 22264
+        },
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 16181
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 461
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 133
+        }
+      ],
+      "candidateVotes": 39039,
+      "rejected": 0,
+      "nota": 67,
+      "votesPolled": 39106,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no42_06-06-2024_1717662430.pdf",
+      "sourcePage": 4,
+      "sourceSha256": "2cd4420ffbc20cec9d08fbc6a9e3bff03fe9dde61319b1037b8cead145916e74"
+    },
+    {
+      "year": 2024,
+      "ac": 43,
+      "name": "Phungyar",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 15171
+        },
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 14843
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 273
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 107
+        }
+      ],
+      "candidateVotes": 30394,
+      "rejected": 0,
+      "nota": 25,
+      "votesPolled": 30419,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no43_06-06-2024_1717662434.pdf",
+      "sourcePage": 4,
+      "sourceSha256": "db08a2c78b90f0c27815d64fe1bc4a8fa42b4c022ff84876bfb13fce8c94f6a0"
+    },
+    {
+      "year": 2024,
+      "ac": 44,
+      "name": "Ukhrul",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 21404
+        },
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 16524
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 166
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 126
+        }
+      ],
+      "candidateVotes": 38220,
+      "rejected": 0,
+      "nota": 29,
+      "votesPolled": 38249,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no44_06-06-2024_1717662440.pdf",
+      "sourcePage": 4,
+      "sourceSha256": "4fca7747834fe860e087ed13564d384b32b34c4de8b46ce6d4c1cb761042bcd7"
+    },
+    {
+      "year": 2024,
+      "ac": 45,
+      "name": "Chingai",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 20187
+        },
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 19772
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 247
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 107
+        }
+      ],
+      "candidateVotes": 40313,
+      "rejected": 0,
+      "nota": 16,
+      "votesPolled": 40329,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no45_06-06-2024_1717662449.pdf",
+      "sourcePage": 4,
+      "sourceSha256": "8d99aa91513b531fcd95d9dc8ab689bf060f91c260d868b0d883c0240000f543"
+    },
+    {
+      "year": 2024,
+      "ac": 46,
+      "name": "Saikul",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 3901
+        },
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 3585
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 340
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 104
+        }
+      ],
+      "candidateVotes": 7930,
+      "rejected": 0,
+      "nota": 11,
+      "votesPolled": 7941,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no46_06-06-2024_1717662453.pdf",
+      "sourcePage": 3,
+      "sourceSha256": "aec460137770fbb0f25844b0915dad709ad5605f6d241a2411f86bb858812ab7"
+    },
+    {
+      "year": 2024,
+      "ac": 47,
+      "name": "Karong",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 35831
+        },
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 5731
+        },
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 719
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 105
+        }
+      ],
+      "candidateVotes": 42386,
+      "rejected": 0,
+      "nota": 45,
+      "votesPolled": 42431,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no47_06-06-2024_1717662456.pdf",
+      "sourcePage": 4,
+      "sourceSha256": "b1814d85ce4197839c42e1e18590188ac7d845c2283fa096e8bb3d9097df3410"
+    },
+    {
+      "year": 2024,
+      "ac": 48,
+      "name": "Mao",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 25178
+        },
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 17466
+        },
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 1932
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 123
+        }
+      ],
+      "candidateVotes": 44699,
+      "rejected": 0,
+      "nota": 87,
+      "votesPolled": 44786,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no48_06-06-2024_1717662463.pdf",
+      "sourcePage": 4,
+      "sourceSha256": "9fe6649a1b41ae884915924fbbc5c374ca108eea3622d630884b5be39344c544"
+    },
+    {
+      "year": 2024,
+      "ac": 49,
+      "name": "Tadubi",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 15032
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 11850
+        },
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 7607
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 1642
+        }
+      ],
+      "candidateVotes": 36131,
+      "rejected": 0,
+      "nota": 186,
+      "votesPolled": 36317,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no49_06-06-2024_1717662468.pdf",
+      "sourcePage": 4,
+      "sourceSha256": "a1f2a5738e320378287f213a6180366e5ca79f5f0c7e185d0999bdfe6d6d1c9c"
+    },
+    {
+      "year": 2024,
+      "ac": 50,
+      "name": "Kangpokpi",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 8896
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 2443
+        },
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 665
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 475
+        }
+      ],
+      "candidateVotes": 12479,
+      "rejected": 0,
+      "nota": 141,
+      "votesPolled": 12620,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no50_06-06-2024_1717662472.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "046a750b75ee58e99737d5da5b1a20434e35f3f8bd46cb631414cf1baa6c53b1"
+    },
+    {
+      "year": 2024,
+      "ac": 51,
+      "name": "Saitu",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 9199
+        },
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 4529
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 4039
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 1684
+        }
+      ],
+      "candidateVotes": 19451,
+      "rejected": 0,
+      "nota": 87,
+      "votesPolled": 19538,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no51_06-06-2024_1717662479.pdf",
+      "sourcePage": 4,
+      "sourceSha256": "3db403a2e4ecc28888f33c0221ead6024197c3c7fe8581df390d57de81bb6dc4"
+    },
+    {
+      "year": 2024,
+      "ac": 52,
+      "name": "Tamei",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 26326
+        },
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 5691
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 4907
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 492
+        }
+      ],
+      "candidateVotes": 37416,
+      "rejected": 0,
+      "nota": 35,
+      "votesPolled": 37451,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no52_06-06-2024_1717662484.pdf",
+      "sourcePage": 5,
+      "sourceSha256": "c3ef9399e3eb47e45fa1e29bdd6a7edb6273decd0996740cc8aaf791551b96d6"
+    },
+    {
+      "year": 2024,
+      "ac": 53,
+      "name": "Tamenglong",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 17809
+        },
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 10224
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 1213
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 327
+        }
+      ],
+      "candidateVotes": 29573,
+      "rejected": 0,
+      "nota": 20,
+      "votesPolled": 29593,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no53_06-06-2024_1717662495.pdf",
+      "sourcePage": 3,
+      "sourceSha256": "a334a8b264eac1e74125f82a7cc4c111ca8ae67413c5929a9e8b233171b8c5a8"
+    },
+    {
+      "year": 2024,
+      "ac": 54,
+      "name": "Nungba",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 16018
+        },
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 8431
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 349
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 272
+        }
+      ],
+      "candidateVotes": 25070,
+      "rejected": 0,
+      "nota": 21,
+      "votesPolled": 25091,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no54_06-06-2024_1717662499.pdf",
+      "sourcePage": 3,
+      "sourceSha256": "8fea1206bdb553f2cdab8ad61c5474b3acbe81f44ec3d1dfacf2b500fcba7236"
+    },
+    {
+      "year": 2024,
+      "ac": 55,
+      "name": "Tipaimukh",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 13315
+        },
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 1275
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 266
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 38
+        }
+      ],
+      "candidateVotes": 14894,
+      "rejected": 0,
+      "nota": 26,
+      "votesPolled": 14920,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no55_06-06-2024_1717662503.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "29a5e15ec2958c2cdb5212e4f56f3d757648ddd23ec48027e47aa5f4e48f9840"
+    },
+    {
+      "year": 2024,
+      "ac": 56,
+      "name": "Thanlon",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 12389
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 437
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 389
+        },
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 38
+        }
+      ],
+      "candidateVotes": 13253,
+      "rejected": 0,
+      "nota": 29,
+      "votesPolled": 13282,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no56_06-06-2024_1717662506.pdf",
+      "sourcePage": 2,
+      "sourceSha256": "ea28255d575dfb9ad5724d6dc88b891fcc369162a0328eab7f7b592e881e875f"
+    },
+    {
+      "year": 2024,
+      "ac": 57,
+      "name": "Henglep",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 21106
+        },
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 2740
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 627
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 267
+        }
+      ],
+      "candidateVotes": 24740,
+      "rejected": 0,
+      "nota": 95,
+      "votesPolled": 24835,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no57_06-06-2024_1717662509.pdf",
+      "sourcePage": 3,
+      "sourceSha256": "833c1d00bc662ce38a4ce72fcad91f6c21ececfff41812fd7ba5eb97a22c9c89"
+    },
+    {
+      "year": 2024,
+      "ac": 58,
+      "name": "Churachandpur",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 39537
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 1033
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 276
+        },
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 270
+        }
+      ],
+      "candidateVotes": 41116,
+      "rejected": 0,
+      "nota": 173,
+      "votesPolled": 41289,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no58_06-06-2024_1717662513.pdf",
+      "sourcePage": 4,
+      "sourceSha256": "86731d1a937eb44733773073837d737f1b30d76c3276c665e4269dfa0bfb8a57"
+    },
+    {
+      "year": 2024,
+      "ac": 59,
+      "name": "Saikot",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 48600
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 908
+        },
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 519
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 270
+        }
+      ],
+      "candidateVotes": 50297,
+      "rejected": 0,
+      "nota": 175,
+      "votesPolled": 50472,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no59_06-06-2024_1717662516.pdf",
+      "sourcePage": 4,
+      "sourceSha256": "8917db1fb424433a44f2717a5cd8e8aff301f0456085452d3dd70bea855f57f6"
+    },
+    {
+      "year": 2024,
+      "ac": 60,
+      "name": "Singhat",
+      "pc": 2,
+      "candidates": [
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 19499
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 705
+        },
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 414
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 234
+        }
+      ],
+      "candidateVotes": 20852,
+      "rejected": 0,
+      "nota": 68,
+      "votesPolled": 20920,
+      "sourceUrl": "https://ceomanipur.nic.in/ResultSheets/LokSabhaElection/2024/Form%2020/Form20-S14_ac_no60_06-06-2024_1717662520.pdf",
+      "sourcePage": 3,
+      "sourceSha256": "7768e2189987ca9bb55d0b2723f33fa54b2e593a5835729aadd4d3a3fbc2c69f"
+    }
+  ],
+  "reconciliation": [
+    {
+      "pc": 1,
+      "name": "Inner Manipur",
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 374017,
+          "rank": 1,
+          "ordinarySegmentVotes": 369323,
+          "unallocatedToOrdinarySegments": 4694
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 264216,
+          "rank": 2,
+          "ordinarySegmentVotes": 260714,
+          "unallocatedToOrdinarySegments": 3502
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 135640,
+          "rank": 3,
+          "ordinarySegmentVotes": 133630,
+          "unallocatedToOrdinarySegments": 2010
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 13050,
+          "rank": 4,
+          "ordinarySegmentVotes": 12800,
+          "unallocatedToOrdinarySegments": 250
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 4881,
+          "rank": 5,
+          "ordinarySegmentVotes": 4805,
+          "unallocatedToOrdinarySegments": 76
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 1296,
+          "rank": 6,
+          "ordinarySegmentVotes": 1266,
+          "unallocatedToOrdinarySegments": 30
+        }
+      ]
+    },
+    {
+      "pc": 2,
+      "name": "Outer Manipur",
+      "candidates": [
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 384954,
+          "rank": 1,
+          "ordinarySegmentVotes": 376729,
+          "unallocatedToOrdinarySegments": 8225
+        },
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 299536,
+          "rank": 2,
+          "ordinarySegmentVotes": 297101,
+          "unallocatedToOrdinarySegments": 2435
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 89910,
+          "rank": 3,
+          "ordinarySegmentVotes": 89447,
+          "unallocatedToOrdinarySegments": 463
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 15110,
+          "rank": 4,
+          "ordinarySegmentVotes": 14755,
+          "unallocatedToOrdinarySegments": 355
+        }
+      ]
+    }
+  ]
+}

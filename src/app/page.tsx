@@ -42,7 +42,7 @@ export default function Home() {
           <Link href="/sources">Every number has a source ↗</Link>
         </div>
       </section>
-      <div className="briefing-entry">
+      <section className="research-home-feature"><h2>The 2024 vote.<br/><em>All sixty segments.</em></h2><div><p>Who led locally, by how many votes, and what the evidence can tell us about 2027. Explore the interactive Parliamentary map, complete candidate tables and constituency research notes.</p><Link className="text-link" href="/analysis/segments">Explore 2024 results constituency by constituency ↗</Link></div></section><div className="briefing-entry">
         <p className="eyebrow">THE ATLAS, IN FIVE MINUTES</p>
         <Link className="text-link" href="/briefing">
           Open the executive walkthrough, presenter notes and PDF handout ↗

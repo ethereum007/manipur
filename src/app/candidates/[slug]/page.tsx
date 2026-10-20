@@ -1,3 +1,4 @@
+import {DisclosurePanel} from '@/components/disclosure-panel';
 import {CandidacyAnalysis} from '@/components/candidacy-analysis';
 import { notFound } from "next/navigation";
 import Link from "next/link";
@@ -84,30 +85,7 @@ export default async function Candidate({
           <br />
           <em>disclosures.</em>
         </h2>
-        <div className="evidence-copy">
-          {r.affidavitUrl ? (
-            <p>
-              <a className="text-link" href={r.affidavitUrl}>
-                Read official nomination affidavit ↗
-              </a>
-            </p>
-          ) : (
-            <Missing label="Affidavit not yet indexed" />
-          )}
-          <p>
-            Assets, liabilities, education, occupation, age, legal proceedings,
-            office history and licensed portrait have not yet been transcribed
-            and verified for this entry. A missing value is not a declaration of
-            zero.
-          </p>
-          <p>
-            Cross-year identity is unresolved. No party switch, incumbency or
-            personal background is inferred from a similar name.
-          </p>
-          <Link className="text-link" href="/candidates">
-            Compare candidacies ↗
-          </Link>
-        </div>
+        <DisclosurePanel year={r.year} ac={r.ac} candidate={r.candidate}/>
       </section>
     </>
   );

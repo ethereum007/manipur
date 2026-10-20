@@ -76,6 +76,17 @@ for (let i = 0; i < 4; i++) {
     "Budget receipts identity",
   );
 }
+const disclosures = JSON.parse(fs.readFileSync('data/research/disclosures-2022.json','utf8'));
+const segments = JSON.parse(fs.readFileSync('data/research/parliament-segments-2024.json','utf8'));
+const registry = JSON.parse(fs.readFileSync('data/processed/candidate-register.json','utf8'));
+for (const [year,count] of [[2012,60],[2017,59],[2022,60]]) assert.equal([...groups.keys()].filter(k=>k.startsWith(year+'/')).length,count,'Coverage regression '+year);
+for(const [id,g] of groups){const top=[...g].sort((a,b)=>b.votes-a.votes)[0];assert.equal(top.party,winners.find(w=>w.year===top.year&&w.ac===top.ac)?.party,'Independent winner mismatch '+id);}
+for(const r of records.filter(r=>r.sourceUrl)){assert(/^https:\/\/ceomanipur\.nic\.in\//.test(r.sourceUrl));assert(/^[a-f0-9]{64}$/.test(r.sourceSha256));}
+assert.equal(disclosures.records.length,265);assert.equal(new Set(disclosures.records.map(r=>r.ac+'/'+r.registryCandidate)).size,265);
+for(const r of disclosures.records){assert(registry.some(c=>c.year===2022&&c.ac===r.ac&&c.candidate===r.registryCandidate&&c.party===r.party),'Unmatched disclosure');for(const key of ['assets','liabilities','declaredCases'])assert(Number.isSafeInteger(r[key])&&r[key]>=0);if(r.assetsSourceText==='Nil')assert.equal(r.assets,0);}
+assert.equal(segments.segments.length,60);assert.equal(new Set(segments.segments.map(s=>s.ac)).size,60);
+for(const s of segments.segments){assert.equal(s.candidates.reduce((n,r)=>n+r.votes,0),s.candidateVotes);assert.equal(s.candidateVotes+s.rejected+s.nota,s.votesPolled);assert(/^[a-f0-9]{64}$/.test(s.sourceSha256));for(const c of s.candidates)assert(Number.isSafeInteger(c.votes)&&c.votes>=0);}
+for(const pc of segments.reconciliation)for(const c of pc.candidates){const sum=segments.segments.filter(s=>s.pc===pc.pc).reduce((n,s)=>n+s.candidates.find(r=>r.candidate===c.candidate).votes,0);assert.equal(sum,c.ordinarySegmentVotes);assert.equal(sum+c.unallocatedToOrdinarySegments,c.votes);assert(c.unallocatedToOrdinarySegments>=0);assert.equal(c.votes,parliament.constituencies.find(p=>p.id===pc.pc).candidates.find(r=>r.candidate===c.candidate).votes);}
 const report = {
   generatedAt: new Date().toISOString(),
   candidacies: records.length,
@@ -95,7 +106,7 @@ const report = {
     "Arithmetic agreement does not replace a visual source audit.",
     "2017 electorate and turnout definitions vary between summary and Form 20; official turnout is withheld.",
     "Reference polygons are marked pre-delimitation by their publisher.",
-    "2024 segment comparisons pending reconciliation.",
+    "2024 special-station and other residual votes are not allocated to ordinary segments.",
   ],
 };
 fs.writeFileSync(

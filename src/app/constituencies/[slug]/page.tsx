@@ -1,3 +1,4 @@
+import {ParliamentSeatNote} from '@/components/parliament-seat-note';
 import {ConstituencyAnalysis} from "@/components/constituency-analysis";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -111,13 +112,14 @@ export default async function Constituency({
                 <SourceNote>
                   <a href={rows[0]?resultSource(rows[0]):electionSource(y)}>CEO Manipur · {y} report ↗</a>
                   {rows[0] ? ", PDF p. " + rows[0].sourcePage : ""}
+                  {rows.some(r=>r.sourceNotes)&&<span>{rows.filter(r=>r.sourceNotes).map(r=>r.sourceNotes).join(" ")}</span>}
                 </SourceNote>
               </article>
             );
           })}
         </div>
       </section>
-      <ConstituencyAnalysis ac={c.id}/><section className="profile-section">
+      <ParliamentSeatNote ac={c.id}/><ConstituencyAnalysis ac={c.id}/><section className="profile-section">
         <h2>
           Continuity
           <br />

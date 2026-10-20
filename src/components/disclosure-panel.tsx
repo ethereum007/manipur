@@ -1,0 +1,8 @@
+import disclosures from '../../data/research/disclosures-2022.json';
+import {number} from '@/lib/data';
+import {SourceNote} from './ui';
+export function DisclosurePanel({year,ac,candidate}:{year:number;ac:number;candidate:string}){
+ const r=year===2022?disclosures.records.find(r=>r.ac===ac&&r.registryCandidate===candidate):undefined;
+ if(!r)return <div className="evidence-copy"><p>Structured disclosure values have not been reviewed for this election entry. Missing values do not mean zero.</p></div>;
+ return <div className="evidence-copy"><p className="eyebrow">2022 NOMINATION / SECONDARY TRANSCRIPTION</p><div className="disclosure-metrics"><div><span>Declared total assets</span><strong>₹{number(r.assets)}</strong>{r.assetsSourceText==='Nil'&&<small>Source explicitly states “Nil”.</small>}</div><div><span>Declared liabilities</span><strong>₹{number(r.liabilities)}</strong></div><div><span>Declared case count</span><strong>{r.declaredCases}</strong></div><div><span>Education declared</span><strong>{r.education}</strong></div></div><p>These are self-declarations at nomination in 2022, transcribed by ADR/MyNeta. They do not establish present wealth, current legal status or guilt. The case count is not a count of convictions. Occupation, age and individual case details have not been structured here.</p><p><a className="text-link" href={r.profileUrl}>ADR/MyNeta candidate record ↗</a></p><p><a className="text-link" href={r.affidavitUrl}>Official nomination affidavit ↗</a></p><SourceNote>{r.matchMethod}. All 265 summaries are matched to the official election register; primary affidavits have not all been manually audited. Reviewed 20 October 2026.</SourceNote></div>;
+}
