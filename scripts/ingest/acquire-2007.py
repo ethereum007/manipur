@@ -20,7 +20,9 @@ def acquire(s):
     (out/'delimitation-manipur-pages.json').write_text(json.dumps([{'page':i+1,'text':texts[i],'tables':[table.extract() for table in doc[i].find_tables().tables]} for i in range(280,min(294,len(doc)))],indent=2));selected=[280,293]
    elif s['role']=='administrative-report':
     (out/'admin-pages.json').write_text(json.dumps([{'page':i+1,'text':t} for i,t in enumerate(texts)],indent=2));selected=[i for i,t in enumerate(texts) if '2007' in t and ('1976' in t or 'uploaded' in t.lower())][:3]
-   elif s['ac'] in [1,21,33,60]:selected=sorted({0,len(doc)-1})
+   elif s['role']=='indexed-form20':
+    (out/('form20-'+str(s['ac'])+'-pages.json')).write_text(json.dumps([{'page':i+1,'text':t,'tables':[table.extract() for table in doc[i].find_tables().tables]} for i,t in enumerate(texts)],indent=2))
+    if s['ac'] in [1,21,33,60]:selected=sorted({0,len(doc)-1})
    for i in selected:
     image=s['role']+'-'+str(s['ac'] or 0)+'-p'+str(i+1)+'.png';doc[i].get_pixmap(dpi=130).save(review/image)
  except Exception as exc:r.update({'status':'acquisition-error','error':type(exc).__name__+': '+str(exc)})

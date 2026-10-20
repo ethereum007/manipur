@@ -27,5 +27,6 @@ jobs:
             work-2007/report-pages.json
             work-2007/delimitation-manipur-pages.json
             work-2007/admin-pages.json
+            work-2007/form20-*-pages.json
             work-2007/review/
           retention-days: 14
