@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "fixedAt": "2026-10-21",
   "scope": "Election-scoped source-column party codes for the 2019 official segment sheets; original native headers retained. No cross-election candidate identity or party merger inferred.",
   "sources": [
@@ -39,5 +39,19 @@
       ]
     }
   ],
-  "punctuationNote": "JD(U), JDU (United) and (United)(JD(U)) are source-header punctuation/name renderings of the same explicitly named party in selected sheets; retained as JD(U). No merger, alliance or defection alias is applied. Other source codes remain literal, including RJSP."
+  "punctuationNote": "JD(U), JDU (United) and (United)(JD(U)) are source-header punctuation/name renderings of the same explicitly named party in selected sheets; retained as JD(U). No merger, alliance or defection alias is applied. Other source codes remain literal, including RJSP.",
+  "cellOverrides": [
+    {
+      "ac": 45,
+      "sourceColumn": 3,
+      "party": "NPEP",
+      "sourceHeader": "Thangminlien Kipgen, NPEP",
+      "sourceUrl": "https://ceomanipur.nic.in/Documents/LS2019/RESULTSHEET2019/45.pdf",
+      "sha256": "b04c5395197f02be814739c3baf974d3c870566f8143237e4f74d7fb18d016ed",
+      "page": 1,
+      "reviewedAt": "2026-10-21",
+      "method": "Selected original-page visual comparison",
+      "reason": "Original header prints NPEP. Literal code preserved rather than aliased to the NPP code used in other segment headers."
+    }
+  ]
 }

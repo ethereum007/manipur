@@ -12,6 +12,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - run: node --test tests/forecast-context.test.mjs
       - run: node scripts/build-context-validation.mjs --output work-context/forecast-context-validation.json
       - uses: actions/upload-artifact@v4
         if: always()
