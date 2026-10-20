@@ -2975,3 +2975,6 @@ thead th {
 @media(max-width:600px){.validation-controls{display:grid;grid-template-columns:minmax(0,1fr);gap:16px}.validation-controls label{min-width:0}.validation-controls select{width:100%;max-width:100%;font-size:14px}}
 
 @media(max-width:650px){.historical-controls{display:grid;grid-template-columns:minmax(0,1fr);align-items:stretch}.historical-controls label{width:100%;min-width:0}.historical-controls select{box-sizing:border-box;min-height:46px;width:100%}}
+
+@media(min-width:1000px){.analysis-stat-grid.analysis-stat-grid-four{grid-template-columns:repeat(4,minmax(0,1fr))}}
+@media(min-width:651px) and (max-width:999px){.analysis-stat-grid.analysis-stat-grid-four{grid-template-columns:repeat(2,minmax(0,1fr))}}
