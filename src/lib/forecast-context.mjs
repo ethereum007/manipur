@@ -7,7 +7,7 @@ export function normalizeParliament(dataset,year,columnRegister){
  if(year===2014)need(dataset.year===2014&&dataset.combinedNormalizationComplete===true,'2014 source scope incomplete');
  completeSeats(dataset.segments,'Parliamentary sources');
  return dataset.segments.map(s=>{
-  const source={url:s.sourceUrl,sha256:s.sourceSha256||s.sha256,page:s.sourcePage||s.footerPage||null,scope:year===2014?'official combined sheet; five selected scanned footers, no complete station audit':'individual native table; selected visual checks and source exceptions retained'};
+  const source={url:s.sourceUrl,sha256:s.sourceSha256||s.sha256,page:s.sourcePage||s.footerPage||s.printedFooter?.page||null,scope:year===2014?'official combined sheet; five selected scanned footers, no complete station audit':'individual native table; selected visual checks and source exceptions retained'};
   need(typeof source.url==='string'&&source.url.includes(year===2014?'/2014/':'/LS2019/'),'Parliamentary source event-year mismatch');need(/^[a-f0-9]{64}$/.test(source.sha256),'Missing source fingerprint');
   if(year===2019&&s.status==='withheld')return {ac:s.ac,year,status:'withheld',reason:'Prior Parliamentary segment withheld: contradictory official sources',candidates:[],source};
   let candidates;
