@@ -43,6 +43,8 @@ def process(r):
   if ac==34:headers=[['Angam Karung Kom (NCP)','K. James (INC)','Thangminlien Kipgen (NPP)','Lorho S. Pfoze (NPF)','Houlim Shokhopao Mate @ Benjamin (BJP)','Ashang Kasar (NEIDP)','Hangkhanpau Taithul (JDU (United))','Leikhan Kaipu (IND)']] 
   assert headers,'candidate headers missing'
   assert all(h==headers[0] for h in headers),'within-document candidate order changed'
+  if issues or ac in [1,34,60]:
+   for i,p in enumerate(doc):p.get_pixmap(dpi=120).save(out/('review-'+str(ac)+'-'+str(i+1)+'.png'))
   return {'ac':ac,'name':r['label'],'pc':pc,'status':'reconciled','sourceUrl':r['url'],'sha256':r['sha256'],'footerPage':footers[0]['page'],'candidateHeaders':headers[0],'values':footers[0]['values'],'pollingStations':len(stations),'stationRows':stations,'stationAuditComplete':not issues,'issues':issues,'headerMethod':'selected-page visual transcription' if ac==34 else 'native table header','cellNotes':[{'station':'31/24','page':1,'candidateColumn':8,'nativeCell':'0 with stray dots','value':0,'method':'selected original-page visual comparison 21 October 2026'}] if ac==31 else []}
  except Exception as exc:
   if 'doc' in locals():
