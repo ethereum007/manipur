@@ -9,8 +9,8 @@ Scope: a usable, source-led statewide research platform; unavailable evidence is
 - [x] Dated sixty-seat institutional directory and all constituency cross-links published.
 - [x] Seven policy studies with administrative stages, source dates, geographic scope and original-source archive published.
 - [x] Public downloads, source register, research desk and five-page briefing available.
-- [ ] Full-export internal link, asset, download and section-anchor audit passes.
-- [ ] Final data/browser/PDF checks and production smoke verification pass for the completion release.
+- [x] Full-export internal link, asset, download and section-anchor audit passes: 907 exported HTML pages; 30,474 local references; zero errors.
+- [x] Final data/browser/PDF checks and production smoke verification pass for this release: 18 data tests, 14 browser tests, five-page PDF; homepage/register/policy/PDF HTTPS 200.
 - [ ] Final QA receipt records unresolved evidence limitations; completion cadence disabled.
 
 ## Evidence that cannot be replaced by product development
