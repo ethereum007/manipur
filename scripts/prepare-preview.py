@@ -62,3 +62,6 @@ for filename in ['representation-snapshot.json','policy-evidence.json','public-e
 
 # Dated forecast-research gates; historical replay report is recomputed separately.
 (p/'data/forecast-readiness.json').write_text((root/'data/research/forecast-readiness.json').read_text(),encoding='utf-8')
+
+# Acquisition evidence remains distinct from normalized model inputs.
+(p/'data/historical-parliament-sources.json').write_text((root/'data/research/historical-parliament-sources.json').read_text(),encoding='utf-8')
