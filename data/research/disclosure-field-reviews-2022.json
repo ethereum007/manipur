@@ -1,0 +1,141 @@
+{
+  "year": 2022,
+  "reviewedAt": "2026-10-20",
+  "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/39463703402",
+  "method": "Codex visual comparison of original financial-summary page crops; OCR used only to locate pages. Selected cells only, not an independent human audit or complete affidavit review.",
+  "scope": "Self-declarations at 2022 nomination. Not present wealth, current liabilities, legal status or certification of truth.",
+  "records": [
+    {
+      "ac": 42,
+      "candidate": "Kh. David Maring",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/42/Kh.%20David%20Maring.pdf",
+      "sourceSha256": "b3a8045befdb26af8b51957eb14d4f3afb76cbf20421a1edd5334c78ddf3ecc6",
+      "reviewedPages": [
+        15,
+        16
+      ],
+      "summary": "ADR says Nil; reviewed primary cells say N/A. The primary wording is retained without converting it to a monetary zero.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "wording-not-equivalent",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": null,
+          "primarySourceText": "N/A",
+          "pages": [
+            15,
+            16
+          ],
+          "note": "Movable-assets row across self, spouse, HUF and dependants on p.15; current-market self-acquired and inherited rows across columns on p.16 are N/A. No monetary total is assigned from that wording."
+        },
+        {
+          "field": "liabilities",
+          "status": "wording-not-equivalent",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": null,
+          "primarySourceText": "N/A",
+          "pages": [
+            16
+          ],
+          "note": "Government-dues and loan-total rows across columns read N/A. This selected-page review does not turn N/A into a primary numeric zero."
+        }
+      ]
+    },
+    {
+      "ac": 16,
+      "candidate": "Ningthoujam Popilal Singh",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/16/Ningthoujam%20Popilal%20Singh.pdf",
+      "sourceSha256": "9d2fabc26932e2040ffe6ceb308bb71425ee4834ce7c16ecb7f5386dee02e562",
+      "reviewedPages": [
+        15,
+        16
+      ],
+      "summary": "ADR says Nil; reviewed primary cells say N/A. Full primary total-asset reconciliation remains incomplete.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-wording-review",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": null,
+          "primarySourceText": "N/A",
+          "pages": [
+            15
+          ],
+          "note": "Movable-assets total row across self, spouse, HUF and dependants reads N/A. Purchase-price and development-cost rows also read N/A; these are not substituted for a complete current-market asset total."
+        },
+        {
+          "field": "liabilities",
+          "status": "wording-not-equivalent",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": null,
+          "primarySourceText": "N/A",
+          "pages": [
+            16
+          ],
+          "note": "Government-dues and loan-total rows across columns read N/A. No primary monetary zero is asserted."
+        }
+      ]
+    },
+    {
+      "ac": 2,
+      "candidate": "Nongthombam Biren Singh",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/2/NONGTHOMBAM%20BIREN%20SINGH.pdf",
+      "sourceSha256": "c77a39990e0c5baa872119f3729c92449d3aec1b1e1bd76b7df5992f9be71e51",
+      "reviewedPages": [
+        16
+      ],
+      "summary": "Liability total matches ADR. Selected asset-summary cells produce a ₹1.23 difference; the cause is unresolved.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "derived-summary-difference",
+          "secondaryValuePaise": 1474836100,
+          "primaryValuePaise": 1474836223,
+          "differencePaise": 123,
+          "primarySourceText": "Six financial-summary amounts, summed in paise",
+          "pages": [
+            16
+          ],
+          "components": [
+            {
+              "label": "Self movable assets",
+              "valuePaise": 694639298
+            },
+            {
+              "label": "Spouse movable assets",
+              "valuePaise": 146696925
+            },
+            {
+              "label": "Self current-market self-acquired immovable assets",
+              "valuePaise": 90000000
+            },
+            {
+              "label": "Self inherited immovable assets",
+              "valuePaise": 300000000
+            },
+            {
+              "label": "Spouse current-market self-acquired immovable assets",
+              "valuePaise": 188500000
+            },
+            {
+              "label": "Spouse inherited immovable assets",
+              "valuePaise": 55000000
+            }
+          ],
+          "note": "Uses movable total and current-market immovable values; purchase prices and construction costs are not added again. Other household columns say not applicable. The p.16 sum is ₹1,47,48,362.23; ADR reports ₹1,47,48,361. No cause, wrongdoing or corrected complete-affidavit total is inferred."
+        },
+        {
+          "field": "liabilities",
+          "status": "summary-value-agrees",
+          "secondaryValuePaise": 14430000,
+          "primaryValuePaise": 14430000,
+          "primarySourceText": "Rs. 1,44,300.00",
+          "pages": [
+            16
+          ],
+          "note": "Self loan-total row is ₹1,44,300. Other loan columns and government-dues columns are not applicable. This is a financial-summary comparison, not a current debt or complete dispute audit."
+        }
+      ]
+    }
+  ]
+}

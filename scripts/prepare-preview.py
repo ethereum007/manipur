@@ -56,3 +56,6 @@ for filename in ['representation-snapshot.json','policy-evidence.json','public-e
 
 # Public metadata only: no PDF text, identifiers, addresses or signatures.
 (p/'data/affidavit-availability-2022.json').write_text((root/'data/research/affidavit-availability-2022.json').read_text(),encoding='utf-8')
+
+# Selected primary field observations; no raw affidavit text or identifiers.
+(p/'data/disclosure-field-reviews-2022.json').write_text((root/'data/research/disclosure-field-reviews-2022.json').read_text(),encoding='utf-8')
