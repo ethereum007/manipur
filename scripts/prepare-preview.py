@@ -71,3 +71,5 @@ for filename in ['representation-snapshot.json','policy-evidence.json','public-e
 
 # Official 2014 combined-sheet normalization; selected scan review is separately scoped.
 (p/'data/parliament-segments-2014.json').write_text((root/'data/research/parliament-segments-2014.json').read_text(),encoding='utf-8')
+
+(p/'data/assembly-2007-source-audit.json').write_text((root/'data/research/assembly-2007-source-audit.json').read_text(),encoding='utf-8')
