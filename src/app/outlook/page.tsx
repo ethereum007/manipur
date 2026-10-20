@@ -11,7 +11,7 @@ export default function Outlook() {
         description="Explore five neutral scenarios. None is assigned a probability, a seat prediction or a campaign recommendation."
       />
       <section className="analysis-block"><p className="eyebrow">NEW / FORECAST RESEARCH</p><h2>Test the method<br/><em>before trusting the number.</em></h2><p className="lead">Replay two historical Assembly benchmarks, inspect every seat-level miss, and examine the evidence still needed for a 2027 probability model.</p><p>The repeat-winning-party rule matches 23/60 outcomes in 2017 and 26/59 comparable outcomes in 2022. Historical agreement is not a probability of future victory.</p><Link className="primary-link" href="/outlook/validation">Open the forecast validation lab <span>↗</span></Link></section>
-      <ScenarioExplorer />
+      <aside className="research-crosslink"><Link className="text-link" href="/outlook/inputs">Explore all 60 seats: forecasting inputs, vintages and missing evidence ↗</Link></aside><ScenarioExplorer />
       <section className="profile-section">
         <h2>
           What history
