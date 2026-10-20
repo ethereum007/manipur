@@ -48,7 +48,7 @@ export default function Home() {
           Open the executive walkthrough, presenter notes and PDF handout ↗
         </Link>
       </div>
-      <section className="research-home-feature"><h2>Beyond the result.<br/><em>Inside the evidence.</em></h2><div><p>Ten detailed studies connect electoral change with public money, institutions and recovery. Explore all sixty constituency research notes and the interactive election analysis lab.</p><Link className="text-link" href="/analysis">Open the research desk ↗</Link></div></section>
+      <section className="research-home-feature"><h2>Beyond the result.<br/><em>Inside the evidence.</em></h2><div><p>Ten electoral and contextual studies, seven primary-source policy notes and a dated sixty-seat representation register connect the results with institutions and public services.</p><Link className="text-link" href="/analysis">Open the research desk ↗</Link><p><Link className="text-link" href="/policy">Explore policy evidence ↗</Link> · <Link className="text-link" href="/representation">Representation register ↗</Link></p></div></section>
       <div className="paper-strip">
         <span>
           60 <small>Assembly constituencies</small>
