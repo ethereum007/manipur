@@ -1,0 +1,34 @@
+{
+  "capturedAt": "2026-10-20T23:24:56.975983+00:00",
+  "scope": "Original source acquisition and native-text readiness only; no new historical benchmark or certified geographic crosswalk approved.",
+  "cloudRun": "https://github.com/ethereum007/manipur/actions/runs/39514813570",
+  "archiveUrl": "https://github.com/ethereum007/manipur/releases/download/primary-sources-2026-10-19/assembly-2007-and-boundaries-run-39514813570.zip",
+  "indexUrl": "https://www.eci.gov.in/Documents/Delimitation/DelimitationofParliamentaryAssemblyConstituenciesOrder-2008(English).pdf",
+  "records": [
+    {
+      "role": "delimitation-order",
+      "ac": null,
+      "year": 2008,
+      "label": "ECI published static consolidated order",
+      "url": "https://www.eci.gov.in/Documents/Delimitation/DelimitationofParliamentaryAssemblyConstituenciesOrder-2008(English).pdf",
+      "checkedAt": "2026-10-20T23:24:51.338418+00:00",
+      "httpStatus": 406,
+      "status": "unavailable-or-not-pdf"
+    },
+    {
+      "role": "boundary-handbook",
+      "ac": null,
+      "year": 2018,
+      "label": "Official ERO/AERO certification handbook, CEO Goa copy",
+      "url": "https://ceogoa.nic.in/pdf/ECIH/Electoral%20Registration%20Officer%20Handbook.pdf",
+      "checkedAt": "2026-10-20T23:24:51.339008+00:00",
+      "httpStatus": 200,
+      "status": "pdf-opened",
+      "sha256": "252d4335524945ee37e77e098538247f547e90d9e1f40ebc1bfd8f1d436d86a3",
+      "bytes": 7936731,
+      "pages": 230,
+      "pagesWithNativeText": 205,
+      "archiveFile": "originals/boundary-handbook-252d43355249.pdf"
+    }
+  ]
+}
