@@ -252,7 +252,7 @@ test('disclosure pagination, filtering, explicit Nil and profile sources',async(
  await expect(page.locator('tbody tr')).toHaveCount(25);
  await page.getByRole('button',{name:'Next records',exact:true}).click();
  await expect(page.locator('.register-pagination')).toContainText('Page 2 of 11');
- await page.getByLabel('Candidate or constituency').fill('Biren');
+ await page.getByLabel('Candidate or constituency').fill('Nongthombam Biren');
  await expect(page.locator('tbody tr')).toHaveCount(1);
  await page.screenshot({path:info.outputPath('disclosures-desktop.png'),fullPage:true});
  await page.getByLabel('Candidate or constituency').fill('Popilal');
