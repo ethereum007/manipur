@@ -9,3 +9,9 @@ The initial usable-platform release is complete. The user resumed development; t
 5. Improve local policy coverage only where project records can be linked to geography and administrative stage. Never allocate statewide totals to seats by guesswork.
 
 Do not publish extracted affidavit addresses, contact details, bank/PAN/voter identifiers, signatures or unreviewed raw text. No local PDF or project writes. Research acquisition and QA run in GitHub.
+
+## Phase progress
+
+- Steps 1 and 2 completed and deployed: 265/265 primary document observations and candidate-level access panels. Cloud source acquisition and visual/data/browser release QA recorded in PRIMARY_AFFIDAVIT_QA_2026-10-20.md.
+- Step 3 is next: prioritize declared-case records and explicit Nil asset entries for selected original-page comparison, preserve page locators and distinguish machine suggestions from visual verification. The 206 PDFs with no native-text threshold require image review or cloud OCR; do not silently promote extracted values.
+- Steps 4 and 5 remain open. Cadence remains active.

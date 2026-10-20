@@ -22,3 +22,7 @@ Every build enforces cohort sizes, unique candidacy joins, ballot accounting, so
 ## Open research
 
 One 2017 contest; complete current primary-affidavit review; remaining non-ordinary and postal decomposition; current certified boundary data; current nominations and affiliations; local causal evidence and credible constituency-level opinion data. No named 2027 favourite or numerical probability is fabricated.
+
+## Resumed research depth — 20 October 2026
+
+All 265 official 2022 affidavits retrieved and opened in GitHub: 4,799 pages; 265 distinct hashes; 59 documents with native text detected, 206 without it. Candidate-level primary-document metadata is public alongside secondary disclosure values. This acquisition audit performs no manual field review or OCR and exports no personal PDF text. New release passed 20 data tests, 15 browser tests, five-page PDF verification and 30,741 internal-reference checks. See docs/PRIMARY_AFFIDAVIT_QA_2026-10-20.md. Hourly research continuation is active; next priorities are original-page field comparisons and the unresolved discrepancy sources.
