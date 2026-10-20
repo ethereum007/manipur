@@ -228,6 +228,7 @@ test('2024 segment map, local margins, identities and 2027 evidence notes',async
  await page.setViewportSize({width:1440,height:1000});await page.goto(base+'/analysis/segments/');
  await page.evaluate(()=>document.fonts.ready);
  await expect(page.locator('.geo-map path[role=button]')).toHaveCount(60);
+ await expect(page.locator('.party-legend')).toContainText('INC · 36 leads');
  await expect(page.locator('.analysis-verdict')).toContainText('2,162');
  await page.getByLabel('Ordinary Assembly segment').selectOption('60');
  await expect(page.locator('.analysis-verdict')).toContainText('18,794');

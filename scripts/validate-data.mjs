@@ -87,6 +87,8 @@ for(const r of disclosures.records){assert(registry.some(c=>c.year===2022&&c.ac=
 assert.equal(segments.segments.length,60);assert.equal(new Set(segments.segments.map(s=>s.ac)).size,60);
 for(const s of segments.segments){assert.equal(s.candidates.reduce((n,r)=>n+r.votes,0),s.candidateVotes);assert.equal(s.candidateVotes+s.rejected+s.nota,s.votesPolled);assert(/^[a-f0-9]{64}$/.test(s.sourceSha256));for(const c of s.candidates)assert(Number.isSafeInteger(c.votes)&&c.votes>=0);}
 for(const pc of segments.reconciliation)for(const c of pc.candidates){const sum=segments.segments.filter(s=>s.pc===pc.pc).reduce((n,s)=>n+s.candidates.find(r=>r.candidate===c.candidate).votes,0);assert.equal(sum,c.ordinarySegmentVotes);assert.equal(sum+c.unallocatedToOrdinarySegments,c.votes);assert(c.unallocatedToOrdinarySegments>=0);assert.equal(c.votes,parliament.constituencies.find(p=>p.id===pc.pc).candidates.find(r=>r.candidate===c.candidate).votes);}
+for(const g of segments.specialStationGroups){assert.equal(g.candidates.reduce((n,c)=>n+c.votes,0),g.candidateVotes);assert.equal(g.candidateVotes+g.nota+g.rejected,g.votesPolled);assert(!segments.segments.some(s=>s.ac===g.id));}
+for(const pc of segments.reconciliation)for(const c of pc.candidates){assert.equal(c.specialStationVotes,segments.specialStationGroups.find(g=>g.pc===pc.pc).candidates.find(r=>r.candidate===c.candidate).votes);assert.equal(c.ordinarySegmentVotes+c.specialStationVotes+c.unallocatedAfterSpecialStations,c.votes);assert(c.unallocatedAfterSpecialStations>=0);}
 const report = {
   generatedAt: new Date().toISOString(),
   candidacies: records.length,

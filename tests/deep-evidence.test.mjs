@@ -33,3 +33,12 @@ test('public identity fields require explicit attributed sources; unknown stays 
  for(const r of context.people)if(r.community||r.religion)assert(r.identitySources.length>0&&r.identitySources.every(s=>s.url.startsWith('https://')&&s.basis));
  assert.equal(context.repolls.reduce((sum,r)=>sum+r.pollingStations,0),17);
 });
+
+test('special-station groups reconcile separately and are never extra Assembly seats',()=>{
+ assert.deepEqual(segments.specialStationGroups.map(g=>g.id),[61,62]);
+ assert.deepEqual(segments.specialStationGroups.map(g=>g.candidateVotes),[3667,6681]);
+ for(const g of segments.specialStationGroups){assert.equal(g.candidates.reduce((n,c)=>n+c.votes,0),g.candidateVotes);assert.equal(g.candidateVotes+g.nota+g.rejected,g.votesPolled);assert(!segments.segments.some(s=>s.ac===g.id));}
+ for(const pc of segments.reconciliation)for(const c of pc.candidates)assert.equal(c.ordinarySegmentVotes+c.specialStationVotes+c.unallocatedAfterSpecialStations,c.votes);
+ assert.equal(segments.reconciliation[0].candidates.reduce((n,c)=>n+c.unallocatedAfterSpecialStations,0),6895);
+ assert.equal(segments.reconciliation[1].candidates.reduce((n,c)=>n+c.unallocatedAfterSpecialStations,0),4797);
+});

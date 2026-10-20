@@ -1,7 +1,7 @@
 {
   "year": 2024,
   "reviewedAt": "2026-10-20",
-  "scope": "60 ordinary Assembly-segment Parliamentary result sheets. Segment lead is not an Assembly win. Special stations and other residual votes are not allocated to ordinary segments.",
+  "scope": "60 ordinary geographic Assembly-segment Parliamentary results and two separately accounted special-station groups. Segment lead is not an Assembly win. Special and remaining residual votes are not allocated to the 60 ordinary segments.",
   "segments": [
     {
       "year": 2024,
@@ -2435,7 +2435,9 @@
           "votes": 374017,
           "rank": 1,
           "ordinarySegmentVotes": 369323,
-          "unallocatedToOrdinarySegments": 4694
+          "unallocatedToOrdinarySegments": 4694,
+          "specialStationVotes": 1355,
+          "unallocatedAfterSpecialStations": 3339
         },
         {
           "candidate": "Thounaojam Basanta Kumar Singh",
@@ -2443,7 +2445,9 @@
           "votes": 264216,
           "rank": 2,
           "ordinarySegmentVotes": 260714,
-          "unallocatedToOrdinarySegments": 3502
+          "unallocatedToOrdinarySegments": 3502,
+          "specialStationVotes": 1503,
+          "unallocatedAfterSpecialStations": 1999
         },
         {
           "candidate": "Maheshwar Thounaojam",
@@ -2451,7 +2455,9 @@
           "votes": 135640,
           "rank": 3,
           "ordinarySegmentVotes": 133630,
-          "unallocatedToOrdinarySegments": 2010
+          "unallocatedToOrdinarySegments": 2010,
+          "specialStationVotes": 678,
+          "unallocatedAfterSpecialStations": 1332
         },
         {
           "candidate": "Rajkumar Somendro Singh",
@@ -2459,7 +2465,9 @@
           "votes": 13050,
           "rank": 4,
           "ordinarySegmentVotes": 12800,
-          "unallocatedToOrdinarySegments": 250
+          "unallocatedToOrdinarySegments": 250,
+          "specialStationVotes": 92,
+          "unallocatedAfterSpecialStations": 158
         },
         {
           "candidate": "Moirangthem Totomshana Nongshaba",
@@ -2467,7 +2475,9 @@
           "votes": 4881,
           "rank": 5,
           "ordinarySegmentVotes": 4805,
-          "unallocatedToOrdinarySegments": 76
+          "unallocatedToOrdinarySegments": 76,
+          "specialStationVotes": 26,
+          "unallocatedAfterSpecialStations": 50
         },
         {
           "candidate": "Haorungbam Sarat Singh",
@@ -2475,7 +2485,9 @@
           "votes": 1296,
           "rank": 6,
           "ordinarySegmentVotes": 1266,
-          "unallocatedToOrdinarySegments": 30
+          "unallocatedToOrdinarySegments": 30,
+          "specialStationVotes": 13,
+          "unallocatedAfterSpecialStations": 17
         }
       ]
     },
@@ -2489,7 +2501,9 @@
           "votes": 384954,
           "rank": 1,
           "ordinarySegmentVotes": 376729,
-          "unallocatedToOrdinarySegments": 8225
+          "unallocatedToOrdinarySegments": 8225,
+          "specialStationVotes": 5084,
+          "unallocatedAfterSpecialStations": 3141
         },
         {
           "candidate": "Kachui Timothy Zimik",
@@ -2497,7 +2511,9 @@
           "votes": 299536,
           "rank": 2,
           "ordinarySegmentVotes": 297101,
-          "unallocatedToOrdinarySegments": 2435
+          "unallocatedToOrdinarySegments": 2435,
+          "specialStationVotes": 1257,
+          "unallocatedAfterSpecialStations": 1178
         },
         {
           "candidate": "S Kho John",
@@ -2505,7 +2521,9 @@
           "votes": 89910,
           "rank": 3,
           "ordinarySegmentVotes": 89447,
-          "unallocatedToOrdinarySegments": 463
+          "unallocatedToOrdinarySegments": 463,
+          "specialStationVotes": 230,
+          "unallocatedAfterSpecialStations": 233
         },
         {
           "candidate": "Alyson Abonmai",
@@ -2513,9 +2531,95 @@
           "votes": 15110,
           "rank": 4,
           "ordinarySegmentVotes": 14755,
-          "unallocatedToOrdinarySegments": 355
+          "unallocatedToOrdinarySegments": 355,
+          "specialStationVotes": 110,
+          "unallocatedAfterSpecialStations": 245
         }
       ]
+    }
+  ],
+  "specialStationGroups": [
+    {
+      "id": 61,
+      "pc": 1,
+      "name": "Special Polling Station Inner Manipur",
+      "stationCount": 29,
+      "candidateVotes": 3667,
+      "nota": 43,
+      "rejected": 0,
+      "votesPolled": 3710,
+      "sourceUrl": "https://ceomanipur.nic.in/StatisticalReport/LokSabhaElection/SR_lok_Sabha_2024.pdf",
+      "sourcePage": 148,
+      "printedFolio": 146,
+      "candidates": [
+        {
+          "candidate": "Angomcha Bimol Akoijam",
+          "party": "INC",
+          "votes": 1355
+        },
+        {
+          "candidate": "Thounaojam Basanta Kumar Singh",
+          "party": "BJP",
+          "votes": 1503
+        },
+        {
+          "candidate": "Maheshwar Thounaojam",
+          "party": "RPI(A)",
+          "votes": 678
+        },
+        {
+          "candidate": "Rajkumar Somendro Singh",
+          "party": "IND",
+          "votes": 92
+        },
+        {
+          "candidate": "Moirangthem Totomshana Nongshaba",
+          "party": "IND",
+          "votes": 26
+        },
+        {
+          "candidate": "Haorungbam Sarat Singh",
+          "party": "IND",
+          "votes": 13
+        }
+      ],
+      "verification": "Candidate heading order and grand-total row visually reviewed against original compiled report page; candidate and ballot sums reconcile. Separate accounting group; not AC 61 or 62."
+    },
+    {
+      "id": 62,
+      "pc": 2,
+      "name": "Special Polling Station Outer Manipur",
+      "stationCount": 65,
+      "candidateVotes": 6681,
+      "nota": 273,
+      "rejected": 0,
+      "votesPolled": 6954,
+      "sourceUrl": "https://ceomanipur.nic.in/StatisticalReport/LokSabhaElection/SR_lok_Sabha_2024.pdf",
+      "sourcePage": 149,
+      "printedFolio": 147,
+      "candidates": [
+        {
+          "candidate": "Alfred Kanngam S Arthur",
+          "party": "INC",
+          "votes": 5084
+        },
+        {
+          "candidate": "Kachui Timothy Zimik",
+          "party": "NPF",
+          "votes": 1257
+        },
+        {
+          "candidate": "S Kho John",
+          "party": "IND",
+          "votes": 230
+        },
+        {
+          "candidate": "Alyson Abonmai",
+          "party": "IND",
+          "votes": 110
+        }
+      ],
+      "verification": "Candidate heading order and grand-total row visually reviewed against original compiled report page; candidate and ballot sums reconcile. Separate accounting group; not AC 61 or 62."
     }
   ]
 }

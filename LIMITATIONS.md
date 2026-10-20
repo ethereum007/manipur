@@ -1,12 +1,13 @@
-# Limitations register
+# Limitations register — 20 October 2026
 
-1. Source acquisition and OCR do not establish verified result coverage. Publish only reconciled records; the quality report enumerates missing contests.
-2. DataMeet geometry is a documented historical reference, marked pre-delimitation. It has positional shifts. Multipart records are dissolved into 60 constituency IDs; this does not certify present boundaries.
-3. Census data describe their reference-year population and geography, never a current estimate. District reorganizations require a separate crosswalk.
-4. Assembly results are election-day results, not current House composition. Parliamentary comparisons are not voter-transfer estimates.
-5. No reliable opinion poll is implied. Scenarios have no assigned probability and are not predictions.
-6. Affidavit declarations are dated self-reports. A declared case is not a conviction. Current legal status requires a separately dated source.
-7. ADR's 2017 Biren Singh profile and its published winners report contain different asset and liability totals. Hold that comparison pending primary reconciliation.
-8. Portrait licensing has not been verified; monograms replace unlicensed photos.
-9. This is a research edition, not an official election service or a complete real-time news archive.
-10. GitHub-only processing: no paid data APIs or managed database. GitHub Actions artifacts expire; source URLs and hashes remain recorded for reacquisition.
+1. Assembly candidate coverage: 60/60 contests in 2012 (279 candidacies), 59/60 in 2017 (260), 60/60 in 2022 (265). The independent winner register covers all 180 pairs. One 2017 ballot-total discrepancy remains unresolved. Arithmetic checks and selected-page visual reviews are distinct.
+2. Native Form 20 source URLs and SHA-256 hashes accompany new result rows. The archived 240 PDFs and extracted source snapshots are permanent GitHub Release assets; transient QA artifacts still expire.
+3. DataMeet geometry is historical, marked pre-delimitation and subject to positional shifts. Dissolving multipart records by AC number does not certify present boundaries.
+4. 2024 was a Parliamentary election: two elected MPs and sixty ordinary Assembly-segment leads. All sixty ordinary result sheets reconcile. Two special-station groups (29 Inner / 65 Outer stations) have also been visually reviewed; their 10348 candidate votes and other residual votes are separately reported and not forced into ordinary geographic segments.
+5. Candidate shares exclude NOTA and rejected ballots. Turnout is withheld without a compatible verified electorate denominator. Election-day Assembly results do not establish current House membership. Cross-election differences do not identify individual voter transfers.
+6. All 265 official 2022 candidacies have ADR/MyNeta disclosure summaries matched within the same election. These are secondary transcriptions of dated self-declarations; all primary affidavits have not been manually audited. A declared case is not a conviction, and zero declared cases is not a current legal-status check. The official compiled summary count of 56 candidates with cases differs from ADR’s 53; the difference is unresolved.
+7. Nil is zero only where the source explicitly states Nil. Missing fields remain unavailable. ADR’s 2017 Biren Singh reports conflict on financial totals; that cross-year comparison is withheld.
+8. Religion and community fields require sourced public self-description, with source date and attribution. They are never inferred from a surname, party, reservation or location. They do not describe a constituency’s voters or explain their behaviour.
+9. Candidate statements about why they won are attributed claims. The count is not a causal survey. No representative constituency-level voter-motive study or calibrated 2027 forecast has been reviewed. Historical contenders are not confirmed 2027 nominees.
+10. Census and economic figures retain reference years, boundaries and estimate vintages. Governance reporting is selected and dated, not an exhaustive live feed. Licensed candidate portraits remain unavailable.
+11. All current authoring, research, builds, archives and tests run through GitHub; no new local project writes.

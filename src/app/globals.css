@@ -2961,3 +2961,5 @@ thead th {
 .segment-map-layout{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(0,1fr);gap:32px;align-items:start;margin:32px 0}.segment-map-layout .analysis-verdict{margin:0}.segment-map-layout .atlas-map-panel{min-width:0}.segment-map-layout h2{font-size:clamp(30px,3vw,48px)}@media(max-width:800px){.segment-map-layout{grid-template-columns:1fr;gap:24px}}
 
 .register-pagination{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-top:24px}.register-pagination button{font:inherit;padding:10px 14px;background:transparent;border:1px solid #a9a69d;color:inherit;cursor:pointer}.register-pagination button:disabled{opacity:.4;cursor:default}.register-pagination span{font-size:14px}@media(max-width:600px){.register-pagination{flex-wrap:wrap}.register-pagination span{order:3;width:100%}}
+
+.result-metrics>.source-note{grid-column:1 / -1;max-width:70ch}.segment-note h3{margin:22px 0 18px;font-size:clamp(24px,2.6vw,36px);line-height:1.2}

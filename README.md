@@ -44,3 +44,11 @@ Reproduce the 2022 candidate index with `node scripts/ingest/index-candidates-20
 ## Executive meeting edition
 
 Open `/briefing/` for the five-minute walkthrough, presenter notes and a five-page PDF handout. `/presentation/` retains the full 15-slide research briefing. `/development/` includes the official 2026–27 fiscal explorer. Source acceptance distinguishes original-image review from machine-reconciled OCR; both retain provenance. Domain setup is documented in docs/architecture/DOMAIN.md.
+
+## Research expansion — 20 October 2026
+
+[2024 segment explorer](https://mandateterrain.com/analysis/segments/) · [265 disclosure summaries](https://mandateterrain.com/analysis/disclosures/) · [Evidence coverage and discrepancies](https://mandateterrain.com/analysis/evidence/)
+
+804 reconciled Assembly candidate results across 179 of 180 contests. All 60 ordinary 2024 Parliamentary segments, two separately reviewed special-station groups, candidate-by-candidate reconciliation, and local 2027 evidence notes. Religion/community fields require sourced public self-description; unknown stays null. No unverified future nominations, causal findings or winning probabilities are invented.
+
+All project processing and builds remain in GitHub. Native PDFs, extracted snapshots and ADR summary source pages are archived in [GitHub Releases](https://github.com/ethereum007/manipur/releases/tag/primary-sources-2026-10-19). See LIMITATIONS.md and DATA_DICTIONARY.md before reusing data.

@@ -1,24 +1,24 @@
-# Progress — 19 October 2026
+# Progress — 20 October 2026
 
-All project authoring, research, builds, source archives, screenshots and document review run in GitHub. No further local project writes. Initial checkout deletion was blocked by automatic approval review; owner informed previously.
+Mandate Terrain — Manipur Analysis runs at https://mandateterrain.com/ through GitHub Pages. All current project authoring, research, processing, archives and tests remain in GitHub. No further local project writes. Earlier checkout cleanup was blocked by automatic review and has not been claimed complete.
 
-## Working platform
+## Data now published
 
-Cinematic editorial homepage, all 60 constituency routes, linked election maps for 2012/2017/2022, margin shading, candidate directory/compare, reviewed candidate profile, historical party charts, 2024 parliamentary results, sourced governance chronology, development and fiscal explorers, neutral scenarios, public downloads and a 15-slide research presentation.
+- 804 Assembly candidate results: all 60 contests in 2012 (279), 59 in 2017 (260), all 60 in 2022 (265); all 180 independently reviewed winners.
+- Native Form 20 acquisition recovered 240 official PDFs across 2012/2017/2022/2024, archived in GitHub Releases with native extraction snapshots. Candidate sums, ballot accounting, column order and independent winner-party checks distinguish numerical reconciliation from selected-page visual review.
+- 2017 AC21 remains withheld: 30181 valid + 1 rejected + 153 NOTA = 30335, while the official native sheet prints 30334. Andro is recovered from its reconciled native sheet.
+- All 60 ordinary Parliamentary segments in 2024: complete candidate tables, local leads and margins, 32 Inner / 28 Outer, separate candidate-by-candidate residuals. INC leads 36, NPF 13, BJP 9, independents 2; these are not Assembly wins.
+- ADR/MyNeta 2022 summaries for all 265 official candidacies: assets, liabilities, education and declared cases. 257 direct normalized joins and 8 reviewed within-election aliases; 42 summary pages, no conflicting overlap fields. Two explicit asset Nil values are zero. Secondary sources, not a completed primary-affidavit audit. ADR 53 case-declaring candidates vs official compiled summary 56 remains unresolved.
+- 2024 identity register: ten candidates, two sourced community self-descriptions and one religion self-description. Remaining fields stay null. No identity inferred from names or geography.
 
-Added a separate five-minute executive walkthrough with five chapters, presenter notes, keyboard navigation, PDF handout and explicit coverage/readiness. Mandate Terrain — Manipur Analysis is deployed to mandateterrain.com with GoDaddy DNS, GitHub Pages, root-path assets and HTTPS enforcement. Nine browser tests and a five-page PDF check passed.
+## Product expansion
 
-## Verified and reconciled data
+Interactive 2024 map and segment explorer, all sixty constituency-level 2024 / 2027 evidence notes, paginated and searchable 2022 disclosure register, disclosure panels on 2022 profiles, source coverage and discrepancy ledger, provenance-rich public exports, updated complete-election competition research (29 of 60 margins below 5 pp; 39 winners at or below 50% candidate votes).
 
-- All 180 Assembly winners visually reviewed against original registers and party totals.
-- 2012: one full contest (Heingang), five candidates, original PDF p38 reviewed. Column order confirms NCP candidate Ratan’s 9,790 votes; party/rank was not guessed.
-- 2017: 58 full contests, 257 candidates. AC7 and AC21 source inconsistencies remain withheld.
-- 2022: 37 full contests, 156 candidates. Seven contests visually reviewed, 30 further contests machine-reconciled with exact distinctive header tokens and order, expected column counts, candidate sums, ballot accounting and independent winner-party agreement. Ambiguous OCR remains withheld. Audits preserve the distinction between automated acceptance and original-image review.
-- All 265 official 2022 candidacies indexed with original affidavit links. Remaining personal disclosures are untranscribed; unknown never means zero.
-- All ten 2024 parliamentary candidate totals reconcile with party aggregates. Shares exclude NOTA. Segment, postal and displaced-voter special-station accounting remains pending.
-- Official 2026–27 Budget at a Glance: seven fiscal measures, four actual/BE/RE periods, receipt-component identity checked. Estimates are not achieved spending.
-- Selected governance records now extend through 5 October 2026, with public-broadcaster reports and attributed claims distinguished from judicial/primary documents. This is not an exhaustive or live feed.
+## Verification
 
-## Outstanding research
+Every build enforces cohort sizes, unique candidacy joins, ballot accounting, source hashes, independent winner party, segment residual conservation and source-tier limits. New browser flows exercise 2024 selection, identities, exact local margins, disclosure pagination/search/Nil, profile sources and all sixty local sections. Final visual QA receipt is recorded separately after cloud tests.
 
-Remaining 2012 and 2022 candidate totals, two disputed 2017 tables, 2024 Assembly-segment reconciliation, compatible turnout denominators, more dated affidavits and newer sources. Reference polygons remain historical/pre-delimitation; current certified boundaries have not been acquired. Comprehensive research verification remains unfinished.
+## Open research
+
+One 2017 contest; complete current primary-affidavit review; remaining non-ordinary and postal decomposition; current certified boundary data; current nominations and affiliations; local causal evidence and credible constituency-level opinion data. No named 2027 favourite or numerical probability is fabricated.
