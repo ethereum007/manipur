@@ -6,7 +6,7 @@ export const metadata = { title: "Economy & development" };
 export default function Development() {
   return (
     <>
-      <PageIntro
+      <aside className="research-crosslink"><Link className="text-link" href="/policy">Public services: read the policy evidence desk ↗</Link></aside><PageIntro
         label="ECONOMY & DEVELOPMENT"
         title="The economy, with its dates intact."
         description="Reference-year indicators with estimate status, source vintage and gaps kept in view."

@@ -95,6 +95,8 @@ export function SiteFooter() {
       </div>
       <div>
         <Link href="/analysis">Research & analysis</Link>
+        <Link href="/representation">Representation register</Link>
+        <Link href="/policy">Policy evidence</Link>
         <Link href="/discover">Discover Manipur</Link>
         <Link href="/sources">Sources & methodology</Link>
         <Link href="/constituencies">All 60 constituencies</Link>

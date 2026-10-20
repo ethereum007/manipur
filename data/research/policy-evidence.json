@@ -1,0 +1,415 @@
+{
+  "reviewedAt": "2026-10-20",
+  "scope": "Selected primary-source policy evidence, not exhaustive programme evaluation or current constituency-level service estimates.",
+  "sources": [
+    {
+      "id": "housing-2060",
+      "kind": "pdf",
+      "url": "https://sansad.in/getFile/loksabhaquestions/annex/186/AU2060_Q7UUcQ.pdf?source=pqals",
+      "pages": [
+        1,
+        2
+      ],
+      "publisher": "Lok Sabha / Government of India",
+      "title": "Housing and Urban Affairs · Lok Sabha reply 2060, 11 December 2025",
+      "sha256": "bb188fd1ecebbb1481d03e38bae5cbb974665a590b0e83cef63d2d4ba41ba695",
+      "capturedAt": "2026-10-20"
+    },
+    {
+      "id": "food-4565",
+      "kind": "pdf",
+      "url": "https://sansad.in/getFile/loksabhaquestions/annex/185/AU4565_hC8lLy.pdf?source=pqals",
+      "pages": [
+        1,
+        2
+      ],
+      "publisher": "Lok Sabha / Government of India",
+      "title": "Food and Public Distribution · Lok Sabha reply 4565, 20 August 2025",
+      "sha256": "f20b01aa4d6f89bfd0b8f8275e5920a0a4c665ade8fa937489a1caa903cf297f",
+      "capturedAt": "2026-10-20"
+    },
+    {
+      "id": "amrut-6272",
+      "kind": "pdf",
+      "url": "https://sansad.in/getFile/loksabhaquestions/annex/187/AU6272_S1DUXG.pdf?source=pqals",
+      "pages": [
+        1,
+        3
+      ],
+      "publisher": "Lok Sabha / Government of India",
+      "title": "Housing and Urban Affairs · Lok Sabha reply 6272, 2 April 2026",
+      "sha256": "5e816c5ae907b51db8b4bcc0a14a12d5eb1579fb7ae8b1db66234a0238c33740",
+      "capturedAt": "2026-10-20"
+    },
+    {
+      "id": "budget-speech-2026",
+      "kind": "pdf",
+      "url": "https://manipur.gov.in/wp-content/uploads/2026/03/Budget-Speech-2026-27-Bilingual.pdf",
+      "pages": [
+        1,
+        3,
+        6
+      ],
+      "publisher": "Government of Manipur",
+      "title": "Manipur Budget Speech 2026–27 · 9 March 2026, English section",
+      "sha256": "14eb62065970f969663368902d5dbde77a2acc2f13c9f2513b6aebbb603e5868",
+      "capturedAt": "2026-10-20"
+    },
+    {
+      "id": "livelihoods-1538",
+      "kind": "html",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2290655&lang=1&reg=22",
+      "publisher": "Press Information Bureau / Government of India",
+      "title": "Rural Development · reply 1538, 28 July 2026",
+      "sha256": "a47f64bcb9dbaec486e0abbe35b104c09ad9161d7d23d59a653e048bd94d33c2",
+      "capturedAt": "2026-10-20"
+    },
+    {
+      "id": "jjm-mou-2026",
+      "kind": "html",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2271258",
+      "publisher": "Press Information Bureau / Government of India",
+      "title": "Jal Shakti · Manipur MoU announcement, 10 June 2026",
+      "sha256": "a226a063b55ace8831ad6bf2a538abdd9177770bddb9bb6eafddfe4aa9addda3",
+      "capturedAt": "2026-10-20"
+    },
+    {
+      "id": "cm-oath-2026",
+      "kind": "html",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2223363&lang=2&reg=48",
+      "publisher": "Press Information Bureau / Government of India",
+      "title": "Prime Minister’s Office · swearing-in announcement, 4 February 2026",
+      "sha256": "136659e23f7083ff0bb53f992d2b25c3b003841e89445b607ab61938d9787245",
+      "capturedAt": "2026-10-20"
+    },
+    {
+      "id": "cm-directory",
+      "kind": "html",
+      "url": "https://www.necouncil.gov.in/node/494",
+      "publisher": "North Eastern Council",
+      "title": "North Eastern Council · Chief Minister of Manipur directory",
+      "sha256": "f2eebc82b85d2bd926fe56321ff0965d00e083babd7dc69d227a25584b30a7a1",
+      "capturedAt": "2026-10-20"
+    }
+  ],
+  "topics": [
+    {
+      "slug": "housing",
+      "topic": "Housing & rehabilitation",
+      "title": "Sanctioned housing is not the same as housing delivered.",
+      "deck": "Read the administrative stages before attributing a housing figure to displaced families.",
+      "sourceIds": [
+        "housing-2060"
+      ],
+      "reference": "As on 24 November 2025 · reply 11 December 2025",
+      "scope": "Manipur statewide PMAY-U and PMAY-U 2.0; not an IDP-only series",
+      "findings": [
+        "The ministry reports 56,045 sanctioned houses, 49,846 grounded and 20,591 completed or delivered. These are statewide programme totals, not a count of houses delivered to displaced families.",
+        "The reply reports ₹867.95 crore central assistance involved, ₹582.36 crore released and ₹468.53 crore utilised. It does not provide the requested IDP-specific district/site breakdown."
+      ],
+      "metrics": [
+        {
+          "id": "sanctioned",
+          "label": "Houses sanctioned",
+          "value": 56045,
+          "unit": "houses",
+          "stage": "Sanctioned",
+          "sourceId": "housing-2060",
+          "page": 2
+        },
+        {
+          "id": "grounded",
+          "label": "Grounded for construction",
+          "value": 49846,
+          "unit": "houses",
+          "stage": "Grounded",
+          "sourceId": "housing-2060",
+          "page": 2
+        },
+        {
+          "id": "completed",
+          "label": "Completed / delivered",
+          "value": 20591,
+          "unit": "houses",
+          "stage": "Reported completed",
+          "sourceId": "housing-2060",
+          "page": 2
+        },
+        {
+          "id": "released",
+          "label": "Central assistance released",
+          "value": 582.36,
+          "unit": "₹ crore",
+          "stage": "Released",
+          "sourceId": "housing-2060",
+          "page": 2
+        },
+        {
+          "id": "utilised",
+          "label": "Reported utilisation",
+          "value": 468.53,
+          "unit": "₹ crore",
+          "stage": "Reported utilised",
+          "sourceId": "housing-2060",
+          "page": 2
+        }
+      ],
+      "limits": [
+        "Sanction, grounding and completion are different administrative stages; these aggregate stocks do not establish cohort-level delay or construction quality.",
+        "Urban housing figures cannot be relabelled as rural, all-housing or IDP-specific delivery."
+      ],
+      "questions": [
+        "How many verified IDP households received completed houses, by site and completion date?",
+        "Which sanctions, releases and utilisation certificates relate to those same households and projects?",
+        "Are completed homes occupied, habitable and connected to water, electricity, schools and transport?"
+      ],
+      "geographicResolution": "State / programme",
+      "constituencyAllocationAvailable": false
+    },
+    {
+      "slug": "food-security",
+      "topic": "Food security",
+      "title": "An allocation is not proof of a household receipt.",
+      "deck": "Relief-camp supply needs a consistent period, beneficiary denominator and delivery trail.",
+      "sourceIds": [
+        "food-4565"
+      ],
+      "reference": "Reply 20 August 2025; cumulative distribution period unspecified",
+      "scope": "Rice assistance and relief-camp distribution in Manipur",
+      "findings": [
+        "The reply records rice allocations of 30,000 MT in May 2023 and 1,085.36 MT in September 2024 for specified non-NFSA assistance periods.",
+        "It separately reports, on information from the State, 24,174.90 MT distributed through Deputy Commissioners to relief camps. The distribution period and a camp-wise breakdown are not provided."
+      ],
+      "metrics": [
+        {
+          "id": "allocated-2023",
+          "label": "May 2023 allocation",
+          "value": 30000,
+          "unit": "MT rice",
+          "stage": "Allocated",
+          "sourceId": "food-4565",
+          "page": 1
+        },
+        {
+          "id": "allocated-2024",
+          "label": "September 2024 allocation",
+          "value": 1085.36,
+          "unit": "MT rice",
+          "stage": "Allocated",
+          "sourceId": "food-4565",
+          "page": 1
+        },
+        {
+          "id": "distributed",
+          "label": "State-reported distribution",
+          "value": 24174.9,
+          "unit": "MT rice",
+          "stage": "Reported distributed",
+          "sourceId": "food-4565",
+          "page": 2
+        }
+      ],
+      "limits": [
+        "The allocations and distribution figure have different or unstated periods. A distribution-to-allocation percentage would mix denominators.",
+        "Reported distribution is not independently audited household receipt, nutritional adequacy or regularity."
+      ],
+      "questions": [
+        "What are camp-wise opening stocks, receipts, distributions and closing stocks for the same month?",
+        "How many residents were served, and how were changes in camp population recorded?",
+        "What shortages were reported, investigated and resolved, with dates?"
+      ],
+      "geographicResolution": "State / programme",
+      "constituencyAllocationAvailable": false
+    },
+    {
+      "slug": "rehabilitation-budget",
+      "topic": "Recovery financing",
+      "title": "Follow the rehabilitation provision into verified delivery.",
+      "deck": "The 2026–27 budget identifies a commitment; outcomes require a separate evidence chain.",
+      "sourceIds": [
+        "budget-speech-2026"
+      ],
+      "reference": "Budget estimate 2026–27 · speech 9 March 2026",
+      "scope": "Statewide IDP rehabilitation and resettlement budget provision",
+      "findings": [
+        "The budget speech provides ₹734 crore for IDP rehabilitation and resettlement in 2026–27. This is a budget provision, not expenditure or a verified count of resettled households."
+      ],
+      "metrics": [
+        {
+          "id": "be-rehabilitation",
+          "label": "IDP rehabilitation provision",
+          "value": 734,
+          "unit": "₹ crore",
+          "stage": "Budget estimate",
+          "sourceId": "budget-speech-2026",
+          "page": 3
+        }
+      ],
+      "limits": [
+        "The speech amount is not allocated to individual Assembly constituencies in this dataset.",
+        "Sanctions, releases, expenditure, compensation receipts and safe sustained resettlement are different measures."
+      ],
+      "questions": [
+        "Which schemes and budget heads compose the provision, and what has been released against each?",
+        "What household-level receipt and independent completion evidence supports reported resettlement?",
+        "Do outcome reports distinguish return, relocation, temporary shelter and safe sustained occupancy?"
+      ],
+      "geographicResolution": "State / programme",
+      "constituencyAllocationAvailable": false
+    },
+    {
+      "slug": "roads",
+      "topic": "Connectivity",
+      "title": "A road provision does not establish a working route.",
+      "deck": "Measure accessibility and completion separately from money announced.",
+      "sourceIds": [
+        "budget-speech-2026"
+      ],
+      "reference": "Budget estimate 2026–27 · speech 9 March 2026",
+      "scope": "Statewide road provision; additional funding streams identified separately in the speech",
+      "findings": [
+        "The budget speech provides ₹914 crore for roads in BE 2026–27 and identifies supplementary funding channels. A provision alone does not establish road completion, maintenance quality or reliable travel."
+      ],
+      "metrics": [
+        {
+          "id": "be-roads",
+          "label": "Road provision",
+          "value": 914,
+          "unit": "₹ crore",
+          "stage": "Budget estimate",
+          "sourceId": "budget-speech-2026",
+          "page": 3
+        }
+      ],
+      "limits": [
+        "No constituency allocation or currently passable road length is inferred from this statewide figure.",
+        "Funding streams need project-level reconciliation before aggregation to avoid double-counting."
+      ],
+      "questions": [
+        "Which road packages have work orders, deadlines, payments and independently verified milestones?",
+        "How many days were critical routes fully usable, and what caused interruptions?",
+        "Are maintenance obligations, defect correction and safety inspection records published?"
+      ],
+      "geographicResolution": "State / programme",
+      "constituencyAllocationAvailable": false
+    },
+    {
+      "slug": "urban-water",
+      "topic": "Urban water & sanitation",
+      "title": "Connections measure infrastructure, not continuous service.",
+      "deck": "AMRUT figures need their programme scope and service limits attached.",
+      "sourceIds": [
+        "amrut-6272"
+      ],
+      "reference": "Lok Sabha reply 2 April 2026 · annexure reporting date not separately specified",
+      "scope": "Manipur state row for AMRUT, AMRUT 2.0 and convergence, as reported by States/UTs",
+      "findings": [
+        "The annexure reports 28,947 households covered with new or serviced tap connections and 4,000 with sewer connections or septage management. It combines programme and convergence reporting."
+      ],
+      "metrics": [
+        {
+          "id": "tap-households",
+          "label": "New / serviced tap coverage",
+          "value": 28947,
+          "unit": "households",
+          "stage": "Reported coverage",
+          "sourceId": "amrut-6272",
+          "page": 3
+        },
+        {
+          "id": "sewer-households",
+          "label": "Sewer / septage coverage",
+          "value": 4000,
+          "unit": "households",
+          "stage": "Reported coverage",
+          "sourceId": "amrut-6272",
+          "page": 3
+        }
+      ],
+      "limits": [
+        "New and serviced connections are combined; these are not necessarily all new physical connections.",
+        "These figures do not establish hours of supply, water quality, affordability or rural coverage."
+      ],
+      "questions": [
+        "Which urban bodies and projects contribute the reported households, and how is duplication prevented?",
+        "What proportion receive prescribed quantity and quality regularly?",
+        "Which sewage or septage assets are operating, and where are monitoring results available?"
+      ],
+      "geographicResolution": "State / programme",
+      "constituencyAllocationAvailable": false
+    },
+    {
+      "slug": "rural-water",
+      "topic": "Rural water governance",
+      "title": "A reform agreement is a starting point for service evidence.",
+      "deck": "Track the 2026 agreement without presenting its objectives as achieved coverage.",
+      "sourceIds": [
+        "jjm-mou-2026"
+      ],
+      "reference": "Primary release 10 June 2026",
+      "scope": "Manipur agreement under Jal Jeevan Mission 2.0; rural water governance",
+      "findings": [
+        "The Ministry of Jal Shakti reports signing a reform-linked MoU with Manipur on 10 June 2026. The stated model emphasises local participation and accountable rural water service."
+      ],
+      "metrics": [],
+      "limits": [
+        "An MoU confirms an institutional action, not functional household coverage or successful delivery.",
+        "No statewide rural service percentage or constituency-specific estimate is derived from this release."
+      ],
+      "questions": [
+        "What service-level targets, baselines, implementation dates and responsibilities were agreed?",
+        "Which systems have verified functionality, quality tests and funded maintenance?",
+        "How are community monitoring results and complaints independently checked?"
+      ],
+      "geographicResolution": "State / programme",
+      "constituencyAllocationAvailable": false
+    },
+    {
+      "slug": "livelihoods",
+      "topic": "Skills & livelihoods",
+      "title": "Higher utilisation than releases needs an opening-balance check.",
+      "deck": "A funding comparison can mislead when expenditure draws on earlier balances.",
+      "sourceIds": [
+        "livelihoods-1538"
+      ],
+      "reference": "Written-reply release 28 July 2026 · last five years and current year, cumulative",
+      "scope": "Manipur state row under DDU-GKY",
+      "findings": [
+        "The primary release reports ₹21.37 crore released and ₹52.17 crore utilised for Manipur. Its footnote says many States held opening SNA balances on 1 April 2021.",
+        "The comparison is therefore not treated as overspending or an invalid total. A closed fund-flow identity requires opening balances and the same accounting scope."
+      ],
+      "metrics": [
+        {
+          "id": "released",
+          "label": "Cumulative releases",
+          "value": 21.37,
+          "unit": "₹ crore",
+          "stage": "Released",
+          "sourceId": "livelihoods-1538",
+          "page": null
+        },
+        {
+          "id": "utilised",
+          "label": "Cumulative utilisation",
+          "value": 52.17,
+          "unit": "₹ crore",
+          "stage": "Reported utilised",
+          "sourceId": "livelihoods-1538",
+          "page": null
+        }
+      ],
+      "limits": [
+        "The national training and placement totals in the release are not Manipur outcomes.",
+        "Funds utilised do not measure local employment, retained jobs, earnings or training quality. An expenditure/release efficiency percentage is withheld."
+      ],
+      "questions": [
+        "What opening balance, State share and other adjustments reconcile the same-period accounts?",
+        "How many Manipur trainees completed training, entered jobs and remained employed at six and twelve months?",
+        "Are wages, employer verification, dropout and grievance outcomes reported by cohort and district?"
+      ],
+      "geographicResolution": "State / programme",
+      "constituencyAllocationAvailable": false
+    }
+  ],
+  "archiveUrl": "https://github.com/ethereum007/manipur/releases/download/primary-sources-2026-10-19/public-policy-evidence-2026-10-20.zip"
+}

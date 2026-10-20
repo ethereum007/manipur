@@ -1,0 +1,1 @@
+export function EvidenceStamp({captured,reference,scope}:{captured:string;reference:string;scope:string}){return <div className="evidence-stamp"><p><span>RESEARCH SNAPSHOT</span> {captured}</p><p><span>REFERENCE PERIOD</span> {reference}</p><p><span>SCOPE</span> {scope}</p></div>}

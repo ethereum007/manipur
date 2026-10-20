@@ -57,7 +57,7 @@ test("all 60 constituency routes resolve", async ({ request }) => {
   for (const slug of names) {
     const r = await request.get("/manipur/constituencies/" + slug + "/");
     expect(r.status(), slug).toBe(200);
-    expect(await r.text(), slug).toContain('id="parliament-2024"');
+    const html=await r.text();expect(html,slug).toContain('id="parliament-2024"');expect(html,slug).toContain('id="representation"');
   }
 });
 test("briefing supports keyboard navigation and screenshots", async ({
@@ -267,4 +267,28 @@ test('disclosure pagination, filtering, explicit Nil and profile sources',async(
  const data=await page.request.get(base+'/data/segment-leaders-2024.csv');
  expect(data.status()).toBe(200);expect((await data.text()).trim().split('\n')).toHaveLength(61);
  await page.goto(base+'/analysis/evidence/');await expect(page.locator('body')).toContainText('179/180');
+});
+
+test('representation snapshot filters vacancies and links to sourced local notes',async({page},info)=>{
+ const base=process.env.NEXT_PUBLIC_BASE_PATH||'';const errors:string[]=[];page.on('pageerror',e=>errors.push(e.message));
+ await page.setViewportSize({width:1440,height:1000});await page.goto(base+'/representation/');
+ await expect(page.locator('tbody tr')).toHaveCount(20);
+ await page.getByRole('button',{name:'Next records',exact:true}).click();await expect(page.locator('.register-pagination')).toContainText('Page 2 of 3');
+ await page.getByLabel('Directory status').selectOption('listed-vacant');await expect(page.locator('tbody tr')).toHaveCount(2);
+ await expect(page.locator('tbody')).toContainText('Tadubi');await expect(page.locator('tbody')).toContainText('Thanlon');
+ await page.evaluate(()=>document.fonts.ready);await page.screenshot({path:info.outputPath('representation-desktop.png'),fullPage:true});
+ await page.setViewportSize({width:390,height:844});await page.screenshot({path:info.outputPath('representation-mobile.png'),fullPage:true});expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();
+ await page.getByLabel('Directory status').selectOption('all');await page.getByLabel('Member or constituency').fill('Khemchand');await expect(page.locator('tbody tr')).toHaveCount(1);
+ await page.locator('tbody th a').click();await expect(page.locator('#representation')).toContainText('Matric Passed');await expect(page.locator('#representation')).toContainText('4 February 2026');
+ await page.locator('#representation').screenshot({path:info.outputPath('representation-seat-mobile.png')});expect(errors).toEqual([]);
+});
+test('policy notes preserve scope and show primary source locators on mobile',async({page,request},info)=>{
+ const base=process.env.NEXT_PUBLIC_BASE_PATH||'';const errors:string[]=[];page.on('pageerror',e=>errors.push(e.message));
+ await page.goto(base+'/policy/');await expect(page.locator('.research-index-row')).toHaveCount(7);
+ for(const slug of ['housing','food-security','rehabilitation-budget','roads','urban-water','rural-water','livelihoods']){const r=await request.get(base+'/policy/'+slug+'/');expect(r.status(),slug).toBe(200);expect(await r.text(),slug).toContain('Close the record.');}
+ await page.setViewportSize({width:1440,height:1000});await page.goto(base+'/policy/housing/');await page.evaluate(()=>document.fonts.ready);
+ await expect(page.locator('.policy-metrics')).toContainText('56,045');await expect(page.locator('.policy-metrics')).toContainText('20,591');await expect(page.locator('.evidence-stamp')).toContainText('not an IDP-only series');
+ await page.screenshot({path:info.outputPath('policy-housing-desktop.png'),fullPage:true});await page.setViewportSize({width:390,height:844});await page.screenshot({path:info.outputPath('policy-housing-mobile.png'),fullPage:true});expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();
+ await page.goto(base+'/policy/livelihoods/');await expect(page.locator('.policy-findings')).toContainText('opening SNA balances');await page.screenshot({path:info.outputPath('policy-livelihoods-mobile.png'),fullPage:true});expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();expect(errors).toEqual([]);
+ const exportData=await request.get(base+'/data/representation-snapshot.json');expect(exportData.status()).toBe(200);expect((await exportData.json()).records).toHaveLength(60);
 });

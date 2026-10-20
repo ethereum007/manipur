@@ -1,0 +1,94 @@
+{
+  "reviewedAt": "2026-10-20",
+  "cloudRun": 39426042385,
+  "method": "Primary institutional sources downloaded in GitHub Actions; four numerical pages visually reviewed. Scope and footnote review separates sanctions, releases, utilisation, connections and outcomes.",
+  "visuallyReviewed": [
+    "housing-2060 PDF p2",
+    "food-4565 PDF p2",
+    "amrut-6272 PDF p3",
+    "budget-speech-2026 PDF p3"
+  ],
+  "records": [
+    {
+      "id": "housing-2060",
+      "kind": "pdf",
+      "url": "https://sansad.in/getFile/loksabhaquestions/annex/186/AU2060_Q7UUcQ.pdf?source=pqals",
+      "pages": [
+        1,
+        2
+      ],
+      "sha256": "bb188fd1ecebbb1481d03e38bae5cbb974665a590b0e83cef63d2d4ba41ba695",
+      "bytes": 40265,
+      "status": "retrieved"
+    },
+    {
+      "id": "food-4565",
+      "kind": "pdf",
+      "url": "https://sansad.in/getFile/loksabhaquestions/annex/185/AU4565_hC8lLy.pdf?source=pqals",
+      "pages": [
+        1,
+        2
+      ],
+      "sha256": "f20b01aa4d6f89bfd0b8f8275e5920a0a4c665ade8fa937489a1caa903cf297f",
+      "bytes": 370999,
+      "status": "retrieved"
+    },
+    {
+      "id": "amrut-6272",
+      "kind": "pdf",
+      "url": "https://sansad.in/getFile/loksabhaquestions/annex/187/AU6272_S1DUXG.pdf?source=pqals",
+      "pages": [
+        1,
+        3
+      ],
+      "sha256": "5e816c5ae907b51db8b4bcc0a14a12d5eb1579fb7ae8b1db66234a0238c33740",
+      "bytes": 109717,
+      "status": "retrieved"
+    },
+    {
+      "id": "budget-speech-2026",
+      "kind": "pdf",
+      "url": "https://manipur.gov.in/wp-content/uploads/2026/03/Budget-Speech-2026-27-Bilingual.pdf",
+      "pages": [
+        1,
+        3,
+        6
+      ],
+      "sha256": "14eb62065970f969663368902d5dbde77a2acc2f13c9f2513b6aebbb603e5868",
+      "bytes": 912883,
+      "status": "retrieved"
+    },
+    {
+      "id": "livelihoods-1538",
+      "kind": "html",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2290655&lang=1&reg=22",
+      "sha256": "a47f64bcb9dbaec486e0abbe35b104c09ad9161d7d23d59a653e048bd94d33c2",
+      "bytes": 256172,
+      "status": "retrieved"
+    },
+    {
+      "id": "jjm-mou-2026",
+      "kind": "html",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2271258",
+      "sha256": "a226a063b55ace8831ad6bf2a538abdd9177770bddb9bb6eafddfe4aa9addda3",
+      "bytes": 150793,
+      "status": "retrieved"
+    },
+    {
+      "id": "cm-oath-2026",
+      "kind": "html",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2223363&lang=2&reg=48",
+      "sha256": "136659e23f7083ff0bb53f992d2b25c3b003841e89445b607ab61938d9787245",
+      "bytes": 87646,
+      "status": "retrieved"
+    },
+    {
+      "id": "cm-directory",
+      "kind": "html",
+      "url": "https://www.necouncil.gov.in/node/494",
+      "sha256": "f2eebc82b85d2bd926fe56321ff0965d00e083babd7dc69d227a25584b30a7a1",
+      "bytes": 51174,
+      "status": "retrieved"
+    }
+  ]
+}

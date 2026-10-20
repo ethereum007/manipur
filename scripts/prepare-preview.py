@@ -49,3 +49,7 @@ f=io.StringIO();w=csv.writer(f);w.writerow(['year','ac','constituency','pc','seg
 for s in segments:
  a,b=s['candidates'][:2];w.writerow([2024,s['ac'],s['name'],s['pc'],a['candidate'],a['party'],a['votes'],b['candidate'],b['party'],b['votes'],a['votes']-b['votes'],(a['votes']-b['votes'])/s['candidateVotes']*100,s['candidateVotes'],s['nota'],s['rejected'],s['votesPolled'],s['sourceUrl'],s['sourcePage'],s['sourceSha256']])
 (p/'data/segment-leaders-2024.csv').write_text(f.getvalue(),encoding='utf-8')
+
+# Dated institutional and policy observations, with original-source scope intact.
+for filename in ['representation-snapshot.json','policy-evidence.json','public-evidence-audit.json']:
+ (p/'data'/filename).write_text((root/'data/research'/filename).read_text(),encoding='utf-8')

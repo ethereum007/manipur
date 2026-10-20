@@ -1,3 +1,4 @@
+import {RepresentationNote} from '@/components/representation-note';
 import {ParliamentSeatNote} from '@/components/parliament-seat-note';
 import {ConstituencyAnalysis} from "@/components/constituency-analysis";
 import Link from "next/link";
@@ -119,7 +120,7 @@ export default async function Constituency({
           })}
         </div>
       </section>
-      <ParliamentSeatNote ac={c.id}/><ConstituencyAnalysis ac={c.id}/><section className="profile-section">
+      <RepresentationNote ac={c.id}/><ParliamentSeatNote ac={c.id}/><ConstituencyAnalysis ac={c.id}/><section className="profile-section">
         <h2>
           Continuity
           <br />

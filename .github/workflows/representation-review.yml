@@ -1,0 +1,21 @@
+name: Acquire representation snapshot for review
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  acquire:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests beautifulsoup4
+      - run: python scripts/ingest/representation.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: representation-review-snapshot
+          path: work-representation
+          retention-days: 7

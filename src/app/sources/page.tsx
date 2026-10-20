@@ -81,7 +81,7 @@ export default function Sources() {
         </p>
       </section>
       <section className="editorial-section">
-        <h2>The source register.</h2>
+        <h2>The source register.</h2><p><Link className="text-link" href="/policy">Read the primary-source policy notes ↗</Link> · <Link className="text-link" href="/representation">Official representation snapshot ↗</Link></p>
         <div className="reading-grid source-grid" style={{ marginTop: 40 }}>
           {sourceRegister.map((s) => (
             <a key={s.id} href={s.url}>
