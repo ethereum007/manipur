@@ -15,3 +15,9 @@ Do not publish extracted affidavit addresses, contact details, bank/PAN/voter id
 - Steps 1 and 2 completed and deployed: 265/265 primary document observations and candidate-level access panels. Cloud source acquisition and visual/data/browser release QA recorded in PRIMARY_AFFIDAVIT_QA_2026-10-20.md.
 - Step 3 is next: prioritize declared-case records and explicit Nil asset entries for selected original-page comparison, preserve page locators and distinguish machine suggestions from visual verification. The 206 PDFs with no native-text threshold require image review or cloud OCR; do not silently promote extracted values.
 - Steps 4 and 5 remain open. Cadence remains active.
+
+## Selected field review deployed
+
+Step 3 advanced: three candidate financial-summary comparisons, six field observations, original PDF page/hash locators. Two secondary Nil values have primary N/A wording; no primary numeric zero inferred. Biren selected asset cells sum ₹1.23 above ADR, unresolved; reviewed liability total agrees. Other 262 candidates remain unreviewed in this field register. See SELECTED_FIELD_QA_2026-10-20.md.
+
+Next bounded batch: original-page case-declaration observations for these three records, then five additional candidates among ADR case-declaring records; compare scope with the official compiled 56 count before proposing an explanation. Do not add raw personal text or infer current case status. Complete Popilal current-market asset-page coverage separately. Cadence remains active.

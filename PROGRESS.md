@@ -26,3 +26,7 @@ One 2017 contest; complete current primary-affidavit review; remaining non-ordin
 ## Resumed research depth — 20 October 2026
 
 All 265 official 2022 affidavits retrieved and opened in GitHub: 4,799 pages; 265 distinct hashes; 59 documents with native text detected, 206 without it. Candidate-level primary-document metadata is public alongside secondary disclosure values. This acquisition audit performs no manual field review or OCR and exports no personal PDF text. New release passed 20 data tests, 15 browser tests, five-page PDF verification and 30,741 internal-reference checks. See docs/PRIMARY_AFFIDAVIT_QA_2026-10-20.md. Hourly research continuation is active; next priorities are original-page field comparisons and the unresolved discrepancy sources.
+
+## Selected original financial cells — 20 October 2026
+
+Three candidate records now have visually compared primary financial-summary observations, with six field notes and precise PDF page/hash locators. Two ADR Nil records have N/A primary wording; primary numeric fields stay null. Biren selected summary cells yield a ₹1.23 difference from ADR; the cause stays unresolved. Reviewed liability summary agrees. Coverage and limitations are explicit; the other 262 candidates have no field review in this register. Release verified with 23 data tests, 16 browser tests, five-page PDF and 30,746 internal-reference checks. See docs/SELECTED_FIELD_QA_2026-10-20.md.
