@@ -36,7 +36,12 @@ def process(r):
   assert headers,'candidate headers missing'
   assert all(h==headers[0] for h in headers),'within-document candidate order changed'
   return {'ac':ac,'name':r['label'],'pc':pc,'status':'reconciled','sourceUrl':r['url'],'sha256':r['sha256'],'footerPage':footers[0]['page'],'candidateHeaders':headers[0],'values':footers[0]['values'],'pollingStations':len(stations),'stationRows':stations}
- except Exception as exc:return {'ac':ac,'pc':pc,'status':'withheld','reason':str(exc),'sourceUrl':r['url'],'sha256':r['sha256']}
+ except Exception as exc:
+  if 'doc' in locals():
+   (out/('diagnostic-'+str(ac)+'.json')).write_text(json.dumps([{'page':i+1,'text':p.get_text(),'tables':[t.extract() for t in p.find_tables().tables]} for i,p in enumerate(doc)]))
+   if ac in [31,43]:
+    for i,p in enumerate(doc):p.get_pixmap(dpi=120).save(out/('review-'+str(ac)+'-'+str(i+1)+'.png'))
+  return {'ac':ac,'pc':pc,'status':'withheld','reason':str(exc),'sourceUrl':r['url'],'sha256':r['sha256']}
 records=sorted([r for r in m['records'] if r['year']==2019 and r['role']=='indexed-segment'],key=lambda r:r['ac'])
 with ThreadPoolExecutor(max_workers=4) as pool:rows=list(pool.map(process,records))
 checks=[]
