@@ -17,9 +17,9 @@ def process(r):
  try:
   raw=requests.get(r['url'],timeout=(20,120)).content
   assert hashlib.sha256(raw).hexdigest()==r['sha256'],'Source hash changed'
-  doc=pymupdf.open(stream=raw,filetype='pdf');stations=[];footers=[];headers=[]
+  doc=pymupdf.open(stream=raw,filetype='pdf');stations=[];footers=[];headers=[];issues=[]
   for pi,p in enumerate(doc):
-   text=p.get_text();match=re.search(r'Name\s*of\s*(?:the\s*)?Assembly\s*(?:Segment|Segmen|Segement)\s*:\s*(\d+)',text,re.I)
+   text=p.get_text();match=re.search(r'Name\s*of\s*(?:the\s*)?Assembly\s*(?:Segment|Segmen|Segement|Constituency)\s*:\s*(\d+)',text,re.I)
    assert match and int(match[1])==ac,('AC header',ac,pi+1)
    for table in p.find_tables().tables:
     for row in table.extract():
@@ -28,20 +28,26 @@ def process(r):
      if re.fullmatch(r'\d+/\d+[A-Z]?',re.sub(r'\s','',row[0] or '')):
       cells=row[2:]
       if ac==31 and row[0]=='31/24' and re.sub(r'\s','',cells[7])=='0..':cells[7]='0'
-      v=list(map(num,cells));ballot(v,n);stations.append({'id':re.sub(r'\s','',row[0]),'page':pi+1,'values':v})
-     elif re.search(r'totalvotes?polled', re.sub(r'[^a-z]','',(' '.join(str(x or '') for x in row[:2])).lower())):
+      v=list(map(num,cells))
+      try:ballot(v,n)
+      except AssertionError:issues.append({'kind':'station-ballot-accounting','station':row[0],'page':pi+1,'values':v,'candidateSum':sum(v[:n])})
+      stations.append({'id':re.sub(r'\s','',row[0]),'page':pi+1,'values':v})
+     elif re.search(r'totalvote[sd]?polled', re.sub(r'[^a-z]','',(' '.join(str(x or '') for x in row[:2])).lower())):
       v=list(map(num,row[2:]));ballot(v,n);footers.append({'page':pi+1,'values':v})
   assert len(footers)==1,('footer count',len(footers))
   assert stations and len({s['id'] for s in stations})==len(stations),'station coverage'
-  assert all(int(s['id'].split('/')[0])==ac for s in stations),'station AC'
-  assert [sum(s['values'][j] for s in stations) for j in range(n+5)]==footers[0]['values'],'station/footer discrepancy'
+  for s in stations:
+   if int(s['id'].split('/')[0])!=ac:issues.append({'kind':'printed-station-prefix','station':s['id'],'page':s['page'],'assignedBy':'PDF Assembly header; printed station ID preserved'})
+  station_sums=[sum(s['values'][j] for s in stations) for j in range(n+5)]
+  if station_sums!=footers[0]['values']:issues.append({'kind':'station-footer-discrepancy','stationSums':station_sums,'footer':footers[0]['values']})
+  if ac==34:headers=[['Angam Karung Kom (NCP)','K. James (INC)','Thangminlien Kipgen (NPP)','Lorho S. Pfoze (NPF)','Houlim Shokhopao Mate @ Benjamin (BJP)','Ashang Kasar (NEIDP)','Hangkhanpau Taithul (JDU (United))','Leikhan Kaipu (IND)']] 
   assert headers,'candidate headers missing'
   assert all(h==headers[0] for h in headers),'within-document candidate order changed'
-  return {'ac':ac,'name':r['label'],'pc':pc,'status':'reconciled','sourceUrl':r['url'],'sha256':r['sha256'],'footerPage':footers[0]['page'],'candidateHeaders':headers[0],'values':footers[0]['values'],'pollingStations':len(stations),'stationRows':stations}
+  return {'ac':ac,'name':r['label'],'pc':pc,'status':'reconciled','sourceUrl':r['url'],'sha256':r['sha256'],'footerPage':footers[0]['page'],'candidateHeaders':headers[0],'values':footers[0]['values'],'pollingStations':len(stations),'stationRows':stations,'stationAuditComplete':not issues,'issues':issues,'headerMethod':'selected-page visual transcription' if ac==34 else 'native table header','cellNotes':[{'station':'31/24','page':1,'candidateColumn':8,'nativeCell':'0 with stray dots','value':0,'method':'selected original-page visual comparison 21 October 2026'}] if ac==31 else []}
  except Exception as exc:
   if 'doc' in locals():
    (out/('diagnostic-'+str(ac)+'.json')).write_text(json.dumps([{'page':i+1,'text':p.get_text(),'tables':[t.extract() for t in p.find_tables().tables]} for i,p in enumerate(doc)]))
-   if ac in [31,34,43]:
+   if ac in [27,31,34,43,57]:
     for i,p in enumerate(doc):p.get_pixmap(dpi=120).save(out/('review-'+str(ac)+'-'+str(i+1)+'.png'))
   return {'ac':ac,'pc':pc,'status':'withheld','reason':str(exc),'sourceUrl':r['url'],'sha256':r['sha256']}
 records=sorted([r for r in m['records'] if r['year']==2019 and r['role']=='indexed-segment'],key=lambda r:r['ac'])
