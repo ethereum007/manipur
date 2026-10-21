@@ -7,10 +7,16 @@ def number(v):
  return int(s) if re.fullmatch(r'\d+',s) else None
 def vector(row,cols):return [number(row[i]) for i in cols]
 
-def reconcile_documents(data):
+def reconcile_documents(data,reviews=None):
  out=[]
  for doc in data['documents']:
   ac=doc['ac']; source=next(s for s in data['sources'] if s.get('ac')==ac and s['role']=='indexed-form20'); problems=[];headers=[];footers={};stations=[];shape=[]
+  review=next((r for r in (reviews or {}).get('records',[]) if r['ac']==ac),None)
+  if review:
+   if source['sha256']!=review['sha256']:raise ValueError('Reviewed source hash changed for AC'+str(ac))
+   for h in review['headerRows']:
+    p=next((p for p in doc['pages'] if p['page']==h['page']),None)
+    if p is None or p['tables'][h['table']-1][h['row']-1][2:14]!=h['expected']:raise ValueError('Reviewed header changed for AC'+str(ac))
   for page in doc['pages']:
    for ti,table in enumerate(page['tables']):
     shape.append([page['page'],len(table),len(table[0]) if table else 0])
@@ -29,6 +35,9 @@ def reconcile_documents(data):
       footers[key]={**meta,'raw':row}
      elif row[1] and compact(row[1]) not in ['b/f','bf','c/f','cf'] and number(row[14]) is not None and any(number(row[i]) is not None for i in range(2,14)):
       stations.append({**meta,'printedId':row[0],'label':row[1],'raw':row})
+  rawHeaders=json.loads(json.dumps(headers))
+  if review:
+   headers=[{'page':h['page'],'table':h['table'],'row':h['row'],'columns':review['columns'],'labels':review['canonicalHeader']['labels']} for h in review['headerRows']]
   if not headers:problems.append({'type':'missing-candidate-header'});cols=[];labels=[]
   else:
    cols=headers[0]['columns'];labels=headers[0]['labels']
@@ -55,16 +64,16 @@ def reconcile_documents(data):
    for i,v in enumerate(vals):totals[i]+=v or 0
   if 'ordinary' in footers and totals!=footers['ordinary']['candidateVotes']:stationIssues.append({'type':'station-to-ordinary-column-mismatch','stationSum':totals,'ordinary':footers['ordinary']['candidateVotes']})
   problems+=stationIssues
-  out.append({'ac':ac,'label':source['label'],'sourceUrl':source['url'],'sha256':source['sha256'],'header':headers[0] if headers else None,'candidateHeaders':labels,'columns':cols,'footers':footers,'stationRows':len(stations),'stationProblems':stationIssues,'problems':problems,'tableShapes':shape,'status':'machine-reconciled' if not problems else 'withheld'})
+  out.append({'ac':ac,'label':source['label'],'sourceUrl':source['url'],'sha256':source['sha256'],'header':headers[0] if headers else None,'sourceHeaders':rawHeaders,'headerReview':review,'candidateHeaders':labels,'columns':cols,'footers':footers,'stationRows':len(stations),'stationProblems':stationIssues,'problems':problems,'tableShapes':shape,'status':'machine-reconciled' if not problems else 'withheld'})
  
  return sorted(out,key=lambda r:r['ac'])
 
 if __name__=='__main__':
- src=Path('data/processed/assembly-2007-pages.json');data=json.loads(src.read_text())
- report={'schemaVersion':1,'scope':'Native Form20 numerical reconciliation; source-derived historical research only. No independent winner check, geographic comparability or additional benchmark approved.','inputSha256':hashlib.sha256(src.read_bytes()).hexdigest(),'scriptSha256':hashlib.sha256(Path(__file__).read_bytes()).hexdigest(),'records':reconcile_documents(data)}
+ src=Path('data/processed/assembly-2007-pages.json');data=json.loads(src.read_text());reviewPath=Path('data/research/assembly-2007-header-reviews.json');reviews=json.loads(reviewPath.read_text())
+ report={'schemaVersion':1,'scope':'Native Form20 numerical reconciliation; source-derived historical research only. No independent winner check, geographic comparability or additional benchmark approved.','inputSha256':hashlib.sha256(src.read_bytes()).hexdigest(),'scriptSha256':hashlib.sha256(Path(__file__).read_bytes()).hexdigest(),'headerReviewSha256':hashlib.sha256(reviewPath.read_bytes()).hexdigest(),'records':reconcile_documents(data,reviews)}
  if '--check' in sys.argv:
   saved=json.loads(Path('data/research/assembly-2007-reconciliation.json').read_text())
-  for key in ['inputSha256','scriptSha256','records']:
+  for key in ['inputSha256','scriptSha256','headerReviewSha256','records']:
    if report[key]!=saved[key]:raise SystemExit('2007 reconciliation drift: '+key)
   print('2007 native reconciliation golden verified: '+str(sum(r['status']=='machine-reconciled' for r in report['records']))+'/60')
  else:

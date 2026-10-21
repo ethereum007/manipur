@@ -1,0 +1,431 @@
+{
+  "schemaVersion": 1,
+  "reviewedAt": "2026-10-21",
+  "scope": "Selected original-header review and position maps only. No vote-cell changes, candidate identity joins, new party aliases, independent winner verification or model approval.",
+  "cloudRun": "https://github.com/ethereum007/manipur/actions/runs/39521723029",
+  "records": [
+    {
+      "id": "2007-ac7-header-map-v1",
+      "ac": 7,
+      "sha256": "49848e234bdc1649724c219c523f97911beae9683d0a6e1e07f72dfe821af4d5",
+      "sourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/07.pdf",
+      "columns": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "canonicalHeader": {
+        "page": 2,
+        "table": 1,
+        "row": 2,
+        "labels": [
+          "No ofvalidvotescastinfavourof\n.",
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "headerRows": [
+        {
+          "page": 1,
+          "table": 1,
+          "row": 2,
+          "expected": [
+            "Dr . ChngakhamAngou(CPI)",
+            "ThounaojamShyamkumar(MPP)",
+            "SalamChandra(INC)",
+            ". Md SyedAhmad(NCP)",
+            "Keisham Ningthemjao Singh(RJD",
+            "PhanjoubamChandra(SP)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "page": 2,
+          "table": 1,
+          "row": 2,
+          "expected": [
+            "No ofvalidvotescastinfavourof\n.",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "reviewedPages": [
+        1,
+        2
+      ],
+      "reason": "Candidate sequence and column positions visually compared across the original pages; clipped header extraction resolved by the complete counterpart within this same document. All raw labels retained."
+    },
+    {
+      "id": "2007-ac9-header-map-v1",
+      "ac": 9,
+      "sha256": "4a3304621cd71af52731d4790d8250383d9221a661b15c19e4971f6f2570a51d",
+      "sourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/09.pdf",
+      "columns": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "canonicalHeader": {
+        "page": 2,
+        "table": 1,
+        "row": 2,
+        "labels": [
+          "No ofvalidvotescastinfavourof\n.",
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "headerRows": [
+        {
+          "page": 1,
+          "table": 1,
+          "row": 2,
+          "expected": [
+            "Dr . Chandramani Chingtham Singh(MPP",
+            "Waikhom Jyotin (INC)",
+            "MeinamBhorotSingh(BJP)",
+            "RadhabinodKoijam(NCP)",
+            "SalamNabachandraSingh(RJD)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "page": 2,
+          "table": 1,
+          "row": 2,
+          "expected": [
+            "No ofvalidvotescastinfavourof\n.",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "reviewedPages": [
+        1,
+        2
+      ],
+      "reason": "Candidate sequence and column positions visually compared across the original pages; clipped header extraction resolved by the complete counterpart within this same document. All raw labels retained."
+    },
+    {
+      "id": "2007-ac10-header-map-v1",
+      "ac": 10,
+      "sha256": "bc546285ed686a8db8df5e21be6c56323abcd2b6f04aceef28f4c8b80d3aa562",
+      "sourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/10.pdf",
+      "columns": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "canonicalHeader": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "labels": [
+          "P . AchouSingh(MPP)",
+          "N . TombiRaj(CPI)",
+          "Radhakanta Ningthoukhongjam Singh(NCP",
+          "Laimayum Sharma(BJP) Raghumani",
+          "LaishramNandakumarSingh(INC)",
+          "Dr . Nando (RJD)",
+          "NameirakpamNodiyachand(SAP)"
+        ]
+      },
+      "headerRows": [
+        {
+          "page": 1,
+          "table": 1,
+          "row": 2,
+          "expected": [
+            "P . AchouSingh(MPP)",
+            "N . TombiRaj(CPI)",
+            "Radhakanta Ningthoukhongjam Singh(NCP",
+            "Laimayum Sharma(BJP) Raghumani",
+            "LaishramNandakumarSingh(INC)",
+            "Dr . Nando (RJD)",
+            "NameirakpamNodiyachand(SAP)",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "reviewedPages": [
+        1
+      ],
+      "reason": "Seven printed candidate columns visually identified, including the clipped NCP-labelled third candidate slot. Preserve its literal truncated label; do not invent missing characters."
+    },
+    {
+      "id": "2007-ac34-header-map-v1",
+      "ac": 34,
+      "sha256": "73740e55c46a4f53017bcd4b97559f14908413d5535d9c6f4aed81e0c572d717",
+      "sourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/34.pdf",
+      "columns": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "canonicalHeader": {
+        "page": 2,
+        "table": 1,
+        "row": 2,
+        "labels": [
+          "MoirangthemNara(CPI)",
+          "MoirangthemHemantaSingh(INC)",
+          "L . KrishnaSingh(MPP)",
+          "SagolsemIbochoubiSingh(RJD)"
+        ]
+      },
+      "headerRows": [
+        {
+          "page": 1,
+          "table": 1,
+          "row": 2,
+          "expected": [
+            "MoirangthemNara(CPI)",
+            "MoirangthemHemantaSingh(IN",
+            "L . KrishnaSingh(MPP)",
+            "SagolsemIbochoubiSingh(RJD)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "page": 2,
+          "table": 1,
+          "row": 2,
+          "expected": [
+            "MoirangthemNara(CPI)",
+            "MoirangthemHemantaSingh(INC)",
+            "L . KrishnaSingh(MPP)",
+            "SagolsemIbochoubiSingh(RJD)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "reviewedPages": [
+        1,
+        2
+      ],
+      "reason": "Candidate sequence and column positions visually compared across the original pages; clipped header extraction resolved by the complete counterpart within this same document. All raw labels retained."
+    },
+    {
+      "id": "2007-ac51-header-map-v1",
+      "ac": 51,
+      "sha256": "d4a08d7c26cc52d531e6033d7dc1c410b95284ee2b56a0dbccf286429bde2ec9",
+      "sourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/51.pdf",
+      "columns": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "canonicalHeader": {
+        "page": 2,
+        "table": 1,
+        "row": 2,
+        "labels": [
+          "No ofvalidvotescastinfavourof\n.",
+          null,
+          null,
+          null
+        ]
+      },
+      "headerRows": [
+        {
+          "page": 1,
+          "table": 1,
+          "row": 2,
+          "expected": [
+            "Mangshi(RoseMangshiHaokip)(",
+            "NgamthangHaokip(INC)",
+            ". . Semkholal@LS Haokip(RJD)",
+            "HaokholetKipgen(IND)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "page": 2,
+          "table": 1,
+          "row": 2,
+          "expected": [
+            "No ofvalidvotescastinfavourof\n.",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "reviewedPages": [
+        1,
+        2
+      ],
+      "reason": "Candidate sequence and column positions visually compared across the original pages; clipped header extraction resolved by the complete counterpart within this same document. All raw labels retained."
+    },
+    {
+      "id": "2007-ac52-header-map-v1",
+      "ac": 52,
+      "sha256": "2a0dddf0e3ffe061158b41a7846d158f838c24343577199b5859728920fc6317",
+      "sourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/52.pdf",
+      "columns": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "canonicalHeader": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "labels": [
+          "Z . Mangaibou(INC)",
+          "HelkhomangSingson(SAP)",
+          "AthuanAbonmai (IND)",
+          "AwangbowNewmei(IND)",
+          "Haimasuang(IND)",
+          "LungsuPanmei(IND)"
+        ]
+      },
+      "headerRows": [
+        {
+          "page": 1,
+          "table": 1,
+          "row": 2,
+          "expected": [
+            "Z . Mangaibou(INC)",
+            "HelkhomangSingson(SAP)",
+            "AthuanAbonmai (IND)",
+            "AwangbowNewmei(IND)",
+            "Haimasuang(IND)",
+            "LungsuPanmei(IND)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "page": 2,
+          "table": 1,
+          "row": 2,
+          "expected": [
+            "Z . Mangaibou(INC)",
+            "HelkhomangSingson(SAP",
+            "AthuanAbonmai (IND)",
+            "AwangbowNewmei(IND)",
+            "Haimasuang(IND)",
+            "LungsuPanmei(IND)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "reviewedPages": [
+        1,
+        2
+      ],
+      "reason": "Candidate sequence and column positions visually compared across the original pages; clipped header extraction resolved by the complete counterpart within this same document. All raw labels retained."
+    }
+  ],
+  "withheldSourceHeaderReviews": [
+    {
+      "ac": 11,
+      "pages": [
+        1
+      ],
+      "sha256": "4d8394625d822f16a1f5769ed181737968c12706a501e7eae005d93f397dcdcb",
+      "finding": "Original prints L. Gyaneshwar (IND) at the fourth populated vote slot and Laishram Gyaneshwar (IND) over the otherwise blank final candidate column. Do not infer these labels are the same person or delete the extra printed label."
+    },
+    {
+      "ac": 42,
+      "pages": [
+        1,
+        2
+      ],
+      "sha256": "2e873a3184c4158145db461e124a25119e89b85efa8704f64dc6c6515af14fd4",
+      "finding": "Original continuation page repeats W. Morung Makunga (IND) above a second, otherwise blank candidate column. First page has six candidate labels. The duplicate printed label remains unresolved and the record stays withheld."
+    }
+  ]
+}
