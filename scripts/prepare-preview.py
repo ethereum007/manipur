@@ -80,3 +80,7 @@ for filename in ['representation-snapshot.json','policy-evidence.json','public-e
 
 # Original elected-member register is distinct from vote-table normalization.
 (p/'data/assembly-2007-original-register.json').write_text((root/'data/research/assembly-2007-original-register.json').read_text(),encoding='utf-8')
+
+# Same-event comparisons never replace vote-table or identity evidence.
+for filename in ['assembly-2007-register-crossmatch.json','assembly-2007-crossmatch-protocol.json']:
+ (p/'data'/filename).write_text((root/'data/research'/filename).read_text(),encoding='utf-8')
