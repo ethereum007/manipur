@@ -282,12 +282,12 @@
       "canonicalHeader": {
         "page": 2,
         "table": 1,
-        "row": 2,
+        "row": 3,
         "labels": [
-          "No ofvalidvotescastinfavourof\n.",
-          null,
-          null,
-          null
+          "Mangshi(RoseMangshiHaokip)(BJP)",
+          "NgamthangHaokip(INC)",
+          ". . Semkholal@LS Haokip(RJD)",
+          "HaokholetKipgen(IND)"
         ]
       },
       "headerRows": [
@@ -313,20 +313,20 @@
         {
           "page": 2,
           "table": 1,
-          "row": 2,
+          "row": 3,
           "expected": [
-            "No ofvalidvotescastinfavourof\n.",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "Mangshi(RoseMangshiHaokip)(BJP)",
+            "NgamthangHaokip(INC)",
+            ". . Semkholal@LS Haokip(RJD)",
+            "HaokholetKipgen(IND)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
           ]
         }
       ],
