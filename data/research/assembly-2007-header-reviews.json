@@ -427,5 +427,14 @@
       "sha256": "2e873a3184c4158145db461e124a25119e89b85efa8704f64dc6c6515af14fd4",
       "finding": "Original continuation page repeats W. Morung Makunga (IND) above a second, otherwise blank candidate column. First page has six candidate labels. The duplicate printed label remains unresolved and the record stays withheld."
     }
-  ]
+  ],
+  "remainingBlankCellReview": {
+    "ac": 9,
+    "page": 2,
+    "sourceSha256": "4a3304621cd71af52731d4790d8250383d9221a661b15c19e4971f6f2570a51d",
+    "footer": "postal",
+    "candidateColumn": 6,
+    "observedValue": null,
+    "finding": "Postal candidate cell under Salam Nabachandra Singh (RJD) is blank in the selected original page. No zero imputed; record remains withheld despite the reviewed header map."
+  }
 }

@@ -52,7 +52,7 @@ def reconcile_documents(data,reviews=None):
    if key not in footers:problems.append({'type':'missing-footer','kind':key});continue
    f=footers[key];row=f.pop('raw');f.update({'candidateVotes':vector(row,cols),'printedValid':number(row[14]),'printedRejected':number(row[15]),'printedTotal':number(row[16]),'printedTendered':number(row[17]),'rawCells':row})
    vals=f['candidateVotes']
-   if not cols or None in vals or f['printedValid'] is None or sum(vals)!=f['printedValid']:problems.append({'type':'footer-candidate-accounting','kind':key,'candidateSum':sum(v for v in vals if v is not None),'printedValid':f['printedValid']})
+   if not cols or None in vals or f['printedValid'] is None or sum(vals)!=f['printedValid']:problems.append({'type':'footer-candidate-accounting','kind':key,'candidateSum':sum(v for v in vals if v is not None),'printedValid':f['printedValid'],'missingCandidateColumns':[cols[i] for i,v in enumerate(vals) if v is None]})
    if f['printedTotal'] is None or f['printedValid'] is None or (f['printedRejected'] is not None and f['printedValid']+f['printedRejected']!=f['printedTotal']):problems.append({'type':'footer-ballot-accounting','kind':key})
    if f['printedRejected'] is None and f['printedValid']!=f['printedTotal']:problems.append({'type':'blank-rejected-with-difference','kind':key})
    if any(row[i] not in [None,''] for i in range(2,14) if i not in cols):problems.append({'type':'unexpected-unused-column','kind':key})

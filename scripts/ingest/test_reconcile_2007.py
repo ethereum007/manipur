@@ -20,8 +20,8 @@ class AuditTests(unittest.TestCase):
 class ReviewedHeaderTests(unittest.TestCase):
  def setUp(self):
   self.data=json.loads(Path('data/processed/assembly-2007-pages.json').read_text());self.reviews=json.loads(Path('data/research/assembly-2007-header-reviews.json').read_text())
- def test_only_six_reviewed_sources_recover(self):
-  results=m.reconcile_documents(self.data,self.reviews);self.assertEqual(sum(r['status']=='machine-reconciled' for r in results),55);self.assertEqual([r['ac'] for r in results if r['status']=='withheld'],[11,20,42,57,59]);self.assertEqual([r['ac'] for r in results if r['headerReview']],[7,9,10,34,51,52])
+ def test_five_numerical_recoveries_from_six_header_maps(self):
+  results=m.reconcile_documents(self.data,self.reviews);self.assertEqual(sum(r['status']=='machine-reconciled' for r in results),54);self.assertEqual([r['ac'] for r in results if r['status']=='withheld'],[9,11,20,42,57,59]);self.assertEqual([r['ac'] for r in results if r['headerReview']],[7,9,10,34,51,52])
  def test_changed_source_hash_rejected(self):
   next(s for s in self.data['sources'] if s.get('ac')==7 and s['role']=='indexed-form20')['sha256']='0'*64
   with self.assertRaises(ValueError):m.reconcile_documents(self.data,self.reviews)
@@ -38,4 +38,6 @@ class ReviewedHeaderTests(unittest.TestCase):
   doc=next(d for d in self.data['documents'] if d['ac']==7);doc['pages'][1]['tables'][0][-1][2]='999999';r=next(r for r in m.reconcile_documents(self.data,self.reviews) if r['ac']==7);self.assertEqual(r['status'],'withheld');self.assertTrue(any(p['type']=='footer-candidate-accounting' for p in r['problems']))
  def test_clipped_literal_not_completed_by_guess(self):
   r=next(r for r in m.reconcile_documents(self.data,self.reviews) if r['ac']==10);self.assertEqual(r['candidateHeaders'][2],'Radhakanta Ningthoukhongjam Singh(NCP');self.assertEqual(r['footers']['final']['candidateVotes'][2],255)
+ def test_actual_blank_postal_cell_stays_missing(self):
+  r=next(r for r in m.reconcile_documents(self.data,self.reviews) if r['ac']==9);self.assertEqual(r['status'],'withheld');self.assertIsNone(r['footers']['postal']['candidateVotes'][-1]);self.assertEqual(r['footers']['postal']['rawCells'][6],'')
 if __name__=='__main__':unittest.main()
