@@ -1,0 +1,2069 @@
+{
+  "schemaVersion": 1,
+  "protocolId": "assembly-2007-register-crossmatch-v1",
+  "reviewedAt": "2026-10-21",
+  "scope": "Same-election text and party-code comparison only; no identity adjudication, additional benchmark or prediction",
+  "inputHashes": {
+    "reconciliation": "e7bcaedead69793f5328ecf51576a56bd6ceedd8604dbe23f56050d6659eb718",
+    "register": "1fd272a2bcb4c4e4c818aedeed5c14d2b7c38383103ccf34165e9a17db212241",
+    "protocol": "1b31d6e3feb1c323e29f4a8451583e503d7d1a2645034bb3c81285bf32daeeb4",
+    "implementation": "2a50e1e8acb700dadb3415fbdc42055ec02b73c3bc57786fa17a9a9bce54d9c2"
+  },
+  "summary": {
+    "total": 60,
+    "compared": 54,
+    "notCompared": 6,
+    "literalEqual": 3,
+    "formattingEqual": 38,
+    "nameDifferences": 13,
+    "partyCodesEqual": 54,
+    "partyCodeDifferences": 0
+  },
+  "gates": {
+    "identityAliasesApproved": false,
+    "additionalBenchmarkApproved": false,
+    "prospectiveForecastValidated": false
+  },
+  "records": [
+    {
+      "ac": 1,
+      "constituency": "Khundrakpam",
+      "registerName": "Th. Navakumar Singh",
+      "registerParty": "NCP",
+      "registerLocator": {
+        "page": 13,
+        "entry": 1
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/01.pdf",
+      "form20SourceSha256": "04f506a61bf79a658216cceedd21d503aa3a9f1d773f190e4b7d45bba047cbba",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "name-difference",
+      "partyStatus": "code-equal",
+      "leadingHeader": "ThokchomNavakumarSingh(NCP)",
+      "sourceName": "ThokchomNavakumarSingh",
+      "sourceParty": "NCP",
+      "leadingVotes": 3305,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 4
+      },
+      "voteLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 33,
+        "column": 4
+      },
+      "reason": null
+    },
+    {
+      "ac": 2,
+      "constituency": "Heingang",
+      "registerName": "Nongthombam Biren",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 13,
+        "entry": 2
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/02.pdf",
+      "form20SourceSha256": "5bae59bec13e59ba938da9f023418913ec1bca94dff5fb36d9b0dd4cbe0e087d",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "NongthombamBiren(INC)",
+      "sourceName": "NongthombamBiren",
+      "sourceParty": "INC",
+      "leadingVotes": 10697,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 2
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 8,
+        "column": 2
+      },
+      "reason": null
+    },
+    {
+      "ac": 3,
+      "constituency": "Khurai",
+      "registerName": "Dr. Ng. Bijoy Singh",
+      "registerParty": "MPP",
+      "registerLocator": {
+        "page": 13,
+        "entry": 3
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/03.pdf",
+      "form20SourceSha256": "56164231ce34c4358b26cf228a70406fde7e30085c41478cd2da848d5b26825f",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "name-difference",
+      "partyStatus": "code-equal",
+      "leadingHeader": ". DrNgairangbamBijoySingh(MPP)",
+      "sourceName": ". DrNgairangbamBijoySingh",
+      "sourceParty": "MPP",
+      "leadingVotes": 13326,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 4
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 8,
+        "column": 4
+      },
+      "reason": null
+    },
+    {
+      "ac": 4,
+      "constituency": "Kshetrigao",
+      "registerName": "Thangjam Nandakishor Singh",
+      "registerParty": "NCP",
+      "registerLocator": {
+        "page": 13,
+        "entry": 4
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/04.pdf",
+      "form20SourceSha256": "f285b8ab484419f14a9b214a8fc4ac9c9f9517e2ee2f607b37b67663b5271f9f",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "name-difference",
+      "partyStatus": "code-equal",
+      "leadingHeader": "ThangjamNandakishworSingh(NCP)",
+      "sourceName": "ThangjamNandakishworSingh",
+      "sourceParty": "NCP",
+      "leadingVotes": 7467,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 4
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 11,
+        "column": 4
+      },
+      "reason": null
+    },
+    {
+      "ac": 5,
+      "constituency": "Thongju",
+      "registerName": "Bijoy Koijam",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 13,
+        "entry": 5
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/05.pdf",
+      "form20SourceSha256": "b1ea2d698fbfbd7c633cdd25505b77bd7dae60c8df1b749fcd985549a3909cb9",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "BijoyKoijam(INC)",
+      "sourceName": "BijoyKoijam",
+      "sourceParty": "INC",
+      "leadingVotes": 11941,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 2
+      },
+      "voteLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 32,
+        "column": 2
+      },
+      "reason": null
+    },
+    {
+      "ac": 6,
+      "constituency": "Keirao",
+      "registerName": "Md. Allauddin Khan",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 13,
+        "entry": 6
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/06.pdf",
+      "form20SourceSha256": "a25a9259bac2969ef9426ce3bb13b0496692907114213bcfab91848248f1c810",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "name-difference",
+      "partyStatus": "code-equal",
+      "leadingHeader": ". Md AlauddinKhan(INC)",
+      "sourceName": ". Md AlauddinKhan",
+      "sourceParty": "INC",
+      "leadingVotes": 7648,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 2
+      },
+      "voteLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 32,
+        "column": 2
+      },
+      "reason": null
+    },
+    {
+      "ac": 7,
+      "constituency": "Andro",
+      "registerName": "Thounaojam Shyamkumar",
+      "registerParty": "MPP",
+      "registerLocator": {
+        "page": 13,
+        "entry": 7
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/07.pdf",
+      "form20SourceSha256": "49848e234bdc1649724c219c523f97911beae9683d0a6e1e07f72dfe821af4d5",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "ThounaojamShyamkumar(MPP)",
+      "sourceName": "ThounaojamShyamkumar",
+      "sourceParty": "MPP",
+      "leadingVotes": 18388,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 3
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 11,
+        "column": 3
+      },
+      "reason": null
+    },
+    {
+      "ac": 8,
+      "constituency": "Lamlai",
+      "registerName": "Pheiroijam Parijat",
+      "registerParty": "CPI",
+      "registerLocator": {
+        "page": 13,
+        "entry": 8
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/08.pdf",
+      "form20SourceSha256": "a7b58e065c3b109ff5557829ee38ae7ce42bbec60b41469c212e78ff765f5cb7",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "name-difference",
+      "partyStatus": "code-equal",
+      "leadingHeader": "PheiroijamParijatSingh(CPI)",
+      "sourceName": "PheiroijamParijatSingh",
+      "sourceParty": "CPI",
+      "leadingVotes": 7696,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 3
+      },
+      "voteLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 31,
+        "column": 3
+      },
+      "reason": null
+    },
+    {
+      "ac": 9,
+      "constituency": "Thangmeiband",
+      "registerName": "Radhabinod Koijam",
+      "registerParty": "NCP",
+      "registerLocator": {
+        "page": 13,
+        "entry": 9
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/09.pdf",
+      "form20SourceSha256": "4a3304621cd71af52731d4790d8250383d9221a661b15c19e4971f6f2570a51d",
+      "numericalStatus": "withheld",
+      "comparisonStatus": "not-compared",
+      "nameStatus": "not-compared",
+      "partyStatus": "not-compared",
+      "leadingHeader": null,
+      "sourceName": null,
+      "sourceParty": null,
+      "leadingVotes": null,
+      "headerLocator": null,
+      "voteLocator": null,
+      "reason": "Original table withheld; no leading-candidate attribution attempted."
+    },
+    {
+      "ac": 10,
+      "constituency": "Uripok",
+      "registerName": "Laishram Nandakumar Singh",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 13,
+        "entry": 10
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/10.pdf",
+      "form20SourceSha256": "bc546285ed686a8db8df5e21be6c56323abcd2b6f04aceef28f4c8b80d3aa562",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "LaishramNandakumarSingh(INC)",
+      "sourceName": "LaishramNandakumarSingh",
+      "sourceParty": "INC",
+      "leadingVotes": 7066,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 6
+      },
+      "voteLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 28,
+        "column": 6
+      },
+      "reason": null
+    },
+    {
+      "ac": 11,
+      "constituency": "Sagolband",
+      "registerName": "Dr. Khwairakpam Loken Singh",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 13,
+        "entry": 11
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/11.pdf",
+      "form20SourceSha256": "4d8394625d822f16a1f5769ed181737968c12706a501e7eae005d93f397dcdcb",
+      "numericalStatus": "withheld",
+      "comparisonStatus": "not-compared",
+      "nameStatus": "not-compared",
+      "partyStatus": "not-compared",
+      "leadingHeader": null,
+      "sourceName": null,
+      "sourceParty": null,
+      "leadingVotes": null,
+      "headerLocator": null,
+      "voteLocator": null,
+      "reason": "Original table withheld; no leading-candidate attribution attempted."
+    },
+    {
+      "ac": 12,
+      "constituency": "Keisamthong",
+      "registerName": "Langpoklakpam Jayantakumar Singh",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 13,
+        "entry": 12
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/12.pdf",
+      "form20SourceSha256": "2656d8c7a312e7f2654a950cb8cec387a114de2dc14aabd40931515239c90067",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "name-difference",
+      "partyStatus": "code-equal",
+      "leadingHeader": "LangpoklakpamJayentakumarSingh(INC)",
+      "sourceName": "LangpoklakpamJayentakumarSingh",
+      "sourceParty": "INC",
+      "leadingVotes": 11266,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 4
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 10,
+        "column": 4
+      },
+      "reason": null
+    },
+    {
+      "ac": 13,
+      "constituency": "Singjamei",
+      "registerName": "Irengbam Hemochandra Singh",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 13,
+        "entry": 13
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/13.pdf",
+      "form20SourceSha256": "7c47d7e0020101dae4364fad08506e91b0691840a3b1ab9812124679b209a4f3",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "IrengbamHemochandraSingh(INC)",
+      "sourceName": "IrengbamHemochandraSingh",
+      "sourceParty": "INC",
+      "leadingVotes": 7791,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 2
+      },
+      "voteLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 28,
+        "column": 2
+      },
+      "reason": null
+    },
+    {
+      "ac": 14,
+      "constituency": "Yaiskul",
+      "registerName": "Elangbam Kunjeswar Singh",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 13,
+        "entry": 14
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/14.pdf",
+      "form20SourceSha256": "9dc3e0eca7f6ae96c56e0a796d2027c7dcf97a233cb2dbe454509a9b5f1cded9",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "name-difference",
+      "partyStatus": "code-equal",
+      "leadingHeader": "ShrinElangbamKunjeshwor(INC)",
+      "sourceName": "ShrinElangbamKunjeshwor",
+      "sourceParty": "INC",
+      "leadingVotes": 11567,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 2
+      },
+      "voteLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 30,
+        "column": 2
+      },
+      "reason": null
+    },
+    {
+      "ac": 15,
+      "constituency": "Wangkhei",
+      "registerName": "Yumkham Erabot Singh",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 13,
+        "entry": 15
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/15.pdf",
+      "form20SourceSha256": "7e7fb4d4174550e5ee09e4355a4080d4c7fa8e7eb135f6789840b0c3c5beb21e",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "Yumkham Erabot (INC) Singh",
+      "sourceName": "Yumkham Erabot  Singh",
+      "sourceParty": "INC",
+      "leadingVotes": 7917,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 5
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 13,
+        "column": 5
+      },
+      "reason": null
+    },
+    {
+      "ac": 16,
+      "constituency": "Sekmai",
+      "registerName": "Dr. Heikham Borajao",
+      "registerParty": "CPI",
+      "registerLocator": {
+        "page": 13,
+        "entry": 16
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/16.pdf",
+      "form20SourceSha256": "0e1eb154331f42c481f876780602fdcdbc2df82ea5d9fe8e80ad9350f88760d4",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "Dr . HeikhamBorajao(CPI)",
+      "sourceName": "Dr . HeikhamBorajao",
+      "sourceParty": "CPI",
+      "leadingVotes": 7072,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 4
+      },
+      "voteLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 32,
+        "column": 4
+      },
+      "reason": null
+    },
+    {
+      "ac": 17,
+      "constituency": "Lamsang",
+      "registerName": "Wangkheimayum Brajabidhu",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 13,
+        "entry": 17
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/17.pdf",
+      "form20SourceSha256": "a95f846f28aa34b8d8ca063fb00f76b51b520cba42e3f02879eded9e1091ad45",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "WangkheimayumBrajabidhu(INC)",
+      "sourceName": "WangkheimayumBrajabidhu",
+      "sourceParty": "INC",
+      "leadingVotes": 13468,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 2
+      },
+      "voteLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 35,
+        "column": 2
+      },
+      "reason": null
+    },
+    {
+      "ac": 18,
+      "constituency": "Konthoujam",
+      "registerName": "Dr. Sapam Budhichandra Singh",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 13,
+        "entry": 18
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/18.pdf",
+      "form20SourceSha256": "e99981926e86ae0aba142ae05adaeb963a7d0a468078659fac7e49dd64090135",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "Dr . SapamBudhichandraSingh(INC)",
+      "sourceName": "Dr . SapamBudhichandraSingh",
+      "sourceParty": "INC",
+      "leadingVotes": 5475,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 4
+      },
+      "voteLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 33,
+        "column": 4
+      },
+      "reason": null
+    },
+    {
+      "ac": 19,
+      "constituency": "Patsoi",
+      "registerName": "Sapam Kunjakeswor (Keba) Singh",
+      "registerParty": "IND",
+      "registerLocator": {
+        "page": 13,
+        "entry": 19
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/19.pdf",
+      "form20SourceSha256": "ce83d6ea556f95c7853093a15efd2ce13c2a30665ccb51748c339b05cea0cbd8",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "name-difference",
+      "partyStatus": "code-equal",
+      "leadingHeader": "Sapam (Keba)(IND) Kunjakeswor Singh",
+      "sourceName": "Sapam (Keba) Kunjakeswor Singh",
+      "sourceParty": "IND",
+      "leadingVotes": 8936,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 8
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 12,
+        "column": 8
+      },
+      "reason": null
+    },
+    {
+      "ac": 20,
+      "constituency": "Langthabal",
+      "registerName": "Okram Joy Singh",
+      "registerParty": "MPP",
+      "registerLocator": {
+        "page": 13,
+        "entry": 20
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/20.pdf",
+      "form20SourceSha256": "d0912383ba76d338089ecad3754c6e66dc51a6c7fd4ddd9f5e855b948e3fb42a",
+      "numericalStatus": "withheld",
+      "comparisonStatus": "not-compared",
+      "nameStatus": "not-compared",
+      "partyStatus": "not-compared",
+      "leadingHeader": null,
+      "sourceName": null,
+      "sourceParty": null,
+      "leadingVotes": null,
+      "headerLocator": null,
+      "voteLocator": null,
+      "reason": "Original table withheld; no leading-candidate attribution attempted."
+    },
+    {
+      "ac": 21,
+      "constituency": "Naoria Pakhanglakpa",
+      "registerName": "R.K. Anand",
+      "registerParty": "MPP",
+      "registerLocator": {
+        "page": 13,
+        "entry": 21
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/21.pdf",
+      "form20SourceSha256": "8148769e62a86a4d32e8a4684e7e9e9e7aaedd97d4433ce3120e8c02e110e29e",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": ". RK . Anand(MPP)",
+      "sourceName": ". RK . Anand",
+      "sourceParty": "MPP",
+      "leadingVotes": 10598,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 2
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 12,
+        "column": 2
+      },
+      "reason": null
+    },
+    {
+      "ac": 22,
+      "constituency": "Wangoi",
+      "registerName": "Salam Joy Singh",
+      "registerParty": "NCP",
+      "registerLocator": {
+        "page": 13,
+        "entry": 22
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/22.pdf",
+      "form20SourceSha256": "d97725cd2ad3791ac90d87dd758c6db44abc861cc5c9a51eba761659fade3cca",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "literal-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "Salam Joy Singh(NCP)",
+      "sourceName": "Salam Joy Singh",
+      "sourceParty": "NCP",
+      "leadingVotes": 7171,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 5
+      },
+      "voteLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 30,
+        "column": 5
+      },
+      "reason": null
+    },
+    {
+      "ac": 23,
+      "constituency": "Mayang Imphal",
+      "registerName": "Dr. Khumujam Ratan Kumar Singh",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 13,
+        "entry": 23
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/23.pdf",
+      "form20SourceSha256": "31e5692d6278a79b8e4c765b92c3c940d6e1ae2f945925f5a67eeda6259f2cc6",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "name-difference",
+      "partyStatus": "code-equal",
+      "leadingHeader": "Dr . Kh . Ratankumar Singh(INC)",
+      "sourceName": "Dr . Kh . Ratankumar Singh",
+      "sourceParty": "INC",
+      "leadingVotes": 8265,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 4
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 12,
+        "column": 4
+      },
+      "reason": null
+    },
+    {
+      "ac": 24,
+      "constituency": "Nambol",
+      "registerName": "Nameirakpam Loken Singh",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 13,
+        "entry": 24
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/24.pdf",
+      "form20SourceSha256": "eb9258b06c46b7627b599342417ab076a59f3c246399f31f657d76cd873a9152",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "NameirakpamLokenSingh(INC)",
+      "sourceName": "NameirakpamLokenSingh",
+      "sourceParty": "INC",
+      "leadingVotes": 13147,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 3
+      },
+      "voteLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 33,
+        "column": 3
+      },
+      "reason": null
+    },
+    {
+      "ac": 25,
+      "constituency": "Oinam",
+      "registerName": "Irengbam Ibohalbi",
+      "registerParty": "MPP",
+      "registerLocator": {
+        "page": 13,
+        "entry": 25
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/25.pdf",
+      "form20SourceSha256": "28ee04f93fe0648c78c1b9e8ecaf81972bdadf0564f55b2e836d9c8008df1829",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "name-difference",
+      "partyStatus": "code-equal",
+      "leadingHeader": "Ibohalbi (MPP) Irengbam",
+      "sourceName": "Ibohalbi  Irengbam",
+      "sourceParty": "MPP",
+      "leadingVotes": 7443,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 2
+      },
+      "voteLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 30,
+        "column": 2
+      },
+      "reason": null
+    },
+    {
+      "ac": 26,
+      "constituency": "Bishnupur",
+      "registerName": "Konthoujam Govindas",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 13,
+        "entry": 26
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/26.pdf",
+      "form20SourceSha256": "10cdc3ad5a00d7b167993a1c6a39fefbb34a4c7a6dc681178aba1ae8cefc8dc0",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "KonthoujamGovindas(INC)",
+      "sourceName": "KonthoujamGovindas",
+      "sourceParty": "INC",
+      "leadingVotes": 12077,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 2
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 13,
+        "column": 2
+      },
+      "reason": null
+    },
+    {
+      "ac": 27,
+      "constituency": "Moirang",
+      "registerName": "M. Manindra Singh",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 13,
+        "entry": 27
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/27.pdf",
+      "form20SourceSha256": "2120ea143ca1c8ad688725383ccba4c2408f2ac86d95c19cd28cb2f5cb31b409",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "M . ManindraSingh(INC)",
+      "sourceName": "M . ManindraSingh",
+      "sourceParty": "INC",
+      "leadingVotes": 9340,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 3
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 16,
+        "column": 3
+      },
+      "reason": null
+    },
+    {
+      "ac": 28,
+      "constituency": "Thanga",
+      "registerName": "Tongbram Mangibabu Singh",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 13,
+        "entry": 28
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/28.pdf",
+      "form20SourceSha256": "80d8f2c648c8acfc4d393c8adb9183a4991683ff515f4e8ed0e57dda305fe045",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "TongbramMangibabuSingh(INC)",
+      "sourceName": "TongbramMangibabuSingh",
+      "sourceParty": "INC",
+      "leadingVotes": 6412,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 2
+      },
+      "voteLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 28,
+        "column": 2
+      },
+      "reason": null
+    },
+    {
+      "ac": 29,
+      "constituency": "Kumbi",
+      "registerName": "Ningthoujam Mangi",
+      "registerParty": "CPI",
+      "registerLocator": {
+        "page": 13,
+        "entry": 29
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/29.pdf",
+      "form20SourceSha256": "9d67e2c2192f85a4caaa45b325258fd864af8cd4606a8c3796c21f321372e7a7",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "NingthoujamMangi(CPI)",
+      "sourceName": "NingthoujamMangi",
+      "sourceParty": "CPI",
+      "leadingVotes": 7368,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 4
+      },
+      "voteLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 32,
+        "column": 4
+      },
+      "reason": null
+    },
+    {
+      "ac": 30,
+      "constituency": "Lilong",
+      "registerName": "Md. Helaluddin Khan",
+      "registerParty": "RJD",
+      "registerLocator": {
+        "page": 13,
+        "entry": 30
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/30.pdf",
+      "form20SourceSha256": "7fd64bd248c58d1261109b8815bc18b538a7fc50fab8af373bb5cd03e986dd0d",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": ". Md HelaluddinKhan(RJD)",
+      "sourceName": ". Md HelaluddinKhan",
+      "sourceParty": "RJD",
+      "leadingVotes": 9848,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 4
+      },
+      "voteLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 33,
+        "column": 4
+      },
+      "reason": null
+    },
+    {
+      "ac": 31,
+      "constituency": "Thoubal",
+      "registerName": "Okram Ibobi Singh",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 13,
+        "entry": 31
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/31.pdf",
+      "form20SourceSha256": "f966313ca4553ac518d1f5c158e4c7f1c5be73992b12f266607c64aa8e92a043",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "OkramIbobiSingh(INC)",
+      "sourceName": "OkramIbobiSingh",
+      "sourceParty": "INC",
+      "leadingVotes": 17393,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 2
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 12,
+        "column": 2
+      },
+      "reason": null
+    },
+    {
+      "ac": 32,
+      "constituency": "Wangkhem",
+      "registerName": "Keisham Meghachandra Singh",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 13,
+        "entry": 32
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/32.pdf",
+      "form20SourceSha256": "03d5c46d25bf88c4e5e5eefd5ea13935c9a53142e4023a6f9a70269402e45a84",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "KeishamMeghachandraSingh(INC)",
+      "sourceName": "KeishamMeghachandraSingh",
+      "sourceParty": "INC",
+      "leadingVotes": 10801,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 3
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 10,
+        "column": 3
+      },
+      "reason": null
+    },
+    {
+      "ac": 33,
+      "constituency": "Heirok",
+      "registerName": "M. Okendra",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 13,
+        "entry": 33
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/33.pdf",
+      "form20SourceSha256": "1aa8bb58ffae630a3449dc26dad746ac70ed50466ef659a5dc611ad76c4d2c0a",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "name-difference",
+      "partyStatus": "code-equal",
+      "leadingHeader": "M . Okendro(INC)",
+      "sourceName": "M . Okendro",
+      "sourceParty": "INC",
+      "leadingVotes": 13775,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 2
+      },
+      "voteLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 33,
+        "column": 2
+      },
+      "reason": null
+    },
+    {
+      "ac": 34,
+      "constituency": "Wangjing Tentha",
+      "registerName": "Moirangthem Hemanta Singh",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 13,
+        "entry": 34
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/34.pdf",
+      "form20SourceSha256": "73740e55c46a4f53017bcd4b97559f14908413d5535d9c6f4aed81e0c572d717",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "MoirangthemHemantaSingh(INC)",
+      "sourceName": "MoirangthemHemantaSingh",
+      "sourceParty": "INC",
+      "leadingVotes": 11007,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 3
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 10,
+        "column": 3
+      },
+      "reason": null
+    },
+    {
+      "ac": 35,
+      "constituency": "Khangabok",
+      "registerName": "Okram Ibobi Singh",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 13,
+        "entry": 35
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/35.pdf",
+      "form20SourceSha256": "756f25f419632277de1af0e014e77ff992a6ddc6aef5fc2c225cd529abeccc02",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "OkramIbobiSingh(INC)",
+      "sourceName": "OkramIbobiSingh",
+      "sourceParty": "INC",
+      "leadingVotes": 16782,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 2
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 11,
+        "column": 2
+      },
+      "reason": null
+    },
+    {
+      "ac": 36,
+      "constituency": "Wabgai",
+      "registerName": "Dr. Usham Deben Singh",
+      "registerParty": "CPI",
+      "registerLocator": {
+        "page": 13,
+        "entry": 36
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/36.pdf",
+      "form20SourceSha256": "35d3cf37b63b74f67da9f800b17cae7a4aa838ac61e00127e5a11e5b4ca29b67",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "Dr . UshamDebenSingh(CPI)",
+      "sourceName": "Dr . UshamDebenSingh",
+      "sourceParty": "CPI",
+      "leadingVotes": 6780,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 3
+      },
+      "voteLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 33,
+        "column": 3
+      },
+      "reason": null
+    },
+    {
+      "ac": 37,
+      "constituency": "Kakching",
+      "registerName": "Yengkhom Surchandra Singh",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 13,
+        "entry": 37
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/37.pdf",
+      "form20SourceSha256": "283efff76bcb3af2e0cf4b977f2436f561eaafb76a09431b6fe86145fd7e8636",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "YengkhomSurchandraSingh(INC)",
+      "sourceName": "YengkhomSurchandraSingh",
+      "sourceParty": "INC",
+      "leadingVotes": 10881,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 4
+      },
+      "voteLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 35,
+        "column": 4
+      },
+      "reason": null
+    },
+    {
+      "ac": 38,
+      "constituency": "Hiyanglam",
+      "registerName": "Elangbam Dwijamani Singh",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 13,
+        "entry": 38
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/38.pdf",
+      "form20SourceSha256": "50b7b300e2f84a787454d8353f0360521eef54b773f91c761576903061e782ff",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "ElangbamDwijamaniSingh(INC)",
+      "sourceName": "ElangbamDwijamaniSingh",
+      "sourceParty": "INC",
+      "leadingVotes": 7141,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 3
+      },
+      "voteLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 32,
+        "column": 3
+      },
+      "reason": null
+    },
+    {
+      "ac": 39,
+      "constituency": "Sugnoo",
+      "registerName": "Kangujam Ranjit Singh",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 13,
+        "entry": 39
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/39.pdf",
+      "form20SourceSha256": "98ca901e503cff1f5cdd4ee038b1492b98c746dd6f4354d3b5b0c8e41577a1f6",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "KangujamRanjitSingh(INC)",
+      "sourceName": "KangujamRanjitSingh",
+      "sourceParty": "INC",
+      "leadingVotes": 11420,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 2
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 10,
+        "column": 2
+      },
+      "reason": null
+    },
+    {
+      "ac": 40,
+      "constituency": "Jiribam",
+      "registerName": "Thoudam Debendra",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 13,
+        "entry": 40
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/40.pdf",
+      "form20SourceSha256": "60ea635d54a19b08f1c0cad371ca12cd870b6bffd2d944392cc2d23eb0e9ed36",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "ThoudamDebendra(INC)",
+      "sourceName": "ThoudamDebendra",
+      "sourceParty": "INC",
+      "leadingVotes": 6488,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 2
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 11,
+        "column": 2
+      },
+      "reason": null
+    },
+    {
+      "ac": 41,
+      "constituency": "Chandel",
+      "registerName": "Thangkholun Haokip",
+      "registerParty": "RJD",
+      "registerLocator": {
+        "page": 13,
+        "entry": 41
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/41.pdf",
+      "form20SourceSha256": "61ca748283fe58d7df43d986f149b5006fd0dd403a86f878894ab1b479f07fe9",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "ThangkholunHaokip(RJD)",
+      "sourceName": "ThangkholunHaokip",
+      "sourceParty": "RJD",
+      "leadingVotes": 17424,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 6
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 22,
+        "column": 6
+      },
+      "reason": null
+    },
+    {
+      "ac": 42,
+      "constituency": "Tengnoupal",
+      "registerName": "W. Morung Makunga",
+      "registerParty": "IND",
+      "registerLocator": {
+        "page": 14,
+        "entry": 1
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/42.pdf",
+      "form20SourceSha256": "2e873a3184c4158145db461e124a25119e89b85efa8704f64dc6c6515af14fd4",
+      "numericalStatus": "withheld",
+      "comparisonStatus": "not-compared",
+      "nameStatus": "not-compared",
+      "partyStatus": "not-compared",
+      "leadingHeader": null,
+      "sourceName": null,
+      "sourceParty": null,
+      "leadingVotes": null,
+      "headerLocator": null,
+      "voteLocator": null,
+      "reason": "Original table withheld; no leading-candidate attribution attempted."
+    },
+    {
+      "ac": 43,
+      "constituency": "Phungyar",
+      "registerName": "K. Wungnaoshang",
+      "registerParty": "IND",
+      "registerLocator": {
+        "page": 14,
+        "entry": 2
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/43.pdf",
+      "form20SourceSha256": "3c7270922c79980d9f490caab621c97d7bc23cbee087d193e51206f9d3c799bc",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "K . Wungnaoshang(IND)",
+      "sourceName": "K . Wungnaoshang",
+      "sourceParty": "IND",
+      "leadingVotes": 10700,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 4
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 12,
+        "column": 4
+      },
+      "reason": null
+    },
+    {
+      "ac": 44,
+      "constituency": "Ukhrul",
+      "registerName": "D. Shaiza",
+      "registerParty": "IND",
+      "registerLocator": {
+        "page": 14,
+        "entry": 3
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/44.pdf",
+      "form20SourceSha256": "c8dbb2a164cd2e4936a1a1e8802e8c4dcaf650d5a2abb61f287d6000736557f1",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "D . Shaiza(IND)",
+      "sourceName": "D . Shaiza",
+      "sourceParty": "IND",
+      "leadingVotes": 10267,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 4
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 14,
+        "column": 4
+      },
+      "reason": null
+    },
+    {
+      "ac": 45,
+      "constituency": "Chingai",
+      "registerName": "Dr. Khashim Ruivah",
+      "registerParty": "IND",
+      "registerLocator": {
+        "page": 14,
+        "entry": 4
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/45.pdf",
+      "form20SourceSha256": "3b9e44ffa5679a6ddd3c0f441cc89bd6182153776ea31b9a303969ae2c1f86c4",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "Dr . KhashimRuivah(IND)",
+      "sourceName": "Dr . KhashimRuivah",
+      "sourceParty": "IND",
+      "leadingVotes": 17796,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 4
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 12,
+        "column": 4
+      },
+      "reason": null
+    },
+    {
+      "ac": 46,
+      "constituency": "Saikul",
+      "registerName": "Doukhomang Khongsai",
+      "registerParty": "NCP",
+      "registerLocator": {
+        "page": 14,
+        "entry": 5
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/46.pdf",
+      "form20SourceSha256": "cd01a6f6a200c37e59383f6509e297cfe338f28ee9306c44b00887aa9516fa78",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "DoukhomangKhongsai(NCP)",
+      "sourceName": "DoukhomangKhongsai",
+      "sourceParty": "NCP",
+      "leadingVotes": 11664,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 3
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 13,
+        "column": 3
+      },
+      "reason": null
+    },
+    {
+      "ac": 47,
+      "constituency": "Karong",
+      "registerName": "D.D. Thaisii",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 14,
+        "entry": 6
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/47.pdf",
+      "form20SourceSha256": "957ad220c01b42a7374e94b828b705e65c8986e6880823d83f1d8a3874ba61d4",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": ". DD . Thaisii(INC)",
+      "sourceName": ". DD . Thaisii",
+      "sourceParty": "INC",
+      "leadingVotes": 14655,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 2
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 15,
+        "column": 2
+      },
+      "reason": null
+    },
+    {
+      "ac": 48,
+      "constituency": "Mao",
+      "registerName": "M. Thohrii",
+      "registerParty": "IND",
+      "registerLocator": {
+        "page": 14,
+        "entry": 7
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/48.pdf",
+      "form20SourceSha256": "4dbd6c5602658bf943dad2a0f4e5130bf2b5a5cd716fbf664dc76884025a3f66",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "M . Thohrii(IND)",
+      "sourceName": "M . Thohrii",
+      "sourceParty": "IND",
+      "leadingVotes": 16521,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 5
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 12,
+        "column": 5
+      },
+      "reason": null
+    },
+    {
+      "ac": 49,
+      "constituency": "Tadubi",
+      "registerName": "K. Raina",
+      "registerParty": "IND",
+      "registerLocator": {
+        "page": 14,
+        "entry": 8
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/49.pdf",
+      "form20SourceSha256": "cebf7fe30ce88059957901934f194ad32ba9a3f3674380ee4512501b1121f8ab",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "K . Raina(IND)",
+      "sourceName": "K . Raina",
+      "sourceParty": "IND",
+      "leadingVotes": 14126,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 5
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 15,
+        "column": 5
+      },
+      "reason": null
+    },
+    {
+      "ac": 50,
+      "constituency": "Kangpokpi",
+      "registerName": "Thangminlen Kipgen",
+      "registerParty": "NPP",
+      "registerLocator": {
+        "page": 14,
+        "entry": 9
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/50.pdf",
+      "form20SourceSha256": "cb57f12e6a299d24f3a27aefaf9cce985c253d9de34263f961427cf467f10de2",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "name-difference",
+      "partyStatus": "code-equal",
+      "leadingHeader": "ThangminlienKipgen(NPP)",
+      "sourceName": "ThangminlienKipgen",
+      "sourceParty": "NPP",
+      "leadingVotes": 8693,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 3
+      },
+      "voteLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 38,
+        "column": 3
+      },
+      "reason": null
+    },
+    {
+      "ac": 51,
+      "constituency": "Saitu",
+      "registerName": "Haokholet Kipgen",
+      "registerParty": "IND",
+      "registerLocator": {
+        "page": 14,
+        "entry": 10
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/51.pdf",
+      "form20SourceSha256": "d4a08d7c26cc52d531e6033d7dc1c410b95284ee2b56a0dbccf286429bde2ec9",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "HaokholetKipgen(IND)",
+      "sourceName": "HaokholetKipgen",
+      "sourceParty": "IND",
+      "leadingVotes": 17637,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 5
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 14,
+        "column": 5
+      },
+      "reason": null
+    },
+    {
+      "ac": 52,
+      "constituency": "Tamei",
+      "registerName": "Awangbow Newmei",
+      "registerParty": "IND",
+      "registerLocator": {
+        "page": 14,
+        "entry": 11
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/52.pdf",
+      "form20SourceSha256": "2a0dddf0e3ffe061158b41a7846d158f838c24343577199b5859728920fc6317",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "AwangbowNewmei(IND)",
+      "sourceName": "AwangbowNewmei",
+      "sourceParty": "IND",
+      "leadingVotes": 7042,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 5
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 15,
+        "column": 5
+      },
+      "reason": null
+    },
+    {
+      "ac": 53,
+      "constituency": "Tamenglong",
+      "registerName": "Khangthuanang Panmei",
+      "registerParty": "IND",
+      "registerLocator": {
+        "page": 14,
+        "entry": 12
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/53.pdf",
+      "form20SourceSha256": "3e05d61c32b18c07541cb3cda71972f6c24291761f183e7c5bcb00146422c19f",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "KhangthuanangPanmei(IND)",
+      "sourceName": "KhangthuanangPanmei",
+      "sourceParty": "IND",
+      "leadingVotes": 8498,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 5
+      },
+      "voteLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 38,
+        "column": 5
+      },
+      "reason": null
+    },
+    {
+      "ac": 54,
+      "constituency": "Nungba",
+      "registerName": "Gaikhangam",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 14,
+        "entry": 13
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/54.pdf",
+      "form20SourceSha256": "4befbbc9c2e082db2dcadad7197094380e05d61b1d8c5299c8d37c5f971d8bf8",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "literal-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "Gaikhangam(INC)",
+      "sourceName": "Gaikhangam",
+      "sourceParty": "INC",
+      "leadingVotes": 11595,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 2
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 10,
+        "column": 2
+      },
+      "reason": null
+    },
+    {
+      "ac": 55,
+      "constituency": "Tipaimukh",
+      "registerName": "Ngursanglur",
+      "registerParty": "RJD",
+      "registerLocator": {
+        "page": 14,
+        "entry": 14
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/55.pdf",
+      "form20SourceSha256": "963df7a9c8239be4b6d3c6f840c035b89e44f408a3504b2173a1a0dbfc26c1c8",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "literal-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "Ngursanglur(RJD)",
+      "sourceName": "Ngursanglur",
+      "sourceParty": "RJD",
+      "leadingVotes": 4946,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 5
+      },
+      "voteLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 32,
+        "column": 5
+      },
+      "reason": null
+    },
+    {
+      "ac": 56,
+      "constituency": "Thanlon",
+      "registerName": "V. Hangkhanlian",
+      "registerParty": "NPP",
+      "registerLocator": {
+        "page": 14,
+        "entry": 15
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/56.pdf",
+      "form20SourceSha256": "c4e9d2d495178ac04c574eba9d3d97d376b10017631c3f354e4f6c14ef271969",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "V . Hangkhanlian(NPP)",
+      "sourceName": "V . Hangkhanlian",
+      "sourceParty": "NPP",
+      "leadingVotes": 7695,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 6
+      },
+      "voteLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 37,
+        "column": 6
+      },
+      "reason": null
+    },
+    {
+      "ac": 57,
+      "constituency": "Henglep",
+      "registerName": "T. Manga Vaiphei",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 14,
+        "entry": 16
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/57.pdf",
+      "form20SourceSha256": "1c5c48ce5991ab78c26f3221b696c1a8e222e34d94ba739d24d519f16a132cb7",
+      "numericalStatus": "withheld",
+      "comparisonStatus": "not-compared",
+      "nameStatus": "not-compared",
+      "partyStatus": "not-compared",
+      "leadingHeader": null,
+      "sourceName": null,
+      "sourceParty": null,
+      "leadingVotes": null,
+      "headerLocator": null,
+      "voteLocator": null,
+      "reason": "Original table withheld; no leading-candidate attribution attempted."
+    },
+    {
+      "ac": 58,
+      "constituency": "Churachandpur",
+      "registerName": "Phungzathang Tonsing",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 14,
+        "entry": 17
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/58.pdf",
+      "form20SourceSha256": "be4589f77e04e65604fcfa7476092c62e620e772b0bb59bf14af9fa0b9a82a0a",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "name-difference",
+      "partyStatus": "code-equal",
+      "leadingHeader": "PhungjathangTonsing(INC)",
+      "sourceName": "PhungjathangTonsing",
+      "sourceParty": "INC",
+      "leadingVotes": 18233,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 2
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 16,
+        "column": 2
+      },
+      "reason": null
+    },
+    {
+      "ac": 59,
+      "constituency": "Saikot",
+      "registerName": "T.N. Haokip",
+      "registerParty": "INC",
+      "registerLocator": {
+        "page": 14,
+        "entry": 18
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/59.pdf",
+      "form20SourceSha256": "3750fd34010f17ef6b7694a110336613fe3c19dab657bb72938313729777fd2c",
+      "numericalStatus": "withheld",
+      "comparisonStatus": "not-compared",
+      "nameStatus": "not-compared",
+      "partyStatus": "not-compared",
+      "leadingHeader": null,
+      "sourceName": null,
+      "sourceParty": null,
+      "leadingVotes": null,
+      "headerLocator": null,
+      "voteLocator": null,
+      "reason": "Original table withheld; no leading-candidate attribution attempted."
+    },
+    {
+      "ac": 60,
+      "constituency": "Shinghat",
+      "registerName": "T. Hangkhanpao",
+      "registerParty": "NPP",
+      "registerLocator": {
+        "page": 14,
+        "entry": 19
+      },
+      "registerSourceUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "registerSourceSha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "form20SourceUrl": "https://ceomanipur.nic.in/Archive/ResultSheets/StateLegislativeAssembly/2007/60.pdf",
+      "form20SourceSha256": "ba160e521bb074ae68e752fbb3e279ce26d2da683f8a4ee71f0b4a42d5eca84a",
+      "numericalStatus": "machine-reconciled",
+      "comparisonStatus": "compared",
+      "nameStatus": "formatting-equal",
+      "partyStatus": "code-equal",
+      "leadingHeader": "T . Hangkhanpao(NPP)",
+      "sourceName": "T . Hangkhanpao",
+      "sourceParty": "NPP",
+      "leadingVotes": 12859,
+      "headerLocator": {
+        "page": 1,
+        "table": 1,
+        "row": 2,
+        "column": 3
+      },
+      "voteLocator": {
+        "page": 2,
+        "table": 1,
+        "row": 11,
+        "column": 3
+      },
+      "reason": null
+    }
+  ]
+}

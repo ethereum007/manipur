@@ -1,0 +1,22 @@
+{
+  "id": "assembly-2007-register-crossmatch-v1",
+  "date": "2026-10-21",
+  "scope": "Same-election text and party-code comparison only; no identity adjudication, additional benchmark or prediction",
+  "eligibility": "Only machine-reconciled original 2007 general-election tables with a unique, complete, non-negative integer maximum are compared. Six withheld tables receive no leading-candidate attribution.",
+  "nameRules": [
+    "Remove exactly one recognized parenthesized party code wherever it occurs in the original candidate label; preserve the remaining literal name.",
+    "Literal equality is compared first, then case, ASCII punctuation and whitespace are removed for formatting equality.",
+    "Do not reorder tokens, expand initials, remove honorifics, change spelling, use fuzzy matching or merge identities.",
+    "An unsupported or ambiguous party label is not stripped or guessed."
+  ],
+  "partyRules": [
+    "Compare exact source codes only: INC,NCP,MPP,CPI,IND,RJD,NPP.",
+    "Register party codes are scoped to the original historical source. No modern-party merger or alias is implied.",
+    "IND code agreement does not mean independent candidates share an organization."
+  ],
+  "gates": {
+    "identityAliasesApproved": false,
+    "additionalBenchmarkApproved": false,
+    "prospectiveForecastValidated": false
+  }
+}
