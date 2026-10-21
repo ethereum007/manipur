@@ -20,6 +20,8 @@ def acquire(s):
     (out/'delimitation-manipur-pages.json').write_text(json.dumps([{'page':i+1,'text':texts[i],'tables':[table.extract() for table in doc[i].find_tables().tables]} for i in range(280,min(294,len(doc)))],indent=2));selected=[280,293]
    elif s['role']=='boundary-handbook':
     hits=[i for i,t in enumerate(texts) if '1976' in t and 'Manipur' in t];(out/'handbook-boundary-pages.json').write_text(json.dumps([{'page':i+1,'text':texts[i]} for i in hits],indent=2));selected=hits[:4]
+   elif s['role']=='original-winner-register':
+    (out/'winner-register-pages.json').write_text(json.dumps([{'page':i+1,'text':t,'tables':[table.extract() for table in doc[i].find_tables().tables]} for i,t in enumerate(texts)],indent=2));selected=[i for i,t in enumerate(texts) if ('ELECTED' in t.upper() and ('MEMBER' in t.upper() or 'CANDIDATE' in t.upper())) or ('ANNEXURE' in t.upper() and 'CONSTITUENCY' in t.upper())]
    elif s['role']=='administrative-report':
     (out/'admin-pages.json').write_text(json.dumps([{'page':i+1,'text':t} for i,t in enumerate(texts)],indent=2));selected=[i for i,t in enumerate(texts) if '2007' in t and ('1976' in t or 'uploaded' in t.lower())][:3]
    elif s['role']=='indexed-form20':
