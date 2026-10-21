@@ -33,8 +33,9 @@ for target in targets:
    if bottom<=top+30:continue
    name='ac'+str(target['ac'])+'-'+sha[:12]+'-p'+str(p['page'])+'-financial-summary.png'
    clip=pymupdf.Rect(0,max(0,top/scale),page.rect.width,min(page.rect.height,bottom/scale))
-   page.get_pixmap(dpi=150,clip=clip).save(out/name)
-   crops.append({'page':p['page'],'image':name,'cropPoints':list(clip)})
+   # OCR supplies proposed coordinates only. Original-region rendering requires explicit reviewed clips.
+   # Use render-financial-selected.py with the fixed target ledger to create review images.
+   crops.append({'page':p['page'],'proposedImage':name,'cropPoints':list(clip),'rendered':False})
   report.append({**target,'sha256':hashlib.sha256(raw).hexdigest(),'pages':len(doc),'abstractPages':abstract,'pageFlags':[{k:v for k,v in p.items() if k!='words'} for p in pages],'crops':crops,'status':'unreviewed visual candidates; no field values exported'})
  print('AC',target['ac'],'summary candidates',len(crops),flush=True)
 (out/'manifest.json').write_text(json.dumps(report,indent=2))
