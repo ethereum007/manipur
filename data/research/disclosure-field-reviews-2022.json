@@ -1,8 +1,8 @@
 {
   "year": 2022,
-  "reviewedAt": "2026-10-20",
+  "reviewedAt": "2026-10-21",
   "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/39463703402",
-  "method": "Codex visual comparison of original financial-summary page crops; OCR used only to locate pages. Selected cells only, not an independent human audit or complete affidavit review.",
+  "method": "Codex visual comparison of selected original financial-summary regions. OCR located pages only; retained images use fixed financial-region coordinates and matching source hashes. Selected cells, not an independent human audit or complete affidavit review.",
   "scope": "Self-declarations at 2022 nomination. Not present wealth, current liabilities, legal status or certification of truth.",
   "records": [
     {
@@ -39,7 +39,9 @@
           ],
           "note": "Government-dues and loan-total rows across columns read N/A. This selected-page review does not turn N/A into a primary numeric zero."
         }
-      ]
+      ],
+      "reviewedAt": "2026-10-20",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/39463703402"
     },
     {
       "ac": 16,
@@ -74,7 +76,9 @@
           ],
           "note": "Government-dues and loan-total rows across columns read N/A. No primary monetary zero is asserted."
         }
-      ]
+      ],
+      "reviewedAt": "2026-10-20",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/39463703402"
     },
     {
       "ac": 2,
@@ -135,7 +139,108 @@
           ],
           "note": "Self loan-total row is ₹1,44,300. Other loan columns and government-dues columns are not applicable. This is a financial-summary comparison, not a current debt or complete dispute audit."
         }
+      ],
+      "reviewedAt": "2026-10-20",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/39463703402"
+    },
+    {
+      "ac": 12,
+      "candidate": "Aribam Pramodini Devi",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/12/Aribam%20Pramodini%20Devi.pdf",
+      "sourceSha256": "98471582383760e1b389a8e0a8998cd183b077081c717d6e89315d56736d253e",
+      "reviewedAt": "2026-10-21",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/39527983585",
+      "reviewedPages": [
+        11,
+        12
+      ],
+      "summary": "The selected self movable-assets row says approximately ₹28,000; ADR reports total assets of ₹48,149. These are different scopes, so no corrected complete asset total is assigned. Selected liability rows explicitly say NIL.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 4814900,
+          "primaryValuePaise": null,
+          "primarySourceText": "Self movable-assets total: Rs. 28,000/- approx.; other movable columns NIL; current-market immovable cells NA",
+          "pages": [
+            11
+          ],
+          "observations": [
+            {
+              "label": "Self movable-assets total",
+              "valuePaise": 2800000,
+              "qualifier": "approximate",
+              "page": 11
+            }
+          ],
+          "note": "The reviewed row is an approximate movable-assets summary, not an independently reconciled complete asset total. Other movable columns say NIL and current-market immovable columns say NA. ADR’s ₹48,149 total remains attributed and unchanged. The scope/value difference is unresolved; no cause, exact corrected total or wrongdoing is inferred."
+        },
+        {
+          "field": "liabilities",
+          "status": "summary-value-agrees",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": 0,
+          "primarySourceText": "NIL",
+          "pages": [
+            12
+          ],
+          "note": "Government-dues and loan-total summary rows explicitly say NIL across self, spouse, HUF and dependant columns. This selected declared-nil summary agrees with ADR’s numeric zero; it does not establish present debt or complete-filing accuracy."
+        }
+      ]
+    },
+    {
+      "ac": 12,
+      "candidate": "Elangbam Samuel Johnson",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/12/Elangbam%20Samuel%20Johnson.pdf",
+      "sourceSha256": "f45e9b5afe9f71bc58fea91411354acebeb9f39c0bb527bc1638d640a79031f5",
+      "reviewedAt": "2026-10-21",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/39527983585",
+      "reviewedPages": [
+        16,
+        17
+      ],
+      "summary": "Two selected movable-summary cells sum to ₹6,18,616.55, ₹1.55 above ADR’s ₹6,18,615. The cause remains unresolved. Primary liability wording is N/A, so no primary monetary zero is assigned.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "derived-summary-difference",
+          "secondaryValuePaise": 61861500,
+          "primaryValuePaise": 61861655,
+          "differencePaise": 155,
+          "primarySourceText": "Two selected movable-summary amounts, summed in paise",
+          "pages": [
+            16
+          ],
+          "components": [
+            {
+              "label": "Self movable assets",
+              "valuePaise": 19236268
+            },
+            {
+              "label": "Spouse movable assets",
+              "valuePaise": 42625387
+            }
+          ],
+          "note": "The selected self and spouse movable-summary cells read ₹1,92,362.68 and ₹4,26,253.87. Their integer-paise sum is ₹6,18,616.55. Other movable and current-market immovable columns are N/A; no numeric zeros, purchase prices or construction costs are added for those rows. This is a selected-cell comparison, not a corrected complete-affidavit total. The ₹1.55 difference from ADR is unresolved and establishes no cause or wrongdoing."
+        },
+        {
+          "field": "liabilities",
+          "status": "wording-not-equivalent",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": null,
+          "primarySourceText": "N/A",
+          "pages": [
+            16,
+            17
+          ],
+          "note": "The government-dues row on p.16 and loan-total row on p.17 say N/A across the household columns. Preserve that wording rather than converting it to a primary monetary zero. No current-debt or complete-filing conclusion is inferred."
+        }
       ]
     }
-  ]
+  ],
+  "sourceReviewRuns": [
+    "https://github.com/ethereum007/manipur/actions/runs/39463703402",
+    "https://github.com/ethereum007/manipur/actions/runs/39527983585"
+  ],
+  "selectionNotes": "Second batch: two previously unreviewed native-text-available records in AC12, selected in existing record order for a bounded availability-based sample; not a representative sample or risk ranking."
 }
