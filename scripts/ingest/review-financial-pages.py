@@ -1,12 +1,14 @@
 from pathlib import Path
-import csv, hashlib, io, json, re, subprocess, tempfile
+import csv, hashlib, io, json, re, subprocess, tempfile, os
 import requests, pymupdf
 
-targets=json.loads(Path('data/research/financial-review-targets.json').read_text())
+targets=json.loads(Path(os.environ.get('FINANCIAL_TARGETS','data/research/financial-review-targets.json')).read_text())
 out=Path('work-financial-review');out.mkdir(exist_ok=True)
 report=[]
 for target in targets:
- raw=requests.get(target['url'],timeout=180).content
+ response=requests.get(target['url'],timeout=180);response.raise_for_status();raw=response.content
+ sha=hashlib.sha256(raw).hexdigest()
+ if target.get('expectedSha256') and sha!=target['expectedSha256']:raise ValueError('Source hash changed: '+target['candidate'])
  doc=pymupdf.open(stream=raw,filetype='pdf')
  pages=[]
  with tempfile.TemporaryDirectory() as tmp:
@@ -28,7 +30,7 @@ for target in targets:
    page=doc[p['page']-1];scale=130/72
    bottom=min(stops)-8 if stops else page.rect.height*scale*.83
    if bottom<=top+30:continue
-   name='ac'+str(target['ac'])+'-p'+str(p['page'])+'-financial-summary.png'
+   name='ac'+str(target['ac'])+'-'+sha[:12]+'-p'+str(p['page'])+'-financial-summary.png'
    clip=pymupdf.Rect(0,max(0,top/scale),page.rect.width,min(page.rect.height,bottom/scale))
    page.get_pixmap(dpi=150,clip=clip).save(out/name)
    crops.append({'page':p['page'],'image':name,'cropPoints':list(clip)})
