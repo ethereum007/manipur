@@ -83,3 +83,12 @@ Primary financial review coverage now five candidates / ten field notes, with 26
 Recovered a distinct CEO 2006–2007 administrative report with Annexure VII original elected members. Both PDF pages13–14 visually reviewed and sixty entries transcribed with page/row locators, source hash and archived original. Party totals INC30/IND10/NCP5/MPP5/CPI4/RJD3/NPP3; original AC1 Navakumar and AC35 Ibobi preserved, no June replacements. Votes/margins remain null. Public register on forecast inputs page and JSON export; no identity joins or extra benchmark approved.
 
 Verified production release6f7f494a58d30cec74b0e9f3e51d1a036dd618fe, Actions39533847420: 51 Node /15 source /27 browser checks passed; five PDF pages;911 HTML/31,143 local refs/0errors. Desktop/mobile screenshots reviewed and retained in GitHub. See ASSEMBLY_2007_ORIGINAL_REGISTER_QA_2026-10-21.md. Six vote-table exceptions unchanged; 54/60 numerical audit remains. Next: bounded exact cross-match/exception ledger, then authoritative extent or dated continuity evidence before additional-window protocol/scoring. Cadence ACTIVE.
+
+
+## Original-register comparison released —21 October2026 IST
+
+Same-event ledger compares54reconciled2007Form20leaders with independent original register, with both PDF hashes and exact source locators.54party codes agree;3names literal+38formatting-only;13name differences explicitly unresolved. Six withheld tables excluded with no leading-candidate attribution. No spelling/initial/token aliases or identity adjudication. Public JSON/protocol and60status/13exception panels added.
+
+Final release8c62f8e238828dba0c617b4c446035d6f57a8559/run39539524365:56Node/15source/28browser checks,5PDFpages,911HTML/31,145references/0errors. Desktop/mobile/table screenshots reviewed; production summary/hashes/gates verified. Existing forecast golden outputs unchanged. See ASSEMBLY_2007_CROSSMATCH_QA_2026-10-21.md.
+
+Next bounded priority:distinct ECI/PIB2009continuity source pages, CEO2019handbook and dated2012framework evidence, archived/hashed through GitHub before compatibility claims. Leads recorded separately, not promoted to model inputs. A future winner-party-only protocol may assess the60-seat register separately from incomplete full vote tables; no extra score/alias/probability approved. Primary disclosure selected coverage remains5/265. Cadence ACTIVE.
