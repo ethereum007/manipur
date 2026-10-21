@@ -37,6 +37,11 @@ def reconcile_documents(data,reviews=None):
       stations.append({**meta,'printedId':row[0],'label':row[1],'raw':row})
   rawHeaders=json.loads(json.dumps(headers))
   if review:
+   actualLocations={(h['page'],h['table'],h['row']) for h in headers};approvedLocations={(h['page'],h['table'],h['row']) for h in review['headerRows']}
+   if actualLocations!=approvedLocations:raise ValueError('Unreviewed header location for AC'+str(ac))
+   c=review['canonicalHeader'];p=next(p for p in doc['pages'] if p['page']==c['page']);row=p['tables'][c['table']-1][c['row']-1]
+   if len(set(review['columns']))!=len(review['columns']) or any(i<2 or i>13 for i in review['columns']):raise ValueError('Invalid reviewed columns')
+   if c['labels']!=[row[i] for i in review['columns']]:raise ValueError('Canonical header is not source-literal')
    headers=[{'page':h['page'],'table':h['table'],'row':h['row'],'columns':review['columns'],'labels':review['canonicalHeader']['labels']} for h in review['headerRows']]
   if not headers:problems.append({'type':'missing-candidate-header'});cols=[];labels=[]
   else:

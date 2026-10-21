@@ -17,4 +17,25 @@ class AuditTests(unittest.TestCase):
   table=self.data['documents'][0]['pages'][0]['tables'][0];carry=copy.deepcopy(table[2]);carry[0]='';carry[1]='B/F';table.insert(2,carry);self.assertEqual(self.result()['status'],'machine-reconciled');self.assertEqual(self.result()['stationRows'],28)
  def test_changed_repeated_header_withheld(self):
   page=copy.deepcopy(self.data['documents'][0]['pages'][0]);page['page']=2;page['tables']=[page['tables'][0][:2]];page['tables'][0][1][2]='Someone Else (INC)';self.data['documents'][0]['pages'].append(page);self.assertTrue(any(p['type']=='header-variation' for p in self.result()['problems']))
+class ReviewedHeaderTests(unittest.TestCase):
+ def setUp(self):
+  self.data=json.loads(Path('data/processed/assembly-2007-pages.json').read_text());self.reviews=json.loads(Path('data/research/assembly-2007-header-reviews.json').read_text())
+ def test_only_six_reviewed_sources_recover(self):
+  results=m.reconcile_documents(self.data,self.reviews);self.assertEqual(sum(r['status']=='machine-reconciled' for r in results),55);self.assertEqual([r['ac'] for r in results if r['status']=='withheld'],[11,20,42,57,59]);self.assertEqual([r['ac'] for r in results if r['headerReview']],[7,9,10,34,51,52])
+ def test_changed_source_hash_rejected(self):
+  next(s for s in self.data['sources'] if s.get('ac')==7 and s['role']=='indexed-form20')['sha256']='0'*64
+  with self.assertRaises(ValueError):m.reconcile_documents(self.data,self.reviews)
+ def test_changed_reviewed_header_rejected(self):
+  next(d for d in self.data['documents'] if d['ac']==7)['pages'][0]['tables'][0][1][2]='Another Candidate (INC)'
+  with self.assertRaises(ValueError):m.reconcile_documents(self.data,self.reviews)
+ def test_canonical_label_must_be_source_literal(self):
+  self.reviews['records'][0]['canonicalHeader']['labels'][0]='Invented label (INC)'
+  with self.assertRaises(ValueError):m.reconcile_documents(self.data,self.reviews)
+ def test_unreviewed_extra_header_rejected(self):
+  doc=next(d for d in self.data['documents'] if d['ac']==7);page=copy.deepcopy(doc['pages'][0]);page['page']=3;page['tables']=[page['tables'][0][:2]];doc['pages'].append(page)
+  with self.assertRaises(ValueError):m.reconcile_documents(self.data,self.reviews)
+ def test_review_does_not_mask_vote_corruption(self):
+  doc=next(d for d in self.data['documents'] if d['ac']==7);doc['pages'][1]['tables'][0][-1][2]='999999';r=next(r for r in m.reconcile_documents(self.data,self.reviews) if r['ac']==7);self.assertEqual(r['status'],'withheld');self.assertTrue(any(p['type']=='footer-candidate-accounting' for p in r['problems']))
+ def test_clipped_literal_not_completed_by_guess(self):
+  r=next(r for r in m.reconcile_documents(self.data,self.reviews) if r['ac']==10);self.assertEqual(r['candidateHeaders'][2],'Radhakanta Ningthoukhongjam Singh(NCP');self.assertEqual(r['footers']['final']['candidateVotes'][2],255)
 if __name__=='__main__':unittest.main()
