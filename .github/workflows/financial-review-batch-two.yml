@@ -12,11 +12,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: sudo apt-get update -qq && sudo apt-get install -y tesseract-ocr
-      - run: pip install requests pymupdf
-      - run: python -u scripts/ingest/review-financial-pages.py
-        env:
-          FINANCIAL_TARGETS: data/research/financial-review-targets-batch-two.json
+      - run: pip install requests==2.34.2 pymupdf==2.0
+      - run: python -u scripts/ingest/render-financial-selected.py
       - uses: actions/upload-artifact@v4
         if: always()
         with:

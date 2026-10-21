@@ -22,6 +22,7 @@ for target in targets:
   crops=[]
   for p in pages:
    if not any(a<=p['page']<=a+2 for a in abstract):continue
+   if not any(re.search(r'move?able|movable',w['text'],re.I) for w in p['words']):continue
    assetwords=[w for w in p['words'] if re.search(r'^assets[.:,]?$',w['text'],re.I)]
    if not assetwords:continue
    top=min(int(w['top']) for w in assetwords)-20

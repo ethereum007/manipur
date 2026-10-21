@@ -3,12 +3,52 @@
     "ac": 12,
     "candidate": "Aribam Pramodini Devi",
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/12/Aribam%20Pramodini%20Devi.pdf",
-    "expectedSha256": "98471582383760e1b389a8e0a8998cd183b077081c717d6e89315d56736d253e"
+    "expectedSha256": "98471582383760e1b389a8e0a8998cd183b077081c717d6e89315d56736d253e",
+    "clips": [
+      {
+        "page": 11,
+        "rect": [
+          0,
+          300,
+          621,
+          690
+        ]
+      },
+      {
+        "page": 12,
+        "rect": [
+          0,
+          0,
+          621,
+          300
+        ]
+      }
+    ]
   },
   {
     "ac": 12,
     "candidate": "Elangbam Samuel Johnson",
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/12/Elangbam%20Samuel%20Johnson.pdf",
-    "expectedSha256": "f45e9b5afe9f71bc58fea91411354acebeb9f39c0bb527bc1638d640a79031f5"
+    "expectedSha256": "f45e9b5afe9f71bc58fea91411354acebeb9f39c0bb527bc1638d640a79031f5",
+    "clips": [
+      {
+        "page": 16,
+        "rect": [
+          0,
+          510,
+          613,
+          820
+        ]
+      },
+      {
+        "page": 17,
+        "rect": [
+          0,
+          0,
+          620,
+          320
+        ]
+      }
+    ]
   }
 ]
