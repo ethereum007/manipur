@@ -20,14 +20,14 @@
       "canonicalHeader": {
         "page": 2,
         "table": 1,
-        "row": 2,
+        "row": 3,
         "labels": [
-          "No ofvalidvotescastinfavourof\n.",
-          null,
-          null,
-          null,
-          null,
-          null
+          "Dr . ChngakhamAngou(CPI)",
+          "ThounaojamShyamkumar(MPP)",
+          "SalamChandra(INC)",
+          ". Md SyedAhmad(NCP)",
+          "Keisham Ningthemjao Singh(RJD)",
+          "PhanjoubamChandra(SP)"
         ]
       },
       "headerRows": [
@@ -53,20 +53,20 @@
         {
           "page": 2,
           "table": 1,
-          "row": 2,
+          "row": 3,
           "expected": [
-            "No ofvalidvotescastinfavourof\n.",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "Dr . ChngakhamAngou(CPI)",
+            "ThounaojamShyamkumar(MPP)",
+            "SalamChandra(INC)",
+            ". Md SyedAhmad(NCP)",
+            "Keisham Ningthemjao Singh(RJD)",
+            "PhanjoubamChandra(SP)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
           ]
         }
       ],
@@ -91,13 +91,13 @@
       "canonicalHeader": {
         "page": 2,
         "table": 1,
-        "row": 2,
+        "row": 3,
         "labels": [
-          "No ofvalidvotescastinfavourof\n.",
-          null,
-          null,
-          null,
-          null
+          "Dr . Chandramani Chingtham Singh(MPP)",
+          "Waikhom Jyotin (INC)",
+          "MeinamBhorotSingh(BJP)",
+          "RadhabinodKoijam(NCP)",
+          "SalamNabachandraSingh(RJD)"
         ]
       },
       "headerRows": [
@@ -123,20 +123,20 @@
         {
           "page": 2,
           "table": 1,
-          "row": 2,
+          "row": 3,
           "expected": [
-            "No ofvalidvotescastinfavourof\n.",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "Dr . Chandramani Chingtham Singh(MPP)",
+            "Waikhom Jyotin (INC)",
+            "MeinamBhorotSingh(BJP)",
+            "RadhabinodKoijam(NCP)",
+            "SalamNabachandraSingh(RJD)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
           ]
         }
       ],
