@@ -77,3 +77,6 @@ for filename in ['representation-snapshot.json','policy-evidence.json','public-e
 (p/'data/assembly-2007-reconciliation.json').write_text((root/'data/research/assembly-2007-reconciliation.json').read_text(),encoding='utf-8')
 
 (p/'data/assembly-2007-header-reviews.json').write_text((root/'data/research/assembly-2007-header-reviews.json').read_text(),encoding='utf-8')
+
+# Original elected-member register is distinct from vote-table normalization.
+(p/'data/assembly-2007-original-register.json').write_text((root/'data/research/assembly-2007-original-register.json').read_text(),encoding='utf-8')

@@ -1,0 +1,22 @@
+{
+  "capturedAt": "2026-10-21T02:33:00.921211+00:00",
+  "scope": "Original source acquisition and native-text readiness only; no new historical benchmark or certified geographic crosswalk approved.",
+  "cloudRun": "https://github.com/ethereum007/manipur/actions/runs/39533596021",
+  "archiveUrl": "https://github.com/ethereum007/manipur/releases/download/primary-sources-2026-10-19/assembly-2007-and-boundaries-run-39533596021.zip",
+  "indexUrl": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+  "records": [
+    {
+      "role": "original-winner-register",
+      "ac": null,
+      "url": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "checkedAt": "2026-10-21T02:32:51.770942+00:00",
+      "httpStatus": 200,
+      "status": "pdf-opened",
+      "sha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "bytes": 5794344,
+      "pages": 14,
+      "pagesWithNativeText": 14,
+      "archiveFile": "originals/original-winner-register-c31a6f87e2ef.pdf"
+    }
+  ]
+}
