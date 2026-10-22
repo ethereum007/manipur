@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 23,
+    "candidate": "Kongkham Robindro Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/23/Kongkham%20Robindro%20Singh.pdf",
+    "sha256": "bd76c281767e5f9cb3e9a2ca171dc0f1b6eedf6f3703ddd467cf780054dd97f6",
+    "pages": 18,
+    "crops": [
+      {
+        "page": 14,
+        "id": "asset-summary-rows",
+        "rect": [
+          100,
+          275,
+          575,
+          840
+        ],
+        "image": "ac23-bd76c281767e-p14-financial-selected-asset-summary-rows.png"
+      },
+      {
+        "page": 15,
+        "id": "liability-continuation",
+        "rect": [
+          100,
+          110,
+          575,
+          400
+        ],
+        "image": "ac23-bd76c281767e-p15-financial-selected-liability-continuation.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 23,
+    "candidate": "Urikhimbam Ramesh Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/23/Urikhimbam%20Ramesh%20Singh.pdf",
+    "sha256": "4ae9a776aceefa0cf34294c91e6078b70a462ba068bed4fc553bd95dc8c96b90",
+    "pages": 35,
+    "crops": [
+      {
+        "page": 29,
+        "id": "financial-summary-rows",
+        "rect": [
+          75,
+          320,
+          570,
+          690
+        ],
+        "image": "ac23-4ae9a776acee-p29-financial-selected-financial-summary-rows.png"
+      },
+      {
+        "page": 30,
+        "id": "liability-continuation",
+        "rect": [
+          75,
+          110,
+          570,
+          350
+        ],
+        "image": "ac23-4ae9a776acee-p30-financial-selected-liability-continuation.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
