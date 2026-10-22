@@ -1,0 +1,100 @@
+[
+  {
+    "ac": 12,
+    "candidate": "Maheshwar Thounaojam",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/12/Maheshwar%20Thounaojam.pdf",
+    "sha256": "27af7909e7934ad04de1a25e8820bbcea4596024cba095ae76a0371fb4327357",
+    "pages": 19,
+    "crops": [
+      {
+        "page": 16,
+        "id": "movable-headers",
+        "rect": [
+          80,
+          530,
+          385,
+          640
+        ],
+        "image": "ac12-27af7909e793-p16-financial-selected-movable-headers.png"
+      },
+      {
+        "page": 16,
+        "id": "movable-row",
+        "rect": [
+          80,
+          605,
+          595,
+          642
+        ],
+        "image": "ac12-27af7909e793-p16-financial-selected-movable-row.png"
+      },
+      {
+        "page": 17,
+        "id": "immovable-cost-rows",
+        "rect": [
+          80,
+          200,
+          600,
+          350
+        ],
+        "image": "ac12-27af7909e793-p17-financial-selected-immovable-cost-rows.png"
+      },
+      {
+        "page": 18,
+        "id": "current-values-and-liabilities",
+        "rect": [
+          80,
+          80,
+          595,
+          355
+        ],
+        "image": "ac12-27af7909e793-p18-financial-selected-current-values-and-liabilities.png"
+      },
+      {
+        "page": 18,
+        "id": "disputed-liabilities",
+        "rect": [
+          80,
+          350,
+          595,
+          525
+        ],
+        "image": "ac12-27af7909e793-p18-financial-selected-disputed-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 12,
+    "candidate": "Nishikant Sapam",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/12/SAPAM%20NISHIKANT%20SINGH.pdf",
+    "sha256": "3e6c3c750afeed48b6989f26db3d8cc38b2453109330802ca91544456546ae72",
+    "pages": 22,
+    "crops": [
+      {
+        "page": 17,
+        "id": "assets-summary",
+        "rect": [
+          130,
+          418,
+          602,
+          745
+        ],
+        "image": "ac12-3e6c3c750afe-p17-financial-selected-assets-summary.png"
+      },
+      {
+        "page": 18,
+        "id": "inherited-and-liabilities",
+        "rect": [
+          130,
+          30,
+          602,
+          303
+        ],
+        "dpi": 220,
+        "image": "ac12-3e6c3c750afe-p18-financial-selected-inherited-and-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
