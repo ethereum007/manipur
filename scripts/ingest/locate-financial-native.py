@@ -4,6 +4,8 @@ out=Path('work-financial-locator');out.mkdir(exist_ok=True)
 targets=json.loads(Path(os.environ.get('FINANCIAL_TARGETS','data/research/financial-review-targets-batch-three.json')).read_text());report=[]
 marker_pattern=re.compile(r'^(?:move?able|movable|immovable|assets|liabilit\w*|education\w*|occupation\w*|verification|signature)[.,:;)]?$',re.I)
 for t in targets:
+ if t.get('skipLocator'):
+  report.append({**t,'scope':'Previously documented location deferral; not retried or field-reviewed in this run'});continue
  response=requests.get(t['url'],timeout=(20,120));response.raise_for_status();raw=response.content;assert hashlib.sha256(raw).hexdigest()==t['expectedSha256']
  with pymupdf.open(stream=raw,filetype='pdf')as doc:
   abstract=[i+1 for i,p in enumerate(doc)if re.search(r'abstract',p.get_text(),re.I)]

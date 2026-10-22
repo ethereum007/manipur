@@ -5,7 +5,9 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/13/Irengbam%20Hemochandra%20Singh.pdf",
     "expectedSha256": "58dc0eaef375e2f1524132a853690a6e25b132b195e7bd6214484df4cbe67c22",
     "selectionReason": "Next two previously unreviewed source-readable records by AC/name; convenience sample, not representative selection",
-    "clips": []
+    "clips": [],
+    "skipLocator": true,
+    "reviewDisposition": "Deferred: summary-region heading not located by bounded native/OCR/orientation attempts; no conclusion about filing completeness"
   },
   {
     "ac": 13,
@@ -35,5 +37,13 @@
         ]
       }
     ]
+  },
+  {
+    "ac": 18,
+    "candidate": "Khoirom Binarani Devi",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/18/Khoirom%20Binarani%20Devi.pdf",
+    "expectedSha256": "bc74cb3b118d8f8497f8728879e3ecbfe55adc971b3b4bda964230dfb5081ba6",
+    "selectionReason": "Next source-readable unreviewed record after a documented summary-location deferral; not a representative sample",
+    "clips": []
   }
 ]
