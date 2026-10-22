@@ -1,0 +1,7 @@
+# Financial batch nine release verification pending — 23 October 2026 IST
+
+Source preparation completed in FINANCIAL_BATCH_NINE_PREPARATION_2026-10-23.md. Code720641da34f96a7ef5353e3cc870f71e0b6e6479 adds scoped selected comparisons for Kongkham Robindro Singh and Urikhimbam Ramesh Singh. Repository19selected/38notes/246without comparison/0complete audits; production confirmation pending. Complete primary asset totals remain null; selected loan subtotals50,35,413 and1,02,71,000 agree numerically with ADR. Mixed NA/Not Applicable preserved and not converted to zero; household roles unconfirmed; no full/current/legal or forecast-feature inference.
+
+Required release gates still in progress in https://github.com/ethereum007/manipur/actions/runs/39860244894, build120108829948 at Playwright browser dependency setup. A manual verification run39860081059 was dispatched after no push run initially appeared; delayed push run then cancelled that duplicate through existing Pages concurrency. No data failure; continue the active push run, do not dispatch another healthy duplicate.
+
+Next continuation: inspect39860244894 first, diagnose failures if any, review final financial-robindro-desktop.png and financial-urikhimbam-mobile.png plus desktop/mobile coverage screenshots, retain QA evidence, byte-compare live exported JSON and confirm Pages success before announcing release. No unverified deployment or completed-audit claim. Existing live verified coverage17/34/248/0until confirmed otherwise. Cadence ACTIVE.
