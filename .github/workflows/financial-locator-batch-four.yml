@@ -18,6 +18,7 @@ jobs:
         env:
           FINANCIAL_TARGETS: data/research/financial-review-targets-batch-four.json
       - uses: actions/upload-artifact@v4
+        if: always()
         with:
           name: financial-locator-batch-four
           path: work-financial-locator/

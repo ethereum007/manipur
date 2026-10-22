@@ -27,4 +27,4 @@ for t in targets:
      candidates.append({'page':i+1,'width':p.rect.width,'height':p.rect.height,'markers':markers,'locator':'OCR headings only, not verified values'})
    proposals=[p for p in candidates if any(a<=p['page']<=a+2 for a in abstract)] if abstract else [p for p in candidates[-8:] if p['markers']]
   report.append({**t,'pages':len(doc),'abstractPages':abstract,'proposals':proposals,'scope':'Headings and coordinates only. No financial values, full-page text, personal identifiers or rendered images exported. Fixed crops require separate specification.'})
-(out/'manifest.json').write_text(json.dumps(report,indent=2));print(json.dumps([{'candidate':r['candidate'],'abstractPages':r['abstractPages']}for r in report]))
+(out/'manifest.json').write_text(json.dumps(report,indent=2));print(json.dumps([{'candidate':r['candidate'],'abstractPages':r.get('abstractPages',[])}for r in report]))
