@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "manipur-2007-2012-reference-replay-v1",
+  "frozenAt": "2026-10-22",
+  "status": "frozen-before-implementation-and-score-execution",
+  "historicalOutcomesAlreadyAvailable": true,
+  "prospectivePreregistration": false,
+  "sourceAcceptanceId": "manipur-2007-2012-winner-party-source-acceptance-v1",
+  "sourceAcceptanceSha256": "7254292ded13c9689d2313e426fbd966c57da4717a231997456ab0e60ba43008",
+  "sourceInputs": {
+    "predictorPath": "data/research/assembly-2007-original-register.json",
+    "predictorSha256": "1fd272a2bcb4c4e4c818aedeed5c14d2b7c38383103ccf34165e9a17db212241",
+    "lineagePath": "data/research/assembly-2007-2012-seat-lineage.json",
+    "lineageSha256": "5cd48a8ec545d2b7669f529f927546fbabfac8673b1e92aeea321048255da0cc",
+    "targetPath": "data/processed/winners.json",
+    "targetYear": 2012,
+    "targetSha256": "cba5b2aec5f6018cb7ce3a3fd2ddca30f66c8b74de9bc2a6ffb8852897432803"
+  },
+  "predictionRules": [
+    {
+      "id": "prior-seat-party",
+      "rule": "Copy the original 2007 elected-member party code for the same AC. Abstain if the prior code is IND. Do not infer candidate identity or current-party continuity."
+    },
+    {
+      "id": "prior-statewide-leader",
+      "rule": "Count 2007 elected seat entries by exact non-IND party code; predict the unique largest party for every AC. Abstain on a tie or no eligible party. Count seats, not unique people."
+    }
+  ],
+  "cohortRules": [
+    "Require exactly sixty distinct AC numbers 1–60 in both the predictor register and the year-2012 target subset. Invalid target/source structures fail the run; they are not silently excluded.",
+    "Generate both prediction sets solely from the 2007 register before passing any year-2012 winner to the scorer. Later years in the target file cannot be read as predictor features.",
+    "Main comparison uses the same seats where both rules produce predictions. Prior independent seats are excluded from the common cohort by the fixed rule, not by subsequent success or failure.",
+    "Publish separate full-eligibility scores for each rule and every excluded or erroneous seat. Preserve their different denominators."
+  ],
+  "partyPolicy": "Exact historical source codes only. No NPP/NPEP merger, alliance assumptions, fuzzy party aliases, candidate identity joins or IND organization.",
+  "outputs": [
+    "A separate 2007→2012 report with frozen input/protocol/implementation fingerprints, detached prediction arrays, exact-party errors, exclusions, common and full scores.",
+    "Do not change the existing 2012→2017, 2017→2022 or Parliamentary-context golden reports."
+  ],
+  "forbiddenInputs": [
+    "2012 winners or target-year candidate attributes during prediction",
+    "2009 Parliamentary leads as an Assembly target",
+    "2018/2019 handbook text as a historical predictor feature",
+    "2024 Parliamentary results",
+    "2026 directories or observations",
+    "2027 nominations, alliances, opinions or probabilities"
+  ],
+  "readiness": {
+    "historicalPublicationVersionVerified": false,
+    "prospectiveForecastValidated": false,
+    "probabilitiesAvailable": false,
+    "calibrationApproved": false
+  },
+  "limitations": [
+    "Protocol written after past outcomes and earlier benchmark scores were available; this is a retrospective reconstruction, not an unseen test.",
+    "Additional seats within one transition are not independent historical election windows. Another transition alone does not establish calibration.",
+    "Documentary AC concordance is distinct from certified territorial geometry."
+  ]
+}

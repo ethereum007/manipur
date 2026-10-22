@@ -1,0 +1,17 @@
+{
+  "reviewedArtifactCreatedAt": "2026-10-22T03:36:45.837546+00:00",
+  "sourceArchiveUrl": "https://github.com/ethereum007/manipur/releases/download/primary-sources-2026-10-19/assembly-2012.pdf",
+  "sourceUrl": "https://ceomanipur.nic.in/StatisticalReport/AssemblyElection/statistical_report_2012.pdf",
+  "sourceSha256": "7b48c17057178dbcb67a568eca761f37849ac89f07c6a5ddf18efbcdda125328",
+  "sourcePages": 174,
+  "selectedPages": [
+    2,
+    8,
+    30,
+    31,
+    33,
+    34
+  ],
+  "scope": "Selected-page visual-review preparation only. No new geographic finding or benchmark score. OCR is not verification.",
+  "cloudRun": "https://github.com/ethereum007/manipur/actions/runs/39717763363"
+}

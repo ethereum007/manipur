@@ -1,0 +1,1359 @@
+{
+  "schemaVersion": 1,
+  "reviewedAt": "2026-10-22",
+  "scope": "Documentary constituency-number and reservation concordance for a limited winner-party replay; no certified territorial geometry",
+  "register2007Hash": "1fd272a2bcb4c4e4c818aedeed5c14d2b7c38383103ccf34165e9a17db212241",
+  "source2007": {
+    "url": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+    "sha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+    "pages": [
+      13,
+      14
+    ],
+    "archiveUrl": "https://github.com/ethereum007/manipur/releases/download/primary-sources-2026-10-19/assembly-2007-and-boundaries-run-39533596021.zip"
+  },
+  "source2012": {
+    "url": "https://ceomanipur.nic.in/StatisticalReport/AssemblyElection/statistical_report_2012.pdf",
+    "sha256": "7b48c17057178dbcb67a568eca761f37849ac89f07c6a5ddf18efbcdda125328",
+    "archiveUrl": "https://github.com/ethereum007/manipur/releases/download/primary-sources-2026-10-19/assembly-2012.pdf",
+    "selectedPages": [
+      2,
+      8,
+      30,
+      31,
+      33,
+      34
+    ],
+    "cloudRun": "https://github.com/ethereum007/manipur/actions/runs/39717763363"
+  },
+  "reviewMethod": "Visual comparison of the original 2007 register and selected original 2012 report pages. Names retain source variants; joins use explicitly printed AC numbers, not fuzzy name or candidate-identity matching. Turnout values are not transcribed or validated by this ledger.",
+  "records": [
+    {
+      "ac": 1,
+      "label2007": "Khundrakpam",
+      "label2012": "KHUNDRAKPAM",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 1
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 1
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 1,
+        "label": "Kundrakpam"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 2,
+      "label2007": "Heingang",
+      "label2012": "HEINGANG",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 2
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 2
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 2,
+        "label": "Heingang"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 3,
+      "label2007": "Khurai",
+      "label2012": "KHURAI",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 3
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 3
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 3,
+        "label": "Khurai"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 4,
+      "label2007": "Kshetrigao",
+      "label2012": "KSHETRIGAO",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 4
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 4
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 4,
+        "label": "Kshetrigao"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 5,
+      "label2007": "Thongju",
+      "label2012": "THONGJU",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 5
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 5
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 5,
+        "label": "Thongju"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 6,
+      "label2007": "Keirao",
+      "label2012": "KEIRAO",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 6
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 6
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 6,
+        "label": "Keirao"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 7,
+      "label2007": "Andro",
+      "label2012": "ANDRO",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 7
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 7
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 7,
+        "label": "Andro"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 8,
+      "label2007": "Lamlai",
+      "label2012": "LAMLAI",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 8
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 8
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 8,
+        "label": "Lamlai"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 9,
+      "label2007": "Thangmeiband",
+      "label2012": "THANGMEIBAND",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 9
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 9
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 9,
+        "label": "Thangmeiband"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 10,
+      "label2007": "Uripok",
+      "label2012": "URIPOK",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 10
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 10
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 10,
+        "label": "Uripok"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 11,
+      "label2007": "Sagolband",
+      "label2012": "SAGOLBAND",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 11
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 11
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 11,
+        "label": "Sagolband"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 12,
+      "label2007": "Keishamthong",
+      "label2012": "KEISHAMTHONG",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 12
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 12
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 12,
+        "label": "Keisamthong"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 13,
+      "label2007": "Singjamei",
+      "label2012": "SINGJAMEI",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 13
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 13
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 13,
+        "label": "Singjamei"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 14,
+      "label2007": "Yaiskul",
+      "label2012": "YAISKUL",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 14
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 14
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 14,
+        "label": "Yaiskul"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 15,
+      "label2007": "Wangkhei",
+      "label2012": "WANGKHEI",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 15
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 15
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 15,
+        "label": "Wangkhei"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 16,
+      "label2007": "Sekmai (SC)",
+      "label2012": "SEKMAI (SC)",
+      "reservation2007": "SC",
+      "reservation2012": "SC",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 16
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 16
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 16,
+        "label": "Sekmai"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 17,
+      "label2007": "Lamsang",
+      "label2012": "LAMSANG",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 17
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 17
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 17,
+        "label": "Lamsang"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 18,
+      "label2007": "Konthoujam",
+      "label2012": "KONTHOUJAM",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 18
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 18
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 18,
+        "label": "Konthoujam"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 19,
+      "label2007": "Patsoi",
+      "label2012": "PATSOI",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 19
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 19
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 19,
+        "label": "Patsoi"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 20,
+      "label2007": "Langthabal",
+      "label2012": "LANGTHABAL",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 20
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 20
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 20,
+        "label": "Langthabal"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 21,
+      "label2007": "Naoriya Pattanglakpa",
+      "label2012": "NAORIYA PAKHANGLAKPA",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "source-name-variant",
+      "source2007": {
+        "page": 13,
+        "entry": 21
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 21
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 21,
+        "label": "Naoria Pakhanglakpa"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 22,
+      "label2007": "Wangoi",
+      "label2012": "WANGOI",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 22
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 22
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 22,
+        "label": "Wangoi"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 23,
+      "label2007": "Mayang Imphal",
+      "label2012": "MAYANG IMPHAL",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 23
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 23
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 23,
+        "label": "Mayang Imphal"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 24,
+      "label2007": "Nambol",
+      "label2012": "NAMBOL",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 24
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 24
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 24,
+        "label": "Nambol"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 25,
+      "label2007": "Oinam",
+      "label2012": "OINAM",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 25
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 25
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 25,
+        "label": "Oinam"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 26,
+      "label2007": "Bishnupur",
+      "label2012": "BISHENPUR",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "source-name-variant",
+      "source2007": {
+        "page": 13,
+        "entry": 26
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 26
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 26,
+        "label": "Bishnupur"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 27,
+      "label2007": "Moirang",
+      "label2012": "MOIRANG",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 27
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 27
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 27,
+        "label": "Moirang"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 28,
+      "label2007": "Thanga",
+      "label2012": "THANGA",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 28
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 28
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 28,
+        "label": "Thanga"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 29,
+      "label2007": "Kumbi",
+      "label2012": "KUMBI",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 29
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 29
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 29,
+        "label": "Kumbi"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 30,
+      "label2007": "Lilong",
+      "label2012": "LILONG",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 30
+      },
+      "source2012": {
+        "page": 33,
+        "entry": 30
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 30,
+        "label": "Lilong"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 31,
+      "label2007": "Thoubal",
+      "label2012": "THOUBAL",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 31
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 1
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 31,
+        "label": "Thoubal"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 32,
+      "label2007": "Wangkhem",
+      "label2012": "WANGKHEM",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 32
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 2
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 32,
+        "label": "Wangkhem"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 33,
+      "label2007": "Heirok",
+      "label2012": "HEIROK",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 33
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 3
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 33,
+        "label": "Heirok"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 34,
+      "label2007": "Wangjing Tentha",
+      "label2012": "WANGJING TENTHA",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 34
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 4
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 34,
+        "label": "Wangjing Tentha"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 35,
+      "label2007": "Khangabok",
+      "label2012": "KHANGABOK",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 35
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 5
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 35,
+        "label": "Khangabok"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 36,
+      "label2007": "Wabgai",
+      "label2012": "WABGAI",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 36
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 6
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 36,
+        "label": "Wabagai"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 37,
+      "label2007": "Kakching",
+      "label2012": "KAKCHING",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 37
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 7
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 37,
+        "label": "Kakching"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 38,
+      "label2007": "Hiyanglam",
+      "label2012": "HIYANGLAM",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 38
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 8
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 38,
+        "label": "Hiyanglam"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 39,
+      "label2007": "Sugnoo",
+      "label2012": "SUGNOO",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 39
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 9
+      },
+      "comparisonTable2012": {
+        "page": 30,
+        "acEntry": 39,
+        "label": "Sugnu"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 40,
+      "label2007": "Jiribam",
+      "label2012": "JIRIBAM",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 40
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 10
+      },
+      "comparisonTable2012": {
+        "page": 31,
+        "acEntry": 1,
+        "label": "Jiribam"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 41,
+      "label2007": "Chandel (ST)",
+      "label2012": "CHANDEL (ST)",
+      "reservation2007": "ST",
+      "reservation2012": "ST",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 13,
+        "entry": 41
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 11
+      },
+      "comparisonTable2012": {
+        "page": 31,
+        "acEntry": 2,
+        "label": "Chandel"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 42,
+      "label2007": "Tengnoupal (ST)",
+      "label2012": "TENGNOUPAL (ST)",
+      "reservation2007": "ST",
+      "reservation2012": "ST",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 14,
+        "entry": 1
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 12
+      },
+      "comparisonTable2012": {
+        "page": 31,
+        "acEntry": 3,
+        "label": "Tengnoupal"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 43,
+      "label2007": "Phungyar (ST)",
+      "label2012": "PHUNGYAR (ST)",
+      "reservation2007": "ST",
+      "reservation2012": "ST",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 14,
+        "entry": 2
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 13
+      },
+      "comparisonTable2012": {
+        "page": 31,
+        "acEntry": 4,
+        "label": "Phungyar"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 44,
+      "label2007": "Ukhrul (ST)",
+      "label2012": "UKHRUL (ST)",
+      "reservation2007": "ST",
+      "reservation2012": "ST",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 14,
+        "entry": 3
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 14
+      },
+      "comparisonTable2012": {
+        "page": 31,
+        "acEntry": 5,
+        "label": "Ukhrul"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 45,
+      "label2007": "Chingai (ST)",
+      "label2012": "CHINGAI (ST)",
+      "reservation2007": "ST",
+      "reservation2012": "ST",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 14,
+        "entry": 4
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 15
+      },
+      "comparisonTable2012": {
+        "page": 31,
+        "acEntry": 6,
+        "label": "Chingai"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 46,
+      "label2007": "Saikul (ST)",
+      "label2012": "SAIKUL (ST)",
+      "reservation2007": "ST",
+      "reservation2012": "ST",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 14,
+        "entry": 5
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 16
+      },
+      "comparisonTable2012": {
+        "page": 31,
+        "acEntry": 7,
+        "label": "Saikul"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 47,
+      "label2007": "Karong (ST)",
+      "label2012": "KARONG (ST)",
+      "reservation2007": "ST",
+      "reservation2012": "ST",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 14,
+        "entry": 6
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 17
+      },
+      "comparisonTable2012": {
+        "page": 31,
+        "acEntry": 8,
+        "label": "Karong"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 48,
+      "label2007": "Mao (ST)",
+      "label2012": "MAO (ST)",
+      "reservation2007": "ST",
+      "reservation2012": "ST",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 14,
+        "entry": 7
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 18
+      },
+      "comparisonTable2012": {
+        "page": 31,
+        "acEntry": 9,
+        "label": "Mao"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 49,
+      "label2007": "Tadubi (ST)",
+      "label2012": "TADUBI (ST)",
+      "reservation2007": "ST",
+      "reservation2012": "ST",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 14,
+        "entry": 8
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 19
+      },
+      "comparisonTable2012": {
+        "page": 31,
+        "acEntry": 10,
+        "label": "Tadubi"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 50,
+      "label2007": "Kangpokpi",
+      "label2012": "KANGPOKPI",
+      "reservation2007": "General",
+      "reservation2012": "General",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 14,
+        "entry": 9
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 20
+      },
+      "comparisonTable2012": {
+        "page": 31,
+        "acEntry": 11,
+        "label": "Kangpokpi"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 51,
+      "label2007": "Saitu (ST)",
+      "label2012": "SAITU (ST)",
+      "reservation2007": "ST",
+      "reservation2012": "ST",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 14,
+        "entry": 10
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 21
+      },
+      "comparisonTable2012": {
+        "page": 31,
+        "acEntry": 12,
+        "label": "Saitu"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 52,
+      "label2007": "Tamei (ST)",
+      "label2012": "TAMEI (ST)",
+      "reservation2007": "ST",
+      "reservation2012": "ST",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 14,
+        "entry": 11
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 22
+      },
+      "comparisonTable2012": {
+        "page": 31,
+        "acEntry": 13,
+        "label": "Tamei"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 53,
+      "label2007": "Tamenglong (ST)",
+      "label2012": "TAMENGLONG (ST)",
+      "reservation2007": "ST",
+      "reservation2012": "ST",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 14,
+        "entry": 12
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 23
+      },
+      "comparisonTable2012": {
+        "page": 31,
+        "acEntry": 14,
+        "label": "Tamenglong"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 54,
+      "label2007": "Nungba (ST)",
+      "label2012": "NUNGBA (ST)",
+      "reservation2007": "ST",
+      "reservation2012": "ST",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 14,
+        "entry": 13
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 24
+      },
+      "comparisonTable2012": {
+        "page": 31,
+        "acEntry": 15,
+        "label": "Nungba"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 55,
+      "label2007": "Tipaimukh (ST)",
+      "label2012": "TIPAIMUKH (ST)",
+      "reservation2007": "ST",
+      "reservation2012": "ST",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 14,
+        "entry": 14
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 25
+      },
+      "comparisonTable2012": {
+        "page": 31,
+        "acEntry": 16,
+        "label": "Tipaimukh"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 56,
+      "label2007": "Thanlon (ST)",
+      "label2012": "THANLON (ST)",
+      "reservation2007": "ST",
+      "reservation2012": "ST",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 14,
+        "entry": 15
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 26
+      },
+      "comparisonTable2012": {
+        "page": 31,
+        "acEntry": 17,
+        "label": "Thanlon"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 57,
+      "label2007": "Henglep (ST)",
+      "label2012": "HENGLEP (ST)",
+      "reservation2007": "ST",
+      "reservation2012": "ST",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 14,
+        "entry": 16
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 27
+      },
+      "comparisonTable2012": {
+        "page": 31,
+        "acEntry": 18,
+        "label": "Henglep"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 58,
+      "label2007": "Churachandpur (ST)",
+      "label2012": "CHURACHANDPUR (ST)",
+      "reservation2007": "ST",
+      "reservation2012": "ST",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 14,
+        "entry": 17
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 28
+      },
+      "comparisonTable2012": {
+        "page": 31,
+        "acEntry": 19,
+        "label": "Churachandpur"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 59,
+      "label2007": "Saikot (ST)",
+      "label2012": "SAIKOT (ST)",
+      "reservation2007": "ST",
+      "reservation2012": "ST",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 14,
+        "entry": 18
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 29
+      },
+      "comparisonTable2012": {
+        "page": 31,
+        "acEntry": 20,
+        "label": "Saikot"
+      },
+      "territorialExtentVerified": false
+    },
+    {
+      "ac": 60,
+      "label2007": "Singhat (ST)",
+      "label2012": "SINGHAT (ST)",
+      "reservation2007": "ST",
+      "reservation2012": "ST",
+      "nameComparison": "formatting-agreement",
+      "source2007": {
+        "page": 14,
+        "entry": 19
+      },
+      "source2012": {
+        "page": 34,
+        "entry": 30
+      },
+      "comparisonTable2012": {
+        "page": 31,
+        "acEntry": 21,
+        "label": "Singhat"
+      },
+      "territorialExtentVerified": false
+    }
+  ],
+  "summary": {
+    "seats": 60,
+    "reservationAgreements": 60,
+    "formattingNameAgreements": 58,
+    "sourceNameVariants": 2,
+    "certifiedExtentComparisons": 0
+  }
+}

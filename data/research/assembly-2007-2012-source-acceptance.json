@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "manipur-2007-2012-winner-party-source-acceptance-v1",
+  "decidedAt": "2026-10-22",
+  "decision": "accepted-for-documentary-winner-party-replay-input",
+  "decisionType": "Research source-acceptance finding; not an official territorial certification",
+  "acceptedUnit": "The explicitly printed Assembly constituency number in each original general-election register",
+  "sourceJoinAccepted": true,
+  "winnerPartyInputAccepted": true,
+  "completeTerritorialExtentAudit": false,
+  "certifiedGISCrosswalk": false,
+  "benchmarkReleased": false,
+  "prospectiveForecastValidated": false,
+  "historicalPublicationVersionVerified": false,
+  "lineageSha256": "5cd48a8ec545d2b7669f529f927546fbabfac8673b1e92aeea321048255da0cc",
+  "sources": [
+    {
+      "id": "general-register-2007",
+      "url": "https://ceomanipur.nic.in/AnnualReport/2006-2007_Annual%20Administrative%20Report.pdf",
+      "sha256": "c31a6f87e2ef00ce50749fcd6fee437e59b1807501344410918df91bda81f25e",
+      "pages": [
+        13,
+        14
+      ],
+      "role": "Original general-election winner-party input; dual-seat entries preserved and June replacements excluded."
+    },
+    {
+      "id": "statistical-report-2012",
+      "url": "https://ceomanipur.nic.in/StatisticalReport/AssemblyElection/statistical_report_2012.pdf",
+      "sha256": "7b48c17057178dbcb67a568eca761f37849ac89f07c6a5ddf18efbcdda125328",
+      "pages": [
+        2,
+        8,
+        30,
+        31,
+        33,
+        34
+      ],
+      "role": "Contemporaneous operational AC comparison, reservation profile and original elected-member register; no turnout values promoted."
+    },
+    {
+      "id": "ero-handbook-2018",
+      "url": "https://ceogoa.nic.in/pdf/ECIH/Electoral%20Registration%20Officer%20Handbook.pdf",
+      "sha256": "252d4335524945ee37e77e098538247f547e90d9e1f40ebc1bfd8f1d436d86a3",
+      "pages": [
+        108
+      ],
+      "role": "Later official legal reprint: section 8(1)(b) expressly incorporates the 1976 framework for Manipur in the 2008 consolidation. Used for compatibility research, never an earlier-election predictive feature."
+    },
+    {
+      "id": "eci-pib-schedule-2009",
+      "url": "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=48192",
+      "sha256": "b190e78bb5f6fb25d6e6d8d7fa89e98a5afc6cf29db1efb13810a1a14c14e8de",
+      "pages": [],
+      "role": "Dated ECI operational exclusion context in paragraph 8."
+    },
+    {
+      "id": "eci-pib-seats-2009",
+      "url": "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=48199",
+      "sha256": "96175c8dd3b0a660ee1c1211b104dca86c00506659cc54874b8a551d57ee5f9a",
+      "pages": [],
+      "role": "Parliamentary count-table corroboration only; not Assembly extent proof."
+    },
+    {
+      "id": "ceo-candidate-handbook-2019",
+      "url": "https://www.ceomanipur.nic.in/resources/handbook/HANDBOOK_FOR_CANDIDATE%2C_FEB_2019.pdf",
+      "sha256": "805dd531877ac85ef1a678ce64981d20121c72e5a94de706a2b6d60eca0cb2df",
+      "pages": [
+        24
+      ],
+      "role": "Later official guidance corroborating the exception and corrected-order requirement; excluded from earlier-election predictive features."
+    }
+  ],
+  "basis": [
+    "The 2018 official legal reprint expressly connects Manipur to the 1976 framework in the 2008 consolidation; the 2009 ECI schedule documents the exception to the new delimitation exercise.",
+    "The 2012 CEO report itself places Assembly 2007 and Assembly 2012 observations under the same sixty AC numbers in a contemporaneous comparison table on PDF pages 30–31.",
+    "The original elected-member lists supply all sixty AC numbers and matching reservation categories: forty General, one SC and nineteen ST. Two register name variants remain literal and are not resolved through fuzzy aliases.",
+    "Taken together, the source chain supports a documentary same-AC join for descriptive winner-party code replays. Names and counts are corroboration, not the sole basis of the finding."
+  ],
+  "conditions": [
+    "Use original general-election party codes and seat entries, not current memberships, June 2007 replacements or inferred candidate continuity.",
+    "Compare exact historical party codes without merger/alliance aliases. Independent candidates are not a shared party or a persistent candidate identity.",
+    "Define common and full-eligibility denominators before scoring; do not select exclusions after observing errors.",
+    "Use later documents only as transparent retrospective comparability evidence, not predictive inputs available before 2012.",
+    "Keep all six incomplete Form 20 tables and thirteen candidate-name differences unresolved. Winner-party input acceptance does not repair them."
+  ],
+  "remainingLimits": [
+    "The full original extent schedule and every possible corrected order have not been independently compared seat by seat. This is not certified territorial equality or a GIS survey.",
+    "The 2012 comparison table is reviewed for its heading and AC structure only; its turnout values and denominator conventions are not validated here.",
+    "Original historical online publication-version availability remains unverified.",
+    "No new score has been computed or released by this decision. No calibration, 2027 favourites or probabilities are approved."
+  ]
+}
