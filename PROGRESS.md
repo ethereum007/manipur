@@ -146,3 +146,8 @@ Added Maheshwar Thounaojam and Nishikant Sapam selected original-summary compari
 Productiondb8cc12c0239d31380b16bbb7f96e25473985e16, successful Actions39744333971:79Node/15Python/35browser tests; five-page PDF,913HTML/31,232references/zero errors. Four browser screenshots plus seven financial-only source images/manifest retained. Production JSON exact. Initial broad crop artifact rejected/deleted; final clips exclude signatures/dependent names. See FINANCIAL_BATCH_THREE_QA_2026-10-22.md.
 
 Coverage now7/265selected candidates,14notes,258without comparison,0complete independent affidavit audits. Historical/source-readiness expansion phase complete; overall primary audit and prospective forecasting remain incomplete. Next bounded pair:AC13Irengbam Hemochandra Singh and Yumnam Khemchand Singh, following source-readability order. Continue finite candidate queue and preserve external-evidence gates. Cadence ACTIVE.
+
+
+## 22 October 2026 — financial batch four verified and deployed
+
+Nine selected financial comparisons / 18 field notes / 256 candidates without selected review / zero complete independent affidavit audits. Added AC13 Yumnam Khemchand Singh and AC18 Khoirom Binarani Devi; preserved incomplete asset totals and unresolved Nil-versus-ADR liability difference. Irengbam Hemochandra Singh explicitly deferred for unresolved financial-region location, with source available and no filing-deficiency inference. Cloud checks: 81 Node, 15 Python, 36 browser; 913 pages and 31,234 local references, zero errors. Four final desktop/mobile screenshots reviewed. Production JSON byte-matches repository. Receipt: [financial batch four](docs/FINANCIAL_BATCH_FOUR_QA_2026-10-22.md). Continue bounded primary review queue; cadence active.

@@ -25,3 +25,8 @@ Next bounded batch: original-page case-declaration observations for these three 
 ## User priority update — predictive readiness
 
 The user now prioritizes forecasting readiness while asking continued quality across the product. The historical validation lab is deployed; see FORECAST_VALIDATION_QA_2026-10-20.md. FORECAST_RESEARCH_BACKLOG_2026-10-20.md now defines the primary next phases, beginning with a dated sixty-seat feature inventory. The disclosure/case batches above remain a secondary track. Hourly continuation remains active.
+
+
+## 22 October 2026 — financial batch four verified and deployed
+
+Nine selected financial comparisons / 18 field notes / 256 candidates without selected review / zero complete independent affidavit audits. Added AC13 Yumnam Khemchand Singh and AC18 Khoirom Binarani Devi; preserved incomplete asset totals and unresolved Nil-versus-ADR liability difference. Irengbam Hemochandra Singh explicitly deferred for unresolved financial-region location, with source available and no filing-deficiency inference. Cloud checks: 81 Node, 15 Python, 36 browser; 913 pages and 31,234 local references, zero errors. Four final desktop/mobile screenshots reviewed. Production JSON byte-matches repository. Receipt: [financial batch four](FINANCIAL_BATCH_FOUR_QA_2026-10-22.md). Continue bounded primary review queue; cadence active.
