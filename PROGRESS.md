@@ -119,3 +119,12 @@ Frozen 2007→2012 protocol implemented in a separate report and validation-lab 
 Production code 0ab55e765492026f5049c5b4b9dfc6cb3c54acbc, successful Actions 39723399172: 70 Node / 15 Python / 32 browser tests, five-page PDF, 912 HTML / 31,187 references / zero errors. Five cloud screenshots reviewed/retained; production JSON matches cloud bytes. See FORECAST_2007_REPLAY_QA_2026-10-22.md. Three retrospective transitions do not establish calibration, historical vintage or prospective 2027 validity. Six numerical exceptions and thirteen name differences remain.
 
 Next finite phase: reconcile integrated readiness across the three transitions and their different protocols/cohorts; bounded current affiliation/nomination/alliance source availability with explicit effective dates/missing inputs. Continue the next two fixed-region financial reviews secondarily; current selected coverage 5/265, ten notes, zero complete audits. All work remains in GitHub. Cadence ACTIVE.
+
+
+## Integrated readiness and current-source provenance released — 22 October 2026 IST
+
+Five existing evaluation views reconciled against seat-level records while correctly retaining three distinct Assembly transitions. Common and full denominators, exclusions and different frozen tie policies remain explicit; no pooled score or probability created and old golden reports unchanged. Readiness register and outlook copy updated. Three official candidate/party/notification index responses captured in GitHub with hashes, dates and selected links only. A2026site footer does not certify the party table datedSeptember2025; historical nomination links do not establish2027candidates.
+
+Production code593f8c2f7a91112be338866b32b4119fffdf74bd, successful Actions39729169216:74Node/15Python/33browser checks; five PDF pages;912HTML/31,196references/zero errors. Six screenshots reviewed/retained, production pages/exports verified and two new JSONs matched cloud bytes. Initial geometry race diagnosed from loading-fallback snapshot; tests now require a visible positive-height grid before unchanged strict spacing checks. See INTEGRATED_READINESS_QA_2026-10-22.md.
+
+Next bounded work: acquire/review two concrete official2026PDF leads (final SIR press note and15October RO/ARO Gazette), preserving aggregate/administrative scope and no personal roll records; then next two fixed-region financial reviews. Selected financial coverage remains5/265,10notes,0complete audits. No inferred2027nominees/alliances/probabilities. Cadence ACTIVE.
