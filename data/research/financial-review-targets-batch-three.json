@@ -8,24 +8,47 @@
     "clips": [
       {
         "page": 16,
+        "id": "movable-headers",
         "rect": [
           80,
           530,
+          385,
+          640
+        ]
+      },
+      {
+        "page": 16,
+        "id": "movable-row",
+        "rect": [
+          80,
+          605,
           595,
-          710
+          642
         ]
       },
       {
         "page": 17,
+        "id": "immovable-cost-rows",
         "rect": [
           80,
-          190,
+          200,
           600,
-          730
+          350
         ]
       },
       {
         "page": 18,
+        "id": "current-values-and-liabilities",
+        "rect": [
+          80,
+          80,
+          595,
+          355
+        ]
+      },
+      {
+        "page": 18,
+        "id": "disputed-liabilities",
         "rect": [
           80,
           350,

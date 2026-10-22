@@ -6,6 +6,6 @@ for t in spec:
  with pymupdf.open(stream=raw,filetype='pdf') as doc:
   crops=[]
   for c in t['clips']:
-   name='ac'+str(t['ac'])+'-'+sha[:12]+'-p'+str(c['page'])+'-financial-selected.png';doc[c['page']-1].get_pixmap(dpi=170,clip=pymupdf.Rect(c['rect'])).save(out/name);crops.append({**c,'image':name})
+   name='ac'+str(t['ac'])+'-'+sha[:12]+'-p'+str(c['page'])+'-financial-selected'+('-'+c['id'] if c.get('id') else '')+'.png';doc[c['page']-1].get_pixmap(dpi=170,clip=pymupdf.Rect(c['rect'])).save(out/name);crops.append({**c,'image':name})
   report.append({'ac':t['ac'],'candidate':t['candidate'],'url':t['url'],'sha256':sha,'pages':len(doc),'crops':crops,'scope':'Fixed selected financial regions; no complete-page text, extraction or manual field approval exported'})
 (out/'manifest.json').write_text(json.dumps(report,indent=2));print('Two hash-checked selected-region targets rendered')
