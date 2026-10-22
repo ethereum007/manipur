@@ -92,3 +92,12 @@ Same-event ledger compares54reconciled2007Form20leaders with independent origina
 Final release8c62f8e238828dba0c617b4c446035d6f57a8559/run39539524365:56Node/15source/28browser checks,5PDFpages,911HTML/31,145references/0errors. Desktop/mobile/table screenshots reviewed; production summary/hashes/gates verified. Existing forecast golden outputs unchanged. See ASSEMBLY_2007_CROSSMATCH_QA_2026-10-21.md.
 
 Next bounded priority:distinct ECI/PIB2009continuity source pages, CEO2019handbook and dated2012framework evidence, archived/hashed through GitHub before compatibility claims. Leads recorded separately, not promoted to model inputs. A future winner-party-only protocol may assess the60-seat register separately from incomplete full vote tables; no extra score/alias/probability approved. Primary disclosure selected coverage remains5/265. Cadence ACTIVE.
+
+
+## Dated boundary context released — 22 October 2026 IST
+
+Three official originals recovered and hashed in GitHub: two dated 2009 ECI/PIB releases and the February 2019 candidate handbook. Selected delimitation passage on PDF 24 / printed 20 visually reviewed; 471 other handbook pages are not claimed as visually reviewed. New /outlook/boundaries/ page separates each source finding from its limits, reference/capture dates and missing compatibility gates. No new score or model input approved.
+
+Final production code ce21d5a04b15f70c5735f7715fa7945a263ca6f6, run 39716752187: 59 Node, 15 source and 30 browser checks passed; five PDF pages, 912 HTML pages, 31,179 local references, zero errors. Desktop/mobile boundary and disclosure screenshots reviewed; production page/JSON/hash/gates verified. A real disclosure spacing regression was caught, the optional margin override removed, and normal/blocked-font tests passed without relaxing the spacing threshold. See BOUNDARY_EVIDENCE_QA_2026-10-22.md.
+
+Next bounded phase: assess the full archived source chain and existing 2012 primary report, write a compatibility/source-acceptance finding, then freeze any additional-window protocol before scoring. ASSEMBLY_2007_SOURCE_ACCEPTANCE_PLAN_2026-10-22.md records the finite work and later-source leakage guard. Numerical coverage stays 54/60, name differences 13, selected financial coverage 5/265. Cadence ACTIVE.

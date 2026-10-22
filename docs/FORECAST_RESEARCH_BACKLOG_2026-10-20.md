@@ -91,3 +91,12 @@ Next finite work: (1) cross-match literal register names/parties against the54 r
 Next finite primary batch:archive/hash two distinct ECI/PIB2009pages and CEO2019candidate handbook, inspect exact delimitation passages, and obtain dated2012operational/legal framework evidence. BOUNDARY_CONTINUITY_LEADS_2026-10-21.md documents leads and scope; plans/search snippets/counts alone do not establish continuity. Then write a source-acceptance/compatibility finding and freeze any additional-window protocol before scoring. A winner-party-only protocol may independently assess the complete elected-member register; it must not silently label six incomplete vote tables as reconciled.
 
 Secondary finite batch:printed-header comparisons for selected name variants where extraction may differ, preserving literal uncertainty and avoiding fuzzy identity merges; or next two fixed-region financial reviews if primary source acquisition stalls. Primary disclosure coverage5/265,10notes,0complete audits. No2027probabilities or prospective validation. Hourly cadence ACTIVE.
+
+
+## Dated source acquisition and review complete — 22 October 2026 IST
+
+All three planned official originals archived successfully: two 2009 ECI/PIB pages and the 2019 candidate handbook. Public boundary-evidence review and export delivered with exact locators, hashes, dates and scope. No automatic geographic approval or additional historical score. QA: BOUNDARY_EVIDENCE_QA_2026-10-22.md; 59 data / 15 source / 30 browser tests, screenshots and production verified.
+
+Next finite phase: execute ASSEMBLY_2007_SOURCE_ACCEPTANCE_PLAN_2026-10-22.md. Combine the newly archived context with the earlier 2018 legal-context passage and inspect the existing 2012 primary report. Decide whether the evidence supports a narrowly scoped winner-party replay; document any exact missing proposition and one bounded acquisition route. Do not require or claim certified GIS geometry for a different documentary finding, and do not infer extents from names/counts alone. Freeze cohorts, input acceptance and rules before scoring; later documents may inform compatibility research but cannot be prior-election predictive features.
+
+Retain all six withheld vote tables, thirteen name differences and original event distinctions. If material primary evidence remains blocked, advance the next two fixed-region financial summaries. Current selected disclosure coverage is five candidates / ten notes; 260 without comparison and zero complete independent audits. Hourly cadence ACTIVE.
