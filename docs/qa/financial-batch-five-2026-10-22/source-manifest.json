@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 18,
+    "candidate": "Laishram Nando Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/18/Laishram%20Nando%20Singh.pdf",
+    "sha256": "2689b3f760b765fff8df92b5d122004551a28998854a28913e586b72f0021473",
+    "pages": 17,
+    "crops": [
+      {
+        "page": 13,
+        "id": "asset-rows",
+        "rect": [
+          130,
+          580,
+          580,
+          735
+        ],
+        "image": "ac18-2689b3f760b7-p13-financial-selected-asset-rows.png"
+      },
+      {
+        "page": 14,
+        "id": "liability-rows",
+        "rect": [
+          130,
+          105,
+          580,
+          245
+        ],
+        "image": "ac18-2689b3f760b7-p14-financial-selected-liability-rows.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 18,
+    "candidate": "Nongmaithem Herojit Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/18/Nongmaithem%20Herojit%20Singh.pdf",
+    "sha256": "399836d742a00c3fe7cb108db98b9225efc4b1b2f57ba51810d9b474eb46a16c",
+    "pages": 24,
+    "crops": [
+      {
+        "page": 22,
+        "id": "asset-liability-rows",
+        "rect": [
+          145,
+          230,
+          580,
+          625
+        ],
+        "image": "ac18-399836d742a0-p22-financial-selected-asset-liability-rows.png"
+      },
+      {
+        "page": 23,
+        "id": "liability-continuation",
+        "rect": [
+          145,
+          110,
+          580,
+          260
+        ],
+        "image": "ac18-399836d742a0-p23-financial-selected-liability-continuation.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
