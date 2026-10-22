@@ -101,3 +101,12 @@ Three official originals recovered and hashed in GitHub: two dated 2009 ECI/PIB 
 Final production code ce21d5a04b15f70c5735f7715fa7945a263ca6f6, run 39716752187: 59 Node, 15 source and 30 browser checks passed; five PDF pages, 912 HTML pages, 31,179 local references, zero errors. Desktop/mobile boundary and disclosure screenshots reviewed; production page/JSON/hash/gates verified. A real disclosure spacing regression was caught, the optional margin override removed, and normal/blocked-font tests passed without relaxing the spacing threshold. See BOUNDARY_EVIDENCE_QA_2026-10-22.md.
 
 Next bounded phase: assess the full archived source chain and existing 2012 primary report, write a compatibility/source-acceptance finding, then freeze any additional-window protocol before scoring. ASSEMBLY_2007_SOURCE_ACCEPTANCE_PLAN_2026-10-22.md records the finite work and later-source leakage guard. Numerical coverage stays 54/60, name differences 13, selected financial coverage 5/265. Cadence ACTIVE.
+
+
+## Limited source acceptance and frozen replay protocol — 22 October 2026 IST
+
+Published sixty source-located 2007/2012 AC entries, sixty reservation agreements and two literal place-name variants. Six selected 2012 report pages reviewed alongside the legal/documentary chain. Limited winner-party input accepted; certified territorial geometry, six withheld numerical tables and thirteen candidate-name differences remain unresolved. Protocol frozen at 485e97c4a8a1d4badfa8eaaf89700d3b1fdfedb5 before implementation/scoring. No new score computed.
+
+Production code 5a0cb872f0d2c1fd16bb6be04ba7d994bb83e0a8; successful Actions 39718694646: 63 Node / 15 Python / 31 browser tests, five PDF pages, 912 HTML / 31,183 references / zero errors. Six source-page and three final browser screenshots retained; production page and three exports verified HTTP 200. See SEAT_SOURCE_ACCEPTANCE_QA_2026-10-22.md.
+
+Next finite phase: implement the frozen separate 2007-to-2012 replay with detached prior-only predictions, common fifty-seat comparison, separate full denominators, seat errors/exclusions and leakage tests. Preserve existing goldens. Historical vintage and prospective validation remain false. Financial selected coverage remains five candidates / ten notes / zero complete audits. Cadence ACTIVE.
