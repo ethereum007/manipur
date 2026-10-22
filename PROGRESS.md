@@ -128,3 +128,12 @@ Five existing evaluation views reconciled against seat-level records while corre
 Production code593f8c2f7a91112be338866b32b4119fffdf74bd, successful Actions39729169216:74Node/15Python/33browser checks; five PDF pages;912HTML/31,196references/zero errors. Six screenshots reviewed/retained, production pages/exports verified and two new JSONs matched cloud bytes. Initial geometry race diagnosed from loading-fallback snapshot; tests now require a visible positive-height grid before unchanged strict spacing checks. See INTEGRATED_READINESS_QA_2026-10-22.md.
 
 Next bounded work: acquire/review two concrete official2026PDF leads (final SIR press note and15October RO/ARO Gazette), preserving aggregate/administrative scope and no personal roll records; then next two fixed-region financial reviews. Selected financial coverage remains5/265,10notes,0complete audits. No inferred2027nominees/alliances/probabilities. Cadence ACTIVE.
+
+
+## Reviewed 2026 roll and administration sources released — 22 October 2026 IST
+
+Two planned official PDFs acquired, hashed, permanently archived and all9pages visually reviewed. New /outlook/administration/ shows statewide roll stages2,093,076→1,934,399→1,960,620with exact dates, separate draft-final flow56,871in/30,650out and distinct net decline132,456. Service electors20,819retained separately; no local electorate totals or current2027roll inferred. Sixty notified RO office designations published with source labels/page/row locators, separate13/14/15October notification/republication/Gazette dates and effectiveDate null. No candidate/alliance/territorial certification inferred; ARO tables not fully normalized.
+
+Production8068a4a745707ffff3c0c2056f51c8b9aecf03c9, successful Actions39735938998:78Node/15Python/34browser checks, both archive hashes/page counts and60ROnative-cell cross-checks; five-page PDF,913HTML/31,230references/zero errors. Seven browser screenshots and five selected source images retained; production JSON exact/sitemap/navigation verified. See ELECTION_ADMINISTRATION_QA_2026-10-22.md. Historical golden reports/feature snapshots unchanged.
+
+Two-document source batch complete. Next finite work:two previously unreviewed fixed financial-summary comparisons, currently5/265selected candidates,10notes,0complete audits; then bounded phase close with external-evidence limits. No2027probabilities. All work in GitHub. Cadence ACTIVE.
