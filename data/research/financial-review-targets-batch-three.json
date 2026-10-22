@@ -80,10 +80,11 @@
         "id": "inherited-and-liabilities",
         "rect": [
           130,
-          65,
+          30,
           602,
           303
-        ]
+        ],
+        "dpi": 220
       }
     ]
   }
