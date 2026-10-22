@@ -1,0 +1,18 @@
+[
+  {
+    "ac": 23,
+    "candidate": "Kongkham Robindro Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/23/Kongkham%20Robindro%20Singh.pdf",
+    "expectedSha256": "bd76c281767e5f9cb3e9a2ca171dc0f1b6eedf6f3703ddd467cf780054dd97f6",
+    "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
+    "clips": []
+  },
+  {
+    "ac": 23,
+    "candidate": "Urikhimbam Ramesh Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/23/Urikhimbam%20Ramesh%20Singh.pdf",
+    "expectedSha256": "4ae9a776aceefa0cf34294c91e6078b70a462ba068bed4fc553bd95dc8c96b90",
+    "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
+    "clips": []
+  }
+]
