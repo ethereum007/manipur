@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "reviewedAt": "2026-10-22",
+  "scope": "Selected documentary context for historical constituency comparability; no geographic or forecast approval",
+  "archiveUrl": "https://github.com/ethereum007/manipur/releases/download/primary-sources-2026-10-19/boundary-continuity-run-39715154538.zip",
+  "cloudRun": "https://github.com/ethereum007/manipur/actions/runs/39715154538",
+  "capturedAt": "2026-10-22T03:08:18.434933+00:00",
+  "records": [
+    {
+      "id": "eci-pib-schedule-2009",
+      "kind": "html",
+      "url": "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=48192",
+      "publisher": "Election Commission via PIB",
+      "referenceDate": "2009-03-02",
+      "capturedAt": "2026-10-22T03:08:10.947953+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=48192",
+      "sha256": "b190e78bb5f6fb25d6e6d8d7fa89e98a5afc6cf29db1efb13810a1a14c14e8de",
+      "bytes": 85114,
+      "status": "html-opened",
+      "textBlocks": 372,
+      "selectedBlocks": 29,
+      "archiveFile": "originals/eci-pib-schedule-2009.html",
+      "title": "ECI general-election schedule, published by PIB",
+      "referenceLabel": "2 March 2009",
+      "locator": "Paragraph 8 · Delimitation of Parliamentary and Assembly Constituencies",
+      "reviewMethod": "Read the published paragraph and captured native text blocks; original HTML archived.",
+      "finding": "The schedule identifies Manipur among the exceptions to the new delimitation exercise and the 2008 implementation described in the paragraph.",
+      "limit": "This is dated 2009 operational context. It does not itself list the exact extent of each Assembly seat in the 2007 and 2012 elections.",
+      "supports": [
+        "dated-exclusion-context"
+      ],
+      "doesNotEstablish": [
+        "sixty-seat-extent-crosswalk",
+        "2012-operational-framework",
+        "historical-publication-version"
+      ]
+    },
+    {
+      "id": "eci-pib-seats-2009",
+      "kind": "html",
+      "url": "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=48199",
+      "publisher": "Election Commission via PIB",
+      "referenceDate": "2009-03-03",
+      "capturedAt": "2026-10-22T03:08:12.250183+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=48199",
+      "sha256": "96175c8dd3b0a660ee1c1211b104dca86c00506659cc54874b8a551d57ee5f9a",
+      "bytes": 145134,
+      "status": "html-opened",
+      "textBlocks": 351,
+      "selectedBlocks": 24,
+      "archiveFile": "originals/eci-pib-seats-2009.html",
+      "title": "ECI Lok Sabha seat backgrounder, published by PIB",
+      "referenceLabel": "3 March 2009",
+      "locator": "Table 1 · Manipur row and asterisk footnote",
+      "reviewMethod": "Read the published row, table heading and exclusion footnote; original HTML archived.",
+      "finding": "The Parliamentary seat-count table marks Manipur with a footnote for states excluded from the delimitation exercise.",
+      "limit": "The table describes Parliamentary seat counts and reservations. It is not an Assembly boundary table; unchanged counts do not prove unchanged extents.",
+      "supports": [
+        "dated-exclusion-context"
+      ],
+      "doesNotEstablish": [
+        "assembly-boundary-equivalence",
+        "sixty-seat-extent-crosswalk",
+        "2012-operational-framework"
+      ]
+    },
+    {
+      "id": "ceo-candidate-handbook-2019",
+      "kind": "pdf",
+      "url": "https://www.ceomanipur.nic.in/resources/handbook/HANDBOOK_FOR_CANDIDATE%2C_FEB_2019.pdf",
+      "publisher": "CEO Manipur copy of ECI candidate handbook",
+      "referenceDate": null,
+      "capturedAt": "2026-10-22T03:08:12.981420+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://www.ceomanipur.nic.in/resources/handbook/HANDBOOK_FOR_CANDIDATE%2C_FEB_2019.pdf",
+      "sha256": "805dd531877ac85ef1a678ce64981d20121c72e5a94de706a2b6d60eca0cb2df",
+      "bytes": 4540890,
+      "status": "pdf-opened",
+      "pages": 472,
+      "selectedPages": [
+        24
+      ],
+      "archiveFile": "originals/ceo-candidate-handbook-2019.pdf",
+      "title": "ECI Handbook for Candidate · CEO Manipur copy",
+      "referenceLabel": "February 2019 edition",
+      "locator": "PDF page 24 · printed page 20 · section 1.17.1",
+      "reviewMethod": "Visually inspected original PDF page 24; edition wording checked against the published title-page text. Other 471 pages are not claimed as visually reviewed.",
+      "finding": "The handbook names Manipur among the exceptions to re-determination under the Delimitation Act, 2002. It directs candidates to consult an up-to-date corrected constituency order.",
+      "limit": "This is later candidate guidance, not the original delimitation order, a 2012 election notification or a certified map. Do not treat the edition date as a legal effective date.",
+      "sourcePage": 24,
+      "printedPage": 20,
+      "section": "1.17.1",
+      "supports": [
+        "later-official-guidance",
+        "corrected-order-requirement"
+      ],
+      "doesNotEstablish": [
+        "original-constituency-extents",
+        "2012-operational-framework",
+        "current-2026-law"
+      ]
+    }
+  ],
+  "gates": {
+    "archivedOriginals": true,
+    "selectedPassagesReviewed": true,
+    "completeExtentCrosswalk": false,
+    "geographicCompatibilityApproved": false,
+    "additionalBenchmarkApproved": false,
+    "historicalPublicationVersionVerified": false,
+    "prospectiveForecastValidated": false
+  },
+  "remainingEvidence": [
+    {
+      "id": "dated-framework-2012",
+      "status": "missing",
+      "requirement": "An attributable official source establishing the constituency framework actually used for the 2012 Manipur Assembly election, with any relevant amendments or corrections."
+    },
+    {
+      "id": "documented-seat-lineage",
+      "status": "not-approved",
+      "requirement": "A documented AC-by-AC identity/extent comparison or an adequately supported legal-continuity finding. Names, counts and reference-map resemblance alone are insufficient."
+    },
+    {
+      "id": "additional-window-protocol",
+      "status": "not-frozen",
+      "requirement": "Explicit input acceptance, exclusions and rules before computing any 2007→2012 score. A winner-party-only input may use an accepted original register without pretending that six full vote tables are repaired."
+    }
+  ],
+  "limitations": [
+    "Three recovered sources supply documentary context, not three independent validations of geographic equality.",
+    "Capture dates identify this archive, not original historical online availability.",
+    "The 2007 numerical audit remains 54/60, with AC9,11,20,42,57,59 withheld.",
+    "Thirteen source-name differences remain unresolved; no identity aliases are approved.",
+    "No new historical score, probability, 2027 favourite or current legal assurance is published."
+  ]
+}

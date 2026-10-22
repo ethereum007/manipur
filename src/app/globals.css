@@ -2982,3 +2982,9 @@ thead th {
 /* Percentage row gaps can overflow an intrinsic-height editorial grid. */
 .analysis-reading-grid{row-gap:40px}
 @media(max-width:650px){.analysis-reading-grid{row-gap:30px}}
+
+/* Source entries share the editorial spacing and restrained serif hierarchy. */
+.boundary-source-entry{padding:44px 0;border-top:1px solid var(--line)}
+.boundary-source-entry:first-of-type{margin-top:40px}
+.boundary-source-entry h3{font-size:clamp(27px,3vw,42px);max-width:980px;margin-bottom:24px}
+.boundary-source-entry .analysis-reading-grid{margin-bottom:0}

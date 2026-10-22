@@ -1,0 +1,60 @@
+{
+  "capturedAt": "2026-10-22T03:08:18.434933+00:00",
+  "scope": "Dated official delimitation context; acquisition does not approve geographic compatibility",
+  "cloudRun": "https://github.com/ethereum007/manipur/actions/runs/39715154538",
+  "archiveUrl": "https://github.com/ethereum007/manipur/releases/download/primary-sources-2026-10-19/boundary-continuity-run-39715154538.zip",
+  "records": [
+    {
+      "id": "eci-pib-schedule-2009",
+      "kind": "html",
+      "url": "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=48192",
+      "publisher": "Election Commission via PIB",
+      "referenceDate": "2009-03-02",
+      "capturedAt": "2026-10-22T03:08:10.947953+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=48192",
+      "sha256": "b190e78bb5f6fb25d6e6d8d7fa89e98a5afc6cf29db1efb13810a1a14c14e8de",
+      "bytes": 85114,
+      "status": "html-opened",
+      "textBlocks": 372,
+      "selectedBlocks": 29,
+      "archiveFile": "originals/eci-pib-schedule-2009.html"
+    },
+    {
+      "id": "eci-pib-seats-2009",
+      "kind": "html",
+      "url": "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=48199",
+      "publisher": "Election Commission via PIB",
+      "referenceDate": "2009-03-03",
+      "capturedAt": "2026-10-22T03:08:12.250183+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=48199",
+      "sha256": "96175c8dd3b0a660ee1c1211b104dca86c00506659cc54874b8a551d57ee5f9a",
+      "bytes": 145134,
+      "status": "html-opened",
+      "textBlocks": 351,
+      "selectedBlocks": 24,
+      "archiveFile": "originals/eci-pib-seats-2009.html"
+    },
+    {
+      "id": "ceo-candidate-handbook-2019",
+      "kind": "pdf",
+      "url": "https://www.ceomanipur.nic.in/resources/handbook/HANDBOOK_FOR_CANDIDATE%2C_FEB_2019.pdf",
+      "publisher": "CEO Manipur copy of ECI candidate handbook",
+      "referenceDate": null,
+      "capturedAt": "2026-10-22T03:08:12.981420+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://www.ceomanipur.nic.in/resources/handbook/HANDBOOK_FOR_CANDIDATE%2C_FEB_2019.pdf",
+      "sha256": "805dd531877ac85ef1a678ce64981d20121c72e5a94de706a2b6d60eca0cb2df",
+      "bytes": 4540890,
+      "status": "pdf-opened",
+      "pages": 472,
+      "selectedPages": [
+        24
+      ],
+      "archiveFile": "originals/ceo-candidate-handbook-2019.pdf"
+    }
+  ],
+  "additionalBenchmarkApproved": false,
+  "geographicCompatibilityApproved": false
+}

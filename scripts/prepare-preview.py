@@ -84,3 +84,6 @@ for filename in ['representation-snapshot.json','policy-evidence.json','public-e
 # Same-event comparisons never replace vote-table or identity evidence.
 for filename in ['assembly-2007-register-crossmatch.json','assembly-2007-crossmatch-protocol.json']:
  (p/'data'/filename).write_text((root/'data/research'/filename).read_text(),encoding='utf-8')
+
+# Documentary context stays separate from approved geographic/model inputs.
+(p/'data/boundary-continuity-review.json').write_text((root/'data/research/boundary-continuity-review.json').read_text(),encoding='utf-8')
