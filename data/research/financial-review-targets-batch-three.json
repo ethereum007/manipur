@@ -64,6 +64,27 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/12/SAPAM%20NISHIKANT%20SINGH.pdf",
     "expectedSha256": "3e6c3c750afeed48b6989f26db3d8cc38b2453109330802ca91544456546ae72",
     "selectionReason": "Next two previously unreviewed source-native PDFs by AC/name order after excluding existing selected financial reviews; document-readability convenience, not a representative or political sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 17,
+        "id": "assets-summary",
+        "rect": [
+          130,
+          418,
+          602,
+          745
+        ]
+      },
+      {
+        "page": 18,
+        "id": "inherited-and-liabilities",
+        "rect": [
+          130,
+          65,
+          602,
+          303
+        ]
+      }
+    ]
   }
 ]
