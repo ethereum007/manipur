@@ -1,0 +1,18 @@
+[
+  {
+    "ac": 18,
+    "candidate": "Laishram Nando Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/18/Laishram%20Nando%20Singh.pdf",
+    "expectedSha256": "2689b3f760b765fff8df92b5d122004551a28998854a28913e586b72f0021473",
+    "selectionReason": "Next unreviewed native-text-present records by AC/name, excluding recorded location deferrals; convenience sample, not representative",
+    "clips": []
+  },
+  {
+    "ac": 18,
+    "candidate": "Nongmaithem Herojit Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/18/Nongmaithem%20Herojit%20Singh.pdf",
+    "expectedSha256": "399836d742a00c3fe7cb108db98b9225efc4b1b2f57ba51810d9b474eb46a16c",
+    "selectionReason": "Next unreviewed native-text-present records by AC/name, excluding recorded location deferrals; convenience sample, not representative",
+    "clips": []
+  }
+]
