@@ -16,12 +16,12 @@
     "clips": [
       {
         "page": 15,
-        "id": "self-spouse-headers",
+        "id": "column-role-headers",
         "rect": [
           80,
           245,
-          360,
-          283
+          585,
+          267
         ]
       },
       {
@@ -29,8 +29,8 @@
         "id": "financial-rows",
         "rect": [
           80,
-          285,
-          540,
+          292,
+          585,
           615
         ]
       }
