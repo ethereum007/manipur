@@ -1,0 +1,18 @@
+[
+  {
+    "ac": 13,
+    "candidate": "Irengbam Hemochandra Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/13/Irengbam%20Hemochandra%20Singh.pdf",
+    "expectedSha256": "58dc0eaef375e2f1524132a853690a6e25b132b195e7bd6214484df4cbe67c22",
+    "selectionReason": "Next two previously unreviewed source-readable records by AC/name; convenience sample, not representative selection",
+    "clips": []
+  },
+  {
+    "ac": 13,
+    "candidate": "Yumnam Khemchand Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/13/Yumnam%20Khemchand%20Singh.pdf",
+    "expectedSha256": "52b9a9953f974be2c73e20a8ebed10a960e09a505024c03597e9d40749c484bb",
+    "selectionReason": "Next two previously unreviewed source-readable records by AC/name; convenience sample, not representative selection",
+    "clips": []
+  }
+]
