@@ -151,3 +151,8 @@ Coverage now7/265selected candidates,14notes,258without comparison,0complete ind
 ## 22 October 2026 — financial batch four verified and deployed
 
 Nine selected financial comparisons / 18 field notes / 256 candidates without selected review / zero complete independent affidavit audits. Added AC13 Yumnam Khemchand Singh and AC18 Khoirom Binarani Devi; preserved incomplete asset totals and unresolved Nil-versus-ADR liability difference. Irengbam Hemochandra Singh explicitly deferred for unresolved financial-region location, with source available and no filing-deficiency inference. Cloud checks: 81 Node, 15 Python, 36 browser; 913 pages and 31,234 local references, zero errors. Four final desktop/mobile screenshots reviewed. Production JSON byte-matches repository. Receipt: [financial batch four](docs/FINANCIAL_BATCH_FOUR_QA_2026-10-22.md). Continue bounded primary review queue; cadence active.
+
+
+## Public review deferrals released — 22 October 2026
+
+Existing Irengbam source-available financial-location deferral now visible on the disclosure page, within the unchanged 256 pending denominator. No missing-document or disclosure-deficiency inference. Current coverage 9 selected candidates / 18 notes / zero complete independent audits. Source/readiness and historical benchmark phase complete within scope; continue bounded primary reviews, not invented probabilities. Cloud run39757317638 passed 81 Node/15 Python/37 browser checks, five PDF pages and 913-page static audit with zero errors; two cloud screenshots visually reviewed and production verified. See VISIBLE_REVIEW_DEFERRALS_QA_2026-10-22.md. Cadence ACTIVE.
