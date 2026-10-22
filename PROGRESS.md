@@ -137,3 +137,12 @@ Two planned official PDFs acquired, hashed, permanently archived and all9pages v
 Production8068a4a745707ffff3c0c2056f51c8b9aecf03c9, successful Actions39735938998:78Node/15Python/34browser checks, both archive hashes/page counts and60ROnative-cell cross-checks; five-page PDF,913HTML/31,230references/zero errors. Seven browser screenshots and five selected source images retained; production JSON exact/sitemap/navigation verified. See ELECTION_ADMINISTRATION_QA_2026-10-22.md. Historical golden reports/feature snapshots unchanged.
 
 Two-document source batch complete. Next finite work:two previously unreviewed fixed financial-summary comparisons, currently5/265selected candidates,10notes,0complete audits; then bounded phase close with external-evidence limits. No2027probabilities. All work in GitHub. Cadence ACTIVE.
+
+
+## Selected financial batch three released — 22 October 2026 IST
+
+Added Maheshwar Thounaojam and Nishikant Sapam selected original-summary comparisons, with7financial-only source regions, exact PDF/hash/page locators and integer-paise arithmetic. Both complete primary asset totals remain null because NA/unclear continuation cells prevent full reconciliation. Maheshwar selected loan row agrees with ADR; Nishikant four-cell liability subtotal differs by₹9,48,024.98with cause unresolved. No corrected complete filing, wrongdoing, current wealth/debt or model input inferred. Secondary data unchanged.
+
+Productiondb8cc12c0239d31380b16bbb7f96e25473985e16, successful Actions39744333971:79Node/15Python/35browser tests; five-page PDF,913HTML/31,232references/zero errors. Four browser screenshots plus seven financial-only source images/manifest retained. Production JSON exact. Initial broad crop artifact rejected/deleted; final clips exclude signatures/dependent names. See FINANCIAL_BATCH_THREE_QA_2026-10-22.md.
+
+Coverage now7/265selected candidates,14notes,258without comparison,0complete independent affidavit audits. Historical/source-readiness expansion phase complete; overall primary audit and prospective forecasting remain incomplete. Next bounded pair:AC13Irengbam Hemochandra Singh and Yumnam Khemchand Singh, following source-readability order. Continue finite candidate queue and preserve external-evidence gates. Cadence ACTIVE.
