@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 22,
+    "candidate": "Salam Joy Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/22/Salam%20Joy%20Singh.pdf",
+    "sha256": "8d596396aebf428896e2754253284d592fc48023e4902bd4e19b06c70f5d095c",
+    "pages": 14,
+    "crops": [
+      {
+        "page": 12,
+        "id": "asset-summary-rows",
+        "rect": [
+          65,
+          560,
+          575,
+          825
+        ],
+        "image": "ac22-8d596396aebf-p12-financial-selected-asset-summary-rows.png"
+      },
+      {
+        "page": 13,
+        "id": "financial-continuation",
+        "rect": [
+          65,
+          110,
+          575,
+          475
+        ],
+        "image": "ac22-8d596396aebf-p13-financial-selected-financial-continuation.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 23,
+    "candidate": "Dr. Kumujam Ratankumar Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/23/Dr.%20Kumujam%20Ratankumar%20Singh.pdf",
+    "sha256": "7b4f86549e8fb49ca43a5450d8eedf1290c75c7728dbbff4c343da27320a87d0",
+    "pages": 17,
+    "crops": [
+      {
+        "page": 15,
+        "id": "asset-summary-rows",
+        "rect": [
+          145,
+          583,
+          575,
+          760
+        ],
+        "image": "ac23-7b4f86549e8f-p15-financial-selected-asset-summary-rows.png"
+      },
+      {
+        "page": 16,
+        "id": "financial-continuation",
+        "rect": [
+          145,
+          145,
+          575,
+          475
+        ],
+        "image": "ac23-7b4f86549e8f-p16-financial-selected-financial-continuation.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
