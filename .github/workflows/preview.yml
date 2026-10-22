@@ -51,6 +51,7 @@ jobs:
       - run: npx playwright install --with-deps chromium
       - run: npm run test:e2e
       - run: pip install pymupdf
+      - run: python scripts/ingest/check-2026-official.py
       - run: python scripts/verify-briefing.py
       - run: python scripts/audit-static-site.py
       - uses: actions/upload-artifact@v4

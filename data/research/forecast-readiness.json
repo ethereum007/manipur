@@ -23,6 +23,11 @@
       "evidence": "Sixty directory entries captured on 20 October; individual effective dates remain unavailable. Bounded 22 October source check confirms the party-position page prints 11 September 2025 while its site footer prints 5 October 2026. Neither capture nor footer certifies current affiliations."
     },
     {
+      "name": "2026 roll and administrative context",
+      "status": "partial",
+      "evidence": "September2026 statewide photo-roll stages and separate service-elector total reviewed from all three scanned pages. OctoberGazette RO office designations cover sixty seats; no complete ARO normalization, individual officeholder verification, local electorate totals or current2027roll certification. These observations are not inputs to earlier-election replays."
+    },
+    {
       "name": "2027 candidate and alliance inputs",
       "status": "not-ready",
       "evidence": "No complete verified, dated 2027 nomination or alliance set is indexed. Three official index pages were checked on 22 October; historical candidate/nomination links are not a 2027 slate. This bounded search does not prove no announcements exist elsewhere."
@@ -49,5 +54,6 @@
     }
   ],
   "evaluationInventory": "/data/forecast-evaluation-inventory.json",
-  "currentSourceAudit": "/data/current-source-index-audit.json"
+  "currentSourceAudit": "/data/current-source-index-audit.json",
+  "administrationReview": "/data/election-administration-2026.json"
 }
