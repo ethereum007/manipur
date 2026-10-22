@@ -1,0 +1,22 @@
+name: Frozen 2007 replay research QA
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  replay:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node --test tests/forecast-2007-replay.test.mjs
+      - run: node scripts/build-2007-replay.mjs --write
+      - run: node scripts/build-2007-replay.mjs
+      - run: node scripts/build-forecast-validation.mjs
+      - run: node scripts/build-context-validation.mjs
+      - uses: actions/upload-artifact@v4
+        with:
+          name: frozen-2007-replay
+          path: data/research/forecast-2007-replay.json
