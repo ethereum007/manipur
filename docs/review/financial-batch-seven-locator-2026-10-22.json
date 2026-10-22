@@ -1,0 +1,269 @@
+[
+  {
+    "ac": 19,
+    "candidate": "Wakambam Ibomcha Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/19/Wakambam%20Ibomcha%20Singh.pdf",
+    "expectedSha256": "2d60600fd3a268accec7211ed2ddc8fa1df164fc1b4b362f61e7378e0ea7e7a4",
+    "selectionReason": "Next source-readable unreviewed records by AC/name, excluding documented deferrals; nonrepresentative convenience sample",
+    "clips": [],
+    "pages": 20,
+    "abstractPages": [
+      16
+    ],
+    "proposals": [
+      {
+        "page": 16,
+        "width": 595.2000122070312,
+        "height": 841.4400024414062,
+        "markers": [
+          {
+            "marker": "educational",
+            "rect": [
+              148.8000030517578,
+              108.2325210571289,
+              202.49697875976562,
+              122.6595230102539
+            ]
+          },
+          {
+            "marker": "education",
+            "rect": [
+              317.760009765625,
+              159.11251831054688,
+              363.2880859375,
+              173.53952026367188
+            ]
+          }
+        ],
+        "locator": "native heading coordinates only"
+      },
+      {
+        "page": 17,
+        "width": 595.2000122070312,
+        "height": 841.4400024414062,
+        "markers": [
+          {
+            "marker": "Moveable",
+            "rect": [
+              110.4000015258789,
+              141.2949981689453,
+              158.08499145507812,
+              156.40899658203125
+            ]
+          },
+          {
+            "marker": "Assets",
+            "rect": [
+              162.72000122070312,
+              143.4449920654297,
+              189.72900390625,
+              155.8109893798828
+            ]
+          },
+          {
+            "marker": "Assets",
+            "rect": [
+              132.47999572753906,
+              197.6849822998047,
+              159.48899841308594,
+              210.0509796142578
+            ]
+          },
+          {
+            "marker": "immovable",
+            "rect": [
+              132.47999572753906,
+              264.8274841308594,
+              178.40296936035156,
+              277.8804931640625
+            ]
+          },
+          {
+            "marker": "immovable",
+            "rect": [
+              132.47999572753906,
+              347.38751220703125,
+              178.40296936035156,
+              360.44049072265625
+            ]
+          },
+          {
+            "marker": "assets",
+            "rect": [
+              132.47999572753906,
+              550.3699951171875,
+              161.37998962402344,
+              564.1099853515625
+            ]
+          },
+          {
+            "marker": "assets",
+            "rect": [
+              132.47999572753906,
+              627.6500244140625,
+              161.37998962402344,
+              641.3900146484375
+            ]
+          },
+          {
+            "marker": "Liabilities",
+            "rect": [
+              132.9600067138672,
+              670.907470703125,
+              172.0239715576172,
+              683.9605102539062
+            ]
+          }
+        ],
+        "locator": "native heading coordinates only"
+      },
+      {
+        "page": 18,
+        "width": 595.2000122070312,
+        "height": 841.4400024414062,
+        "markers": [
+          {
+            "marker": "Liabilities",
+            "rect": [
+              131.52000427246094,
+              206.74752807617188,
+              170.58396911621094,
+              219.80052185058594
+            ]
+          },
+          {
+            "marker": "education",
+            "rect": [
+              336,
+              438.5299987792969,
+              379.3599853515625,
+              452.2699890136719
+            ]
+          }
+        ],
+        "locator": "native heading coordinates only"
+      }
+    ],
+    "scope": "Headings and coordinates only. No financial values, full-page text, personal identifiers or rendered images exported. Fixed crops require separate specification."
+  },
+  {
+    "ac": 22,
+    "candidate": "Oinam Lukhoi Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/22/Oinam%20Lukhoi%20Singh.pdf",
+    "expectedSha256": "71c69b84e9c885f340f236c7cf6e1e64dd12728bf1906fc4018dfe050336869b",
+    "selectionReason": "Next source-readable unreviewed records by AC/name, excluding documented deferrals; nonrepresentative convenience sample",
+    "clips": [],
+    "pages": 18,
+    "abstractPages": [
+      15
+    ],
+    "proposals": [
+      {
+        "page": 15,
+        "width": 596.1599731445312,
+        "height": 843.47998046875,
+        "markers": [
+          {
+            "marker": "Education",
+            "rect": [
+              330.8399963378906,
+              82.13496398925781,
+              379.7569885253906,
+              97.24896240234375
+            ]
+          }
+        ],
+        "locator": "native heading coordinates only"
+      },
+      {
+        "page": 16,
+        "width": 596.8800048828125,
+        "height": 843.1199951171875,
+        "markers": [
+          {
+            "marker": "Assets",
+            "rect": [
+              225.36000061035156,
+              70.78248596191406,
+              250.86849975585938,
+              82.46147918701172
+            ]
+          },
+          {
+            "marker": "Liabilities",
+            "rect": [
+              275.0400085449219,
+              69.16998291015625,
+              316.1600036621094,
+              82.90998077392578
+            ]
+          },
+          {
+            "marker": "assets)",
+            "rect": [
+              407.5199890136719,
+              70.96501159667969,
+              436.5270080566406,
+              83.33101654052734
+            ]
+          },
+          {
+            "marker": "Assets",
+            "rect": [
+              129.24000549316406,
+              224.14247131347656,
+              154.74850463867188,
+              235.82147216796875
+            ]
+          }
+        ],
+        "locator": "native heading coordinates only"
+      },
+      {
+        "page": 17,
+        "width": 596.1599731445312,
+        "height": 842.760009765625,
+        "markers": [
+          {
+            "marker": "Liabilities",
+            "rect": [
+              95.04000091552734,
+              342.4100036621094,
+              136.16000366210938,
+              356.1499938964844
+            ]
+          },
+          {
+            "marker": "Education",
+            "rect": [
+              194.0399932861328,
+              575.6950073242188,
+              242.9569854736328,
+              590.8090209960938
+            ]
+          },
+          {
+            "marker": "education",
+            "rect": [
+              328.67999267578125,
+              600.3575439453125,
+              378.5440673828125,
+              616.1585083007812
+            ]
+          },
+          {
+            "marker": "Educational",
+            "rect": [
+              131.75999450683594,
+              537.1700439453125,
+              184.00997924804688,
+              550.9100341796875
+            ]
+          }
+        ],
+        "locator": "native heading coordinates only"
+      }
+    ],
+    "scope": "Headings and coordinates only. No financial values, full-page text, personal identifiers or rendered images exported. Fixed crops require separate specification."
+  }
+]
