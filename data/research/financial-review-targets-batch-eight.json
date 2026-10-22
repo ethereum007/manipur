@@ -1,0 +1,18 @@
+[
+  {
+    "ac": 22,
+    "candidate": "Salam Joy Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/22/Salam%20Joy%20Singh.pdf",
+    "expectedSha256": "8d596396aebf428896e2754253284d592fc48023e4902bd4e19b06c70f5d095c",
+    "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; convenience sample, not representative",
+    "clips": []
+  },
+  {
+    "ac": 23,
+    "candidate": "Dr. Kumujam Ratankumar Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/23/Dr.%20Kumujam%20Ratankumar%20Singh.pdf",
+    "expectedSha256": "7b4f86549e8fb49ca43a5450d8eedf1290c75c7728dbbff4c343da27320a87d0",
+    "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; convenience sample, not representative",
+    "clips": []
+  }
+]
