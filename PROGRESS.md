@@ -168,3 +168,8 @@ Next bounded step: specify narrow financial-only regions, exclude names/signatur
 ## Financial batch five verified — 22 October 2026
 
 11 selected candidates /22field notes /254without comparison /0complete independent audits. Added AC18Laishram Nando Singh and Nongmaithem Herojit Singh. Ambiguous monetary notation, mixed N.A./Nil and contradictory Nil/nonzero asset headings preserved; both new primary asset totals null, Nando liability null. Four hash-bound financial-only regions and four cloud browser screenshots reviewed/retained. Run39772832627 passed82Node/15Python/38browser tests;913HTML/31,236references/zero errors. Production JSON byte-matches repository. QA:FINANCIAL_BATCH_FIVE_QA_2026-10-22.md. Next bounded pair AC19R.K.Rameshwar Singh and Sapam Kunjakeswor (Keba) Singh; no repeat of existing deferred source without new locator. Cadence ACTIVE; no2027probabilities.
+
+
+## Batch six source inspection prepared — 22 October 2026
+
+AC19R.K.Rameshwar Singh and Sapam Kunjakeswor (Keba) Singh original hashes verified; metadata locator39780399088 and safe fixed-region render39780961673 passed. Three financial-only regions visually inspected/retained. Initial stamped-identifier crop rejected and artifact deleted; final regions exclude it. Working observations and explicit incomplete asset/column scopes: FINANCIAL_BATCH_SIX_PREPARATION_2026-10-22.md. Next: secondary comparison, scoped arithmetic and browser QA before publication. Public counts unchanged11/22/254/0complete audits. Cadence ACTIVE.

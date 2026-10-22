@@ -1,0 +1,55 @@
+[
+  {
+    "ac": 19,
+    "candidate": "R.K. Rameshwar Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/19/R.K.%20Rameshwar%20Singh.pdf",
+    "sha256": "f50c5b16651325a4f7bee95f28f9e79703bc5e1917edc2b7a8578a4e2b07551f",
+    "pages": 23,
+    "crops": [
+      {
+        "page": 21,
+        "id": "asset-values",
+        "rect": [
+          85,
+          770,
+          550,
+          815
+        ],
+        "image": "ac19-f50c5b166513-p21-financial-selected-asset-values.png"
+      },
+      {
+        "page": 22,
+        "id": "asset-liability-continuation",
+        "rect": [
+          85,
+          395,
+          550,
+          640
+        ],
+        "image": "ac19-f50c5b166513-p22-financial-selected-asset-liability-continuation.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 19,
+    "candidate": "Sapam Kunjakeswor (Keba) Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/19/Sapam%20Kunjakeswor%20(Keba)%20Singh.pdf",
+    "sha256": "f184a2241b12a7722c657cb4baad71aaaac5104a020587042e7df053be15d570",
+    "pages": 20,
+    "crops": [
+      {
+        "page": 17,
+        "id": "financial-continuation",
+        "rect": [
+          75,
+          140,
+          550,
+          485
+        ],
+        "image": "ac19-f184a2241b12-p17-financial-selected-financial-continuation.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
