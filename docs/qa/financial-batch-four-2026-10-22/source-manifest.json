@@ -1,0 +1,84 @@
+[
+  {
+    "ac": 13,
+    "candidate": "Irengbam Hemochandra Singh",
+    "status": "no-fixed-regions-rendered",
+    "expectedSha256": "58dc0eaef375e2f1524132a853690a6e25b132b195e7bd6214484df4cbe67c22",
+    "scope": "No field-review approval; not fetched by this render"
+  },
+  {
+    "ac": 13,
+    "candidate": "Yumnam Khemchand Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/13/Yumnam%20Khemchand%20Singh.pdf",
+    "sha256": "52b9a9953f974be2c73e20a8ebed10a960e09a505024c03597e9d40749c484bb",
+    "pages": 16,
+    "crops": [
+      {
+        "page": 15,
+        "id": "column-role-headers",
+        "rect": [
+          80,
+          245,
+          585,
+          267
+        ],
+        "image": "ac13-52b9a9953f97-p15-financial-selected-column-role-headers.png"
+      },
+      {
+        "page": 15,
+        "id": "financial-rows",
+        "rect": [
+          80,
+          292,
+          585,
+          615
+        ],
+        "image": "ac13-52b9a9953f97-p15-financial-selected-financial-rows.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 18,
+    "candidate": "Khoirom Binarani Devi",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/18/Khoirom%20Binarani%20Devi.pdf",
+    "sha256": "bc74cb3b118d8f8497f8728879e3ecbfe55adc971b3b4bda964230dfb5081ba6",
+    "pages": 16,
+    "crops": [
+      {
+        "page": 12,
+        "id": "column-role-headers",
+        "rect": [
+          130,
+          485,
+          585,
+          501
+        ],
+        "image": "ac18-bc74cb3b118d-p12-financial-selected-column-role-headers.png"
+      },
+      {
+        "page": 12,
+        "id": "movable-and-cost-rows",
+        "rect": [
+          130,
+          508,
+          585,
+          675
+        ],
+        "image": "ac18-bc74cb3b118d-p12-financial-selected-movable-and-cost-rows.png"
+      },
+      {
+        "page": 13,
+        "id": "current-values-and-liabilities",
+        "rect": [
+          130,
+          110,
+          585,
+          430
+        ],
+        "image": "ac18-bc74cb3b118d-p13-financial-selected-current-values-and-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
