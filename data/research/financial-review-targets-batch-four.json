@@ -44,6 +44,37 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/18/Khoirom%20Binarani%20Devi.pdf",
     "expectedSha256": "bc74cb3b118d8f8497f8728879e3ecbfe55adc971b3b4bda964230dfb5081ba6",
     "selectionReason": "Next source-readable unreviewed record after a documented summary-location deferral; not a representative sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 12,
+        "id": "column-role-headers",
+        "rect": [
+          130,
+          485,
+          585,
+          501
+        ]
+      },
+      {
+        "page": 12,
+        "id": "movable-and-cost-rows",
+        "rect": [
+          130,
+          508,
+          585,
+          675
+        ]
+      },
+      {
+        "page": 13,
+        "id": "current-values-and-liabilities",
+        "rect": [
+          130,
+          110,
+          585,
+          430
+        ]
+      }
+    ]
   }
 ]
