@@ -198,3 +198,8 @@ Next two unreviewed source-readable records AC19Wakambam Ibomcha Singh and AC22O
 ## Batch eight source preparation — 22 October 2026
 
 Next AC22Salam Joy Singh and AC23Dr.Kumujam Ratankumar Singh sources hash-verified; locator39824966295/render39825201902passed. Four financial-only source regions visually inspected and retained; incomplete asset continuations and mixed Nil/N/A preserved in FINANCIAL_BATCH_EIGHT_PREPARATION_2026-10-22.md. Next secondary comparison, scoped arithmetic and release/browser QA. Public15/30/250/0coverage unchanged; cadence ACTIVE.
+
+
+## Financial batch eight deployed — 23 October 2026 IST
+
+17selected candidates/34notes/248without comparison/0complete independent audits. Added Salam Joy Singh selected938rupee source difference (unresolved) and Dr.Kumujam Ratankumar Singh selected loan agreement; both complete primary assets remain null. Run39834904876 passed85Node/15Python/41browser tests;913HTML/31,242references/zero errors. Four cloud screenshots reviewed/retained; production JSON exact. See FINANCIAL_BATCH_EIGHT_QA_2026-10-23.md. Continue finite primary queue; no2027probabilities. Cadence ACTIVE.
