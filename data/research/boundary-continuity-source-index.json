@@ -1,0 +1,26 @@
+{
+  "scope": "Dated official delimitation context; acquisition does not approve geographic compatibility",
+  "documents": [
+    {
+      "id": "eci-pib-schedule-2009",
+      "kind": "html",
+      "url": "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=48192",
+      "publisher": "Election Commission via PIB",
+      "referenceDate": "2009-03-02"
+    },
+    {
+      "id": "eci-pib-seats-2009",
+      "kind": "html",
+      "url": "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=48199",
+      "publisher": "Election Commission via PIB",
+      "referenceDate": "2009-03-03"
+    },
+    {
+      "id": "ceo-candidate-handbook-2019",
+      "kind": "pdf",
+      "url": "https://www.ceomanipur.nic.in/resources/handbook/HANDBOOK_FOR_CANDIDATE%2C_FEB_2019.pdf",
+      "publisher": "CEO Manipur copy of ECI candidate handbook",
+      "referenceDate": null
+    }
+  ]
+}

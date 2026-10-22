@@ -1,0 +1,28 @@
+name: Acquire dated boundary continuity sources
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  acquire:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests==2.34.2 pymupdf==2.0
+      - run: python -u scripts/ingest/acquire-continuity.py
+      - name: Archive original sources in GitHub Releases
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release upload primary-sources-2026-10-19 work-continuity/*.zip --repo "$GITHUB_REPOSITORY"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: boundary-continuity-review
+          path: |
+            work-continuity/manifest.json
+            work-continuity/selected-source-text.json
+            work-continuity/review/
