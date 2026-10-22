@@ -5,7 +5,28 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/30/Abdul%20Manan.pdf",
     "expectedSha256": "3fb04d7c43734430340a1497a2240f030d427b080979f413de201e7a18afe547",
     "selectionReason": "Next source-readable unreviewed records by AC/name excluding documented deferrals; nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 14,
+        "id": "asset-summary-rows",
+        "rect": [
+          60,
+          420,
+          535,
+          565
+        ]
+      },
+      {
+        "page": 15,
+        "id": "financial-continuation",
+        "rect": [
+          85,
+          140,
+          550,
+          370
+        ]
+      }
+    ]
   },
   {
     "ac": 30,
@@ -13,6 +34,27 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/30/Md%20Irshad%20Hussain.pdf",
     "expectedSha256": "f74df62958eca382c96384f93047f5ccbf5b7ec6320574815a1d5c480cf196e9",
     "selectionReason": "Next source-readable unreviewed records by AC/name excluding documented deferrals; nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 12,
+        "id": "asset-summary-rows",
+        "rect": [
+          65,
+          640,
+          565,
+          780
+        ]
+      },
+      {
+        "page": 13,
+        "id": "financial-continuation",
+        "rect": [
+          65,
+          140,
+          565,
+          530
+        ]
+      }
+    ]
   }
 ]
