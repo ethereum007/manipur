@@ -8,6 +8,7 @@ for t in targets:
   for i,p in enumerate(doc):
    text=p.get_text();
    if re.search(r'abstract',text,re.I):abstract.append(i+1)
+  native_abstract=bool(abstract)
   if not abstract:
    with tempfile.TemporaryDirectory()as tmp:
     candidates=[]
@@ -25,7 +26,7 @@ for t in targets:
      candidates.append({'page':i+1,'width':p.rect.width,'height':p.rect.height,'markers':markers,'locator':'OCR headings only; not verified values'})
     pages=[p for p in candidates if any(a<=p['page']<=a+2 for a in abstract)]
   for i,p in enumerate(doc):
-   if pages:break
+   if not native_abstract:break
    if not any(a<=i+1<=a+2 for a in abstract):continue
    markers=[{'marker':w[4],'rect':list(w[:4])}for w in p.get_text('words')if re.search(r'^(?:move?able|movable|immovable|assets|liabilit\w*|education\w*|occupation\w*|verification|signature)[.,:;)]?$',w[4],re.I)]
    pages.append({'page':i+1,'width':p.rect.width,'height':p.rect.height,'markers':markers})
