@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 19,
+    "candidate": "Wakambam Ibomcha Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/19/Wakambam%20Ibomcha%20Singh.pdf",
+    "sha256": "2d60600fd3a268accec7211ed2ddc8fa1df164fc1b4b362f61e7378e0ea7e7a4",
+    "pages": 20,
+    "crops": [
+      {
+        "page": 17,
+        "id": "financial-summary-rows",
+        "rect": [
+          100,
+          140,
+          570,
+          710
+        ],
+        "image": "ac19-2d60600fd3a2-p17-financial-selected-financial-summary-rows.png"
+      },
+      {
+        "page": 18,
+        "id": "liability-continuation",
+        "rect": [
+          100,
+          105,
+          570,
+          350
+        ],
+        "image": "ac19-2d60600fd3a2-p18-financial-selected-liability-continuation.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 22,
+    "candidate": "Oinam Lukhoi Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/22/Oinam%20Lukhoi%20Singh.pdf",
+    "sha256": "71c69b84e9c885f340f236c7cf6e1e64dd12728bf1906fc4018dfe050336869b",
+    "pages": 18,
+    "crops": [
+      {
+        "page": 16,
+        "id": "asset-summary-rows",
+        "rect": [
+          90,
+          220,
+          570,
+          700
+        ],
+        "image": "ac22-71c69b84e9c8-p16-financial-selected-asset-summary-rows.png"
+      },
+      {
+        "page": 17,
+        "id": "liability-summary-rows",
+        "rect": [
+          90,
+          120,
+          570,
+          495
+        ],
+        "image": "ac22-71c69b84e9c8-p17-financial-selected-liability-summary-rows.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
