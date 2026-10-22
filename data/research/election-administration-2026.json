@@ -1,0 +1,552 @@
+{
+  "schemaVersion": 1,
+  "reviewedAt": "2026-10-22",
+  "kind": "Reviewed statewide roll aggregates and notified Returning Officer office designations; not forecast inputs",
+  "cloudRun": "https://github.com/ethereum007/manipur/actions/runs/39735103791",
+  "approvedForForecast": false,
+  "sources": [
+    {
+      "id": "sir-final-2026",
+      "url": "https://ceomanipur.nic.in/Documents/PressNote/2026-2027/PRESS%20NOTE%20SIR%20FINAL%20EROLL%202026.pdf",
+      "archiveUrl": "https://github.com/ethereum007/manipur/releases/download/primary-sources-2026-10-19/sir-final-2026.pdf",
+      "sha256": "d189b2962b498c18e027aa97d02a562a3b8b7c9013dd40446dcde319142614d9",
+      "capturedAt": "2026-10-22T06:37:50.843939+00:00",
+      "documentDate": "2026-09-06",
+      "pages": 3,
+      "visuallyReviewedPages": [
+        1,
+        2,
+        3
+      ],
+      "nativeTextPages": 0,
+      "reviewMethod": "Visual transcription of selected statewide totals and draft-to-final flow; all three source pages inspected. No OCR values or personal roll entries used."
+    },
+    {
+      "id": "ro-aro-2026",
+      "url": "https://ceomanipur.nic.in/Documents/gazette/2026/RO%20ARO%20Gazette-2026-240_EG_2026-27_15-10-2026.pdf",
+      "archiveUrl": "https://github.com/ethereum007/manipur/releases/download/primary-sources-2026-10-19/ro-aro-2026.pdf",
+      "sha256": "feca4938cb0ae30bcee155f011cc5cff776289f33706cafafa07bea80213ee9f",
+      "capturedAt": "2026-10-22T06:37:53.872721+00:00",
+      "pages": 6,
+      "visuallyReviewedPages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "nativeTextPages": 6,
+      "reviewMethod": "All six pages visually inspected. Sixty RO office designations on pages2–3 transcribed and compared with native text. ARO tables inspected for scope but not normalized into a complete published ARO register."
+    }
+  ],
+  "roll": {
+    "sourceId": "sir-final-2026",
+    "scope": "Statewide final photo-electoral-roll aggregate in paragraph7. Service-elector aggregate in paragraph9 remains separate; no combined total inferred.",
+    "publicationDate": "2026-09-06",
+    "coveredACs": 60,
+    "snapshots": [
+      {
+        "stage": "before-draft",
+        "referenceDate": "2026-05-18",
+        "electors": 2093076,
+        "sourcePage": 1,
+        "sourceParagraph": 3
+      },
+      {
+        "stage": "draft",
+        "referenceDate": "2026-07-05",
+        "electors": 1934399,
+        "sourcePage": 2,
+        "sourceParagraph": 4
+      },
+      {
+        "stage": "final",
+        "referenceDate": "2026-09-06",
+        "electors": 1960620,
+        "sourcePage": 3,
+        "sourceParagraph": 7
+      }
+    ],
+    "draftExclusions": {
+      "electors": 158677,
+      "sourcePage": 1,
+      "sourceParagraph": 3,
+      "scope": "Enumeration forms not received back and excluded from draft, as reported. Probable-category labels are not independently adjudicated reasons for individuals."
+    },
+    "draftToFinal": {
+      "included": 56871,
+      "deleted": 30650,
+      "sourcePage": 3,
+      "sourceParagraph": 7
+    },
+    "serviceElectors": {
+      "electors": 20819,
+      "publicationDate": "2026-09-06",
+      "qualifyingDate": "2026-07-01",
+      "sourcePage": 3,
+      "sourceParagraph": 9,
+      "combinedWithPhotoRoll": false
+    },
+    "acLevelCounts": null,
+    "laterAmendmentsReviewed": false,
+    "current2027ElectorateCertified": false,
+    "individualRecordsAcquired": false,
+    "limits": [
+      "A September2026 roll snapshot is not certified current2027 electorate, turnout or party support.",
+      "No constituency-specific additions/deletions or electorate totals are supplied by this statewide note. Never allocate a statewide change evenly across seats.",
+      "Draft exclusions, draft-to-final deletions and net before-draft-to-final change are different quantities.",
+      "Claims, objections, notices and additions are not interchangeable counts. No voter-level eligibility judgement or inferred demographic/party effect is made."
+    ]
+  },
+  "administration": {
+    "sourceId": "ro-aro-2026",
+    "notificationDate": "2026-10-13",
+    "ceoRepublicationDate": "2026-10-14",
+    "gazettePublicationDate": "2026-10-15",
+    "gazetteNumber": 240,
+    "notificationIds": [
+      "434/MR-LA/2026",
+      "434/MR-LA/2026(1)"
+    ],
+    "supersededNotificationDate": "2021-11-30",
+    "effectiveDate": null,
+    "officeholdersVerified": false,
+    "completeARONormalization": false,
+    "certifiesTerritorialExtent": false,
+    "establishesNominations": false,
+    "establishesAlliances": false,
+    "records": [
+      {
+        "ac": 1,
+        "sourceLabel": "Khundrakpam",
+        "returningOfficerOffice": "Sub-Divisional Officer, Sawombung",
+        "sourcePage": 2,
+        "sourceRow": 1
+      },
+      {
+        "ac": 2,
+        "sourceLabel": "Heingang",
+        "returningOfficerOffice": "Block Development Officer, Heingang CD Block",
+        "sourcePage": 2,
+        "sourceRow": 2
+      },
+      {
+        "ac": 3,
+        "sourceLabel": "Khurai",
+        "returningOfficerOffice": "Assistant Commissioner (I) to Deputy Commissioner, Imphal East",
+        "sourcePage": 2,
+        "sourceRow": 3
+      },
+      {
+        "ac": 4,
+        "sourceLabel": "Khetrigao",
+        "returningOfficerOffice": "Block Development Officer, Kshetrigao CD Block",
+        "sourcePage": 2,
+        "sourceRow": 4
+      },
+      {
+        "ac": 5,
+        "sourceLabel": "Thongju",
+        "returningOfficerOffice": "Block Development Officer, Kshetrigao CD Block",
+        "sourcePage": 2,
+        "sourceRow": 5
+      },
+      {
+        "ac": 6,
+        "sourceLabel": "Keirao",
+        "returningOfficerOffice": "Sub-Divisional Officer, Keirao Bitra",
+        "sourcePage": 2,
+        "sourceRow": 6
+      },
+      {
+        "ac": 7,
+        "sourceLabel": "Andro",
+        "returningOfficerOffice": "Block Development Officer, Keirao Bitra CD Block",
+        "sourcePage": 2,
+        "sourceRow": 7
+      },
+      {
+        "ac": 8,
+        "sourceLabel": "Lamlai",
+        "returningOfficerOffice": "Block Development Officer, Sawombung CD Block",
+        "sourcePage": 2,
+        "sourceRow": 8
+      },
+      {
+        "ac": 9,
+        "sourceLabel": "Thangmeiband",
+        "returningOfficerOffice": "Sub-Divisional Officer, Lamphel",
+        "sourcePage": 2,
+        "sourceRow": 9
+      },
+      {
+        "ac": 10,
+        "sourceLabel": "Uripok",
+        "returningOfficerOffice": "Block Development Officer, Patsoi CD Block",
+        "sourcePage": 2,
+        "sourceRow": 10
+      },
+      {
+        "ac": 11,
+        "sourceLabel": "Sagolband",
+        "returningOfficerOffice": "Sub-Divisional Officer, Lamphel",
+        "sourcePage": 2,
+        "sourceRow": 11
+      },
+      {
+        "ac": 12,
+        "sourceLabel": "Keisamthong",
+        "returningOfficerOffice": "Block Development Officer, Haorang Sabal CD Block",
+        "sourcePage": 2,
+        "sourceRow": 12
+      },
+      {
+        "ac": 13,
+        "sourceLabel": "Singjamei",
+        "returningOfficerOffice": "Block Development Officer, Haorang Sabal CD Block",
+        "sourcePage": 2,
+        "sourceRow": 13
+      },
+      {
+        "ac": 14,
+        "sourceLabel": "Yaiskul",
+        "returningOfficerOffice": "Sub-Divisional Officer, Porompat",
+        "sourcePage": 2,
+        "sourceRow": 14
+      },
+      {
+        "ac": 15,
+        "sourceLabel": "Wangkhei",
+        "returningOfficerOffice": "Sub Divisional Officer, Porompat",
+        "sourcePage": 2,
+        "sourceRow": 15
+      },
+      {
+        "ac": 16,
+        "sourceLabel": "Sekmai (SC)",
+        "returningOfficerOffice": "Sub-Divisional Officer, Lamsang",
+        "sourcePage": 2,
+        "sourceRow": 16
+      },
+      {
+        "ac": 17,
+        "sourceLabel": "Lamsang",
+        "returningOfficerOffice": "Sub-Divisional Officer, Lamsang",
+        "sourcePage": 2,
+        "sourceRow": 17
+      },
+      {
+        "ac": 18,
+        "sourceLabel": "Konthoujam",
+        "returningOfficerOffice": "Sub-Divisional Officer, Patsoi",
+        "sourcePage": 2,
+        "sourceRow": 18
+      },
+      {
+        "ac": 19,
+        "sourceLabel": "Patsoi",
+        "returningOfficerOffice": "Sub-Divisional Officer, Patsoi",
+        "sourcePage": 2,
+        "sourceRow": 19
+      },
+      {
+        "ac": 20,
+        "sourceLabel": "Langthabal",
+        "returningOfficerOffice": "Block Development Officer, Wangoi CD Block",
+        "sourcePage": 2,
+        "sourceRow": 20
+      },
+      {
+        "ac": 21,
+        "sourceLabel": "Naoriya Pakhanglakpa",
+        "returningOfficerOffice": "Block Development Officer, Hiyangthang CD Block",
+        "sourcePage": 2,
+        "sourceRow": 21
+      },
+      {
+        "ac": 22,
+        "sourceLabel": "Wangoi",
+        "returningOfficerOffice": "Sub-Divisional Officer, Wangoi",
+        "sourcePage": 2,
+        "sourceRow": 22
+      },
+      {
+        "ac": 23,
+        "sourceLabel": "Mayang Imphal",
+        "returningOfficerOffice": "Sub-Divisional Officer, Wangoi",
+        "sourcePage": 2,
+        "sourceRow": 23
+      },
+      {
+        "ac": 24,
+        "sourceLabel": "Nambol",
+        "returningOfficerOffice": "Sub-Divisional Officer, Nambol",
+        "sourcePage": 2,
+        "sourceRow": 24
+      },
+      {
+        "ac": 25,
+        "sourceLabel": "Oinam",
+        "returningOfficerOffice": "Block Development Officer, Nambol CD Block",
+        "sourcePage": 2,
+        "sourceRow": 25
+      },
+      {
+        "ac": 26,
+        "sourceLabel": "Bishenpur",
+        "returningOfficerOffice": "Sub-Divisional Officer, Bishnupur",
+        "sourcePage": 3,
+        "sourceRow": 1
+      },
+      {
+        "ac": 27,
+        "sourceLabel": "Moirang",
+        "returningOfficerOffice": "Sub-Divisional Officer, Moirang",
+        "sourcePage": 3,
+        "sourceRow": 2
+      },
+      {
+        "ac": 28,
+        "sourceLabel": "Thanga",
+        "returningOfficerOffice": "Block Development Officer, Bishnupur CD Block",
+        "sourcePage": 3,
+        "sourceRow": 3
+      },
+      {
+        "ac": 29,
+        "sourceLabel": "Kumbi",
+        "returningOfficerOffice": "Block Development Officer, Moirang CD Block",
+        "sourcePage": 3,
+        "sourceRow": 4
+      },
+      {
+        "ac": 30,
+        "sourceLabel": "Lilong",
+        "returningOfficerOffice": "Sub-Divisional Officer, Lilong",
+        "sourcePage": 3,
+        "sourceRow": 5
+      },
+      {
+        "ac": 31,
+        "sourceLabel": "Thoubal",
+        "returningOfficerOffice": "Sub-Divisional Officer, Thoubal",
+        "sourcePage": 3,
+        "sourceRow": 6
+      },
+      {
+        "ac": 32,
+        "sourceLabel": "Wangkhem",
+        "returningOfficerOffice": "Block Development Officer, Lilong CD Block",
+        "sourcePage": 3,
+        "sourceRow": 7
+      },
+      {
+        "ac": 33,
+        "sourceLabel": "Heirok",
+        "returningOfficerOffice": "Chief Executive Officer, Zilla Parishad, Thoubal",
+        "sourcePage": 3,
+        "sourceRow": 8
+      },
+      {
+        "ac": 34,
+        "sourceLabel": "Wangjing Tentha",
+        "returningOfficerOffice": "Block Development Officer, Wangjing Tentha CD Block",
+        "sourcePage": 3,
+        "sourceRow": 9
+      },
+      {
+        "ac": 35,
+        "sourceLabel": "Khangabok",
+        "returningOfficerOffice": "Block Development Officer, Thoubal CD Block",
+        "sourcePage": 3,
+        "sourceRow": 10
+      },
+      {
+        "ac": 36,
+        "sourceLabel": "Wabgai",
+        "returningOfficerOffice": "Block Development Officer, Kakching CD Block",
+        "sourcePage": 3,
+        "sourceRow": 11
+      },
+      {
+        "ac": 37,
+        "sourceLabel": "Kakching",
+        "returningOfficerOffice": "Sub-Divisional Officer, Kakching",
+        "sourcePage": 3,
+        "sourceRow": 12
+      },
+      {
+        "ac": 38,
+        "sourceLabel": "Hiyanglam",
+        "returningOfficerOffice": "Block Development Officer, Langmeidong CD Block",
+        "sourcePage": 3,
+        "sourceRow": 13
+      },
+      {
+        "ac": 39,
+        "sourceLabel": "Sugnoo",
+        "returningOfficerOffice": "Sub-Divisional Officer, Waikhong",
+        "sourcePage": 3,
+        "sourceRow": 14
+      },
+      {
+        "ac": 40,
+        "sourceLabel": "Jiribam",
+        "returningOfficerOffice": "Sub Divisional Officer, Jiribam",
+        "sourcePage": 3,
+        "sourceRow": 15
+      },
+      {
+        "ac": 41,
+        "sourceLabel": "Chandel (ST)",
+        "returningOfficerOffice": "Additional Deputy Commissioner, Chandel",
+        "sourcePage": 3,
+        "sourceRow": 16
+      },
+      {
+        "ac": 42,
+        "sourceLabel": "Tengnoupal (ST)",
+        "returningOfficerOffice": "Additional Deputy Commissioner, Moreh",
+        "sourcePage": 3,
+        "sourceRow": 17
+      },
+      {
+        "ac": 43,
+        "sourceLabel": "Phungyar (ST)",
+        "returningOfficerOffice": "Additional Deputy Commissioner, Kamjong",
+        "sourcePage": 3,
+        "sourceRow": 18
+      },
+      {
+        "ac": 44,
+        "sourceLabel": "Ukhrul (ST)",
+        "returningOfficerOffice": "Additional Deputy Commissioner, Ukhrul",
+        "sourcePage": 3,
+        "sourceRow": 19
+      },
+      {
+        "ac": 45,
+        "sourceLabel": "Chingai (ST)",
+        "returningOfficerOffice": "Additional Deputy Commissioner, Jessami",
+        "sourcePage": 3,
+        "sourceRow": 20
+      },
+      {
+        "ac": 46,
+        "sourceLabel": "Saikul (ST)",
+        "returningOfficerOffice": "Sub Divisional Officer, Saikul",
+        "sourcePage": 3,
+        "sourceRow": 21
+      },
+      {
+        "ac": 47,
+        "sourceLabel": "Karong (ST)",
+        "returningOfficerOffice": "Sub Divisional Officer, Purul",
+        "sourcePage": 3,
+        "sourceRow": 22
+      },
+      {
+        "ac": 48,
+        "sourceLabel": "Mao (ST)",
+        "returningOfficerOffice": "Sub Divisional Officer, Song Song",
+        "sourcePage": 3,
+        "sourceRow": 23
+      },
+      {
+        "ac": 49,
+        "sourceLabel": "Tadubi (ST)",
+        "returningOfficerOffice": "Sub Divisional Officer, Tadubi",
+        "sourcePage": 3,
+        "sourceRow": 24
+      },
+      {
+        "ac": 50,
+        "sourceLabel": "Kangpokpi",
+        "returningOfficerOffice": "Sub Divisional Officer, Kangpokpi",
+        "sourcePage": 3,
+        "sourceRow": 25
+      },
+      {
+        "ac": 51,
+        "sourceLabel": "Saitu (ST)",
+        "returningOfficerOffice": "Sub Divisional Officer, Saitu Gamphazol",
+        "sourcePage": 3,
+        "sourceRow": 26
+      },
+      {
+        "ac": 52,
+        "sourceLabel": "Tamei (ST)",
+        "returningOfficerOffice": "Sub Divisional Officer, Tamei",
+        "sourcePage": 3,
+        "sourceRow": 27
+      },
+      {
+        "ac": 53,
+        "sourceLabel": "Tamenglong (ST)",
+        "returningOfficerOffice": "Sub Divisional Officer, Tamenglong",
+        "sourcePage": 3,
+        "sourceRow": 28
+      },
+      {
+        "ac": 54,
+        "sourceLabel": "Nungba (ST)",
+        "returningOfficerOffice": "Additional Deputy Commissioner, Noney",
+        "sourcePage": 3,
+        "sourceRow": 29
+      },
+      {
+        "ac": 55,
+        "sourceLabel": "Tipaimukh (ST)",
+        "returningOfficerOffice": "Additional Deputy Commissioner, Pherzawl",
+        "sourcePage": 3,
+        "sourceRow": 30
+      },
+      {
+        "ac": 56,
+        "sourceLabel": "Thanlon (ST)",
+        "returningOfficerOffice": "Additional Deputy Commissioner, Mualnuam",
+        "sourcePage": 3,
+        "sourceRow": 31
+      },
+      {
+        "ac": 57,
+        "sourceLabel": "Henglep (ST)",
+        "returningOfficerOffice": "Sub Divisional Officer, Henglep",
+        "sourcePage": 3,
+        "sourceRow": 32
+      },
+      {
+        "ac": 58,
+        "sourceLabel": "Churachandpur (ST)",
+        "returningOfficerOffice": "Sub Divisional Officer, Churachandpur",
+        "sourcePage": 3,
+        "sourceRow": 33
+      },
+      {
+        "ac": 59,
+        "sourceLabel": "Saikot (ST)",
+        "returningOfficerOffice": "Sub Divisional Officer, Tuibong",
+        "sourcePage": 3,
+        "sourceRow": 34
+      },
+      {
+        "ac": 60,
+        "sourceLabel": "Singhat (ST)",
+        "returningOfficerOffice": "Sub Divisional Officer, Singhat",
+        "sourcePage": 3,
+        "sourceRow": 35
+      }
+    ]
+  },
+  "readiness": {
+    "probabilitiesAvailable": false,
+    "prospectiveForecastValidated": false,
+    "historicalInputsChanged": false
+  },
+  "limits": [
+    "Capture, notification, republication, Gazette publication and independently established effective dates are separate.",
+    "These administrative designations do not certify present officeholders, candidates, alliances or territorial boundaries.",
+    "All historical replay and feature snapshots remain unchanged; these2026 observations are not earlier-election predictors."
+  ]
+}

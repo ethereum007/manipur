@@ -1,0 +1,44 @@
+{
+  "createdAt": "2026-10-22T06:37:56.435458+00:00",
+  "cloudRun": "https://github.com/ethereum007/manipur/actions/runs/39735103791",
+  "scope": "Two bounded official administrative/aggregate PDF acquisitions. Native text and renders are review preparation, not verified derived data. No personal electoral-roll records acquired.",
+  "records": [
+    {
+      "id": "sir-final-2026",
+      "url": "https://ceomanipur.nic.in/Documents/PressNote/2026-2027/PRESS%20NOTE%20SIR%20FINAL%20EROLL%202026.pdf",
+      "capturedAt": "2026-10-22T06:37:50.843939+00:00",
+      "attempts": [],
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "d189b2962b498c18e027aa97d02a562a3b8b7c9013dd40446dcde319142614d9",
+      "bytes": 625055,
+      "pages": 3,
+      "nativePages": 0,
+      "selectedForVisualReview": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "ro-aro-2026",
+      "url": "https://ceomanipur.nic.in/Documents/gazette/2026/RO%20ARO%20Gazette-2026-240_EG_2026-27_15-10-2026.pdf",
+      "capturedAt": "2026-10-22T06:37:53.872721+00:00",
+      "attempts": [],
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "feca4938cb0ae30bcee155f011cc5cff776289f33706cafafa07bea80213ee9f",
+      "bytes": 437515,
+      "pages": 6,
+      "nativePages": 6,
+      "selectedForVisualReview": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ]
+}
