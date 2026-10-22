@@ -30,3 +30,8 @@ The user now prioritizes forecasting readiness while asking continued quality ac
 ## 22 October 2026 — financial batch four verified and deployed
 
 Nine selected financial comparisons / 18 field notes / 256 candidates without selected review / zero complete independent affidavit audits. Added AC13 Yumnam Khemchand Singh and AC18 Khoirom Binarani Devi; preserved incomplete asset totals and unresolved Nil-versus-ADR liability difference. Irengbam Hemochandra Singh explicitly deferred for unresolved financial-region location, with source available and no filing-deficiency inference. Cloud checks: 81 Node, 15 Python, 36 browser; 913 pages and 31,234 local references, zero errors. Four final desktop/mobile screenshots reviewed. Production JSON byte-matches repository. Receipt: [financial batch four](FINANCIAL_BATCH_FOUR_QA_2026-10-22.md). Continue bounded primary review queue; cadence active.
+
+
+## Financial batch five verified — 22 October 2026
+
+11 selected candidates /22field notes /254without comparison /0complete independent audits. Added AC18Laishram Nando Singh and Nongmaithem Herojit Singh. Ambiguous monetary notation, mixed N.A./Nil and contradictory Nil/nonzero asset headings preserved; both new primary asset totals null, Nando liability null. Four hash-bound financial-only regions and four cloud browser screenshots reviewed/retained. Run39772832627 passed82Node/15Python/38browser tests;913HTML/31,236references/zero errors. Production JSON byte-matches repository. QA:FINANCIAL_BATCH_FIVE_QA_2026-10-22.md. Next bounded pair AC19R.K.Rameshwar Singh and Sapam Kunjakeswor (Keba) Singh; no repeat of existing deferred source without new locator. Cadence ACTIVE; no2027probabilities.
