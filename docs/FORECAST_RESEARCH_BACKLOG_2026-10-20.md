@@ -148,3 +148,10 @@ Externally dependent effective affiliation dates, complete2027accepted nominatio
 ## Public review deferrals released — 22 October 2026
 
 Existing Irengbam source-available financial-location deferral now visible on the disclosure page, within the unchanged 256 pending denominator. No missing-document or disclosure-deficiency inference. Current coverage 9 selected candidates / 18 notes / zero complete independent audits. Source/readiness and historical benchmark phase complete within scope; continue bounded primary reviews, not invented probabilities. Cloud run39757317638 passed 81 Node/15 Python/37 browser checks, five PDF pages and 913-page static audit with zero errors; two cloud screenshots visually reviewed and production verified. See VISIBLE_REVIEW_DEFERRALS_QA_2026-10-22.md. Cadence ACTIVE.
+
+
+## Batch five source-location preparation — 22 October 2026
+
+Bounded metadata-only cloud run39764971744 succeeded for the next two unreviewed source-readable AC18 candidates: Laishram Nando Singh (17 pages; financial heading proposals on PDF13–14) and Nongmaithem Herojit Singh (24 pages; financial heading proposals on PDF22–23). Both fetched PDFs matched the previously captured SHA-256. Native-text readiness is not reliable extraction: Nando required OCR heading location. Manifest retained at docs/review/financial-batch-five-locator-2026-10-22.json. It contains only source identity/hash, page dimensions, heading markers and coordinates; no financial values or personal extracted text.
+
+Next bounded step: specify narrow financial-only regions, exclude names/signatures and nonfinancial sections, render in GitHub, visually compare selected cells before publishing any observations. No review counts or public values changed:9selected/18notes/256pending/0complete audits. No new forecast claims. Existing Irengbam deferral excluded from immediate repeated attempts. Cadence active.

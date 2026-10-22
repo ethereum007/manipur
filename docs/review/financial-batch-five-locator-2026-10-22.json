@@ -1,0 +1,259 @@
+[
+  {
+    "ac": 18,
+    "candidate": "Laishram Nando Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/18/Laishram%20Nando%20Singh.pdf",
+    "expectedSha256": "2689b3f760b765fff8df92b5d122004551a28998854a28913e586b72f0021473",
+    "selectionReason": "Next unreviewed native-text-present records by AC/name, excluding recorded location deferrals; convenience sample, not representative",
+    "clips": [],
+    "pages": 17,
+    "abstractPages": [
+      13
+    ],
+    "proposals": [
+      {
+        "page": 13,
+        "width": 595.2000122070312,
+        "height": 841.4400024414062,
+        "markers": [
+          {
+            "marker": "Assets",
+            "rect": [
+              186.09230769230768,
+              533.3538461538461,
+              209.35384615384615,
+              539.4461538461538
+            ]
+          },
+          {
+            "marker": "Moveable",
+            "rect": [
+              146.76923076923077,
+              584.8615384615384,
+              182.76923076923077,
+              590.9538461538461
+            ]
+          },
+          {
+            "marker": "Assets",
+            "rect": [
+              185.53846153846155,
+              584.8615384615384,
+              208.24615384615385,
+              590.9538461538461
+            ]
+          },
+          {
+            "marker": "Immovable",
+            "rect": [
+              146.76923076923077,
+              613.6615384615385,
+              188.30769230769232,
+              620.3076923076923
+            ]
+          },
+          {
+            "marker": "immovable",
+            "rect": [
+              201.04615384615386,
+              645.7846153846153,
+              239.8153846153846,
+              652.4307692307692
+            ]
+          },
+          {
+            "marker": "immovable",
+            "rect": [
+              194.4,
+              685.1076923076923,
+              233.16923076923078,
+              691.7538461538461
+            ]
+          }
+        ],
+        "locator": "OCR headings only, not verified values"
+      },
+      {
+        "page": 14,
+        "width": 595.2000122070312,
+        "height": 841.4400024414062,
+        "markers": [
+          {
+            "marker": "Liabilities",
+            "rect": [
+              159.5076923076923,
+              168.36923076923077,
+              196.06153846153848,
+              175.56923076923076
+            ]
+          },
+          {
+            "marker": "educational",
+            "rect": [
+              203.8153846153846,
+              282.46153846153845,
+              247.01538461538462,
+              289.10769230769233
+            ]
+          },
+          {
+            "marker": "education",
+            "rect": [
+              322.89230769230767,
+              329.53846153846155,
+              356.67692307692306,
+              336.73846153846154
+            ]
+          }
+        ],
+        "locator": "OCR headings only, not verified values"
+      },
+      {
+        "page": 15,
+        "width": 595.2000122070312,
+        "height": 841.4400024414062,
+        "markers": [
+          {
+            "marker": "liability,",
+            "rect": [
+              412.0615384615385,
+              206.03076923076924,
+              440.8615384615385,
+              214.8923076923077
+            ]
+          }
+        ],
+        "locator": "OCR headings only, not verified values"
+      }
+    ],
+    "scope": "Headings and coordinates only. No financial values, full-page text, personal identifiers or rendered images exported. Fixed crops require separate specification."
+  },
+  {
+    "ac": 18,
+    "candidate": "Nongmaithem Herojit Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/18/Nongmaithem%20Herojit%20Singh.pdf",
+    "expectedSha256": "399836d742a00c3fe7cb108db98b9225efc4b1b2f57ba51810d9b474eb46a16c",
+    "selectionReason": "Next unreviewed native-text-present records by AC/name, excluding recorded location deferrals; convenience sample, not representative",
+    "clips": [],
+    "pages": 24,
+    "abstractPages": [
+      21
+    ],
+    "proposals": [
+      {
+        "page": 21,
+        "width": 595.2000122070312,
+        "height": 841.4400024414062,
+        "markers": [],
+        "locator": "native heading coordinates only"
+      },
+      {
+        "page": 22,
+        "width": 595.2000122070312,
+        "height": 841.4400024414062,
+        "markers": [
+          {
+            "marker": "Liabilitie5",
+            "rect": [
+              269.760009765625,
+              128.33497619628906,
+              315.6079406738281,
+              143.448974609375
+            ]
+          },
+          {
+            "marker": "Moveable",
+            "rect": [
+              164.63999938964844,
+              232.9175262451172,
+              214.4924774169922,
+              248.71853637695312
+            ]
+          },
+          {
+            "marker": "immovable",
+            "rect": [
+              164.16000366210938,
+              317.3399963378906,
+              222.16799926757812,
+              333.8280029296875
+            ]
+          },
+          {
+            "marker": "immovable",
+            "rect": [
+              164.16000366210938,
+              366.7799987792969,
+              222.16799926757812,
+              383.26800537109375
+            ]
+          },
+          {
+            "marker": "assets",
+            "rect": [
+              185.27999877929688,
+              468.7699890136719,
+              214.17999267578125,
+              482.5099792480469
+            ]
+          },
+          {
+            "marker": "Liabilitiet",
+            "rect": [
+              163.1999969482422,
+              536.699951171875,
+              209.87998962402344,
+              553.18798828125
+            ]
+          }
+        ],
+        "locator": "native heading coordinates only"
+      },
+      {
+        "page": 23,
+        "width": 595.2000122070312,
+        "height": 841.4400024414062,
+        "markers": [
+          {
+            "marker": "Liabilities",
+            "rect": [
+              169.9199981689453,
+              127.85499572753906,
+              215.15199279785156,
+              142.968994140625
+            ]
+          },
+          {
+            "marker": "educational",
+            "rect": [
+              190.55999755859375,
+              297.23748779296875,
+              249.3709716796875,
+              313.0384826660156
+            ]
+          },
+          {
+            "marker": "education",
+            "rect": [
+              365.2799987792969,
+              364.4375,
+              415.1440734863281,
+              380.2384948730469
+            ]
+          },
+          {
+            "marker": "liability,",
+            "rect": [
+              458.8800048828125,
+              617.8199462890625,
+              498.21600341796875,
+              634.3079833984375
+            ]
+          }
+        ],
+        "locator": "native heading coordinates only"
+      }
+    ],
+    "scope": "Headings and coordinates only. No financial values, full-page text, personal identifiers or rendered images exported. Fixed crops require separate specification."
+  }
+]
