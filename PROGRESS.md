@@ -110,3 +110,12 @@ Published sixty source-located 2007/2012 AC entries, sixty reservation agreement
 Production code 5a0cb872f0d2c1fd16bb6be04ba7d994bb83e0a8; successful Actions 39718694646: 63 Node / 15 Python / 31 browser tests, five PDF pages, 912 HTML / 31,183 references / zero errors. Six source-page and three final browser screenshots retained; production page and three exports verified HTTP 200. See SEAT_SOURCE_ACCEPTANCE_QA_2026-10-22.md.
 
 Next finite phase: implement the frozen separate 2007-to-2012 replay with detached prior-only predictions, common fifty-seat comparison, separate full denominators, seat errors/exclusions and leakage tests. Preserve existing goldens. Historical vintage and prospective validation remain false. Financial selected coverage remains five candidates / ten notes / zero complete audits. Cadence ACTIVE.
+
+
+## Earlier historical replay released — 22 October 2026 IST
+
+Frozen 2007→2012 protocol implemented in a separate report and validation-lab panel. Prior-seat party matches 22/50 and prior statewide leader 35/50 on the identical common cohort; statewide full eligibility is 42/60. Ten prior IND seats remain explicit exclusions from the main comparison. All sixty predictions/errors and exact source/protocol/implementation fingerprints published. Predictions detached before target file opens; existing two-window/context golden reports unchanged.
+
+Production code 0ab55e765492026f5049c5b4b9dfc6cb3c54acbc, successful Actions 39723399172: 70 Node / 15 Python / 32 browser tests, five-page PDF, 912 HTML / 31,187 references / zero errors. Five cloud screenshots reviewed/retained; production JSON matches cloud bytes. See FORECAST_2007_REPLAY_QA_2026-10-22.md. Three retrospective transitions do not establish calibration, historical vintage or prospective 2027 validity. Six numerical exceptions and thirteen name differences remain.
+
+Next finite phase: reconcile integrated readiness across the three transitions and their different protocols/cohorts; bounded current affiliation/nomination/alliance source availability with explicit effective dates/missing inputs. Continue the next two fixed-region financial reviews secondarily; current selected coverage 5/265, ten notes, zero complete audits. All work remains in GitHub. Cadence ACTIVE.
