@@ -23,6 +23,6 @@ for t in targets:
      if any(re.search(r'abstract',w['text'],re.I)for w in words):abstract.append(i+1)
      markers=[{'marker':w['text'],'rect':[float(w['left'])*72/130,float(w['top'])*72/130,(float(w['left'])+float(w['width']))*72/130,(float(w['top'])+float(w['height']))*72/130]}for w in words if marker_pattern.search(w['text'])]
      candidates.append({'page':i+1,'width':p.rect.width,'height':p.rect.height,'markers':markers,'locator':'OCR headings only, not verified values'})
-   proposals=[p for p in candidates if any(a<=p['page']<=a+2 for a in abstract)]
+   proposals=[p for p in candidates if any(a<=p['page']<=a+2 for a in abstract)] if abstract else [p for p in candidates[-8:] if p['markers']]
   report.append({**t,'pages':len(doc),'abstractPages':abstract,'proposals':proposals,'scope':'Headings and coordinates only. No financial values, full-page text, personal identifiers or rendered images exported. Fixed crops require separate specification.'})
 (out/'manifest.json').write_text(json.dumps(report,indent=2));print(json.dumps([{'candidate':r['candidate'],'abstractPages':r['abstractPages']}for r in report]))

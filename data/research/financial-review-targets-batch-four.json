@@ -13,6 +13,27 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/13/Yumnam%20Khemchand%20Singh.pdf",
     "expectedSha256": "52b9a9953f974be2c73e20a8ebed10a960e09a505024c03597e9d40749c484bb",
     "selectionReason": "Next two previously unreviewed source-readable records by AC/name; convenience sample, not representative selection",
-    "clips": []
+    "clips": [
+      {
+        "page": 15,
+        "id": "self-spouse-headers",
+        "rect": [
+          80,
+          245,
+          360,
+          283
+        ]
+      },
+      {
+        "page": 15,
+        "id": "financial-rows",
+        "rect": [
+          80,
+          285,
+          540,
+          615
+        ]
+      }
+    ]
   }
 ]
