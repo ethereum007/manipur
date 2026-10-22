@@ -5,7 +5,28 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/18/Laishram%20Nando%20Singh.pdf",
     "expectedSha256": "2689b3f760b765fff8df92b5d122004551a28998854a28913e586b72f0021473",
     "selectionReason": "Next unreviewed native-text-present records by AC/name, excluding recorded location deferrals; convenience sample, not representative",
-    "clips": []
+    "clips": [
+      {
+        "page": 13,
+        "id": "asset-rows",
+        "rect": [
+          130,
+          580,
+          580,
+          735
+        ]
+      },
+      {
+        "page": 14,
+        "id": "liability-rows",
+        "rect": [
+          130,
+          105,
+          580,
+          245
+        ]
+      }
+    ]
   },
   {
     "ac": 18,
@@ -13,6 +34,27 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/18/Nongmaithem%20Herojit%20Singh.pdf",
     "expectedSha256": "399836d742a00c3fe7cb108db98b9225efc4b1b2f57ba51810d9b474eb46a16c",
     "selectionReason": "Next unreviewed native-text-present records by AC/name, excluding recorded location deferrals; convenience sample, not representative",
-    "clips": []
+    "clips": [
+      {
+        "page": 22,
+        "id": "asset-liability-rows",
+        "rect": [
+          145,
+          230,
+          580,
+          625
+        ]
+      },
+      {
+        "page": 23,
+        "id": "liability-continuation",
+        "rect": [
+          145,
+          110,
+          580,
+          260
+        ]
+      }
+    ]
   }
 ]
