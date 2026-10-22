@@ -4,13 +4,43 @@
     "candidate": "Maheshwar Thounaojam",
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/12/Maheshwar%20Thounaojam.pdf",
     "expectedSha256": "27af7909e7934ad04de1a25e8820bbcea4596024cba095ae76a0371fb4327357",
-    "selectionReason": "Next two previously unreviewed source-native PDFs by AC/name order after excluding existing selected financial reviews; document-readability convenience, not a representative or political sample"
+    "selectionReason": "Next two previously unreviewed source-native PDFs by AC/name order after excluding existing selected financial reviews; document-readability convenience, not a representative or political sample",
+    "clips": [
+      {
+        "page": 16,
+        "rect": [
+          80,
+          530,
+          595,
+          710
+        ]
+      },
+      {
+        "page": 17,
+        "rect": [
+          80,
+          190,
+          600,
+          730
+        ]
+      },
+      {
+        "page": 18,
+        "rect": [
+          80,
+          350,
+          595,
+          525
+        ]
+      }
+    ]
   },
   {
     "ac": 12,
     "candidate": "Nishikant Sapam",
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/12/SAPAM%20NISHIKANT%20SINGH.pdf",
     "expectedSha256": "3e6c3c750afeed48b6989f26db3d8cc38b2453109330802ca91544456546ae72",
-    "selectionReason": "Next two previously unreviewed source-native PDFs by AC/name order after excluding existing selected financial reviews; document-readability convenience, not a representative or political sample"
+    "selectionReason": "Next two previously unreviewed source-native PDFs by AC/name order after excluding existing selected financial reviews; document-readability convenience, not a representative or political sample",
+    "clips": []
   }
 ]

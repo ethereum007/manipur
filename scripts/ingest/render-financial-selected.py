@@ -1,6 +1,6 @@
 from pathlib import Path
-import json,requests,pymupdf,hashlib
-spec=json.loads(Path('data/research/financial-review-targets-batch-two.json').read_text());out=Path('work-financial-review');out.mkdir(exist_ok=True);report=[]
+import json,requests,pymupdf,hashlib,os
+spec=json.loads(Path(os.environ.get('FINANCIAL_TARGETS','data/research/financial-review-targets-batch-two.json')).read_text());out=Path('work-financial-review');out.mkdir(exist_ok=True);report=[]
 for t in spec:
  response=requests.get(t['url'],timeout=180);response.raise_for_status();raw=response.content;sha=hashlib.sha256(raw).hexdigest();assert sha==t['expectedSha256']
  with pymupdf.open(stream=raw,filetype='pdf') as doc:
