@@ -93,3 +93,6 @@ for filename in ['assembly-2007-2012-seat-lineage.json','assembly-2007-2012-sour
  (p/'data'/filename).write_text((root/'data/research'/filename).read_text(),encoding='utf-8')
 
 (p/'data/forecast-2007-replay.json').write_text((root/'data/research/forecast-2007-replay.json').read_text(),encoding='utf-8')
+
+for filename in ['forecast-evaluation-inventory.json','current-source-index-audit.json']:
+ (p/'data'/filename).write_text((root/'data/research'/filename).read_text(),encoding='utf-8')

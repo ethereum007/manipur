@@ -1,16 +1,16 @@
 {
-  "reviewedAt": "2026-10-21",
+  "reviewedAt": "2026-10-22",
   "publicationStatus": "Historical benchmark research only; calibrated 2027 probability model unavailable",
   "gates": [
     {
       "name": "Historical Assembly targets",
       "status": "available",
-      "evidence": "Independent winning-party register: 60 seats for each of 2012, 2017 and 2022. Full candidate contest coverage is a separate dataset."
+      "evidence": "Independent winning-party targets cover all sixty seats in 2012, 2017 and 2022. The original sixty-seat 2007 elected-member register separately supplies an earlier predictor. Full candidate-vote coverage and territorial certification remain separate questions."
     },
     {
       "name": "Reproducible reference rules",
       "status": "available",
-      "evidence": "Two retrospective transitions, fixed prior-party and statewide-seat-leader rules, same-cohort comparison and seat-level errors."
+      "evidence": "Three retrospective Assembly transitions (2007→2012, 2012→2017, 2017→2022), separate frozen protocols, same-cohort comparisons and all seat errors. The statewide tie policy differs across protocols and remains explicit. Existing reports are unchanged."
     },
     {
       "name": "Historical Parliamentary context comparison",
@@ -20,12 +20,12 @@
     {
       "name": "Dated current membership",
       "status": "partial",
-      "evidence": "All 60 official-directory entries captured; individual effective dates are not supplied. Directory labels are not certified current membership."
+      "evidence": "Sixty directory entries captured on 20 October; individual effective dates remain unavailable. Bounded 22 October source check confirms the party-position page prints 11 September 2025 while its site footer prints 5 October 2026. Neither capture nor footer certifies current affiliations."
     },
     {
       "name": "2027 candidate and alliance inputs",
       "status": "not-ready",
-      "evidence": "No complete verified, dated nomination and alliance dataset is indexed. Missing information is not an assumption that no announcements exist."
+      "evidence": "No complete verified, dated 2027 nomination or alliance set is indexed. Three official index pages were checked on 22 October; historical candidate/nomination links are not a 2027 slate. This bounded search does not prove no announcements exist elsewhere."
     },
     {
       "name": "Representative opinion inputs",
@@ -35,7 +35,7 @@
     {
       "name": "Additional independent evaluation windows",
       "status": "partial",
-      "evidence": "Only two Assembly transitions are available here. Seats within an election are correlated; do not interpret 119 comparable rows as 119 independent elections."
+      "evidence": "Three distinct Assembly transitions; five evaluation views because the two Parliamentary-context comparisons reuse 2017/2022 targets. These are not five independent election windows. Correlated seats and retrospective protocol writing do not establish calibration."
     },
     {
       "name": "Probability estimation and calibration",
@@ -47,5 +47,7 @@
       "status": "not-ready",
       "evidence": "These rules were replayed after outcomes were known. They were not pre-registered election predictions."
     }
-  ]
+  ],
+  "evaluationInventory": "/data/forecast-evaluation-inventory.json",
+  "currentSourceAudit": "/data/current-source-index-audit.json"
 }

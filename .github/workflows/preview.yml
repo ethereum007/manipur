@@ -42,6 +42,7 @@ jobs:
       - run: node scripts/build-forecast-validation.mjs
       - run: node scripts/build-context-validation.mjs
       - run: node scripts/build-2007-replay.mjs
+      - run: node scripts/build-evaluation-inventory.mjs
       - run: node scripts/validate-data.mjs
       - run: python scripts/ingest/test_reconcile_2007.py
       - run: python scripts/ingest/reconcile-2007.py --check

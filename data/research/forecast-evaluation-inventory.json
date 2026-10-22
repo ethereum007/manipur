@@ -1,0 +1,523 @@
+{
+  "schemaVersion": 1,
+  "reviewedAt": "2026-10-22",
+  "kind": "Reconciled evaluation inventory, not a pooled model leaderboard or prospective forecast",
+  "distinctAssemblyTransitions": 3,
+  "distinctTargetYears": [
+    2012,
+    2017,
+    2022
+  ],
+  "evaluationViews": 5,
+  "additionalIndependentTransitionsFromContext": 0,
+  "pooledScoreAvailable": false,
+  "readiness": {
+    "historicalPublicationVersionVerified": false,
+    "prospectiveForecastValidated": false,
+    "probabilitiesAvailable": false,
+    "calibrationApproved": false
+  },
+  "rules": {
+    "repeat": "Prior Assembly seat-party code; IND abstains",
+    "statewide": "Prior statewide Assembly seat leader; policy differs across frozen protocols",
+    "parliament": "Prior Parliamentary segment leading party; never an Assembly target"
+  },
+  "windows": [
+    {
+      "id": "assembly-2007-2012",
+      "family": "Assembly-only",
+      "trainingYear": 2007,
+      "targetYear": 2012,
+      "parliamentYear": null,
+      "commonACs": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        46,
+        47,
+        50,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "excludedACs": [
+        19,
+        42,
+        43,
+        44,
+        45,
+        48,
+        49,
+        51,
+        52,
+        53
+      ],
+      "common": {
+        "repeat": {
+          "correct": 22,
+          "total": 50
+        },
+        "statewide": {
+          "correct": 35,
+          "total": 50
+        }
+      },
+      "fullEligibility": {
+        "repeat": {
+          "correct": 22,
+          "total": 50
+        },
+        "statewide": {
+          "correct": 42,
+          "total": 60
+        }
+      },
+      "protocolPolicy": "Unique non-IND statewide seat leader; tie or no eligible party abstains. Prior IND seat repeat abstains.",
+      "sourcePath": "data/research/forecast-2007-replay.json",
+      "detailPath": "/outlook/validation/#replay-2007-2012"
+    },
+    {
+      "id": "assembly-2012-2017",
+      "family": "Assembly-only",
+      "trainingYear": 2012,
+      "targetYear": 2017,
+      "parliamentYear": null,
+      "commonACs": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "excludedACs": [],
+      "common": {
+        "repeat": {
+          "correct": 23,
+          "total": 60
+        },
+        "statewide": {
+          "correct": 28,
+          "total": 60
+        }
+      },
+      "fullEligibility": {
+        "repeat": {
+          "correct": 23,
+          "total": 60
+        },
+        "statewide": {
+          "correct": 28,
+          "total": 60
+        }
+      },
+      "protocolPolicy": "Prior statewide seat leader; alphabetical tie break. Prior IND seat repeat abstains.",
+      "sourcePath": "data/research/forecast-validation.json",
+      "detailPath": "/outlook/validation/#replay"
+    },
+    {
+      "id": "assembly-2017-2022",
+      "family": "Assembly-only",
+      "trainingYear": 2017,
+      "targetYear": 2022,
+      "parliamentYear": null,
+      "commonACs": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "excludedACs": [
+        40
+      ],
+      "common": {
+        "repeat": {
+          "correct": 26,
+          "total": 59
+        },
+        "statewide": {
+          "correct": 5,
+          "total": 59
+        }
+      },
+      "fullEligibility": {
+        "repeat": {
+          "correct": 26,
+          "total": 59
+        },
+        "statewide": {
+          "correct": 5,
+          "total": 60
+        }
+      },
+      "protocolPolicy": "Prior statewide seat leader; alphabetical tie break. Prior IND seat repeat abstains.",
+      "sourcePath": "data/research/forecast-validation.json",
+      "detailPath": "/outlook/validation/#replay"
+    },
+    {
+      "id": "context-2017",
+      "family": "Parliamentary context",
+      "trainingYear": 2012,
+      "targetYear": 2017,
+      "parliamentYear": 2014,
+      "commonACs": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "excludedACs": [],
+      "common": {
+        "repeat": {
+          "correct": 23,
+          "total": 60
+        },
+        "statewide": {
+          "correct": 28,
+          "total": 60
+        },
+        "parliament": {
+          "correct": 26,
+          "total": 60
+        }
+      },
+      "fullEligibility": {
+        "repeat": {
+          "correct": 23,
+          "total": 60
+        },
+        "statewide": {
+          "correct": 28,
+          "total": 60
+        },
+        "parliament": {
+          "correct": 26,
+          "total": 60
+        }
+      },
+      "protocolPolicy": "Three-rule common cohort; prior IND and unavailable or tied Parliamentary leads abstain. Parliamentary observations are context; targets remain Assembly winners.",
+      "sourcePath": "data/research/forecast-context-validation.json",
+      "detailPath": "/outlook/context"
+    },
+    {
+      "id": "context-2022",
+      "family": "Parliamentary context",
+      "trainingYear": 2017,
+      "targetYear": 2022,
+      "parliamentYear": 2019,
+      "commonACs": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        58,
+        59,
+        60
+      ],
+      "excludedACs": [
+        40,
+        57
+      ],
+      "common": {
+        "repeat": {
+          "correct": 25,
+          "total": 58
+        },
+        "statewide": {
+          "correct": 5,
+          "total": 58
+        },
+        "parliament": {
+          "correct": 27,
+          "total": 58
+        }
+      },
+      "fullEligibility": {
+        "repeat": {
+          "correct": 26,
+          "total": 59
+        },
+        "statewide": {
+          "correct": 5,
+          "total": 60
+        },
+        "parliament": {
+          "correct": 27,
+          "total": 59
+        }
+      },
+      "protocolPolicy": "Three-rule common cohort; prior IND and unavailable or tied Parliamentary leads abstain. Parliamentary observations are context; targets remain Assembly winners.",
+      "sourcePath": "data/research/forecast-context-validation.json",
+      "detailPath": "/outlook/context"
+    }
+  ],
+  "limits": [
+    "The two context views reuse 2017 and 2022 targets; they do not create two additional independent election transitions.",
+    "Common cohorts differ across views. Compare rules within the same row; retain each full-eligibility denominator separately.",
+    "No pooled accuracy, confidence interval or calibrated win probability is computed.",
+    "Protocols were authored retrospectively after outcomes were available.",
+    "An additional historical transition does not supply dated 2027 nominations, alliances, representative opinion data or original source-vintage proof."
+  ],
+  "inputFingerprints": {
+    "data/research/forecast-validation.json": "b833d8720882ffe9d14681a890ba61e5b5f46de5a3f40721d9248336c38e8641",
+    "data/research/forecast-2007-replay.json": "cf4c1b58045dc83e94f53dad0e15b30fe2c84916e3127a3cc1a80dba6a0074cd",
+    "data/research/forecast-context-validation.json": "cb78b508bcdd69228769ed92eedf32381e239f72debdba1650d53d8a90444a52"
+  }
+}

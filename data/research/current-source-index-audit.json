@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "reviewedAt": "2026-10-22",
+  "kind": "Bounded official-index capture; selected headings and links only",
+  "limits": [
+    "Full HTML hashed in the cloud but not exported or retained; no personal contact fields extracted.",
+    "Capture date is not event, effective or original publication date.",
+    "An absent indexed item is not proof that no announcement exists elsewhere.",
+    "A party-position page is neither a 2027 alliance nor a candidate nomination.",
+    "Linked documents are unreviewed leads until separately acquired and checked."
+  ],
+  "records": [
+    {
+      "id": "candidate-index",
+      "url": "https://ceomanipur.nic.in/candidates",
+      "capturedAt": "2026-10-22T05:30:34.436894+00:00",
+      "scope": "Bounded official index observation, not a comprehensive nomination/alliance search or certified current membership",
+      "status": 200,
+      "finalUrl": "https://ceomanipur.nic.in/candidates",
+      "sha256": "88d9f1694d5a0762ced6069247f2aa8b1073c71b4c4ff3d1c7484281228c289b",
+      "bytes": 47414,
+      "headings": [
+        "Candidates Information"
+      ],
+      "selectedIndexLinks": [
+        {
+          "label": "Candidate Information",
+          "url": "https://ceomanipur.nic.in/candidates.aspx"
+        },
+        {
+          "label": "View Candidate Information",
+          "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/ge_2022.aspx"
+        },
+        {
+          "label": "List of Contesting Candidates",
+          "url": "https://ceomanipur.nic.in/Candidate/AssemblyElection/assembly2012.aspx"
+        }
+      ],
+      "linkSelectionRule": "First 30 anchors matching 2027, nomination, candidate-information/contesting-candidates, selected October-2026 Gazette title or SIR-2026 labels; links are leads, not reviewed underlying documents.",
+      "rawHtmlRetained": false
+    },
+    {
+      "id": "party-position",
+      "url": "https://assembly.mn.gov.in/members/party-position",
+      "capturedAt": "2026-10-22T05:30:35.546798+00:00",
+      "scope": "Bounded official index observation, not a comprehensive nomination/alliance search or certified current membership",
+      "status": 200,
+      "finalUrl": "https://assembly.mn.gov.in/members/party-position",
+      "sha256": "1a24a97111e28831a9ddd5416e5e8d0aab2068703f35e1758d912653aa762485",
+      "bytes": 36254,
+      "headings": [
+        "Party Position",
+        "Party Position of the 12th Manipur Legislative Assembly"
+      ],
+      "printedAsOf": "As on 11 September, 2025",
+      "siteUpdatedText": "Website last updated on: 5 October, 2026",
+      "selectedIndexLinks": [],
+      "linkSelectionRule": "First 30 anchors matching 2027, nomination, candidate-information/contesting-candidates, selected October-2026 Gazette title or SIR-2026 labels; links are leads, not reviewed underlying documents.",
+      "rawHtmlRetained": false
+    },
+    {
+      "id": "ceo-notifications",
+      "url": "https://ceomanipur.nic.in/",
+      "capturedAt": "2026-10-22T05:30:37.033736+00:00",
+      "scope": "Bounded official index observation, not a comprehensive nomination/alliance search or certified current membership",
+      "status": 200,
+      "finalUrl": "https://ceomanipur.nic.in/",
+      "sha256": "e4a4b10269ca70abc6ff9508cbdb6b722c72c8b2ae0a95e875a26b12af5b67c0",
+      "bytes": 216664,
+      "headings": [
+        "Media Corner",
+        "FAQ",
+        "State Profile",
+        "Photo Gallery",
+        "Press Releases",
+        "Digital Library",
+        "REPORT",
+        "REPORT",
+        "Chacha Chaudhary",
+        "VOICE International",
+        "SVEEP",
+        "REPORT",
+        "ECINet Websites and Portals",
+        "Mobile Apps",
+        "VIDEOS FOR MORE INFO",
+        "Register to Vote Today",
+        "I AM READY",
+        "Power of 18 Anthem",
+        "PwD Voters",
+        "VVPAT",
+        "Get Registered to Vote"
+      ],
+      "selectedIndexLinks": [
+        {
+          "label": "SIR Electoral Roll 2026 without photo as of July 1, 2026",
+          "url": "https://ceomanipur.nic.in/eroll.aspx"
+        },
+        {
+          "label": "SIR 2026 Absent, Shifted, Deleted and Duplicate(ASDD) and Minutes of Meeting Of BLO-BLA meeting(MOM)",
+          "url": "https://ceomanipur.nic.in/sir_report.aspx"
+        },
+        {
+          "label": "View - SIR Electoral Roll 2026 NEW",
+          "url": "https://ceomanipur.nic.in/eroll.aspx"
+        },
+        {
+          "label": "SIR Electoral Roll 2026 on Citizen Service Portal",
+          "url": "https://voters.eci.gov.in/download-eroll?stateCode=S14"
+        },
+        {
+          "label": "Special Intensive Revision (SIR) 2026 NEW",
+          "url": "https://ceomanipur.nic.in/sir.aspx"
+        },
+        {
+          "label": "SIR 2026 ASDD and MOM NEW",
+          "url": "https://ceomanipur.nic.in/sir_report.aspx"
+        },
+        {
+          "label": "List of Contesting Candidates",
+          "url": "https://ceomanipur.nic.in/candidates.aspx"
+        },
+        {
+          "label": "Gazette Notification No. 240 dated 15 October 2026 – Designation of Returning Officers and Assistant Returning Officers for the Assembly Constituencies",
+          "url": "https://ceomanipur.nic.in/Documents/gazette/2026/RO ARO Gazette-2026-240_EG_2026-27_15-10-2026.pdf"
+        },
+        {
+          "label": "Press Note SIR Final Electoral Roll 2026",
+          "url": "https://ceomanipur.nic.in/Documents/PressNote/2026-2027/PRESS NOTE SIR FINAL EROLL 2026.pdf"
+        },
+        {
+          "label": "Press Note SIR Draft Electoral Roll 2026",
+          "url": "https://ceomanipur.nic.in/Documents/PressNote/2026-2027/SIR Draft Publication Press Release 2026.pdf"
+        },
+        {
+          "label": "Press Note Special Intensive Revision (SIR) 2026",
+          "url": "https://ceomanipur.nic.in/Documents/SIR/SIR Press-Note 29th May 2026.pdf"
+        },
+        {
+          "label": "Press Note Special Intensive Revision (SIR) 2026",
+          "url": "https://ceomanipur.nic.in/Documents/PressNote/2026-2027/PRESS NOTE-SIR PHASE III.pdf"
+        },
+        {
+          "label": "Nomination of Candidates",
+          "url": "https://ceomanipur.nic.in/Documents/PressNote/2021-2022/10.02.2022 Candidate Nominations.pdf"
+        }
+      ],
+      "linkSelectionRule": "First 30 anchors matching 2027, nomination, candidate-information/contesting-candidates, selected October-2026 Gazette title or SIR-2026 labels; links are leads, not reviewed underlying documents.",
+      "rawHtmlRetained": false
+    }
+  ]
+}
