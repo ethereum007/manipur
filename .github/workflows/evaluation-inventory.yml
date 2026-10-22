@@ -1,0 +1,20 @@
+name: Reconciled evaluation inventory QA
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  inventory:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node --test tests/evaluation-inventory.test.mjs
+      - run: node scripts/build-evaluation-inventory.mjs --write
+      - run: node scripts/build-evaluation-inventory.mjs
+      - uses: actions/upload-artifact@v4
+        with:
+          name: evaluation-inventory
+          path: data/research/forecast-evaluation-inventory.json
