@@ -1,0 +1,2342 @@
+{
+  "schemaVersion": 1,
+  "id": "manipur-2007-2012-reference-replay-v1",
+  "reviewedAt": "2026-10-22",
+  "scope": "Retrospective original-register winner-party replay; not prospective validation or certified territorial geometry",
+  "protocol": {
+    "path": "data/research/forecast-protocol-2007-2012.json",
+    "sha256": "281b8766ed25af834e44c891f7fed02f171e64f3fd479e7d88df0c4f150e113c",
+    "frozenRevision": "485e97c4a8a1d4badfa8eaaf89700d3b1fdfedb5"
+  },
+  "fingerprints": {
+    "predictor": "1fd272a2bcb4c4e4c818aedeed5c14d2b7c38383103ccf34165e9a17db212241",
+    "target": "cba5b2aec5f6018cb7ce3a3fd2ddca30f66c8b74de9bc2a6ffb8852897432803",
+    "lineage": "5cd48a8ec545d2b7669f529f927546fbabfac8673b1e92aeea321048255da0cc",
+    "acceptance": "7254292ded13c9689d2313e426fbd966c57da4717a231997456ab0e60ba43008",
+    "engine": "6cca3efb2b7e55b39b397fd609fd8d2695f3ccdec29e2031836f35785e12c371",
+    "builder": "ef5238c5208aa2ddc2bacc69c5be32b51b43bcc32f61f95eb126133fc68b5f8b",
+    "detachedPredictions": "e10853991d95bd989ba9886f77e9374b8b06e92670a3e25cfbe3f9fa231ac624"
+  },
+  "readiness": {
+    "historicalPublicationVersionVerified": false,
+    "prospectiveForecastValidated": false,
+    "probabilitiesAvailable": false,
+    "calibrationApproved": false
+  },
+  "limitations": [
+    "Protocol written after past outcomes and earlier benchmark scores were available; this is a retrospective reconstruction, not an unseen test.",
+    "Additional seats within one transition are not independent historical election windows. Another transition alone does not establish calibration.",
+    "Documentary AC concordance is distinct from certified territorial geometry.",
+    "All six withheld 2007 numerical tables and thirteen candidate-name differences remain unresolved; this replay uses the separate elected-member register."
+  ],
+  "detachedPredictions": {
+    "trainingYear": 2007,
+    "targetYear": 2012,
+    "nonIndependentSeatCounts": {
+      "NCP": 5,
+      "INC": 30,
+      "MPP": 5,
+      "CPI": 4,
+      "RJD": 3,
+      "NPP": 3
+    },
+    "statewideParty": "INC",
+    "rows": [
+      {
+        "ac": 1,
+        "priorParty": "NCP",
+        "predictions": {
+          "prior-seat-party": "NCP",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 2,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 3,
+        "priorParty": "MPP",
+        "predictions": {
+          "prior-seat-party": "MPP",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 4,
+        "priorParty": "NCP",
+        "predictions": {
+          "prior-seat-party": "NCP",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 5,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 6,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 7,
+        "priorParty": "MPP",
+        "predictions": {
+          "prior-seat-party": "MPP",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 8,
+        "priorParty": "CPI",
+        "predictions": {
+          "prior-seat-party": "CPI",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 9,
+        "priorParty": "NCP",
+        "predictions": {
+          "prior-seat-party": "NCP",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 10,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 11,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 12,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 13,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 14,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 15,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 16,
+        "priorParty": "CPI",
+        "predictions": {
+          "prior-seat-party": "CPI",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 17,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 18,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 19,
+        "priorParty": "IND",
+        "predictions": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": "Prior IND is not a continuous party or a verified person match",
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 20,
+        "priorParty": "MPP",
+        "predictions": {
+          "prior-seat-party": "MPP",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 21,
+        "priorParty": "MPP",
+        "predictions": {
+          "prior-seat-party": "MPP",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 22,
+        "priorParty": "NCP",
+        "predictions": {
+          "prior-seat-party": "NCP",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 23,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 24,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 25,
+        "priorParty": "MPP",
+        "predictions": {
+          "prior-seat-party": "MPP",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 26,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 27,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 28,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 29,
+        "priorParty": "CPI",
+        "predictions": {
+          "prior-seat-party": "CPI",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 30,
+        "priorParty": "RJD",
+        "predictions": {
+          "prior-seat-party": "RJD",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 31,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 32,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 33,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 34,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 35,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 36,
+        "priorParty": "CPI",
+        "predictions": {
+          "prior-seat-party": "CPI",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 37,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 38,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 39,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 40,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 41,
+        "priorParty": "RJD",
+        "predictions": {
+          "prior-seat-party": "RJD",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 42,
+        "priorParty": "IND",
+        "predictions": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": "Prior IND is not a continuous party or a verified person match",
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 43,
+        "priorParty": "IND",
+        "predictions": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": "Prior IND is not a continuous party or a verified person match",
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 44,
+        "priorParty": "IND",
+        "predictions": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": "Prior IND is not a continuous party or a verified person match",
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 45,
+        "priorParty": "IND",
+        "predictions": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": "Prior IND is not a continuous party or a verified person match",
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 46,
+        "priorParty": "NCP",
+        "predictions": {
+          "prior-seat-party": "NCP",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 47,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 48,
+        "priorParty": "IND",
+        "predictions": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": "Prior IND is not a continuous party or a verified person match",
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 49,
+        "priorParty": "IND",
+        "predictions": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": "Prior IND is not a continuous party or a verified person match",
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 50,
+        "priorParty": "NPP",
+        "predictions": {
+          "prior-seat-party": "NPP",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 51,
+        "priorParty": "IND",
+        "predictions": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": "Prior IND is not a continuous party or a verified person match",
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 52,
+        "priorParty": "IND",
+        "predictions": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": "Prior IND is not a continuous party or a verified person match",
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 53,
+        "priorParty": "IND",
+        "predictions": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": "Prior IND is not a continuous party or a verified person match",
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 54,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 55,
+        "priorParty": "RJD",
+        "predictions": {
+          "prior-seat-party": "RJD",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 56,
+        "priorParty": "NPP",
+        "predictions": {
+          "prior-seat-party": "NPP",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 57,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 58,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 59,
+        "priorParty": "INC",
+        "predictions": {
+          "prior-seat-party": "INC",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      },
+      {
+        "ac": 60,
+        "priorParty": "NPP",
+        "predictions": {
+          "prior-seat-party": "NPP",
+          "prior-statewide-leader": "INC"
+        },
+        "reasons": {
+          "prior-seat-party": null,
+          "prior-statewide-leader": null
+        }
+      }
+    ]
+  },
+  "trainingYear": 2007,
+  "targetYear": 2012,
+  "statewideParty": "INC",
+  "commonACs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    46,
+    47,
+    50,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60
+  ],
+  "excludedFromCommon": [
+    {
+      "ac": 19,
+      "reasons": {
+        "prior-seat-party": "Prior IND is not a continuous party or a verified person match"
+      }
+    },
+    {
+      "ac": 42,
+      "reasons": {
+        "prior-seat-party": "Prior IND is not a continuous party or a verified person match"
+      }
+    },
+    {
+      "ac": 43,
+      "reasons": {
+        "prior-seat-party": "Prior IND is not a continuous party or a verified person match"
+      }
+    },
+    {
+      "ac": 44,
+      "reasons": {
+        "prior-seat-party": "Prior IND is not a continuous party or a verified person match"
+      }
+    },
+    {
+      "ac": 45,
+      "reasons": {
+        "prior-seat-party": "Prior IND is not a continuous party or a verified person match"
+      }
+    },
+    {
+      "ac": 48,
+      "reasons": {
+        "prior-seat-party": "Prior IND is not a continuous party or a verified person match"
+      }
+    },
+    {
+      "ac": 49,
+      "reasons": {
+        "prior-seat-party": "Prior IND is not a continuous party or a verified person match"
+      }
+    },
+    {
+      "ac": 51,
+      "reasons": {
+        "prior-seat-party": "Prior IND is not a continuous party or a verified person match"
+      }
+    },
+    {
+      "ac": 52,
+      "reasons": {
+        "prior-seat-party": "Prior IND is not a continuous party or a verified person match"
+      }
+    },
+    {
+      "ac": 53,
+      "reasons": {
+        "prior-seat-party": "Prior IND is not a continuous party or a verified person match"
+      }
+    }
+  ],
+  "common": {
+    "prior-seat-party": {
+      "correct": 22,
+      "total": 50,
+      "accuracy": 0.44,
+      "errorACs": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        12,
+        16,
+        18,
+        20,
+        21,
+        22,
+        25,
+        29,
+        30,
+        34,
+        36,
+        38,
+        41,
+        46,
+        47,
+        50,
+        55,
+        56,
+        60
+      ],
+      "abstainedACs": []
+    },
+    "prior-statewide-leader": {
+      "correct": 35,
+      "total": 50,
+      "accuracy": 0.7,
+      "errorACs": [
+        5,
+        6,
+        7,
+        9,
+        11,
+        12,
+        18,
+        20,
+        22,
+        25,
+        34,
+        38,
+        41,
+        47,
+        50
+      ],
+      "abstainedACs": []
+    }
+  },
+  "fullEligibility": {
+    "prior-seat-party": {
+      "correct": 22,
+      "total": 50,
+      "accuracy": 0.44,
+      "errorACs": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        12,
+        16,
+        18,
+        20,
+        21,
+        22,
+        25,
+        29,
+        30,
+        34,
+        36,
+        38,
+        41,
+        46,
+        47,
+        50,
+        55,
+        56,
+        60
+      ],
+      "abstainedACs": [
+        19,
+        42,
+        43,
+        44,
+        45,
+        48,
+        49,
+        51,
+        52,
+        53
+      ]
+    },
+    "prior-statewide-leader": {
+      "correct": 42,
+      "total": 60,
+      "accuracy": 0.7,
+      "errorACs": [
+        5,
+        6,
+        7,
+        9,
+        11,
+        12,
+        18,
+        20,
+        22,
+        25,
+        34,
+        38,
+        41,
+        44,
+        47,
+        48,
+        50,
+        53
+      ],
+      "abstainedACs": []
+    }
+  },
+  "rows": [
+    {
+      "ac": 1,
+      "priorParty": "NCP",
+      "predictions": {
+        "prior-seat-party": "NCP",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 2,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": true,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 3,
+      "priorParty": "MPP",
+      "predictions": {
+        "prior-seat-party": "MPP",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 4,
+      "priorParty": "NCP",
+      "predictions": {
+        "prior-seat-party": "NCP",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 5,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "AITC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": false
+      }
+    },
+    {
+      "ac": 6,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "MSCP",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": false
+      }
+    },
+    {
+      "ac": 7,
+      "priorParty": "MPP",
+      "predictions": {
+        "prior-seat-party": "MPP",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "AITC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": false
+      }
+    },
+    {
+      "ac": 8,
+      "priorParty": "CPI",
+      "predictions": {
+        "prior-seat-party": "CPI",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 9,
+      "priorParty": "NCP",
+      "predictions": {
+        "prior-seat-party": "NCP",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "AITC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": false
+      }
+    },
+    {
+      "ac": 10,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": true,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 11,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "MSCP",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": false
+      }
+    },
+    {
+      "ac": 12,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "NCP",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": false
+      }
+    },
+    {
+      "ac": 13,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": true,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 14,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": true,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 15,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": true,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 16,
+      "priorParty": "CPI",
+      "predictions": {
+        "prior-seat-party": "CPI",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 17,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": true,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 18,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "AITC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": false
+      }
+    },
+    {
+      "ac": 19,
+      "priorParty": "IND",
+      "predictions": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": "Prior IND is not a continuous party or a verified person match",
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": false,
+      "matches": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 20,
+      "priorParty": "MPP",
+      "predictions": {
+        "prior-seat-party": "MPP",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "LJP",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": false
+      }
+    },
+    {
+      "ac": 21,
+      "priorParty": "MPP",
+      "predictions": {
+        "prior-seat-party": "MPP",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 22,
+      "priorParty": "NCP",
+      "predictions": {
+        "prior-seat-party": "NCP",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "AITC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": false
+      }
+    },
+    {
+      "ac": 23,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": true,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 24,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": true,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 25,
+      "priorParty": "MPP",
+      "predictions": {
+        "prior-seat-party": "MPP",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "AITC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": false
+      }
+    },
+    {
+      "ac": 26,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": true,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 27,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": true,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 28,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": true,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 29,
+      "priorParty": "CPI",
+      "predictions": {
+        "prior-seat-party": "CPI",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 30,
+      "priorParty": "RJD",
+      "predictions": {
+        "prior-seat-party": "RJD",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 33
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 31,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": true,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 32,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": true,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 33,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": true,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 34,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "MSCP",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": false
+      }
+    },
+    {
+      "ac": 35,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": true,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 36,
+      "priorParty": "CPI",
+      "predictions": {
+        "prior-seat-party": "CPI",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 37,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": true,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 38,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "AITC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": false
+      }
+    },
+    {
+      "ac": 39,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": true,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 40,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": true,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 41,
+      "priorParty": "RJD",
+      "predictions": {
+        "prior-seat-party": "RJD",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "NPF",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": false
+      }
+    },
+    {
+      "ac": 42,
+      "priorParty": "IND",
+      "predictions": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": "Prior IND is not a continuous party or a verified person match",
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": false,
+      "matches": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 43,
+      "priorParty": "IND",
+      "predictions": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": "Prior IND is not a continuous party or a verified person match",
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": false,
+      "matches": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 44,
+      "priorParty": "IND",
+      "predictions": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": "Prior IND is not a continuous party or a verified person match",
+        "prior-statewide-leader": null
+      },
+      "actualParty": "NPF",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": false,
+      "matches": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": false
+      }
+    },
+    {
+      "ac": 45,
+      "priorParty": "IND",
+      "predictions": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": "Prior IND is not a continuous party or a verified person match",
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": false,
+      "matches": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 46,
+      "priorParty": "NCP",
+      "predictions": {
+        "prior-seat-party": "NCP",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 47,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "NPF",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": false
+      }
+    },
+    {
+      "ac": 48,
+      "priorParty": "IND",
+      "predictions": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": "Prior IND is not a continuous party or a verified person match",
+        "prior-statewide-leader": null
+      },
+      "actualParty": "NPF",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": false,
+      "matches": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": false
+      }
+    },
+    {
+      "ac": 49,
+      "priorParty": "IND",
+      "predictions": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": "Prior IND is not a continuous party or a verified person match",
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": false,
+      "matches": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 50,
+      "priorParty": "NPP",
+      "predictions": {
+        "prior-seat-party": "NPP",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "MSCP",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": false
+      }
+    },
+    {
+      "ac": 51,
+      "priorParty": "IND",
+      "predictions": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": "Prior IND is not a continuous party or a verified person match",
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": false,
+      "matches": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 52,
+      "priorParty": "IND",
+      "predictions": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": "Prior IND is not a continuous party or a verified person match",
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": false,
+      "matches": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 53,
+      "priorParty": "IND",
+      "predictions": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": "Prior IND is not a continuous party or a verified person match",
+        "prior-statewide-leader": null
+      },
+      "actualParty": "MSCP",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": false,
+      "matches": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": false
+      }
+    },
+    {
+      "ac": 54,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": true,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 55,
+      "priorParty": "RJD",
+      "predictions": {
+        "prior-seat-party": "RJD",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 56,
+      "priorParty": "NPP",
+      "predictions": {
+        "prior-seat-party": "NPP",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 57,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": true,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 58,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": true,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 59,
+      "priorParty": "INC",
+      "predictions": {
+        "prior-seat-party": "INC",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": true,
+        "prior-statewide-leader": true
+      }
+    },
+    {
+      "ac": 60,
+      "priorParty": "NPP",
+      "predictions": {
+        "prior-seat-party": "NPP",
+        "prior-statewide-leader": "INC"
+      },
+      "reasons": {
+        "prior-seat-party": null,
+        "prior-statewide-leader": null
+      },
+      "actualParty": "INC",
+      "targetSource": {
+        "source": "assembly-2012",
+        "page": 34
+      },
+      "commonEligible": true,
+      "matches": {
+        "prior-seat-party": false,
+        "prior-statewide-leader": true
+      }
+    }
+  ]
+}

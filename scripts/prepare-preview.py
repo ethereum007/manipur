@@ -91,3 +91,5 @@ for filename in ['assembly-2007-register-crossmatch.json','assembly-2007-crossma
 # Limited documentary source acceptance and a frozen, not-yet-scored replay protocol.
 for filename in ['assembly-2007-2012-seat-lineage.json','assembly-2007-2012-source-acceptance.json','forecast-protocol-2007-2012.json']:
  (p/'data'/filename).write_text((root/'data/research'/filename).read_text(),encoding='utf-8')
+
+(p/'data/forecast-2007-replay.json').write_text((root/'data/research/forecast-2007-replay.json').read_text(),encoding='utf-8')
