@@ -210,3 +210,8 @@ Prior pending locator39843022895 succeeded; renderer39852037561passed. Four hash
 ## Financial batch nine release gates pending — 23 October 2026 IST
 
 Two source-prepared AC23comparisons implemented in720641da34f96a7ef5353e3cc870f71e0b6e6479 with scoped arithmetic/browser tests. Repo19/38/246/0; production not yet confirmed. Active push run39860244894 at browser dependency setup; delayed push cancelled manual duplicate through normal concurrency. Continue exact active run, inspect screenshots and production before release claim. See FINANCIAL_BATCH_NINE_RELEASE_PENDING_2026-10-23.md. Cadence ACTIVE; no user action required.
+
+
+## Financial batch nine deployed and verified — 23 October 2026 IST
+
+19selected/38notes/246without comparison/0complete independent audits. Both new AC23loan subtotals agree numerically with ADR, full assets null, mixed NA/Not Applicable preserved. Initial unrelated election test expectation accidentally altered by coverage replacement; restored exact34and full corrected run39868031751passed86Node/15Python/42browser tests,913HTML/31,244references/zero errors. Four cloud screenshots reviewed/retained; live JSON exact. See FINANCIAL_BATCH_NINE_QA_2026-10-23.md. Future updates target disclosure-only numeric assertions. Cadence ACTIVE.
