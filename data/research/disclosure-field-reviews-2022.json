@@ -1,7 +1,7 @@
 {
   "year": 2022,
-  "reviewedAt": "2026-10-21",
-  "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/39463703402",
+  "reviewedAt": "2026-10-22",
+  "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/39743866601",
   "method": "Codex visual comparison of selected original financial-summary regions. OCR located pages only; retained images use fixed financial-region coordinates and matching source hashes. Selected cells, not an independent human audit or complete affidavit review.",
   "scope": "Self-declarations at 2022 nomination. Not present wealth, current liabilities, legal status or certification of truth.",
   "records": [
@@ -236,11 +236,155 @@
           "note": "The government-dues row on p.16 and loan-total row on p.17 say N/A across the household columns. Preserve that wording rather than converting it to a primary monetary zero. No current-debt or complete-filing conclusion is inferred."
         }
       ]
+    },
+    {
+      "ac": 12,
+      "candidate": "Maheshwar Thounaojam",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/12/Maheshwar%20Thounaojam.pdf",
+      "sourceSha256": "27af7909e7934ad04de1a25e8820bbcea4596024cba095ae76a0371fb4327357",
+      "reviewedAt": "2026-10-22",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/39743866601",
+      "reviewedPages": [
+        16,
+        17,
+        18
+      ],
+      "summary": "Two selected movable-summary cells sum to ₹53,90,305.49; ADR reports total assets of ₹53,90,305. Immovable summary rows say NA, so no complete primary asset total is assigned. The selected ₹17,20,000 loan row agrees with ADR liabilities.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 539030500,
+          "primaryValuePaise": null,
+          "primarySourceText": "Selected movable cells numeric; current-market immovable summary wording is NA",
+          "primaryScope": "Two movable-summary cells only, not a complete primary asset total",
+          "pages": [
+            16,
+            17,
+            18
+          ],
+          "observations": [
+            {
+              "label": "Self movable-summary cell",
+              "valuePaise": 426347019,
+              "sourceText": "₹ 4263470.19/-",
+              "qualifier": "exact",
+              "page": 16
+            },
+            {
+              "label": "Spouse movable-summary cell",
+              "valuePaise": 112683530,
+              "sourceText": "₹ 1126835.30/-",
+              "qualifier": "exact",
+              "page": 16
+            }
+          ],
+          "selectedComponentSubtotalPaise": 539030549,
+          "note": "The two movable-summary cells total ₹53,90,305.49, arithmetically ₹0.49 above ADR’s total-asset value. Other movable columns and the reviewed current-market immovable rows say NA. NA is not converted to zero; the selected subtotal and secondary total have different verification scopes. No cause, rounding explanation or corrected complete-filing asset total is assigned."
+        },
+        {
+          "field": "liabilities",
+          "status": "summary-value-agrees",
+          "secondaryValuePaise": 172000000,
+          "primaryValuePaise": 172000000,
+          "primarySourceText": "₹ 1720000/-",
+          "primaryScope": "Selected self loan-total row, not a full legal or current-debt audit",
+          "pages": [
+            18
+          ],
+          "note": "The selected self loan-total row is ₹17,20,000 and agrees with ADR’s liability summary. Government-dues cells and some household/dispute cells say NA; other dependant cells say NIL. Those wordings remain distinct. This selected-summary match is not certification of every liability or dispute."
+        }
+      ]
+    },
+    {
+      "ac": 12,
+      "candidate": "Nishikant Sapam",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/12/SAPAM%20NISHIKANT%20SINGH.pdf",
+      "sourceSha256": "3e6c3c750afeed48b6989f26db3d8cc38b2453109330802ca91544456546ae72",
+      "reviewedAt": "2026-10-22",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/39743866601",
+      "reviewedPages": [
+        17,
+        18
+      ],
+      "summary": "Four selected government-dues and loan-summary cells sum to ₹2,57,56,666.98, ₹9,48,024.98 above ADR’s liability summary; the cause remains unresolved. Asset-total comparison remains incomplete because an immovable-summary continuation cell is blank or obscured.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 29310538000,
+          "primaryValuePaise": null,
+          "primarySourceText": "Three numeric selected cells; continuation asset cell remains unassigned",
+          "primaryScope": "Three readable asset-summary cells; incomplete immovable-summary continuation",
+          "pages": [
+            17,
+            18
+          ],
+          "observations": [
+            {
+              "label": "Self movable-summary cell",
+              "valuePaise": 17659452570,
+              "sourceText": "Rs. 17,65,94,525.7",
+              "qualifier": "exact",
+              "page": 17
+            },
+            {
+              "label": "Spouse movable-summary cell",
+              "valuePaise": 5703936844,
+              "sourceText": "5,70,39,368.44",
+              "qualifier": "exact",
+              "page": 17
+            },
+            {
+              "label": "Self current-market self-acquired immovable-summary cell",
+              "valuePaise": 5937148700,
+              "sourceText": "Rs. 5,93,71,487/-",
+              "qualifier": "exact",
+              "page": 17
+            }
+          ],
+          "selectedComponentSubtotalPaise": 29300538114,
+          "unresolvedCell": "Self column in the immovable-summary continuation at the top of PDF18 is blank or obscured by a stamp; no numeric zero assigned.",
+          "note": "The three readable selected cells subtotal ₹29,30,05,381.14; ADR reports total assets of ₹29,31,05,380. The immovable-summary continuation self cell on PDF18 cannot be assigned a value from this selected review. Purchase prices and development costs are not added again. No complete primary asset total, equivalent-scope discrepancy amount or cause is asserted."
+        },
+        {
+          "field": "liabilities",
+          "status": "derived-summary-difference",
+          "secondaryValuePaise": 2480864200,
+          "primaryValuePaise": 2575666698,
+          "differencePaise": 94802498,
+          "primarySourceText": "Four displayed government-dues and loan-summary cells, summed in integer paise",
+          "primaryScope": "Derived sum of four selected financial-summary cells; not a corrected complete-filing liability declaration",
+          "pages": [
+            18
+          ],
+          "components": [
+            {
+              "label": "Self government-dues summary",
+              "valuePaise": 84963100
+            },
+            {
+              "label": "Spouse government-dues summary",
+              "valuePaise": 95760000
+            },
+            {
+              "label": "Self loan-total summary",
+              "valuePaise": 2306194898
+            },
+            {
+              "label": "Spouse loan-total summary",
+              "valuePaise": 88748700
+            }
+          ],
+          "note": "Selected government-dues cells are ₹8,49,631 and ₹9,57,600; selected loan cells are ₹2,30,61,948.98 and ₹8,87,487. Their derived sum is ₹2,57,56,666.98; ADR reports ₹2,48,08,642. The ₹9,48,024.98 difference remains unresolved. Disputed-liability summary rows say NIL. No cause, wrongdoing, current debt or corrected complete-affidavit total is inferred."
+        }
+      ]
     }
   ],
   "sourceReviewRuns": [
     "https://github.com/ethereum007/manipur/actions/runs/39463703402",
     "https://github.com/ethereum007/manipur/actions/runs/39527983585"
   ],
-  "selectionNotes": "Second batch: two previously unreviewed native-text-available records in AC12, selected in existing record order for a bounded availability-based sample; not a representative sample or risk ranking."
+  "selectionNotes": "Second batch: two previously unreviewed native-text-available records in AC12, selected in existing record order for a bounded availability-based sample; not a representative sample or risk ranking.",
+  "selectionLimit": "Selected source-readability batch, not a representative sample of candidates or constituencies. Seven financial-summary comparisons are not seven complete affidavit audits."
 }
