@@ -5,7 +5,28 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/22/Salam%20Joy%20Singh.pdf",
     "expectedSha256": "8d596396aebf428896e2754253284d592fc48023e4902bd4e19b06c70f5d095c",
     "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; convenience sample, not representative",
-    "clips": []
+    "clips": [
+      {
+        "page": 12,
+        "id": "asset-summary-rows",
+        "rect": [
+          65,
+          560,
+          575,
+          825
+        ]
+      },
+      {
+        "page": 13,
+        "id": "financial-continuation",
+        "rect": [
+          65,
+          110,
+          575,
+          475
+        ]
+      }
+    ]
   },
   {
     "ac": 23,
@@ -13,6 +34,27 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/23/Dr.%20Kumujam%20Ratankumar%20Singh.pdf",
     "expectedSha256": "7b4f86549e8fb49ca43a5450d8eedf1290c75c7728dbbff4c343da27320a87d0",
     "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; convenience sample, not representative",
-    "clips": []
+    "clips": [
+      {
+        "page": 15,
+        "id": "asset-summary-rows",
+        "rect": [
+          145,
+          583,
+          575,
+          760
+        ]
+      },
+      {
+        "page": 16,
+        "id": "financial-continuation",
+        "rect": [
+          145,
+          145,
+          575,
+          475
+        ]
+      }
+    ]
   }
 ]
