@@ -1,0 +1,18 @@
+[
+  {
+    "ac": 19,
+    "candidate": "Wakambam Ibomcha Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/19/Wakambam%20Ibomcha%20Singh.pdf",
+    "expectedSha256": "2d60600fd3a268accec7211ed2ddc8fa1df164fc1b4b362f61e7378e0ea7e7a4",
+    "selectionReason": "Next source-readable unreviewed records by AC/name, excluding documented deferrals; nonrepresentative convenience sample",
+    "clips": []
+  },
+  {
+    "ac": 22,
+    "candidate": "Oinam Lukhoi Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/22/Oinam%20Lukhoi%20Singh.pdf",
+    "expectedSha256": "71c69b84e9c885f340f236c7cf6e1e64dd12728bf1906fc4018dfe050336869b",
+    "selectionReason": "Next source-readable unreviewed records by AC/name, excluding documented deferrals; nonrepresentative convenience sample",
+    "clips": []
+  }
+]
