@@ -1,0 +1,18 @@
+[
+  {
+    "ac": 19,
+    "candidate": "R.K. Rameshwar Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/19/R.K.%20Rameshwar%20Singh.pdf",
+    "expectedSha256": "f50c5b16651325a4f7bee95f28f9e79703bc5e1917edc2b7a8578a4e2b07551f",
+    "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
+    "clips": []
+  },
+  {
+    "ac": 19,
+    "candidate": "Sapam Kunjakeswor (Keba) Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/19/Sapam%20Kunjakeswor%20(Keba)%20Singh.pdf",
+    "expectedSha256": "f184a2241b12a7722c657cb4baad71aaaac5104a020587042e7df053be15d570",
+    "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
+    "clips": []
+  }
+]
