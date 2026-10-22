@@ -135,5 +135,8 @@
     "The 2007 numerical audit remains 54/60, with AC9,11,20,42,57,59 withheld.",
     "Thirteen source-name differences remain unresolved; no identity aliases are approved.",
     "No new historical score, probability, 2027 favourite or current legal assurance is published."
-  ]
+  ],
+  "statusScope": "Original context-collection snapshot; current limited input acceptance is documented separately in followUpDecision.",
+  "followUpDecision": "/data/assembly-2007-2012-source-acceptance.json",
+  "followUpProtocol": "/data/forecast-protocol-2007-2012.json"
 }

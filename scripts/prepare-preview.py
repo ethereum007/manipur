@@ -87,3 +87,7 @@ for filename in ['assembly-2007-register-crossmatch.json','assembly-2007-crossma
 
 # Documentary context stays separate from approved geographic/model inputs.
 (p/'data/boundary-continuity-review.json').write_text((root/'data/research/boundary-continuity-review.json').read_text(),encoding='utf-8')
+
+# Limited documentary source acceptance and a frozen, not-yet-scored replay protocol.
+for filename in ['assembly-2007-2012-seat-lineage.json','assembly-2007-2012-source-acceptance.json','forecast-protocol-2007-2012.json']:
+ (p/'data'/filename).write_text((root/'data/research'/filename).read_text(),encoding='utf-8')
