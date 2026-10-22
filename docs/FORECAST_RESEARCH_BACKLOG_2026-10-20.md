@@ -215,3 +215,8 @@ Two source-prepared AC23comparisons implemented in720641da34f96a7ef5353e3cc870f7
 ## Financial batch nine deployed and verified — 23 October 2026 IST
 
 19selected/38notes/246without comparison/0complete independent audits. Both new AC23loan subtotals agree numerically with ADR, full assets null, mixed NA/Not Applicable preserved. Initial unrelated election test expectation accidentally altered by coverage replacement; restored exact34and full corrected run39868031751passed86Node/15Python/42browser tests,913HTML/31,244references/zero errors. Four cloud screenshots reviewed/retained; live JSON exact. See FINANCIAL_BATCH_NINE_QA_2026-10-23.md. Future updates target disclosure-only numeric assertions. Cadence ACTIVE.
+
+
+## Batch ten source preparation — 23 October 2026 IST
+
+AC30Abdul Manan/Md Irshad Hussain hashes verified, locator39874389611/final renderer39874895388passed. Four final financial-only regions visually inspected/retained. Two signature-contaminated intermediate artifacts rejected/deleted, final Md crop movable-row only. Mixed NA/NIL and inherited-value/immovable-NIL distinction preserved; next scoped secondary comparisons/tests/release QA. FINANCIAL_BATCH_TEN_PREPARATION_2026-10-23.md. Public19/38/246/0unchanged; cadence ACTIVE.

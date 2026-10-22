@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 30,
+    "candidate": "Abdul Manan",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/30/Abdul%20Manan.pdf",
+    "sha256": "3fb04d7c43734430340a1497a2240f030d427b080979f413de201e7a18afe547",
+    "pages": 16,
+    "crops": [
+      {
+        "page": 14,
+        "id": "asset-summary-rows",
+        "rect": [
+          60,
+          420,
+          535,
+          565
+        ],
+        "image": "ac30-3fb04d7c4373-p14-financial-selected-asset-summary-rows.png"
+      },
+      {
+        "page": 15,
+        "id": "financial-continuation",
+        "rect": [
+          85,
+          140,
+          550,
+          370
+        ],
+        "image": "ac30-3fb04d7c4373-p15-financial-selected-financial-continuation.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 30,
+    "candidate": "Md Irshad Hussain",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/30/Md%20Irshad%20Hussain.pdf",
+    "sha256": "f74df62958eca382c96384f93047f5ccbf5b7ec6320574815a1d5c480cf196e9",
+    "pages": 15,
+    "crops": [
+      {
+        "page": 12,
+        "id": "asset-summary-rows",
+        "rect": [
+          65,
+          640,
+          565,
+          670
+        ],
+        "image": "ac30-f74df62958ec-p12-financial-selected-asset-summary-rows.png"
+      },
+      {
+        "page": 13,
+        "id": "financial-continuation",
+        "rect": [
+          65,
+          140,
+          565,
+          530
+        ],
+        "image": "ac30-f74df62958ec-p13-financial-selected-financial-continuation.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]

@@ -1,0 +1,11 @@
+# Financial batch ten preparation — 23 October 2026 IST
+
+Metadata locator39874389611 and final financial-region renderer39874895388 succeeded. Originals matched captured hashes: Abdul Manan AC30 SHA3fb04d7c43734430340a1497a2240f030d427b080979f413de201e7a18afe547,16pages; Md Irshad Hussain AC30 SHAf74df62958eca382c96384f93047f5ccbf5b7ec6320574815a1d5c480cf196e9,15pages. Four final financial-only regions visually inspected, retained with manifest under docs/qa/financial-batch-ten-2026-10-23/.
+
+Privacy review rejected initial artifact12468081325 for signature margin, then artifact12468310901 for residual pen stroke. Both artifacts deleted before repository retention. Final artifact12468231179 restricts Md PDF12 to the movable row only, excluding signatures/stamps/identifiers. All four final images visually checked; no full extracted text, names/addresses/contacts/IDs/signatures retained.
+
+Abdul PDF14–15: movable cells85,550 and1,20,313.17, remaining visible movable NIL. Immovable heading prints NIL while inherited current-market cell gives50,00,000 and self-acquired NIL. Preserve internal mixed wording; no complete asset total automatically approved. Selected liability, government-dues, loan and disputed cells NIL support selected-summary zero only. ADR assets52,05,863/liabilities0remain attributed. No household roles confirmed.
+
+Md PDF12–13: selected movable row NA across columns, current-market row NA; selected government-dues/disputed cells mix NIL/NA and selected loan cells NA/NA/NA/NIL/NIL/NIL. Do not convert NA to monetary zero. Primary total assets/liabilities should remain null under this scope; ADR assets43,866/liabilities0are separate. Partial selected review is not a missing or defective-filing finding.
+
+Preparation only: public19selected/38notes/246without comparison/0complete independent audits unchanged. Next implement scoped comparison notes, null-versus-explicit-NIL arithmetic tests and browser coverage, review final screenshots/production before release. Target disclosure-only numeric assertions; preserve election-lab34party-change expectation. All project work in GitHub, RAM-only inspection. No2027probability/current-debt/legal inference; cadence ACTIVE.
