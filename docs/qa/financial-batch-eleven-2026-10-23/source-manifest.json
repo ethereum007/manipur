@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 30,
+    "candidate": "Mohd Abdul Nasir",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/30/Mohd%20Abdul%20Nasir.pdf",
+    "sha256": "da96b3f10db884ce1a509b4a5141dcc14f408ece1055089de13deb37c517b86a",
+    "pages": 16,
+    "crops": [
+      {
+        "page": 14,
+        "id": "asset-summary-rows",
+        "rect": [
+          65,
+          365,
+          515,
+          390
+        ],
+        "image": "ac30-da96b3f10db8-p14-financial-selected-asset-summary-rows.png"
+      },
+      {
+        "page": 15,
+        "id": "liability-summary-rows",
+        "rect": [
+          60,
+          55,
+          530,
+          240
+        ],
+        "image": "ac30-da96b3f10db8-p15-financial-selected-liability-summary-rows.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 30,
+    "candidate": "Syed Anwar Hussain",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/30/Syed%20Anwar%20Hussain.pdf",
+    "sha256": "8280a9257c82dc9397182d8cba4162f4fd1ec17aea32152b1a85e2bf62dfb096",
+    "pages": 17,
+    "crops": [
+      {
+        "page": 15,
+        "id": "movable-row",
+        "rect": [
+          80,
+          540,
+          540,
+          565
+        ],
+        "image": "ac30-8280a9257c82-p15-financial-selected-movable-row.png"
+      },
+      {
+        "page": 16,
+        "id": "financial-continuation",
+        "rect": [
+          70,
+          190,
+          530,
+          490
+        ],
+        "image": "ac30-8280a9257c82-p16-financial-selected-financial-continuation.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
