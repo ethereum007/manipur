@@ -1,7 +1,7 @@
 {
   "year": 2022,
   "reviewedAt": "2026-10-23",
-  "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/39852037561",
+  "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/39874895388",
   "method": "Codex visual comparison of selected original financial-summary regions. OCR located pages only; retained images use fixed financial-region coordinates and matching source hashes. Selected cells, not an independent human audit or complete affidavit review.",
   "scope": "Self-declarations at 2022 nomination. Not present wealth, current liabilities, legal status or certification of truth.",
   "records": [
@@ -1180,6 +1180,104 @@
           "note": "Two selected loan cells sum to ₹1,02,71,000, agreeing numerically with ADR. Other selected loan/government-dues/disputed cells say Not Applicable, which is not converted to zero. This is selected loan-subtotal agreement, not complete filing verification, current-debt assessment or case review; household column roles unconfirmed."
         }
       ]
+    },
+    {
+      "ac": 30,
+      "candidate": "Abdul Manan",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/30/Abdul%20Manan.pdf",
+      "sourceSha256": "3fb04d7c43734430340a1497a2240f030d427b080979f413de201e7a18afe547",
+      "reviewedAt": "2026-10-23",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/39874895388",
+      "reviewedPages": [
+        14,
+        15
+      ],
+      "summary": "Selected movable cells subtotal ₹2,05,863.17, but immovable NIL wording alongside an inherited-assets value of ₹50,00,000 prevents a complete primary asset total. Selected liability-summary cells explicitly say NIL.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 520586300,
+          "primaryValuePaise": null,
+          "primarySourceText": "Movable subtotal only; immovable heading NIL alongside inherited-assets ₹50,00,000",
+          "primaryScope": "Two movable-summary monetary cells on PDF 14 and selected inherited/current-market wording on PDF 15; column roles unconfirmed",
+          "pages": [
+            14,
+            15
+          ],
+          "observations": [
+            {
+              "label": "First selected movable cell",
+              "valuePaise": 8555000,
+              "sourceText": "Rs.85,550/-",
+              "qualifier": "exact",
+              "page": 14
+            },
+            {
+              "label": "Second selected movable cell",
+              "valuePaise": 12031317,
+              "sourceText": "Rs.1,20,313.17/-",
+              "qualifier": "exact",
+              "page": 14
+            }
+          ],
+          "selectedComponentSubtotalPaise": 20586317,
+          "unresolvedCell": "Immovable heading NIL conflicts in scope with inherited current-market monetary cell; no complete total assigned.",
+          "note": "Two selected movable cells subtotal ₹2,05,863.17. The same selected summary prints NIL in the immovable heading while an inherited-assets cell gives ₹50,00,000. This internal wording remains unresolved; no complete primary asset total or equivalent-scope difference against ADR’s ₹52,05,863 is assigned. No cause or corrected complete filing inferred."
+        },
+        {
+          "field": "liabilities",
+          "status": "summary-value-agrees",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": 0,
+          "primarySourceText": "NIL",
+          "primaryScope": "Visible liability, government-dues, loan and disputed-liability summary cells on PDF 15 only",
+          "pages": [
+            15
+          ],
+          "note": "Visible selected liability-summary cells explicitly say NIL. A selected-summary zero is assigned from that wording and agrees numerically with ADR. This is not complete loan-detail verification, current-debt assessment or case review; household column roles unconfirmed."
+        }
+      ]
+    },
+    {
+      "ac": 30,
+      "candidate": "Md Irshad Hussain",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/30/Md%20Irshad%20Hussain.pdf",
+      "sourceSha256": "f74df62958eca382c96384f93047f5ccbf5b7ec6320574815a1d5c480cf196e9",
+      "reviewedAt": "2026-10-23",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/39874895388",
+      "reviewedPages": [
+        12,
+        13
+      ],
+      "summary": "Selected movable/current-market cells say NA while ADR reports ₹43,866 assets. Mixed NA/NIL liability wording is not an overall monetary zero; complete primary asset and liability totals remain unassigned.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "wording-not-equivalent",
+          "secondaryValuePaise": 4386600,
+          "primaryValuePaise": null,
+          "primarySourceText": "NA",
+          "primaryScope": "Movable-summary row on PDF 12 and current-market row on PDF 13 only",
+          "pages": [
+            12,
+            13
+          ],
+          "note": "All visible cells in the selected movable and current-market rows say NA. That wording is not assigned monetary zero and does not establish a complete primary asset total. ADR’s ₹43,866 remains separately attributed; no missing/defective filing or cause inferred. Household column roles unconfirmed."
+        },
+        {
+          "field": "liabilities",
+          "status": "wording-not-equivalent",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": null,
+          "primarySourceText": "Mixed NA and NIL",
+          "primaryScope": "Selected government-dues, loan and disputed-liability summary rows on PDF 13 only",
+          "pages": [
+            13
+          ],
+          "note": "Selected loan cells read NA/NA/NA/NIL/NIL/NIL; government-dues and disputed rows also mix NA and NIL. Mixed wording is not converted into an overall monetary zero. ADR’s zero remains separately attributed; no full/current liability verification or legal finding inferred."
+        }
+      ]
     }
   ],
   "sourceReviewRuns": [
@@ -1187,7 +1285,7 @@
     "https://github.com/ethereum007/manipur/actions/runs/39527983585"
   ],
   "selectionNotes": "Second batch: two previously unreviewed native-text-available records in AC12, selected in existing record order for a bounded availability-based sample; not a representative sample or risk ranking.",
-  "selectionLimit": "Nineteen selected financial-summary comparisons form a nonrepresentative convenience sample, not nineteen complete independent affidavit audits.",
+  "selectionLimit": "Twenty-one selected financial-summary comparisons form a nonrepresentative convenience sample, not twenty-one complete independent affidavit audits.",
   "reviewDeferrals": [
     {
       "ac": 13,
