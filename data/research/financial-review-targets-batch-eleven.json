@@ -1,0 +1,18 @@
+[
+  {
+    "ac": 30,
+    "candidate": "Mohd Abdul Nasir",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/30/Mohd%20Abdul%20Nasir.pdf",
+    "expectedSha256": "da96b3f10db884ce1a509b4a5141dcc14f408ece1055089de13deb37c517b86a",
+    "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
+    "clips": []
+  },
+  {
+    "ac": 30,
+    "candidate": "Syed Anwar Hussain",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/30/Syed%20Anwar%20Hussain.pdf",
+    "expectedSha256": "8280a9257c82dc9397182d8cba4162f4fd1ec17aea32152b1a85e2bf62dfb096",
+    "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
+    "clips": []
+  }
+]
