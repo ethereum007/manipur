@@ -1,0 +1,34 @@
+name: Inspect retained coverage screenshot regions
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install Pillow==12.0.0
+      - name: Create bounded coverage inspection regions
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from PIL import Image
+          import json
+          root=Path('docs/qa/financial-batch-twelve-2026-10-24')
+          rows=[]
+          for name in ['field-review-desktop.png','field-review-coverage-mobile.png']:
+              im=Image.open(root/name)
+              for label,start,end in [('top',0,min(1200,im.height)),('bottom',max(0,im.height-2400),im.height)]:
+                  rect=[0,start,im.width,end]
+                  output=name.replace('.png','-'+label+'-inspection.png')
+                  im.crop(tuple(rect)).save(root/output)
+                  rows.append(dict(source=name,sourceSize=list(im.size),crop=rect,image=output,scope='Inspection crop only; original retained unchanged'))
+          (root/'inspection-crops.json').write_text(json.dumps(rows,indent=2))
+          PY
+          git config user.name 'Mandate Terrain QA'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/qa/financial-batch-twelve-2026-10-24
+          git diff --cached --quiet || git commit -m 'docs: retain bounded inspection crops from original cloud coverage screenshots'
+          git push origin HEAD:main
