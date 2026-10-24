@@ -1,0 +1,27 @@
+name: Collect focused cloud visual evidence
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+  actions: read
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: visual-review
+          run-id: 39908815872
+          github-token: ${{ github.token }}
+          path: original
+      - uses: actions/upload-artifact@v4
+        with:
+          name: financial-batch-twelve-focused
+          path: |
+            original/**/financial-antas-desktop.png
+            original/**/financial-haridas-mobile.png
+            original/**/field-review-desktop.png
+            original/**/field-review-coverage-mobile.png
+          if-no-files-found: error
+          retention-days: 7
