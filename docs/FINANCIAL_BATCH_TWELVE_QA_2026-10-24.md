@@ -9,3 +9,10 @@ Cloud screenshots retained directly in GitHub under docs/qa/financial-batch-twel
 Recovery: original22.95MBartifact transfers timed out twice, focused1.34MBartifact once; cloud download/retention succeeded, direct small GitHub image reads allowed profile inspection. No local project/media writes, cloning or dependencies installed. Workflow-only recovery does not change public data or forecast models. Existing historical/feature/evaluation goldens passed.
 
 Next bounded task: if tall coverage visual signoff is needed, create small top/bottom cloud inspection crops from retained originals, never refetch full source PDFs just for screenshots. Continue finite240candidate selected-summary queue after that, excluding documented source-location deferral unless new evidence. Complete independent field audit and prospective forecasting remain incomplete. Cadence ACTIVE.
+
+
+## Coverage inspection completed — 24 October 2026 IST
+
+Prior tall-image transfer/renderer limitation resolved by cloud-generated inspection regions, without modifying original screenshots. Workflow40107888801passed; four top/bottom crops and exact source sizes/coordinates retained in docs/qa/financial-batch-twelve-2026-10-24/inspection-crops.json. All four crops visually reviewed: desktop1440wide/mobile390wide, accurate25/50/240coverage, newest entries/source links readable, proper card spacing and deferral/footer boundaries, no visible clipping or horizontal overflow. Artificial crop-edge truncation is inspection boundary only. Middle unchanged entries were not re-reviewed in this bounded crop pass; original full images remain unchanged and earlier review/automated geometry coverage retained. No CSS correction needed.
+
+This closes the outstanding changed-region coverage visual check from the preceding receipt; no public data or model change. Existing149automated checks and productionJSON verification remain valid for original release. Continue finite240candidate primary-summary queue, no complete audit/prospective2027probability claim. Cadence ACTIVE.
