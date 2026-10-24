@@ -2,13 +2,14 @@ name: Collect focused cloud visual evidence
 on:
   workflow_dispatch:
 permissions:
-  contents: read
+  contents: write
   actions: read
 jobs:
   collect:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - uses: actions/checkout@v4
       - uses: actions/download-artifact@v4
         with:
           name: visual-review
@@ -25,3 +26,21 @@ jobs:
             original/**/field-review-coverage-mobile.png
           if-no-files-found: error
           retention-days: 7
+      - name: Retain selected verified cloud screenshots
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import shutil
+          target=Path('docs/qa/financial-batch-twelve-2026-10-24')
+          target.mkdir(parents=True,exist_ok=True)
+          names=['financial-antas-desktop.png','financial-haridas-mobile.png','field-review-desktop.png','field-review-coverage-mobile.png']
+          for name in names:
+              matches=list(Path('original').rglob(name))
+              assert len(matches)==1, (name,len(matches))
+              shutil.copyfile(matches[0],target/name)
+          PY
+          git config user.name 'Mandate Terrain QA'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/qa/financial-batch-twelve-2026-10-24
+          git diff --cached --quiet || git commit -m 'docs: retain existing verified batch twelve cloud screenshots'
+          git push origin HEAD:main
