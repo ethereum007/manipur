@@ -1,0 +1,62 @@
+[
+  {
+    "source": "field-review-desktop.png",
+    "sourceSize": [
+      1440,
+      5091
+    ],
+    "crop": [
+      0,
+      0,
+      1440,
+      1200
+    ],
+    "image": "field-review-desktop-top-inspection.png",
+    "scope": "Inspection crop only; original retained unchanged"
+  },
+  {
+    "source": "field-review-desktop.png",
+    "sourceSize": [
+      1440,
+      5091
+    ],
+    "crop": [
+      0,
+      2691,
+      1440,
+      5091
+    ],
+    "image": "field-review-desktop-bottom-inspection.png",
+    "scope": "Inspection crop only; original retained unchanged"
+  },
+  {
+    "source": "field-review-coverage-mobile.png",
+    "sourceSize": [
+      390,
+      10010
+    ],
+    "crop": [
+      0,
+      0,
+      390,
+      1200
+    ],
+    "image": "field-review-coverage-mobile-top-inspection.png",
+    "scope": "Inspection crop only; original retained unchanged"
+  },
+  {
+    "source": "field-review-coverage-mobile.png",
+    "sourceSize": [
+      390,
+      10010
+    ],
+    "crop": [
+      0,
+      7610,
+      390,
+      10010
+    ],
+    "image": "field-review-coverage-mobile-bottom-inspection.png",
+    "scope": "Inspection crop only; original retained unchanged"
+  }
+]
