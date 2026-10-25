@@ -2068,6 +2068,103 @@
           "note": "First selected government-dues and loan cells say Nil; other columns say N.A. Disputed rows show the same mixed wording. N.A. is not converted to zero, so no complete primary monetary liability total or full zero agreement with ADR’s ₹0 is assigned. Household roles unconfirmed; no current/legal assessment inferred."
         }
       ]
+    },
+    {
+      "ac": 46,
+      "reviewedAt": "2026-10-25",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40191694248",
+      "candidate": "Jamchinlen Lunkim",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/46/Jamchinlen%20Lunkim.pdf",
+      "sourceSha256": "3269a4c81e78b1755b4f3177be937ac5cfebdd9e56f453212dc2e43ad2d6ee99",
+      "reviewedPages": [
+        12,
+        13
+      ],
+      "summary": "Clipped handwritten asset wording is not assigned a monetary value. Mixed NA/NIL liability cells remain unassigned rather than being converted to zero.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-wording-review",
+          "secondaryValuePaise": 726677300,
+          "primaryValuePaise": null,
+          "primarySourceText": "Handwritten NIL/NA and a partly clipped vehicle annotation/amount",
+          "primaryScope": "Selected movable row on PDF 12 only; no numeric observation approved",
+          "pages": [
+            12
+          ],
+          "unresolvedCell": "Partly clipped handwritten annotation/amount; current-market coverage unreviewed.",
+          "note": "The selected movable row includes handwritten NIL/NA and a partly clipped vehicle annotation/amount. No numeric asset value is approved from this ambiguous region, and ADR’s ₹72,66,773 is not used to repair it. Current-market coverage is unreviewed; no complete primary asset total or equivalent-scope discrepancy is assigned. Household roles unconfirmed."
+        },
+        {
+          "field": "liabilities",
+          "status": "wording-not-equivalent",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": null,
+          "primarySourceText": "Mixed NA and handwritten NIL",
+          "primaryScope": "Selected liability/government-dues/loan and disputed cells on PDF 13; row labels clipped at left boundary",
+          "pages": [
+            13
+          ],
+          "note": "The first selected column says NA and other selected cells have handwritten NIL; disputed wording also includes NA. NA is not converted to zero, so no complete primary liability total or full zero agreement with ADR’s ₹0 is assigned. Clipped row labels and excluded household headers limit scope; no complete/current financial or legal assessment inferred."
+        }
+      ]
+    },
+    {
+      "ac": 46,
+      "reviewedAt": "2026-10-25",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40191694248",
+      "candidate": "Kenn Raikhan",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/46/Kenn%20Raikhan.pdf",
+      "sourceSha256": "a50279078e82310c5deb5b0e65783bc1cbf89e6031698cd3a739398e16ee08fc",
+      "reviewedPages": [
+        13,
+        14
+      ],
+      "summary": "Selected loan cell ₹3,62,066 agrees numerically with ADR. Two movable cells subtotal ₹8,62,665; complete current-market asset coverage has not been reviewed.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 131167800,
+          "primaryValuePaise": null,
+          "primarySourceText": "Two selected movable cells; current-market coverage unreviewed",
+          "primaryScope": "Two movable monetary cells on PDF 13 only; household roles unconfirmed",
+          "pages": [
+            13
+          ],
+          "observations": [
+            {
+              "label": "Selected movable monetary cell 1",
+              "valuePaise": 66266500,
+              "sourceText": "Rs.6,62,665/-",
+              "qualifier": "exact",
+              "page": 13
+            },
+            {
+              "label": "Selected movable monetary cell 2",
+              "valuePaise": 20000000,
+              "sourceText": "Rs.2,00,000/-",
+              "qualifier": "exact",
+              "page": 13
+            }
+          ],
+          "selectedComponentSubtotalPaise": 86266500,
+          "unresolvedCell": "Current-market asset rows not reviewed; complete primary asset total unassigned.",
+          "note": "Two selected movable cells subtotal ₹8,62,665; other visible selected cells say Nil. Current-market coverage remains unreviewed. No complete primary asset total or equivalent-scope discrepancy against ADR’s ₹13,11,678 is assigned; household roles unconfirmed."
+        },
+        {
+          "field": "liabilities",
+          "status": "summary-value-agrees",
+          "secondaryValuePaise": 36206600,
+          "primaryValuePaise": 36206600,
+          "primarySourceText": "Rs.3,62,066/-",
+          "primaryScope": "One selected loan monetary cell on PDF 14 only",
+          "pages": [
+            14
+          ],
+          "note": "Selected loan ₹3,62,066 agrees numerically with ADR. Other visible selected government-dues/loan/disputed cells say Nil. This is a selected comparison, not a complete/current liability, legal or full-filing review; household roles unconfirmed."
+        }
+      ]
     }
   ],
   "sourceReviewRuns": [
