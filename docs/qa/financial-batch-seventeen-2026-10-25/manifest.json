@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 46,
+    "candidate": "Jamchinlen Lunkim",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/46/Jamchinlen%20Lunkim.pdf",
+    "sha256": "3269a4c81e78b1755b4f3177be937ac5cfebdd9e56f453212dc2e43ad2d6ee99",
+    "pages": 13,
+    "crops": [
+      {
+        "page": 12,
+        "id": "movable-cells",
+        "rect": [
+          75,
+          393,
+          420,
+          418
+        ],
+        "image": "ac46-3269a4c81e78-p12-financial-selected-movable-cells.png"
+      },
+      {
+        "page": 13,
+        "id": "financial-cells",
+        "rect": [
+          95,
+          50,
+          420,
+          160
+        ],
+        "image": "ac46-3269a4c81e78-p13-financial-selected-financial-cells.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 46,
+    "candidate": "Kenn Raikhan",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/46/Kenn%20Raikhan.pdf",
+    "sha256": "a50279078e82310c5deb5b0e65783bc1cbf89e6031698cd3a739398e16ee08fc",
+    "pages": 15,
+    "crops": [
+      {
+        "page": 13,
+        "id": "movable-cells",
+        "rect": [
+          95,
+          452,
+          485,
+          476
+        ],
+        "image": "ac46-a50279078e82-p13-financial-selected-movable-cells.png"
+      },
+      {
+        "page": 14,
+        "id": "financial-cells",
+        "rect": [
+          85,
+          180,
+          450,
+          365
+        ],
+        "image": "ac46-a50279078e82-p14-financial-selected-financial-cells.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
