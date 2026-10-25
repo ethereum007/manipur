@@ -5,7 +5,28 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/34/Moirangthem%20Hemanta%20Singh.pdf",
     "expectedSha256": "40a6407dd527af472dba924c5c37d1e35ae15c0d95171336244b98985bd1b9ae",
     "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 12,
+        "id": "asset-cells",
+        "rect": [
+          110,
+          230,
+          575,
+          475
+        ]
+      },
+      {
+        "page": 12,
+        "id": "liability-cells",
+        "rect": [
+          110,
+          495,
+          575,
+          620
+        ]
+      }
+    ]
   },
   {
     "ac": 34,
@@ -13,6 +34,27 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/34/Paonam%20Brojen%20Singh.pdf",
     "expectedSha256": "87a5f4154115499cfbb420121e910cf814d8072631cb9ebbc0c482457ad19693",
     "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 20,
+        "id": "movable-cells",
+        "rect": [
+          40,
+          360,
+          535,
+          395
+        ]
+      },
+      {
+        "page": 21,
+        "id": "financial-cells",
+        "rect": [
+          55,
+          145,
+          570,
+          480
+        ]
+      }
+    ]
   }
 ]
