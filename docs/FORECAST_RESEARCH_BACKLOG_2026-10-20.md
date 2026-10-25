@@ -327,3 +327,8 @@ Renderer40205348094hashchecks passed; four financial-only regions visually revie
 ## Financial batch eighteen deployed and verified — 25 October 2026 IST
 
 37selected/74notes/228without comparison/0complete independent audits. Partial asset subtotals explicitly scoped including excluded differently formatted cell; mixedNIL/NAliabilities remain null. Run40209808703passed95Node/15Python/51browser checks, fivePDFpages,913HTML/31,262references/zeroerrors. Two new profile screenshots reviewed; liveJSONbyte-exact. FINANCIAL_BATCH_EIGHTEEN_QA_2026-10-25.md. Continue finite queue; forecast gates unchanged, cadence ACTIVE.
+
+
+## Batch nineteen source locations verified — 25 October 2026 IST
+
+AC46Seikholal/Yamthong originalhashes verified; metadata-only locator40215030929passed. Financial-heading/page coordinates retained; no approved values or images rendered. Next narrow clips/visual comparison then releaseQA. FINANCIAL_BATCH_NINETEEN_PREPARATION_2026-10-25.md. Public37/74/228/0unchanged; cadence ACTIVE.
