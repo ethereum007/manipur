@@ -322,3 +322,8 @@ AC46Kimneo/Lhingkim originals hashverified; metadata-only locator40200706516pass
 ## Batch eighteen selected source inspection prepared — 25 October 2026 IST
 
 Renderer40205348094hashchecks passed; four financial-only regions visually reviewed/retained. Scoped movable observations and literal differently formatted excluded cell preserved; mixedNIL/NAliabilities stay null. FINANCIAL_BATCH_EIGHTEEN_PREPARATION_2026-10-25.md. Next comparisons/tests/browser/productionQA; public35/70/230/0unchanged, cadence ACTIVE.
+
+
+## Financial batch eighteen deployed and verified — 25 October 2026 IST
+
+37selected/74notes/228without comparison/0complete independent audits. Partial asset subtotals explicitly scoped including excluded differently formatted cell; mixedNIL/NAliabilities remain null. Run40209808703passed95Node/15Python/51browser checks, fivePDFpages,913HTML/31,262references/zeroerrors. Two new profile screenshots reviewed; liveJSONbyte-exact. FINANCIAL_BATCH_EIGHTEEN_QA_2026-10-25.md. Continue finite queue; forecast gates unchanged, cadence ACTIVE.
