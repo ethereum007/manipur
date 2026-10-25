@@ -1,0 +1,18 @@
+[
+  {
+    "ac": 46,
+    "candidate": "Jamchinlen Lunkim",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/46/Jamchinlen%20Lunkim.pdf",
+    "expectedSha256": "3269a4c81e78b1755b4f3177be937ac5cfebdd9e56f453212dc2e43ad2d6ee99",
+    "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
+    "clips": []
+  },
+  {
+    "ac": 46,
+    "candidate": "Kenn Raikhan",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/46/Kenn%20Raikhan.pdf",
+    "expectedSha256": "a50279078e82310c5deb5b0e65783bc1cbf89e6031698cd3a739398e16ee08fc",
+    "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
+    "clips": []
+  }
+]
