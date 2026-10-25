@@ -1,0 +1,77 @@
+[
+  {
+    "ac": 34,
+    "candidate": "Moirangthem Hemanta Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/34/Moirangthem%20Hemanta%20Singh.pdf",
+    "sha256": "40a6407dd527af472dba924c5c37d1e35ae15c0d95171336244b98985bd1b9ae",
+    "pages": 13,
+    "crops": [
+      {
+        "page": 12,
+        "id": "movable-cells",
+        "rect": [
+          140,
+          207,
+          575,
+          239
+        ],
+        "image": "ac34-40a6407dd527-p12-financial-selected-movable-cells.png"
+      },
+      {
+        "page": 12,
+        "id": "current-market-cells",
+        "rect": [
+          110,
+          335,
+          575,
+          475
+        ],
+        "image": "ac34-40a6407dd527-p12-financial-selected-current-market-cells.png"
+      },
+      {
+        "page": 12,
+        "id": "liability-cells",
+        "rect": [
+          110,
+          495,
+          575,
+          620
+        ],
+        "image": "ac34-40a6407dd527-p12-financial-selected-liability-cells.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 34,
+    "candidate": "Paonam Brojen Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/34/Paonam%20Brojen%20Singh.pdf",
+    "sha256": "87a5f4154115499cfbb420121e910cf814d8072631cb9ebbc0c482457ad19693",
+    "pages": 23,
+    "crops": [
+      {
+        "page": 20,
+        "id": "movable-cells",
+        "rect": [
+          40,
+          328,
+          535,
+          390
+        ],
+        "image": "ac34-87a5f4154115-p20-financial-selected-movable-cells.png"
+      },
+      {
+        "page": 21,
+        "id": "financial-cells",
+        "rect": [
+          55,
+          145,
+          570,
+          480
+        ],
+        "image": "ac34-87a5f4154115-p21-financial-selected-financial-cells.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
