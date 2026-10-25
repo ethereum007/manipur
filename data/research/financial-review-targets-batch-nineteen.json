@@ -1,0 +1,18 @@
+[
+  {
+    "ac": 46,
+    "candidate": "Seikholal Haokip",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/46/Seikholal%20Haokip.pdf",
+    "expectedSha256": "0bfdd766a5f3ee92aad7e19a76efbc5b36d9c7ad9aa5b9b65e7e3a157a615845",
+    "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
+    "clips": []
+  },
+  {
+    "ac": 46,
+    "candidate": "Yamthong Haokip",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/46/Yamthong%20Haokip.pdf",
+    "expectedSha256": "3edeadb5251f8ae8f68a36b46de240be72f498b7a2d832bd25c7562c3a4c28a5",
+    "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
+    "clips": []
+  }
+]
