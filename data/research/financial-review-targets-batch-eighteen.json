@@ -5,7 +5,28 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/46/Kimneo%20Haokip%20Hangshing.pdf",
     "expectedSha256": "948161a6ee44245b8d4b40fe45ae5f834c5a6aa16e2b47eef00aaefa98a106ff",
     "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 18,
+        "id": "movable-cells",
+        "rect": [
+          70,
+          502,
+          410,
+          529
+        ]
+      },
+      {
+        "page": 19,
+        "id": "financial-cells",
+        "rect": [
+          85,
+          340,
+          430,
+          530
+        ]
+      }
+    ]
   },
   {
     "ac": 46,
@@ -13,6 +34,27 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/46/Lhingkim%20Haokip.pdf",
     "expectedSha256": "d5e937535a1e68c8712ee63a4dac9f2b93638cc682de1d4045853246e4f2edb3",
     "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 13,
+        "id": "movable-cells",
+        "rect": [
+          80,
+          437,
+          370,
+          470
+        ]
+      },
+      {
+        "page": 14,
+        "id": "financial-cells",
+        "rect": [
+          75,
+          170,
+          370,
+          375
+        ]
+      }
+    ]
   }
 ]
