@@ -5,7 +5,28 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/33/Moirangthem%20Okendro.pdf",
     "expectedSha256": "ec16d9e8a42791cebae5a755bfaf0fff4b99cb87c6f4a9ced05a4e65cc3c33c9",
     "selectionReason": "Next source-readable unreviewed records by AC/name excluding deferrals; nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 15,
+        "id": "movable-row",
+        "rect": [
+          65,
+          347,
+          570,
+          371
+        ]
+      },
+      {
+        "page": 16,
+        "id": "liability-summary",
+        "rect": [
+          75,
+          40,
+          570,
+          245
+        ]
+      }
+    ]
   },
   {
     "ac": 33,
@@ -13,6 +34,27 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/33/Moirangthem%20Totomsana%20Nongshaba.pdf",
     "expectedSha256": "b4ef83c2575e1c66df6cca872c9cb540475935f13a7186e874d68c9955022bad",
     "selectionReason": "Next source-readable unreviewed records by AC/name excluding deferrals; nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 16,
+        "id": "movable-row",
+        "rect": [
+          85,
+          468,
+          580,
+          500
+        ]
+      },
+      {
+        "page": 17,
+        "id": "financial-summary",
+        "rect": [
+          85,
+          110,
+          580,
+          335
+        ]
+      }
+    ]
   }
 ]
