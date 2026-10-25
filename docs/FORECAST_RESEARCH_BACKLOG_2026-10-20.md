@@ -297,3 +297,8 @@ Next AC34Usham/AC40Budhachandra sources hashverified; locator40175203589/finalre
 ## Financial batch sixteen verified and deployed — 25 October 2026 IST
 
 33selected/66notes/232without comparison/0complete independent audits. Added amount-only loan agreement and mixed Nil/N.A. primarynull comparisons; full new asset totals remain unassigned. Run40179501228passed93Node/15Python/49browser checks, fivePDFpages,913HTML/31,258references/zeroerrors. Two new profile screenshots reviewed; liveJSONbyte-exact. FINANCIAL_BATCH_SIXTEEN_QA_2026-10-25.md. Continue finite primary queue; prospective forecast gates unchanged; cadence ACTIVE.
+
+
+## Batch seventeen source locations verified — 25 October 2026 IST
+
+AC46Jamchinlen/Kenn originals hashverified; metadata-only locator40183106169passed. Heading/page coordinates retained, no financial values approved or regions rendered. Next narrow financial-only crops and visual review, then scoped comparisons/tests/releaseQA. FINANCIAL_BATCH_SEVENTEEN_PREPARATION_2026-10-25.md. Public33/66/232/0unchanged; cadence ACTIVE.
