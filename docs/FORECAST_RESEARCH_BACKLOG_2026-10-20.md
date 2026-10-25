@@ -312,3 +312,8 @@ Finalrenderer40191694248hashchecks passed; four financial-only source regions vi
 ## Financial batch seventeen deployed and verified — 25 October 2026 IST
 
 35selected/70notes/230without comparison/0complete independent audits. Clipped handwritten value stays nonnumeric; mixedNA/NILprimarynull and separate scopedloan agreement retained. Run40196031941passed94Node/15Python/50browser checks, fivePDFpages,913HTML/31,260references/zeroerrors. Two new profile screenshots visually reviewed; liveJSONbyte-exact. FINANCIAL_BATCH_SEVENTEEN_QA_2026-10-25.md. Continue finite queue; forecast gates unchanged, cadence ACTIVE.
+
+
+## Batch eighteen source locations verified — 25 October 2026 IST
+
+AC46Kimneo/Lhingkim originals hashverified; metadata-only locator40200706516passed. Exact heading/page coordinates retained, no financial values approved or source images rendered. Next narrow financial-only clips and visual inspection, then comparisons/tests/releaseQA. FINANCIAL_BATCH_EIGHTEEN_PREPARATION_2026-10-25.md. Public35/70/230/0unchanged; cadence ACTIVE.
