@@ -315,3 +315,8 @@ AC46Jamchinlen/Kenn originals hashverified; metadata-only locator40183106169pass
 ## Batch seventeen selected source inspection prepared — 25 October 2026 IST
 
 Finalrenderer40191694248hashchecks passed; four financial-only source regions visually inspected/retained. Jamchinlen clipped handwritten assets remain nonnumeric, mixed NA/NILliabilities unassigned; Kenn selectedmovable subtotal/loan agreement scoped. FINANCIAL_BATCH_SEVENTEEN_PREPARATION_2026-10-25.md. Next implementation/tests/browser/productionQA; public33/66/232/0unchanged, cadence ACTIVE.
+
+
+## Financial batch seventeen deployed and verified — 25 October 2026 IST
+
+35selected/70notes/230without comparison/0complete independent audits. Clipped handwritten value stays nonnumeric; mixedNA/NILprimarynull and separate scopedloan agreement retained. Run40196031941passed94Node/15Python/50browser checks, fivePDFpages,913HTML/31,260references/zeroerrors. Two new profile screenshots visually reviewed; liveJSONbyte-exact. FINANCIAL_BATCH_SEVENTEEN_QA_2026-10-25.md. Continue finite queue; forecast gates unchanged, cadence ACTIVE.

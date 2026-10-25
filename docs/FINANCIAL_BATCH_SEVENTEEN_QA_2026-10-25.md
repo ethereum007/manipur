@@ -1,0 +1,11 @@
+# Financial batch seventeen release QA — 25 October 2026 IST
+
+Production35selected candidates/70field notes/230without selected comparison/0complete independent affidavit audits. Source-readability convenience sample, not representative or complete primary review.
+
+Code759cb251661d3dffdb6ab4e9f468abd27c72fcac, successful https://github.com/ethereum007/manipur/actions/runs/40196031941, build121176930586/deploy121177574093.94Node+15Python+50browser checks (159total) passed. Five landscape PDFpages verified, archived2026source hashes/pagecounts/all60ROoffice transcriptions verified. Static audit913HTML/31,260local references/0errors. ProductionJSON byte-identical to repository, SHA2569f5110be28305eb8af10ee136c7dd0479025fa138fad49f2cb25e3fc70e75db7.
+
+New AC46Jamchinlen Lunkim and Kenn Raikhan from final hash-bound source renderer40191694248, metadata locator40183106169; four final financial-only source regions visually inspected/retained. Exactsourcehashes/pages/regions in FINANCIAL_BATCH_SEVENTEEN_PREPARATION_2026-10-25.md. Jamchinlen ambiguous clipped handwritten assets remain nonnumeric, no repair usingADR; mixed NA/NIL liabilityprimarynull against attributedADR0. Kenn selectedmovable86266500paise remains partial/primaryassetnull, selectedloan36206600paise agreesADR numerically. Household roles/current/legal/completefiling conclusions not inferred.
+
+Original profile and coverage browser screenshots retained under docs/qa/financial-batch-seventeen-2026-10-25/ via focused retention40196343537. Visually reviewed financial-jamchinlen-desktop.png and financial-kenn-mobile.png: readable typography, source links, explicit missingness/limits, no clipping/overflow or visual defect needing CSS correction. Full coverage desktop/mobile images retained but not manually re-reviewed this bounded pass; automated coveragecounts/spacing/mobilewidth checks passed and earlier unchangedlayout review retained. No everypixel whole-site claim.
+
+Historical benchmark goldens untouched; disclosure expansion is not a2027forecast/readiness upgrade. Next finite230candidate source queue and external prospective evidence gaps remain; recorded source-location deferral excluded from immediate repeated attempts without new evidence. Files/acquisition/builds/screenshots entirely inGitHub; RAM-only API inspection. Cadence ACTIVE.
