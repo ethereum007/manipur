@@ -8,10 +8,20 @@
     "clips": [
       {
         "page": 12,
-        "id": "asset-cells",
+        "id": "movable-cells",
         "rect": [
           110,
-          230,
+          200,
+          575,
+          240
+        ]
+      },
+      {
+        "page": 12,
+        "id": "current-market-cells",
+        "rect": [
+          110,
+          335,
           575,
           475
         ]
@@ -40,9 +50,9 @@
         "id": "movable-cells",
         "rect": [
           40,
-          360,
+          300,
           535,
-          395
+          365
         ]
       },
       {
