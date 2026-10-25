@@ -285,3 +285,8 @@ Next two AC33sources hashverified; locator40157021041/finalrenderer40158668602pa
 ## Batch fifteen source locations verified — 25 October 2026 IST
 
 AC34Hemanta/Brojen originals hashverified; metadata-only locator40164376238passed. Heading/page proposals retained, no values extracted/approved or financial regions rendered. Next narrow financial-only clips and visual comparison, then releaseQA. FINANCIAL_BATCH_FIFTEEN_PREPARATION_2026-10-25.md. Public29/58/236/0unchanged; cadence ACTIVE.
+
+
+## Batch fifteen selected source inspection prepared — 25 October 2026 IST
+
+Cloud renderer40167778896passed PDFhash assertions; five final narrow financial-only regions visually inspected and retained. Header-contaminated intermediate artifact rejected/deleted. Working Hemanta loan agreement and Brojen39paise selected loan difference scoped; incomplete assets stay unassigned. FINANCIAL_BATCH_FIFTEEN_PREPARATION_2026-10-25.md records exact values/dates/limits. Next comparisons/tests/browser/productionQA; public29/58/236/0unchanged, no2027probabilities. Cadence ACTIVE.
