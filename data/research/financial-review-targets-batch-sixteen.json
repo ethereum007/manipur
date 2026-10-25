@@ -5,7 +5,28 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/34/Usham%20Manglem.pdf",
     "expectedSha256": "13bf3b62c9f89cfc0c2a0b896c582eb30025888e05df52144fcf273acc8ed356",
     "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 18,
+        "id": "movable-cells",
+        "rect": [
+          75,
+          530,
+          565,
+          563
+        ]
+      },
+      {
+        "page": 19,
+        "id": "financial-cells",
+        "rect": [
+          70,
+          340,
+          565,
+          585
+        ]
+      }
+    ]
   },
   {
     "ac": 40,
@@ -13,6 +34,27 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/40/NAMEIRAKPAM%20BUDHACHANDRA%20SINGH.pdf",
     "expectedSha256": "80ffda9161d4aeafe14e61d2d646398bd12b8ec2b8a1b9891380b14e8f761df8",
     "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 15,
+        "id": "movable-cells",
+        "rect": [
+          85,
+          550,
+          560,
+          580
+        ]
+      },
+      {
+        "page": 16,
+        "id": "financial-cells",
+        "rect": [
+          75,
+          235,
+          555,
+          430
+        ]
+      }
+    ]
   }
 ]
