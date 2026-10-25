@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 46,
+    "candidate": "Kimneo Haokip Hangshing",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/46/Kimneo%20Haokip%20Hangshing.pdf",
+    "sha256": "948161a6ee44245b8d4b40fe45ae5f834c5a6aa16e2b47eef00aaefa98a106ff",
+    "pages": 20,
+    "crops": [
+      {
+        "page": 18,
+        "id": "movable-cells",
+        "rect": [
+          70,
+          502,
+          410,
+          529
+        ],
+        "image": "ac46-948161a6ee44-p18-financial-selected-movable-cells.png"
+      },
+      {
+        "page": 19,
+        "id": "financial-cells",
+        "rect": [
+          85,
+          340,
+          430,
+          530
+        ],
+        "image": "ac46-948161a6ee44-p19-financial-selected-financial-cells.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 46,
+    "candidate": "Lhingkim Haokip",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/46/Lhingkim%20Haokip.pdf",
+    "sha256": "d5e937535a1e68c8712ee63a4dac9f2b93638cc682de1d4045853246e4f2edb3",
+    "pages": 15,
+    "crops": [
+      {
+        "page": 13,
+        "id": "movable-cells",
+        "rect": [
+          80,
+          437,
+          370,
+          470
+        ],
+        "image": "ac46-d5e937535a1e-p13-financial-selected-movable-cells.png"
+      },
+      {
+        "page": 14,
+        "id": "financial-cells",
+        "rect": [
+          75,
+          170,
+          370,
+          375
+        ],
+        "image": "ac46-d5e937535a1e-p14-financial-selected-financial-cells.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
