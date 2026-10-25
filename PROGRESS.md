@@ -280,3 +280,8 @@ Next two AC33sources hashverified; locator40157021041/finalrenderer40158668602pa
 ## Financial batch fourteen verified — 25 October 2026 IST
 
 29selected/58notes/236without comparison/0complete independent audits. New one-paise selected source difference unresolved; separate governmentdues/loan agreement scoped, both full assets null. Run40160560306passed91Node/15Python/47browser checks;913HTML/31,254references/zero errors. Two profile screenshots reviewed and liveJSONexact; source/coverage evidence retained. FINANCIAL_BATCH_FOURTEEN_QA_2026-10-25.md. Continue finite queue; cadence ACTIVE.
+
+
+## Batch fifteen source locations verified — 25 October 2026 IST
+
+AC34Hemanta/Brojen originals hashverified; metadata-only locator40164376238passed. Heading/page proposals retained, no values extracted/approved or financial regions rendered. Next narrow financial-only clips and visual comparison, then releaseQA. FINANCIAL_BATCH_FIFTEEN_PREPARATION_2026-10-25.md. Public29/58/236/0unchanged; cadence ACTIVE.
