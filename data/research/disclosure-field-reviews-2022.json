@@ -1,7 +1,7 @@
 {
   "year": 2022,
-  "reviewedAt": "2026-10-23",
-  "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/39903383517",
+  "reviewedAt": "2026-10-25",
+  "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40153754145",
   "method": "Codex visual comparison of selected original financial-summary regions. OCR located pages only; retained images use fixed financial-region coordinates and matching source hashes. Selected cells, not an independent human audit or complete affidavit review.",
   "scope": "Self-declarations at 2022 nomination. Not present wealth, current liabilities, legal status or certification of truth.",
   "records": [
@@ -1565,6 +1565,117 @@
           "note": "Two selected cells sum to ₹9,60,519, agreeing numerically with ADR. Other visible selected summary cells say NIL. The source tax label does not establish adjudication or current debt. This is selected-cell arithmetic, not complete filing, tax/legal verification or case review; household roles unconfirmed."
         }
       ]
+    },
+    {
+      "ac": 33,
+      "candidate": "Moirangthem Okendro",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/33/Moirangthem%20Okendro.pdf",
+      "sourceSha256": "ec16d9e8a42791cebae5a755bfaf0fff4b99cb87c6f4a9ced05a4e65cc3c33c9",
+      "reviewedAt": "2026-10-25",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40153754145",
+      "reviewedPages": [
+        15,
+        16
+      ],
+      "summary": "Two selected loan-summary cells total ₹1,99,00,000, agreeing numerically with ADR. Movable-summary observations remain partial; complete primary assets stay unassigned.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 9129641400,
+          "primaryValuePaise": null,
+          "primarySourceText": "Two selected movable cells only; current-market rows not reviewed",
+          "primaryScope": "Two movable-summary monetary cells on PDF 15 only",
+          "pages": [
+            15
+          ],
+          "observations": [
+            {
+              "label": "First selected movable cell",
+              "valuePaise": 751347740,
+              "sourceText": "75,13,477.40",
+              "qualifier": "exact",
+              "page": 15
+            },
+            {
+              "label": "Second selected movable cell",
+              "valuePaise": 1153793710,
+              "sourceText": "1,15,37,937.10",
+              "qualifier": "exact",
+              "page": 15
+            }
+          ],
+          "selectedComponentSubtotalPaise": 1905141450,
+          "unresolvedCell": "Current-market rows unreviewed and other movable cells N.A.; no zero or complete primary asset total assigned.",
+          "note": "Two selected movable cells subtotal ₹1,90,51,414.50. Current-market coverage is outside this row-only review; other movable cells say N.A. No complete primary asset total or equivalent-scope discrepancy against ADR’s ₹9,12,96,414 is assigned; household column roles unconfirmed."
+        },
+        {
+          "field": "liabilities",
+          "status": "derived-summary-agrees",
+          "secondaryValuePaise": 1990000000,
+          "primaryValuePaise": 1990000000,
+          "primarySourceText": "92,50,000.00 plus 1,06,50,000.00",
+          "primaryScope": "Two selected loan-summary monetary cells on PDF 16; N.A. government-dues/disputed cells remain unassigned",
+          "pages": [
+            16
+          ],
+          "components": [
+            {
+              "label": "First selected loan cell",
+              "valuePaise": 925000000,
+              "sourceText": "92,50,000.00",
+              "page": 16
+            },
+            {
+              "label": "Second selected loan cell",
+              "valuePaise": 1065000000,
+              "sourceText": "1,06,50,000.00",
+              "page": 16
+            }
+          ],
+          "note": "Two selected loan cells total ₹1,99,00,000, agreeing numerically with ADR. Other visible loan, government-dues and disputed-liability cells say N.A.; N.A. is not converted to zero. This is selected-subtotal agreement, not complete filing/current-debt/legal verification; household roles unconfirmed."
+        }
+      ]
+    },
+    {
+      "ac": 33,
+      "candidate": "Moirangthem Totomsana Nongshaba",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/33/Moirangthem%20Totomsana%20Nongshaba.pdf",
+      "sourceSha256": "b4ef83c2575e1c66df6cca872c9cb540475935f13a7186e874d68c9955022bad",
+      "reviewedAt": "2026-10-25",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40153754145",
+      "reviewedPages": [
+        16,
+        17
+      ],
+      "summary": "Selected movable cells say NIL while current-market cells say N.A.; no complete primary asset total is assigned. Selected government-dues and loan cells explicitly say NIL, agreeing numerically with ADR’s zero.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 5000000,
+          "primaryValuePaise": null,
+          "primarySourceText": "Movable NIL; current-market N.A.",
+          "primaryScope": "Movable-summary row PDF 16 and selected current-market continuation PDF 17 only",
+          "pages": [
+            16,
+            17
+          ],
+          "note": "Selected movable cells explicitly say NIL, while visible current-market self-acquired/inherited cells say N.A. N.A. is not converted to zero; complete primary assets remain unassigned against ADR’s ₹50,000. No missing/defective filing, equivalent-scope discrepancy or cause inferred; household roles unconfirmed."
+        },
+        {
+          "field": "liabilities",
+          "status": "summary-value-agrees",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": 0,
+          "primarySourceText": "NIL",
+          "primaryScope": "Selected government-dues and loan-summary cells on PDF 17 only; disputed-liability N.A. heading not a monetary zero",
+          "pages": [
+            17
+          ],
+          "note": "Selected government-dues and loan-summary cells explicitly say NIL, supporting a selected-summary zero that agrees numerically with ADR. The liability heading contains marks and the disputed-liability heading N.A.; neither is assigned a monetary value. No complete legal, case or current-debt verification is claimed."
+        }
+      ]
     }
   ],
   "sourceReviewRuns": [
@@ -1572,7 +1683,7 @@
     "https://github.com/ethereum007/manipur/actions/runs/39527983585"
   ],
   "selectionNotes": "Second batch: two previously unreviewed native-text-available records in AC12, selected in existing record order for a bounded availability-based sample; not a representative sample or risk ranking.",
-  "selectionLimit": "Twenty-five selected financial-summary comparisons form a nonrepresentative convenience sample, not twenty-five complete independent affidavit audits.",
+  "selectionLimit": "Twenty-seven selected financial-summary comparisons are a nonrepresentative convenience sample, not complete independent affidavit audits.",
   "reviewDeferrals": [
     {
       "ac": 13,
