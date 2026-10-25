@@ -1,7 +1,7 @@
 {
   "year": 2022,
   "reviewedAt": "2026-10-25",
-  "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40153754145",
+  "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40158668602",
   "method": "Codex visual comparison of selected original financial-summary regions. OCR located pages only; retained images use fixed financial-region coordinates and matching source hashes. Selected cells, not an independent human audit or complete affidavit review.",
   "scope": "Self-declarations at 2022 nomination. Not present wealth, current liabilities, legal status or certification of truth.",
   "records": [
@@ -1676,6 +1676,170 @@
           "note": "Selected government-dues and loan-summary cells explicitly say NIL, supporting a selected-summary zero that agrees numerically with ADR. The liability heading contains marks and the disputed-liability heading N.A.; neither is assigned a monetary value. No complete legal, case or current-debt verification is claimed."
         }
       ]
+    },
+    {
+      "ac": 33,
+      "candidate": "Ningthoujam Diten Singh",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/33/Ningthoujam%20Diten%20Singh.pdf",
+      "sourceSha256": "d735b208bfa8af7f7c45f246042bbf674fef79e0056235e584413b239c7f690d",
+      "reviewedAt": "2026-10-25",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40158668602",
+      "reviewedPages": [
+        20,
+        22
+      ],
+      "summary": "Selected loan-summary ₹50,34,606.01 is one paise above ADR; the cause remains unresolved. Clipped current-market continuation prevents a complete primary asset total.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 3976886700,
+          "primaryValuePaise": null,
+          "primarySourceText": "Two selected movable cells; current-market continuation clipped",
+          "primaryScope": "Two movable-summary monetary cells on PDF 20 only",
+          "pages": [
+            20,
+            22
+          ],
+          "observations": [
+            {
+              "label": "Selected movable monetary cell 1",
+              "valuePaise": 965660918,
+              "sourceText": "Rs.96,56,609.18",
+              "qualifier": "exact",
+              "page": 20
+            },
+            {
+              "label": "Selected movable monetary cell 2",
+              "valuePaise": 531225794,
+              "sourceText": "Rs.53,12,257.94/-",
+              "qualifier": "exact",
+              "page": 20
+            }
+          ],
+          "selectedComponentSubtotalPaise": 1496886712,
+          "unresolvedCell": "Current-market continuation clipped and other movable cells Not Applicable; no zero or complete total assigned.",
+          "note": "Two selected movable cells subtotal ₹1,49,68,867.12. Current-market continuation is clipped in the reviewed region and other movable cells say Not Applicable. No complete primary asset total or equivalent-scope discrepancy against ADR’s ₹3,97,68,867 is assigned; household column roles unconfirmed."
+        },
+        {
+          "field": "liabilities",
+          "status": "summary-secondary-disagreement",
+          "secondaryValuePaise": 503460600,
+          "primaryValuePaise": 503460601,
+          "differencePaise": 1,
+          "primarySourceText": "Rs.50,34,606.01/-",
+          "primaryScope": "One selected loan-summary monetary cell on PDF 22 only",
+          "pages": [
+            22
+          ],
+          "note": "The selected loan-summary cell reads ₹50,34,606.01 versus ADR’s ₹50,34,606: a ₹0.01 difference remains unresolved. Other visible selected government-dues/disputed cells say NIL. No rounding cause, corrected complete filing, current-debt assessment or legal finding inferred; household roles unconfirmed."
+        }
+      ]
+    },
+    {
+      "ac": 33,
+      "candidate": "Thokchom Radheshyam Singh",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/33/Thokchom%20Radheshyam%20Singh.pdf",
+      "sourceSha256": "ac0496f597139532f6785a12e65a8d2da8da2b31c7faf466f69156a825bd8107",
+      "reviewedAt": "2026-10-25",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40158668602",
+      "reviewedPages": [
+        11,
+        12
+      ],
+      "summary": "Three selected government-dues and loan cells total ₹42,00,412, agreeing numerically with ADR. Movable observations remain partial; no complete primary asset total is assigned.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 1963852200,
+          "primaryValuePaise": null,
+          "primarySourceText": "Six selected movable monetary cells only; current-market coverage not reviewed",
+          "primaryScope": "Six movable-summary monetary cells on PDF 11 only; household roles unconfirmed",
+          "pages": [
+            11
+          ],
+          "observations": [
+            {
+              "label": "Selected movable monetary cell 1",
+              "valuePaise": 763249800,
+              "sourceText": "Rs.76,32,498",
+              "qualifier": "exact",
+              "page": 11
+            },
+            {
+              "label": "Selected movable monetary cell 2",
+              "valuePaise": 323756100,
+              "sourceText": "Rs.32,37,561",
+              "qualifier": "exact",
+              "page": 11
+            },
+            {
+              "label": "Selected movable monetary cell 3",
+              "valuePaise": 47160000,
+              "sourceText": "Rs.4,71,600",
+              "qualifier": "exact",
+              "page": 11
+            },
+            {
+              "label": "Selected movable monetary cell 4",
+              "valuePaise": 4429500,
+              "sourceText": "Rs.44,295",
+              "qualifier": "exact",
+              "page": 11
+            },
+            {
+              "label": "Selected movable monetary cell 5",
+              "valuePaise": 11777000,
+              "sourceText": "Rs.1,17,770",
+              "qualifier": "exact",
+              "page": 11
+            },
+            {
+              "label": "Selected movable monetary cell 6",
+              "valuePaise": 18479800,
+              "sourceText": "Rs.1,84,798",
+              "qualifier": "exact",
+              "page": 11
+            }
+          ],
+          "selectedComponentSubtotalPaise": 1168852200,
+          "unresolvedCell": "Current-market rows not reviewed; no complete primary asset total assigned.",
+          "note": "Six selected movable cells subtotal ₹1,16,88,522. Current-market coverage is outside this approved row-only review. No complete primary asset total or equivalent-scope discrepancy against ADR’s ₹1,96,38,522 is assigned. Household roles are not inferred from excluded headers."
+        },
+        {
+          "field": "liabilities",
+          "status": "derived-summary-agrees",
+          "secondaryValuePaise": 420041200,
+          "primaryValuePaise": 420041200,
+          "primarySourceText": "27,83,420 plus 12,14,754 plus 2,02,238",
+          "primaryScope": "Three selected government-dues and loan monetary cells on PDF 12 only",
+          "pages": [
+            12
+          ],
+          "components": [
+            {
+              "label": "Selected government-dues cell",
+              "valuePaise": 278342000,
+              "sourceText": "Rs.27,83,420",
+              "page": 12
+            },
+            {
+              "label": "First selected loan monetary cell",
+              "valuePaise": 121475400,
+              "sourceText": "Rs.12,14,754",
+              "page": 12
+            },
+            {
+              "label": "Second selected loan monetary cell",
+              "valuePaise": 20223800,
+              "sourceText": "Rs.2,02,238",
+              "page": 12
+            }
+          ],
+          "note": "Three selected cells total ₹42,00,412, agreeing numerically with ADR. Other visible selected monetary/disputed-liability cells say NIL. This is selected arithmetic, not full/current liability, tax/legal verification or case review; household column roles unconfirmed."
+        }
+      ]
     }
   ],
   "sourceReviewRuns": [
@@ -1683,7 +1847,7 @@
     "https://github.com/ethereum007/manipur/actions/runs/39527983585"
   ],
   "selectionNotes": "Second batch: two previously unreviewed native-text-available records in AC12, selected in existing record order for a bounded availability-based sample; not a representative sample or risk ranking.",
-  "selectionLimit": "Twenty-seven selected financial-summary comparisons are a nonrepresentative convenience sample, not complete independent affidavit audits.",
+  "selectionLimit": "Twenty-nine selected financial-summary comparisons form a nonrepresentative convenience sample, not complete independent affidavit audits.",
   "reviewDeferrals": [
     {
       "ac": 13,
