@@ -325,3 +325,8 @@ Finalrenderer40191694248hashchecks passed; four financial-only source regions vi
 ## Batch eighteen source locations verified — 25 October 2026 IST
 
 AC46Kimneo/Lhingkim originals hashverified; metadata-only locator40200706516passed. Exact heading/page coordinates retained, no financial values approved or source images rendered. Next narrow financial-only clips and visual inspection, then comparisons/tests/releaseQA. FINANCIAL_BATCH_EIGHTEEN_PREPARATION_2026-10-25.md. Public35/70/230/0unchanged; cadence ACTIVE.
+
+
+## Batch eighteen selected source inspection prepared — 25 October 2026 IST
+
+Renderer40205348094hashchecks passed; four financial-only regions visually reviewed/retained. Scoped movable observations and literal differently formatted excluded cell preserved; mixedNIL/NAliabilities stay null. FINANCIAL_BATCH_EIGHTEEN_PREPARATION_2026-10-25.md. Next comparisons/tests/browser/productionQA; public35/70/230/0unchanged, cadence ACTIVE.
