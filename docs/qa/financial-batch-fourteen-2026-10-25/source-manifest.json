@@ -1,0 +1,77 @@
+[
+  {
+    "ac": 33,
+    "candidate": "Ningthoujam Diten Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/33/Ningthoujam%20Diten%20Singh.pdf",
+    "sha256": "d735b208bfa8af7f7c45f246042bbf674fef79e0056235e584413b239c7f690d",
+    "pages": 23,
+    "crops": [
+      {
+        "page": 20,
+        "id": "movable-row",
+        "rect": [
+          75,
+          588,
+          575,
+          628
+        ],
+        "image": "ac33-d735b208bfa8-p20-financial-selected-movable-row.png"
+      },
+      {
+        "page": 22,
+        "id": "financial-summary",
+        "rect": [
+          65,
+          280,
+          575,
+          560
+        ],
+        "image": "ac33-d735b208bfa8-p22-financial-selected-financial-summary.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 33,
+    "candidate": "Thokchom Radheshyam Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/33/Thokchom%20Radheshyam%20Singh.pdf",
+    "sha256": "ac0496f597139532f6785a12e65a8d2da8da2b31c7faf466f69156a825bd8107",
+    "pages": 13,
+    "crops": [
+      {
+        "page": 11,
+        "id": "movable-row",
+        "rect": [
+          90,
+          520,
+          580,
+          543
+        ],
+        "image": "ac33-ac0496f59713-p11-financial-selected-movable-row.png"
+      },
+      {
+        "page": 12,
+        "id": "dues-loan-cells",
+        "rect": [
+          65,
+          190,
+          565,
+          247
+        ],
+        "image": "ac33-ac0496f59713-p12-financial-selected-dues-loan-cells.png"
+      },
+      {
+        "page": 12,
+        "id": "disputed-cells",
+        "rect": [
+          65,
+          375,
+          565,
+          432
+        ],
+        "image": "ac33-ac0496f59713-p12-financial-selected-disputed-cells.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]

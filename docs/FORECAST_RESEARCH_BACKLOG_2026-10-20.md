@@ -262,3 +262,8 @@ This closes the outstanding changed-region coverage visual check from the preced
 ## Financial batch thirteen verified — 25 October 2026 IST
 
 27selected/54notes/238without comparison/0complete independent audits. Added two scoped AC33financial comparisons, full assets null/N.A.preserved and selected loan/NILagreements correctly limited. Run40154416586passed90Node/15Python/46browser tests;913HTML/31,252references/zero errors. Four safe source regions and two new profile screenshots visually reviewed; coverage screenshots retained with automated checks, productionJSONexact. FINANCIAL_BATCH_THIRTEEN_QA_2026-10-25.md. Continue finite primary queue; cadence ACTIVE.
+
+
+## Batch fourteen source preparation — 25 October 2026 IST
+
+Next two AC33sources hashverified; locator40157021041/finalrenderer40158668602passed. Five narrow financial-only regions reviewed/retained; initial household-header/stamped-ID artifact rejected/deleted. Working one-paise loan difference and scoped governmentdues/loan agreement retained, assets incomplete/null. FINANCIAL_BATCH_FOURTEEN_PREPARATION_2026-10-25.md. Next comparisons/tests/releaseQA; public27/54/238/0unchanged. Cadence ACTIVE.
