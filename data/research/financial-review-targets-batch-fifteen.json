@@ -1,0 +1,18 @@
+[
+  {
+    "ac": 34,
+    "candidate": "Moirangthem Hemanta Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/34/Moirangthem%20Hemanta%20Singh.pdf",
+    "expectedSha256": "40a6407dd527af472dba924c5c37d1e35ae15c0d95171336244b98985bd1b9ae",
+    "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
+    "clips": []
+  },
+  {
+    "ac": 34,
+    "candidate": "Paonam Brojen Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/34/Paonam%20Brojen%20Singh.pdf",
+    "expectedSha256": "87a5f4154115499cfbb420121e910cf814d8072631cb9ebbc0c482457ad19693",
+    "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
+    "clips": []
+  }
+]
