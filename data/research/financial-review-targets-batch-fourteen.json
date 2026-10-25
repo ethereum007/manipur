@@ -47,12 +47,22 @@
       },
       {
         "page": 12,
-        "id": "liability-summary",
+        "id": "dues-loan-cells",
         "rect": [
           65,
-          96,
+          190,
           565,
-          440
+          247
+        ]
+      },
+      {
+        "page": 12,
+        "id": "disputed-cells",
+        "rect": [
+          65,
+          375,
+          565,
+          432
         ]
       }
     ]
