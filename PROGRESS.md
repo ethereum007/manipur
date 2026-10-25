@@ -310,3 +310,8 @@ Next AC34Usham/AC40Budhachandra sources hashverified; locator40175203589/finalre
 ## Batch seventeen source locations verified — 25 October 2026 IST
 
 AC46Jamchinlen/Kenn originals hashverified; metadata-only locator40183106169passed. Heading/page coordinates retained, no financial values approved or regions rendered. Next narrow financial-only crops and visual review, then scoped comparisons/tests/releaseQA. FINANCIAL_BATCH_SEVENTEEN_PREPARATION_2026-10-25.md. Public33/66/232/0unchanged; cadence ACTIVE.
+
+
+## Batch seventeen selected source inspection prepared — 25 October 2026 IST
+
+Finalrenderer40191694248hashchecks passed; four financial-only source regions visually inspected/retained. Jamchinlen clipped handwritten assets remain nonnumeric, mixed NA/NILliabilities unassigned; Kenn selectedmovable subtotal/loan agreement scoped. FINANCIAL_BATCH_SEVENTEEN_PREPARATION_2026-10-25.md. Next implementation/tests/browser/productionQA; public33/66/232/0unchanged, cadence ACTIVE.
