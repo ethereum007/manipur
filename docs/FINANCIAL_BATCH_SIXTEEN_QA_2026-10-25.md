@@ -1,0 +1,13 @@
+# Financial batch sixteen release QA — 25 October 2026 IST
+
+Verified production33selected candidates /66field notes /232without selected comparison /0complete independent affidavit audits. Convenience source-readable sample, not representative or a complete primary audit.
+
+Code87a362e9eecd448d0cb20be70ca21bbb5711c26e, successful cloud run https://github.com/ethereum007/manipur/actions/runs/40179501228; build121127313937/deploy121127880600. Passed93Node +15Python +49browser checks (157total). Five landscape PDF pages verified; archived2026PDFhash/page counts and all60ROoffice transcriptions checked. Static audit913HTML/31,258localreferences/0errors. Live selected-reviewJSON byte-matches repository, SHA256b028a686cf1f4a664b7478238885b99ae12ea228f21bef8244b57b76bb542124.
+
+Added Usham Manglem AC34 and NAMEIRAKPAM BUDHACHANDRA SINGH AC40 from final hash-bound source renderer40175621920, metadata locator40175203589. Four financial-only source regions previously visually inspected/retained; rejected identifier-containing intermediate artifact deleted before retention. See FINANCIAL_BATCH_SIXTEEN_PREPARATION_2026-10-25.md for exact original hashes/pages, narrow clips and source limits.
+
+Usham selected loan19631600paise agrees numerically with attributedADR; final amount-only region does not support complete creditor/category review. Selected movable22165091paise remains partial; no equivalent-scope completeasset discrepancy assigned. Budhachandra selected movable103508294paise partial; mixed Nil/N.A. liabilities remain primarynull versusADR0. Neither new record has an approved complete primary asset total; no N.A.-to-zero/household-role/current/legal inference.
+
+Focused screenshot retention40179730535 succeeded; four original browser images retained under docs/qa/financial-batch-sixteen-2026-10-25/. Visually reviewed financial-usham-desktop.png and financial-budhachandra-mobile.png: readable hierarchy, source links, honest scope/missingness, no visible clipping or horizontal overflow requiring CSS correction. Full coverage desktop/mobile screenshots retained, not manually re-reviewed this bounded pass; automated count/spacing/width checks passed and earlier unchanged-layout reviews retained. No whole-site every-pixel review claimed.
+
+Historical evaluation goldens and forecasting gates unchanged. No2027nomination/probability/readiness upgrade inferred from financial coverage. Continue finite232candidate queue, avoid repeated source-location deferral attempts without new evidence. All files/acquisition/builds/tests/screenshots retained inGitHub; no local project files or dependencies. Cadence ACTIVE.

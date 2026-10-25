@@ -300,3 +300,8 @@ Cloud renderer40167778896passed PDFhash assertions; five final narrow financial-
 ## Batch sixteen selected source inspection prepared — 25 October 2026 IST
 
 Next AC34Usham/AC40Budhachandra sources hashverified; locator40175203589/finalrenderer40175621920passed. Four final financial-only regions visually inspected/retained; identifier-containing intermediate artifact rejected/deleted. Scoped loan agreement, partial movable assets and mixed Nil/N.A. documented in FINANCIAL_BATCH_SIXTEEN_PREPARATION_2026-10-25.md. Next implementation/tests/browser/productionQA; public31/62/234/0unchanged. Cadence ACTIVE.
+
+
+## Financial batch sixteen verified and deployed — 25 October 2026 IST
+
+33selected/66notes/232without comparison/0complete independent audits. Added amount-only loan agreement and mixed Nil/N.A. primarynull comparisons; full new asset totals remain unassigned. Run40179501228passed93Node/15Python/49browser checks, fivePDFpages,913HTML/31,258references/zeroerrors. Two new profile screenshots reviewed; liveJSONbyte-exact. FINANCIAL_BATCH_SIXTEEN_QA_2026-10-25.md. Continue finite primary queue; prospective forecast gates unchanged; cadence ACTIVE.
