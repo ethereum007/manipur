@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 34,
+    "candidate": "Usham Manglem",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/34/Usham%20Manglem.pdf",
+    "sha256": "13bf3b62c9f89cfc0c2a0b896c582eb30025888e05df52144fcf273acc8ed356",
+    "pages": 20,
+    "crops": [
+      {
+        "page": 18,
+        "id": "movable-cells",
+        "rect": [
+          75,
+          530,
+          565,
+          563
+        ],
+        "image": "ac34-13bf3b62c9f8-p18-financial-selected-movable-cells.png"
+      },
+      {
+        "page": 19,
+        "id": "loan-amount-cells",
+        "rect": [
+          165,
+          468,
+          565,
+          484
+        ],
+        "image": "ac34-13bf3b62c9f8-p19-financial-selected-loan-amount-cells.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 40,
+    "candidate": "NAMEIRAKPAM BUDHACHANDRA SINGH",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/40/NAMEIRAKPAM%20BUDHACHANDRA%20SINGH.pdf",
+    "sha256": "80ffda9161d4aeafe14e61d2d646398bd12b8ec2b8a1b9891380b14e8f761df8",
+    "pages": 18,
+    "crops": [
+      {
+        "page": 15,
+        "id": "movable-cells",
+        "rect": [
+          85,
+          550,
+          560,
+          580
+        ],
+        "image": "ac40-80ffda9161d4-p15-financial-selected-movable-cells.png"
+      },
+      {
+        "page": 16,
+        "id": "financial-cells",
+        "rect": [
+          75,
+          235,
+          555,
+          430
+        ],
+        "image": "ac40-80ffda9161d4-p16-financial-selected-financial-cells.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
