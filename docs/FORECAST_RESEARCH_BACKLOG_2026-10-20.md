@@ -387,3 +387,8 @@ Scoped next AC47Thaiba/AC48Losii targetledger; active locator40340526712healthy 
 ## Batch twenty-two source locations verified — 26 October 2026 IST
 
 Originalpendinglocator40340526712succeeded; Thaiba/Losii originalhashes matched, metadataretained. ThaibaabstractPDF11; Losiifallbackmarkerpages12–17 needsummaryconfirmation. No valuesapproved/imagesrendered. FINANCIAL_BATCH_TWENTY_TWO_PREPARATION_2026-10-26.md supersedespendingreceipt. Next boundedfinancialregions/visualreview; public43/86/222/0unchanged, cadenceACTIVE.
+
+
+## Batch twenty-two selected source inspection prepared — 26 October 2026 IST
+
+Renderer40359382751hashchecks passed; fourfinancial-onlyregions visuallyreviewed/retained. Losiifallbacksummarylocation confirmed, two-cellmovables/selectedloanagreement scoped; ThaibaNotApplicableassetsnull and visibleNilcells distinctfromclippedcontinuation. FINANCIAL_BATCH_TWENTY_TWO_PREPARATION_2026-10-26.md. Next implementation/tests/browser/productionQA; public43/86/222/0unchanged, cadenceACTIVE.
