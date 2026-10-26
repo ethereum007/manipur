@@ -365,3 +365,8 @@ Finalrenderer40271710011hashchecks passed; four financial-only regions visually 
 ## Financial batch twenty deployed and verified — 26 October 2026 IST
 
 41selected/82notes/224without comparison/0complete independent audits. Scoped assetcells preserve excludedformattedcell and completeassetsnull; mixedNA/NILliabilities unassigned. Run40277342346passed99Node/15Python/54browser checks, fivePDFpages,913HTML/31,386references/zeroerrors. Newprofile desktop/mobile screenshots reviewed; liveJSONbyte-exact. FINANCIAL_BATCH_TWENTY_QA_2026-10-26.md. Continue finitequeue/currentinputgates, cadenceACTIVE.
+
+
+## Batch twenty-one source locations verified — 26 October 2026 IST
+
+AC47Khoho/Jonathan originalhashes matched; metadata-onlylocator40283054761passed. Khoho has noabstractheading, fallbackmarkerpages require boundedconfirmation; Jonathan abstractPDF12. No values approved/imagesrendered. FINANCIAL_BATCH_TWENTY_ONE_PREPARATION_2026-10-26.md. Next exactcoordinates/financialregions thenreleaseQA; public41/82/224/0unchanged, cadenceACTIVE.
