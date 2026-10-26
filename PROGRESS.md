@@ -355,3 +355,8 @@ New60seatsearchableworklist links dated2022Assembly/2024Parliamentary/directory 
 ## Batch twenty source locations verified — 26 October 2026 IST
 
 Next AC47Thaisii/J Kumo Sha originals hashverified; metadata-only locator40265243270passed. Exact page/heading coordinates retained, no financial values approved or images rendered. Next narrowclips/visualcomparison thenreleaseQA. FINANCIAL_BATCH_TWENTY_PREPARATION_2026-10-26.md. Public39/78/226/0unchanged; cadenceACTIVE.
+
+
+## Batch twenty selected source inspection prepared — 26 October 2026 IST
+
+Finalrenderer40271710011hashchecks passed; four financial-only regions visually inspected/retained, signature-margin intermediateartifact rejected/deleted. Scopedmovableobservations preserve differently formatted excludedcell and mixedNA/NILliabilitiesnull. FINANCIAL_BATCH_TWENTY_PREPARATION_2026-10-26.md. Next implementation/tests/browser/productionQA; public39/78/226/0unchanged, cadenceACTIVE.
