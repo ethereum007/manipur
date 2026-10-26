@@ -1,0 +1,40 @@
+name: Selected financial summary batch twenty-four
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests==2.34.2 pymupdf==2.0 Pillow==12.0.0
+      - run: python -u scripts/ingest/render-financial-selected.py
+        env:
+          FINANCIAL_TARGETS: data/research/financial-review-targets-batch-twenty-four.json
+      - name: Orient selected landscape source crops
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from PIL import Image
+          import json
+          folder=Path('work-financial-review')
+          report=json.loads((folder/'manifest.json').read_text())
+          for record in report:
+              if record.get('candidate')=='M. Francis Ngajokpa':
+                  for crop in record['crops']:
+                      path=folder/crop['image']
+                      im=Image.open(path);im.rotate(90,expand=True).save(path)
+                      crop['displayRotationDegreesCounterclockwise']=90
+          (folder/'manifest.json').write_text(json.dumps(report,indent=2))
+          PY
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: selected-financial-review-batch-twenty-four
+          path: work-financial-review/
+          retention-days: 7

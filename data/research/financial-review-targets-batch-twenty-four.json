@@ -5,7 +5,28 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/49/M.%20Francis%20Ngajokpa.pdf",
     "expectedSha256": "dad1b0bca1fef42849c365667112101d49b740d5621231d9789fdcfc17ee61d9",
     "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 15,
+        "id": "movable-cells",
+        "rect": [
+          352,
+          40,
+          384,
+          370
+        ]
+      },
+      {
+        "page": 16,
+        "id": "financial-cells",
+        "rect": [
+          158,
+          35,
+          335,
+          385
+        ]
+      }
+    ]
   },
   {
     "ac": 49,
@@ -13,6 +34,27 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/49/N.%20Kayisii.pdf",
     "expectedSha256": "267101a3e8f1cbee1c4563a92d89021a1a48837a4d12fc94e5576a2fbfdcb9ba",
     "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 14,
+        "id": "movable-cells",
+        "rect": [
+          95,
+          637,
+          505,
+          682
+        ]
+      },
+      {
+        "page": 15,
+        "id": "financial-cells",
+        "rect": [
+          85,
+          410,
+          505,
+          647
+        ]
+      }
+    ]
   }
 ]
