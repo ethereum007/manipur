@@ -1,0 +1,13 @@
+# Statewide evidence worklist QA — 26 October 2026 IST
+
+Built and deployed a searchable sixty-constituency research worklist on /outlook/inputs/#seat-evidence-worklist. Projection from existing dated feature inventory and selected disclosure register; no new research values, nominations, affiliations or probabilities approved. Fifteen constituencies currently have at least one selected review;37candidates/74notes/228without selected comparison/0complete independent audits unchanged.
+
+Final application code9342ef3b1a561f8ec4d508b4767ad12f1f025fe3, successful https://github.com/ethereum007/manipur/actions/runs/40256046099, build121358068563/deploy121359907116.97Node+15Python+52browser checks (164total) passed, five landscapePDFpages verified,913HTML/31,382localreferences/0errors. ProductionHTTP200 contains worklist and compact details; live disclosureJSONbyte-matches repository.
+
+Tests conserve60ACs, candidate/fieldnote/deferral counts, allthreeunindexed2027sets, vacancy semantics, no data mutation or numerical readinessscore. Browser tests name/ACsearch, filters including source-locationdeferral, no-review rows, vacancy effective-date limits, expanded nomination-gap details, evidence/errorlinks, emptyresults, mobileoverflow. Historical goldens unchanged.
+
+Initial screenshot review found overly tall repeated gap paragraphs and clipped long desktopplaceholder. Corrected with native details/summary per row and shortened placeholder, then fullsuite rerun. Final cloud retention40256771499 saves original desktop/mobile images and exact top/bottominspectionregions/coordinates in docs/qa/seat-worklist-2026-10-26/. Four final crops visually reviewed: readable typography/counts/controls, compactrows, source/date/type distinctions, lowerboundary/source note. Mobile table intentionally scrolls horizontally within labelled focusable region, swipehint visible; documentdoesnot overflow. Originalfullimages retained; middleunchangedrows not eachmanuallyre-reviewed.
+
+React quality check: fullinput/disclosurerecords used by serverprojection; interactiveclient receives minimal60seatprops. Localstate only, no effectderivedstate, no additionalclientfetches/dependencies, stableACkeys, native labelledcontrols/details and status announcements. No local projectwrites/clone/install/build/screenshots; GitHubActions and RAM-only APIs.
+
+Remaining finitework: prepared batch19Seikholal/Yamthong sources await scoped publication/tests;228candidate primaryreviewqueue remains. Currenteffectiveaffiliations and complete2027nominee/alliance/opinion inputs notcertified; calibration/prospectivevalidation remain notready. No numerical2027probabilities, tactical recommendations or sensitiveidentityinference added. CadenceACTIVE.
