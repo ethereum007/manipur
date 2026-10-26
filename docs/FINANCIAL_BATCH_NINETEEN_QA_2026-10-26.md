@@ -1,0 +1,11 @@
+# Financial batch nineteen release QA — 26 October 2026 IST
+
+Production39selected candidates/78field notes/226without selected comparison/0complete independent affidavit audits. Nonrepresentative source-readability convenience coverage.
+
+Codee1137c1991f0caede1a7baea230fe77fd32badbf, successful https://github.com/ethereum007/manipur/actions/runs/40259896248, build121369780971/deploy121370562432.98Node+15Python+53browser checks (166total) passed. Five landscapePDFpages verified,913HTML/31,384localreferences/0errors. Productionselected-reviewJSONbyte-identical to repository, SHA2562c90a8c9a61a5fedbc48154989298cd11f5a1192ea8b350a145638b53ef53439.
+
+Added AC46Seikholal Haokip/Yamthong Haokip from hash-bound cloud renderer40255203706 and locator40215030929. Exactsourcehashes/pages/clips in FINANCIAL_BATCH_NINETEEN_PREPARATION_2026-10-25.md, four safe source regions already visually inspected/retained in docs/qa/financial-batch-nineteen-2026-10-26/. Seikholal crossed-out/handwritten asset amounts notapproved numerically or repaired fromADR; primaryassetsnull, NA liabilitiesnull versus attributedADR0. Yamthong selectedmovable539613356paise partialonly/completeassetsnull; selectedloan280008000paise agreesADR numerically, otherNA notzero. No current/legal/completefiling/householdrole inference.
+
+Focused screenshot retention40260228436 succeeded; four original cloud profile/coverage images retained. Visually reviewed financial-seikholal-desktop.png and financial-yamthong-mobile.png: readable hierarchy/source links/missingness, no clipping/overflow requiring correction. Fullcoverageimages retained but not manually re-reviewed this boundedpass; automated coverage/spacing/mobilewidth tests passed and previous unchangedlayoutreview retained. No whole-site everypixel review claim. Statewide worklist derives updated39candidatecount without silently counting preparation records.
+
+Historical goldens unchanged; no2027forecast/readinessupgrade inferred. Finite226candidatequeue and effectiveaffiliation/nominee/alliance/opinion/calibration/prospectivevalidation gates remain. Existing source-locationdeferral not immediately retried absentnewevidence. All projectacquisition/files/builds/tests/screenshots inGitHub, RAM-onlyAPIinspection. CadenceACTIVE.
