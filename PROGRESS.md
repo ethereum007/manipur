@@ -430,3 +430,8 @@ Originalpendingrun40397379746succeeded; production47selected/94notes/218withoutc
 ## Batch twenty-four source locations verified — 27 October 2026 IST
 
 AC49Francis/Kayisii originalhashes matched; metadata-onlylocator40413403744passed. Francisfinancialproposals15–16landscape, Kayisii14–15portrait; actualdimensions retained. No valuesapproved/imagesrendered. FINANCIAL_BATCH_TWENTY_FOUR_PREPARATION_2026-10-27.md. Next narrowclips/visualreview thenreleaseQA; public47/94/218/0unchanged, cadenceACTIVE.
+
+
+## Batch twenty-four selected source inspection prepared — 27 October 2026 IST
+
+Renderer40421281504hashchecks passed; fourfinancial-onlyregions upright/visuallyreviewed/retained withdocumenteddisplayrotation. Francis/Kayisiipartialmovables andmixedNIL/NAliabilitiesnull scoped. FINANCIAL_BATCH_TWENTY_FOUR_PREPARATION_2026-10-27.md. Next implementation/tests/browser/productionQA; public47/94/218/0unchanged, cadenceACTIVE.
