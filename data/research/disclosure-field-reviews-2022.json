@@ -1,6 +1,6 @@
 {
   "year": 2022,
-  "reviewedAt": "2026-10-26",
+  "reviewedAt": "2026-10-27",
   "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40158668602",
   "method": "Codex visual comparison of selected original financial-summary regions. OCR located pages only; retained images use fixed financial-region coordinates and matching source hashes. Selected cells, not an independent human audit or complete affidavit review.",
   "scope": "Self-declarations at 2022 nomination. Not present wealth, current liabilities, legal status or certification of truth.",
@@ -2761,6 +2761,114 @@
             16
           ],
           "note": "Selected loan ₹4,27,835 agrees numerically with ADR. Other visible selected government-dues/loan/disputed cells say NIL; lower continuation is partly clipped. No complete/current financial or legal review is claimed; household roles unconfirmed."
+        }
+      ]
+    },
+    {
+      "ac": 48,
+      "candidate": "Sanii Alexander Maikho",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/48/Sanii%20Alexander%20Maikho.pdf",
+      "sourceSha256": "0ac5d6a53e535b63b4f61d7b259532ccc6840516cae9352cd6c57de1c941d100",
+      "reviewedAt": "2026-10-27",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40388493157",
+      "reviewedPages": [
+        12,
+        13
+      ],
+      "summary": "Two selected movable cells subtotal ₹16,21,285; complete current-market assets remain unreviewed. NOT APPLICABLE liabilities are not assigned monetary zero.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 917426500,
+          "primaryValuePaise": null,
+          "primarySourceText": "Two selected movable monetary cells; current-market coverage unreviewed",
+          "primaryScope": "Selected movable cells on PDF 12 only; household roles unconfirmed",
+          "pages": [
+            12
+          ],
+          "observations": [
+            {
+              "label": "Selected movable monetary cell 1",
+              "valuePaise": 160128500,
+              "sourceText": "Rs16,01,285/-",
+              "qualifier": "exact",
+              "page": 12
+            },
+            {
+              "label": "Selected movable monetary cell 2",
+              "valuePaise": 2000000,
+              "sourceText": "Rs20,000/-",
+              "qualifier": "exact",
+              "page": 12
+            }
+          ],
+          "selectedComponentSubtotalPaise": 162128500,
+          "unresolvedCell": "Current-market coverage unreviewed; complete primary asset total unassigned.",
+          "note": "Two selected movable cells subtotal ₹16,21,285; other NOT APPLICABLE cells remain wording. Current-market coverage is unreviewed, so no complete primary asset total or equivalent-scope discrepancy against ADR’s ₹91,74,265 is assigned. Household roles unconfirmed."
+        },
+        {
+          "field": "liabilities",
+          "status": "wording-not-equivalent",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": null,
+          "primarySourceText": "NOT APPLICABLE",
+          "primaryScope": "Selected government-dues, loan and disputed cells on PDF 13 only",
+          "pages": [
+            13
+          ],
+          "note": "Selected government-dues, loan and disputed cells say NOT APPLICABLE. NOT APPLICABLE is not converted to zero, so no complete primary liability total or full zero agreement with ADR’s ₹0 is assigned. Household roles unconfirmed; no complete/current financial or legal assessment inferred."
+        }
+      ]
+    },
+    {
+      "ac": 48,
+      "candidate": "Woba Joram",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/48/Woba%20Joram.pdf",
+      "sourceSha256": "d531952304d1342c42a692bbf79995ff9e60cb798275f9aa40dea0e886fb1501",
+      "reviewedAt": "2026-10-27",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40388493157",
+      "reviewedPages": [
+        13,
+        14
+      ],
+      "summary": "Selected movable cell reads ₹9,21,404; complete current-market assets remain unreviewed. Visible primary Nil liability cells are kept separate from disputed Nil rows.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 2642140400,
+          "primaryValuePaise": null,
+          "primarySourceText": "One selected movable monetary cell; current-market coverage unreviewed",
+          "primaryScope": "Selected movable cells on PDF 13 only; household roles unconfirmed",
+          "pages": [
+            13
+          ],
+          "observations": [
+            {
+              "label": "Selected movable monetary cell",
+              "valuePaise": 92140400,
+              "sourceText": "Rs9,21,404/-",
+              "qualifier": "exact",
+              "page": 13
+            }
+          ],
+          "selectedComponentSubtotalPaise": 92140400,
+          "unresolvedCell": "Current-market coverage unreviewed; complete primary asset total unassigned.",
+          "note": "Selected movable cell reads ₹9,21,404; other selected cells say NIL. Current-market coverage is unreviewed, so no complete primary asset total or equivalent-scope discrepancy against ADR’s ₹2,64,21,404 is assigned. Household roles unconfirmed."
+        },
+        {
+          "field": "liabilities",
+          "status": "summary-value-agrees",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": 0,
+          "primarySourceText": "NIL",
+          "primaryScope": "Visible primary government-dues/loan cells on PDF 13; disputed rows on PDF 14 are separate",
+          "pages": [
+            13,
+            14
+          ],
+          "note": "Visible primary government-dues and loan cells on PDF 13 say NIL, agreeing numerically with ADR’s zero within this region only. Separate disputed rows on PDF 14 also say NIL; they are not substituted for primary liability rows. Lower row labels/continuation are clipped to exclude signatures. No complete filing, current liability or legal zero certification is claimed; household roles unconfirmed."
         }
       ]
     }
