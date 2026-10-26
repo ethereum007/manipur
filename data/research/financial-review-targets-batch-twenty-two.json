@@ -1,0 +1,18 @@
+[
+  {
+    "ac": 47,
+    "candidate": "Thaiba Sanii",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/47/Thaiba%20Sanii.pdf",
+    "expectedSha256": "b5cf405ae5c82a0265b43dc17e0e4274e8a67c1dfe09711d1d1353b72217b701",
+    "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
+    "clips": []
+  },
+  {
+    "ac": 48,
+    "candidate": "Losii Dikho",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/48/Losii%20Dikho.pdf",
+    "expectedSha256": "ac1d21aae65d13516ff82084516dab8181672245989a897035d9eb3d35c94b1c",
+    "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
+    "clips": []
+  }
+]
