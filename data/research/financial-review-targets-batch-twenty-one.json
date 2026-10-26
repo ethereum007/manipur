@@ -5,7 +5,28 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/47/Khoho%20Siile%20Anthony.pdf",
     "expectedSha256": "38e8e4a4170d32c13dd2eedcd26243527fdf42a5f77cc132e12b052b9109b2d3",
     "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 10,
+        "id": "movable-cells",
+        "rect": [
+          85,
+          333,
+          545,
+          367
+        ]
+      },
+      {
+        "page": 11,
+        "id": "financial-cells",
+        "rect": [
+          80,
+          45,
+          490,
+          250
+        ]
+      }
+    ]
   },
   {
     "ac": 47,
@@ -13,6 +34,27 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/47/R%20Yuh%20Jonathan%20Tao.pdf",
     "expectedSha256": "338796bd4510c5520b23f8f91a6655f1a9988657e6e9603993d628252fcf737a",
     "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 12,
+        "id": "movable-cells",
+        "rect": [
+          75,
+          536,
+          475,
+          578
+        ]
+      },
+      {
+        "page": 13,
+        "id": "financial-cells",
+        "rect": [
+          65,
+          190,
+          460,
+          378
+        ]
+      }
+    ]
   }
 ]
