@@ -9,3 +9,13 @@ Metadata retained docs/review/financial-batch-twenty-three-locator-2026-10-27.js
 Next exactcoordinates/narrowfinancialclips excludinghouseholdheaders/addresses/contacts/IDs/accountnumbers/signatures; renderinGitHub/visuallyinspect before retention, deletecontaminatedartifacts/narrowifneeded. CompareattributedADR withintegerpaise/scope/missingness, targeteddisclosurecounts/tests, cloudbuild/browserQA, profilescreenshots and exactproductionJSON before coverageincrease. Existingdeferral not retried withoutnewevidence. Historicalreplays completewithin documentedbounds; prospectiveevidence/calibrationgates unchanged.
 
 Public45/90/220/0unchanged; finite220candidatequeue remains, cadenceACTIVE. All acquisition/projectfiles inGitHub, RAM-onlyAPIinspection.
+
+## Selected source inspection completed
+
+Final renderer40388493157 passed both originalhash assertions; five final financial-onlyregions/manifest retained under docs/qa/financial-batch-twenty-three-2026-10-27/, commit8324e85da8fd75573dbd085b90588bb153bb47c1. Changed finalWoba primaryliabilitycrop visuallyreviewed; other four finalregions use same sourcehash/coordinates as preceding visuallyreviewed safe regions. Initial primary/disputed splitartifact12680358474 hadsignature/namedstamp and wasdeleted; subsequent narrowedartifact also deleted due residualsignaturetrace. Final cut excludesboth; no householdnames/addresses/contacts/IDs/accountnumbers/signatures/full extractedtext retained.
+
+Sanii PDF12selectedmovables Rs16,01,285 and Rs20,000 subtotal162128500paise (Rs16,21,285), otherNOTAPPLICABLE. Current-marketcoverageunreviewed; completeprimaryassetsnull versusADR917426500paise (Rs91,74,265), no equivalent-scope discrepancy. PDF13selectedgovernmentdues/loan/disputedNOTAPPLICABLE; primaryliabilitiesnull versusattributedADR0, nozero conversion. Householdrolesunconfirmed.
+
+Woba PDF13selectedmovableRs9,21,404=92140400paise, otherNIL. Current-marketcoverageunreviewed; completeprimaryassetsnull versusADR2642140400paise (Rs2,64,21,404), no equivalent-scope discrepancy. PDF13visibleprimarygovernmentdues/loanNIL separatefromPDF14disputedgovernmentdues/loanNIL. SelectedvisibleNil0maycompareADR0onlywithinregion; lowerrowlabels/continuationclipped bysignatureexclusion, notcomplete/current/legalzero certification. Householdrolesunconfirmed.
+
+Workingobservations only. Next implementation/exactpaise/missingnessregressions, targeteddisclosurecounts, cloudbuild/browserQA, profilescreenshots andproductionbytecheck beforecoverageincrease. Public45/90/220/0unchanged; cadenceACTIVE.
