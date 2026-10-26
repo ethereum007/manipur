@@ -1,0 +1,5 @@
+/** Build a descriptive worklist; never a model score or feature approval. */
+export function buildSeatEvidenceWorklist(inventory,reviews){
+ const key=s=>s.toLowerCase().replace(/[^a-z0-9]/g,'');
+ return inventory.records.map(seat=>{const f=id=>seat.features.find(x=>x.id===id);const selected=reviews.records.filter(r=>r.ac===seat.ac);const deferred=(reviews.reviewDeferrals||[]).filter(r=>r.ac===seat.ac&&!selected.some(s=>key(s.candidate)===key(r.candidate)));return {ac:seat.ac,name:seat.name,assemblyParty:f('assemblyWinnerParty')?.value??null,assemblyMargin:f('assemblyMarginVotes')?.value??null,parliamentParty:f('parliamentLeadParty')?.value??null,directoryParty:f('directoryPartyObserved')?.value??null,directoryStatus:f('directoryStatusObserved')?.value??null,missing2027:seat.features.filter(x=>['nominees2027','alliances2027','opinion2027'].includes(x.id)&&x.value===null).map(x=>x.label),selectedCandidates:selected.length,selectedNotes:selected.reduce((n,r)=>n+r.fields.length,0),deferredCandidates:deferred.length,latestSelectedReview:selected.map(r=>r.reviewedAt).sort().at(-1)??null,inventoryDate:inventory.snapshotDate};}).sort((a,b)=>a.ac-b.ac);
+}

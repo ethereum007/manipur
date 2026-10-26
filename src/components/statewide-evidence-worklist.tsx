@@ -1,0 +1,2 @@
+import inventory from '../../data/research/forecast-features.json';import reviews from '../../data/research/disclosure-field-reviews-2022.json';import {buildSeatEvidenceWorklist} from '@/lib/seat-evidence-worklist.mjs';import {SeatEvidenceWorklist} from './seat-evidence-worklist';
+export function StatewideEvidenceWorklist(){return <SeatEvidenceWorklist seats={buildSeatEvidenceWorklist(inventory,reviews)}/>;}
