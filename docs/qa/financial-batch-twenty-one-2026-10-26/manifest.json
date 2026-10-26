@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 47,
+    "candidate": "Khoho Siile Anthony",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/47/Khoho%20Siile%20Anthony.pdf",
+    "sha256": "38e8e4a4170d32c13dd2eedcd26243527fdf42a5f77cc132e12b052b9109b2d3",
+    "pages": 11,
+    "crops": [
+      {
+        "page": 10,
+        "id": "movable-cells",
+        "rect": [
+          85,
+          333,
+          545,
+          367
+        ],
+        "image": "ac47-38e8e4a4170d-p10-financial-selected-movable-cells.png"
+      },
+      {
+        "page": 11,
+        "id": "loan-amount-cell",
+        "rect": [
+          135,
+          45,
+          191,
+          126
+        ],
+        "image": "ac47-38e8e4a4170d-p11-financial-selected-loan-amount-cell.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 47,
+    "candidate": "R Yuh Jonathan Tao",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/47/R%20Yuh%20Jonathan%20Tao.pdf",
+    "sha256": "338796bd4510c5520b23f8f91a6655f1a9988657e6e9603993d628252fcf737a",
+    "pages": 14,
+    "crops": [
+      {
+        "page": 12,
+        "id": "movable-cells",
+        "rect": [
+          75,
+          536,
+          475,
+          578
+        ],
+        "image": "ac47-338796bd4510-p12-financial-selected-movable-cells.png"
+      },
+      {
+        "page": 13,
+        "id": "financial-cells",
+        "rect": [
+          65,
+          190,
+          460,
+          378
+        ],
+        "image": "ac47-338796bd4510-p13-financial-selected-financial-cells.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
