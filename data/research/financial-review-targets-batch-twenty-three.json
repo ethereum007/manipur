@@ -11,7 +11,7 @@
         "id": "movable-cells",
         "rect": [
           85,
-          404,
+          410,
           455,
           443
         ]
@@ -46,11 +46,21 @@
         ]
       },
       {
+        "page": 13,
+        "id": "primary-liability-cells",
+        "rect": [
+          55,
+          585,
+          480,
+          775
+        ]
+      },
+      {
         "page": 14,
-        "id": "financial-cells",
+        "id": "disputed-cells",
         "rect": [
           50,
-          25,
+          155,
           470,
           230
         ]
