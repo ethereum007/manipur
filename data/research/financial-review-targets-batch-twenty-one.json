@@ -18,12 +18,12 @@
       },
       {
         "page": 11,
-        "id": "financial-cells",
+        "id": "loan-amount-cell",
         "rect": [
-          80,
+          135,
           45,
-          490,
-          250
+          191,
+          126
         ]
       }
     ]
