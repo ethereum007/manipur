@@ -382,3 +382,8 @@ Originalpendingrun40296922763succeeded; production43selected/86notes/222withoutc
 ## Batch twenty-two metadata acquisition pending — 26 October 2026 IST
 
 Scoped next AC47Thaiba/AC48Losii targetledger; active locator40340526712healthy in apt/tesseractsetup, no newfetch/hashapproval or financialvalues. Continue exactrun before newacquisition; FINANCIAL_BATCH_TWENTY_TWO_ACQUISITION_PENDING_2026-10-26.md. Public43/86/222/0unchanged, no useractionneeded, cadenceACTIVE.
+
+
+## Batch twenty-two source locations verified — 26 October 2026 IST
+
+Originalpendinglocator40340526712succeeded; Thaiba/Losii originalhashes matched, metadataretained. ThaibaabstractPDF11; Losiifallbackmarkerpages12–17 needsummaryconfirmation. No valuesapproved/imagesrendered. FINANCIAL_BATCH_TWENTY_TWO_PREPARATION_2026-10-26.md supersedespendingreceipt. Next boundedfinancialregions/visualreview; public43/86/222/0unchanged, cadenceACTIVE.
