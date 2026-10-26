@@ -1,0 +1,68 @@
+[
+  {
+    "ac": 49,
+    "candidate": "M. Francis Ngajokpa",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/49/M.%20Francis%20Ngajokpa.pdf",
+    "sha256": "dad1b0bca1fef42849c365667112101d49b740d5621231d9789fdcfc17ee61d9",
+    "pages": 17,
+    "crops": [
+      {
+        "page": 15,
+        "id": "movable-cells",
+        "rect": [
+          352,
+          40,
+          384,
+          370
+        ],
+        "image": "ac49-dad1b0bca1fe-p15-financial-selected-movable-cells.png",
+        "displayRotationDegreesCounterclockwise": 270
+      },
+      {
+        "page": 16,
+        "id": "financial-cells",
+        "rect": [
+          158,
+          35,
+          335,
+          385
+        ],
+        "image": "ac49-dad1b0bca1fe-p16-financial-selected-financial-cells.png",
+        "displayRotationDegreesCounterclockwise": 270
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 49,
+    "candidate": "N. Kayisii",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/49/N.%20Kayisii.pdf",
+    "sha256": "267101a3e8f1cbee1c4563a92d89021a1a48837a4d12fc94e5576a2fbfdcb9ba",
+    "pages": 16,
+    "crops": [
+      {
+        "page": 14,
+        "id": "movable-cells",
+        "rect": [
+          95,
+          637,
+          505,
+          682
+        ],
+        "image": "ac49-267101a3e8f1-p14-financial-selected-movable-cells.png"
+      },
+      {
+        "page": 15,
+        "id": "financial-cells",
+        "rect": [
+          85,
+          410,
+          505,
+          647
+        ],
+        "image": "ac49-267101a3e8f1-p15-financial-selected-financial-cells.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
