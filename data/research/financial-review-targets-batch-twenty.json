@@ -5,7 +5,28 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/47/D.%20D.%20Thaisii.pdf",
     "expectedSha256": "faadbc77431baf13d50a9061568955c7538756d4a38cc9ed2425c9c8738d87a3",
     "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 20,
+        "id": "movable-cells",
+        "rect": [
+          55,
+          617,
+          490,
+          665
+        ]
+      },
+      {
+        "page": 21,
+        "id": "financial-cells",
+        "rect": [
+          60,
+          403,
+          490,
+          615
+        ]
+      }
+    ]
   },
   {
     "ac": 47,
@@ -13,6 +34,27 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/47/J%20Kumo%20Sha.pdf",
     "expectedSha256": "4ae0644dd6a8576fac6c5d986610a6c9c53f473e0d74cc6ae586cf7bb2c40cb3",
     "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 13,
+        "id": "movable-cells",
+        "rect": [
+          130,
+          680,
+          515,
+          725
+        ]
+      },
+      {
+        "page": 14,
+        "id": "financial-cells",
+        "rect": [
+          130,
+          492,
+          515,
+          747
+        ]
+      }
+    ]
   }
 ]
