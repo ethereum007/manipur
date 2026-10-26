@@ -1,0 +1,18 @@
+[
+  {
+    "ac": 48,
+    "candidate": "Sanii Alexander Maikho",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/48/Sanii%20Alexander%20Maikho.pdf",
+    "expectedSha256": "0ac5d6a53e535b63b4f61d7b259532ccc6840516cae9352cd6c57de1c941d100",
+    "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
+    "clips": []
+  },
+  {
+    "ac": 48,
+    "candidate": "Woba Joram",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/48/Woba%20Joram.pdf",
+    "expectedSha256": "d531952304d1342c42a692bbf79995ff9e60cb798275f9aa40dea0e886fb1501",
+    "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
+    "clips": []
+  }
+]
