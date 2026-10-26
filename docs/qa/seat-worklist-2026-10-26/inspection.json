@@ -3,7 +3,7 @@
     "source": "evidence-worklist-desktop.png",
     "sourceSize": [
       1280,
-      18647
+      8309
     ],
     "crop": "evidence-worklist-desktop-top.png",
     "box": [
@@ -18,14 +18,14 @@
     "source": "evidence-worklist-desktop.png",
     "sourceSize": [
       1280,
-      18647
+      8309
     ],
     "crop": "evidence-worklist-desktop-bottom.png",
     "box": [
       0,
-      17647,
+      7309,
       1280,
-      18647
+      8309
     ],
     "scope": "Inspection region; unchanged full original retained"
   },
@@ -33,7 +33,7 @@
     "source": "evidence-worklist-mobile.png",
     "sourceSize": [
       390,
-      19910
+      8607
     ],
     "crop": "evidence-worklist-mobile-top.png",
     "box": [
@@ -48,14 +48,14 @@
     "source": "evidence-worklist-mobile.png",
     "sourceSize": [
       390,
-      19910
+      8607
     ],
     "crop": "evidence-worklist-mobile-bottom.png",
     "box": [
       0,
-      18910,
+      7607,
       390,
-      19910
+      8607
     ],
     "scope": "Inspection region; unchanged full original retained"
   }
