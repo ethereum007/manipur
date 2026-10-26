@@ -425,3 +425,8 @@ PreparedAC48comparisons implementedf9cd3c99bfc6f641dfd16b59b22247fe589b2588; rep
 ## Financial batch twenty-three verified and deployed — 27 October 2026 IST
 
 Originalpendingrun40397379746succeeded; production47selected/94notes/218withoutcomparison/0completeindependentaudits, JSONbyte-exact.102Node/15Python/57browser checks, fivePDFpages,913HTML/31,392references/zeroerrors. Newprofiledesktop/mobile screenshots reviewed. PrimaryNilseparatefromdisputedNil/NA withclippedlimits. FINANCIAL_BATCH_TWENTY_THREE_QA_2026-10-27.md supersedespendingreceipt. Continue finitequeue/prospectivegates, cadenceACTIVE.
+
+
+## Batch twenty-four source locations verified — 27 October 2026 IST
+
+AC49Francis/Kayisii originalhashes matched; metadata-onlylocator40413403744passed. Francisfinancialproposals15–16landscape, Kayisii14–15portrait; actualdimensions retained. No valuesapproved/imagesrendered. FINANCIAL_BATCH_TWENTY_FOUR_PREPARATION_2026-10-27.md. Next narrowclips/visualreview thenreleaseQA; public47/94/218/0unchanged, cadenceACTIVE.
