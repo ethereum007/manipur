@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 46,
+    "candidate": "Seikholal Haokip",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/46/Seikholal%20Haokip.pdf",
+    "sha256": "0bfdd766a5f3ee92aad7e19a76efbc5b36d9c7ad9aa5b9b65e7e3a157a615845",
+    "pages": 12,
+    "crops": [
+      {
+        "page": 10,
+        "id": "movable-cells",
+        "rect": [
+          90,
+          529,
+          420,
+          560
+        ],
+        "image": "ac46-0bfdd766a5f3-p10-financial-selected-movable-cells.png"
+      },
+      {
+        "page": 11,
+        "id": "loan-cells",
+        "rect": [
+          90,
+          347,
+          410,
+          435
+        ],
+        "image": "ac46-0bfdd766a5f3-p11-financial-selected-loan-cells.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 46,
+    "candidate": "Yamthong Haokip",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/46/Yamthong%20Haokip.pdf",
+    "sha256": "3edeadb5251f8ae8f68a36b46de240be72f498b7a2d832bd25c7562c3a4c28a5",
+    "pages": 18,
+    "crops": [
+      {
+        "page": 16,
+        "id": "movable-cells",
+        "rect": [
+          70,
+          364,
+          420,
+          397
+        ],
+        "image": "ac46-3edeadb5251f-p16-financial-selected-movable-cells.png"
+      },
+      {
+        "page": 17,
+        "id": "financial-cells",
+        "rect": [
+          70,
+          168,
+          415,
+          375
+        ],
+        "image": "ac46-3edeadb5251f-p17-financial-selected-financial-cells.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
