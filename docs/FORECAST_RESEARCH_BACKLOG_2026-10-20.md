@@ -362,3 +362,8 @@ Finalrenderer40271710011hashchecks passed; four financial-only regions visually 
 ## Batch twenty-one source locations verified — 26 October 2026 IST
 
 AC47Khoho/Jonathan originalhashes matched; metadata-onlylocator40283054761passed. Khoho has noabstractheading, fallbackmarkerpages require boundedconfirmation; Jonathan abstractPDF12. No values approved/imagesrendered. FINANCIAL_BATCH_TWENTY_ONE_PREPARATION_2026-10-26.md. Next exactcoordinates/financialregions thenreleaseQA; public41/82/224/0unchanged, cadenceACTIVE.
+
+
+## Batch twenty-one selected source inspection prepared — 26 October 2026 IST
+
+Finalrenderer40290205368hashchecks passed; fourfinancial-onlyregions reviewed/retained. Khoho fallbacksummary location confirmed visually; threecellsubtotal excludesclippedcell, singleloanagreement scoped. Jonathanpartialmovables/NOTAPPLICABLEliabilitiesnull preserved. FINANCIAL_BATCH_TWENTY_ONE_PREPARATION_2026-10-26.md. Next implementation/tests/browser/productionQA; public41/82/224/0unchanged, cadenceACTIVE.
