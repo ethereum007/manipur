@@ -1,0 +1,77 @@
+[
+  {
+    "ac": 48,
+    "candidate": "Sanii Alexander Maikho",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/48/Sanii%20Alexander%20Maikho.pdf",
+    "sha256": "0ac5d6a53e535b63b4f61d7b259532ccc6840516cae9352cd6c57de1c941d100",
+    "pages": 14,
+    "crops": [
+      {
+        "page": 12,
+        "id": "movable-cells",
+        "rect": [
+          85,
+          410,
+          455,
+          443
+        ],
+        "image": "ac48-0ac5d6a53e53-p12-financial-selected-movable-cells.png"
+      },
+      {
+        "page": 13,
+        "id": "financial-cells",
+        "rect": [
+          75,
+          20,
+          460,
+          310
+        ],
+        "image": "ac48-0ac5d6a53e53-p13-financial-selected-financial-cells.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 48,
+    "candidate": "Woba Joram",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/48/Woba%20Joram.pdf",
+    "sha256": "d531952304d1342c42a692bbf79995ff9e60cb798275f9aa40dea0e886fb1501",
+    "pages": 14,
+    "crops": [
+      {
+        "page": 13,
+        "id": "movable-cells",
+        "rect": [
+          55,
+          145,
+          480,
+          188
+        ],
+        "image": "ac48-d531952304d1-p13-financial-selected-movable-cells.png"
+      },
+      {
+        "page": 13,
+        "id": "primary-liability-cells",
+        "rect": [
+          55,
+          585,
+          480,
+          692
+        ],
+        "image": "ac48-d531952304d1-p13-financial-selected-primary-liability-cells.png"
+      },
+      {
+        "page": 14,
+        "id": "disputed-cells",
+        "rect": [
+          50,
+          155,
+          470,
+          230
+        ],
+        "image": "ac48-d531952304d1-p14-financial-selected-disputed-cells.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
