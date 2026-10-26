@@ -2418,6 +2418,134 @@
           "note": "Selected loan ₹28,00,080 agrees numerically with ADR. Other selected government-dues/disputed cells say NA; NA is not converted to zero. No complete/current financial or legal audit is inferred; household roles unconfirmed."
         }
       ]
+    },
+    {
+      "ac": 47,
+      "candidate": "D. D. Thaisii",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/47/D.%20D.%20Thaisii.pdf",
+      "sourceSha256": "faadbc77431baf13d50a9061568955c7538756d4a38cc9ed2425c9c8738d87a3",
+      "reviewedAt": "2026-10-26",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40271710011",
+      "reviewedPages": [
+        20,
+        21
+      ],
+      "summary": "Five selected movable cells subtotal ₹52,91,027.38; current-market asset coverage is unreviewed. Mixed NIL/NOT APPLICABLE liability wording remains unassigned.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 913102500,
+          "primaryValuePaise": null,
+          "primarySourceText": "Five selected movable monetary cells only; current-market coverage unreviewed",
+          "primaryScope": "Five selected movable monetary cells on PDF 20 only",
+          "pages": [
+            20
+          ],
+          "observations": [
+            {
+              "label": "Selected movable monetary cell 1",
+              "valuePaise": 124408402,
+              "sourceText": "Rs12,44,084.02/-",
+              "qualifier": "exact",
+              "page": 20
+            },
+            {
+              "label": "Selected movable monetary cell 2",
+              "valuePaise": 359887998,
+              "sourceText": "Rs35,98,879.98/-",
+              "qualifier": "exact",
+              "page": 20
+            },
+            {
+              "label": "Selected movable monetary cell 3",
+              "valuePaise": 140000,
+              "sourceText": "Rs1400/-",
+              "qualifier": "exact",
+              "page": 20
+            },
+            {
+              "label": "Selected movable monetary cell 4",
+              "valuePaise": 38198,
+              "sourceText": "Rs381.98/-",
+              "qualifier": "exact",
+              "page": 20
+            },
+            {
+              "label": "Selected movable monetary cell 5",
+              "valuePaise": 44628140,
+              "sourceText": "Rs4,46,281.40/-",
+              "qualifier": "exact",
+              "page": 20
+            }
+          ],
+          "selectedComponentSubtotalPaise": 529102738,
+          "unresolvedCell": "NOT APPLICABLE cell preserved; current-market coverage unreviewed.",
+          "note": "Five selected movable cells subtotal ₹52,91,027.38; NOT APPLICABLE remains wording. Current-market coverage is unreviewed, so no complete primary asset total or equivalent-scope discrepancy against ADR’s ₹91,31,025 is assigned. Household roles unconfirmed."
+        },
+        {
+          "field": "liabilities",
+          "status": "wording-not-equivalent",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": null,
+          "primarySourceText": "Mixed NIL and NOT APPLICABLE",
+          "primaryScope": "Selected government-dues, loan and disputed rows on PDF 21 only",
+          "pages": [
+            21
+          ],
+          "note": "Selected government-dues, loan and disputed rows mix NIL and NOT APPLICABLE. NOT APPLICABLE is not converted to zero, so no complete primary liability total or full zero agreement with ADR’s ₹0 is assigned. Household roles unconfirmed; no complete/current financial or legal assessment inferred."
+        }
+      ]
+    },
+    {
+      "ac": 47,
+      "candidate": "J Kumo Sha",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/47/J%20Kumo%20Sha.pdf",
+      "sourceSha256": "4ae0644dd6a8576fac6c5d986610a6c9c53f473e0d74cc6ae586cf7bb2c40cb3",
+      "reviewedAt": "2026-10-26",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40271710011",
+      "reviewedPages": [
+        13,
+        14
+      ],
+      "summary": "One selected movable cell reads ₹31,502.07; a differently formatted second cell remains excluded. NA liability wording is not assigned a monetary zero.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 65195000,
+          "primaryValuePaise": null,
+          "primarySourceText": "One selected movable cell; literal Rs20,448.4 cell excluded",
+          "primaryScope": "One selected two-decimal movable cell on PDF 13 only; not a full row subtotal",
+          "pages": [
+            13
+          ],
+          "observations": [
+            {
+              "label": "Selected movable monetary cell 1",
+              "valuePaise": 3150207,
+              "sourceText": "Rs31,502.07",
+              "qualifier": "exact",
+              "page": 13
+            }
+          ],
+          "selectedComponentSubtotalPaise": 3150207,
+          "unresolvedCell": "Literal Rs20,448.4 cell excluded; current-market coverage unreviewed.",
+          "note": "One selected movable cell reads ₹31,502.07. The visible literal Rs20,448.4 cell is excluded from numeric observations in this bounded pass; this is not a full movable-row subtotal. Current-market assets remain unreviewed, so no complete primary asset total or equivalent-scope discrepancy against ADR’s ₹6,51,950 is assigned. Household roles unconfirmed."
+        },
+        {
+          "field": "liabilities",
+          "status": "wording-not-equivalent",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": null,
+          "primarySourceText": "NA",
+          "primaryScope": "Selected government-dues, loan and disputed cells on PDF 14; lower continuation partly clipped",
+          "pages": [
+            14
+          ],
+          "note": "Selected government-dues, loan and disputed cells say NA; the lower disputed continuation is partly clipped by the signature-exclusion boundary. NA is not converted to zero, so no complete primary liability total or full zero agreement with ADR’s ₹0 is assigned. Household roles unconfirmed; no current/legal assessment inferred."
+        }
+      ]
     }
   ],
   "sourceReviewRuns": [
