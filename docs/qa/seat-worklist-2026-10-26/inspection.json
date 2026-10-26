@@ -1,0 +1,62 @@
+[
+  {
+    "source": "evidence-worklist-desktop.png",
+    "sourceSize": [
+      1280,
+      18647
+    ],
+    "crop": "evidence-worklist-desktop-top.png",
+    "box": [
+      0,
+      0,
+      1280,
+      1300
+    ],
+    "scope": "Inspection region; unchanged full original retained"
+  },
+  {
+    "source": "evidence-worklist-desktop.png",
+    "sourceSize": [
+      1280,
+      18647
+    ],
+    "crop": "evidence-worklist-desktop-bottom.png",
+    "box": [
+      0,
+      17647,
+      1280,
+      18647
+    ],
+    "scope": "Inspection region; unchanged full original retained"
+  },
+  {
+    "source": "evidence-worklist-mobile.png",
+    "sourceSize": [
+      390,
+      19910
+    ],
+    "crop": "evidence-worklist-mobile-top.png",
+    "box": [
+      0,
+      0,
+      390,
+      1300
+    ],
+    "scope": "Inspection region; unchanged full original retained"
+  },
+  {
+    "source": "evidence-worklist-mobile.png",
+    "sourceSize": [
+      390,
+      19910
+    ],
+    "crop": "evidence-worklist-mobile-bottom.png",
+    "box": [
+      0,
+      18910,
+      390,
+      19910
+    ],
+    "scope": "Inspection region; unchanged full original retained"
+  }
+]
