@@ -1,0 +1,41 @@
+name: Retain statewide worklist visual review
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: read
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: visual-review
+          run-id: 40255527794
+          github-token: ${{ github.token }}
+          path: original
+      - run: pip install Pillow==12.0.0
+      - name: Retain originals and bounded inspection crops
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import shutil,json
+          from PIL import Image
+          target=Path('docs/qa/seat-worklist-2026-10-26');target.mkdir(parents=True,exist_ok=True)
+          manifest=[]
+          for name in ['evidence-worklist-desktop.png','evidence-worklist-mobile.png']:
+              matches=list(Path('original').rglob(name));assert len(matches)==1
+              shutil.copyfile(matches[0],target/name)
+              im=Image.open(matches[0])
+              for label,box in [('top',(0,0,im.width,min(1300,im.height))),('bottom',(0,max(0,im.height-1000),im.width,im.height))]:
+                  cropped=name.replace('.png','-'+label+'.png');im.crop(box).save(target/cropped)
+                  manifest.append({'source':name,'sourceSize':list(im.size),'crop':cropped,'box':list(box),'scope':'Inspection region; unchanged full original retained'})
+          (target/'inspection.json').write_text(json.dumps(manifest,indent=2))
+          PY
+          git config user.name 'Mandate Terrain QA'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/qa/seat-worklist-2026-10-26
+          git diff --cached --quiet || git commit -m 'docs: retain statewide worklist cloud screenshots and inspection regions'
+          git push origin HEAD:main
