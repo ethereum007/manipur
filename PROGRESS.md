@@ -420,3 +420,8 @@ Finalrenderer40388493157hashchecks passed; fivefinancial-onlyregions retained af
 ## Financial batch twenty-three release gates pending — 27 October 2026 IST
 
 PreparedAC48comparisons implementedf9cd3c99bfc6f641dfd16b59b22247fe589b2588; repo47/94/218/0, lastverifiedpublic45/90/220/0. Healthyactive run40397379746 at Chromiumdependencysetup; continueexactrun/screenshots/productionQA before newresearch. FINANCIAL_BATCH_TWENTY_THREE_RELEASE_PENDING_2026-10-27.md. No useractionneeded, cadenceACTIVE.
+
+
+## Financial batch twenty-three verified and deployed — 27 October 2026 IST
+
+Originalpendingrun40397379746succeeded; production47selected/94notes/218withoutcomparison/0completeindependentaudits, JSONbyte-exact.102Node/15Python/57browser checks, fivePDFpages,913HTML/31,392references/zeroerrors. Newprofiledesktop/mobile screenshots reviewed. PrimaryNilseparatefromdisputedNil/NA withclippedlimits. FINANCIAL_BATCH_TWENTY_THREE_QA_2026-10-27.md supersedespendingreceipt. Continue finitequeue/prospectivegates, cadenceACTIVE.

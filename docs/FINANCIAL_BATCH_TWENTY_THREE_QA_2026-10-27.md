@@ -1,0 +1,11 @@
+# Financial batch twenty-three release QA — 27 October 2026 IST
+
+Production47selected candidates/94notes/218without selectedcomparison/0complete independent affidavit audits. Nonrepresentative source-readable convenience sample. Supersedes FINANCIAL_BATCH_TWENTY_THREE_RELEASE_PENDING_2026-10-27.md.
+
+Codef9cd3c99bfc6f641dfd16b59b22247fe589b2588, successful https://github.com/ethereum007/manipur/actions/runs/40397379746; build121833906706/deploy121841547767.102Node+15Python+57browser checks (174total) passed. Originalrun completed afterlongerChromiumsetup withoutrestart. Five landscapePDFpages verified,913HTML/31,392localreferences/0errors. LiveJSONbyte-identical to repo, SHA256f8cab874736448dc2e6d734d1f37e0c1edd2ed4053e476b799a9f5152d1f7700.
+
+NewAC48Sanii Alexander Maikho/Woba Joram from finalhash-boundrenderer40388493157 andlocator40378633444. Five finalsafe financialregions retained, earlier signature/namedstampartifacts deleted before retention; exacthashes/pages/clips in FINANCIAL_BATCH_TWENTY_THREE_PREPARATION_2026-10-27.md. Sanii selectedmovable162128500paise partialonly/completeprimaryassetsnull, NOTAPPLICABLEliabilitynull. Woba selectedmovable92140400paise partialonly/completeprimaryassetsnull; PDF13visibleprimaryNil0 separatefromPDF14disputedNil, clippedlowercontinuations explicitlylimitsscope. No full/current/legalzero/householdrole inference.
+
+Focusedretention40406061247 succeeded; fouroriginalprofile/coveragebrowserimages retained under docs/qa/financial-batch-twenty-three-2026-10-27/. Visuallyreviewed financial-sanii-desktop.png and financial-woba-mobile.png: readablehierarchy/source links, explicitprimary/disputed distinction andmissingness; no clipping/overflow requiringCSS correction. Fullcoverageoriginals retained but notmanuallyre-reviewed thisboundedpass; automatedcounts/spacing/mobilewidth passed and earlierunchangedlayoutreview retained. No everypixelwhole-siteclaim.
+
+Historicalgoldens unchanged, no2027forecast/readinessupgrade. Finite218candidatequeue/prospectiveevidence/calibrationgates remain; existingdeferral not immediatelyretried absentnewevidence. All acquisition/files/builds/tests/screenshots inGitHub, RAM-onlyAPIinspection. CadenceACTIVE.
