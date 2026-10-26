@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 47,
+    "candidate": "Thaiba Sanii",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/47/Thaiba%20Sanii.pdf",
+    "sha256": "b5cf405ae5c82a0265b43dc17e0e4274e8a67c1dfe09711d1d1353b72217b701",
+    "pages": 13,
+    "crops": [
+      {
+        "page": 12,
+        "id": "movable-cells",
+        "rect": [
+          120,
+          145,
+          520,
+          193
+        ],
+        "image": "ac47-b5cf405ae5c8-p12-financial-selected-movable-cells.png"
+      },
+      {
+        "page": 12,
+        "id": "financial-cells",
+        "rect": [
+          120,
+          469,
+          520,
+          685
+        ],
+        "image": "ac47-b5cf405ae5c8-p12-financial-selected-financial-cells.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 48,
+    "candidate": "Losii Dikho",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/48/Losii%20Dikho.pdf",
+    "sha256": "ac1d21aae65d13516ff82084516dab8181672245989a897035d9eb3d35c94b1c",
+    "pages": 17,
+    "crops": [
+      {
+        "page": 15,
+        "id": "movable-cells",
+        "rect": [
+          60,
+          495,
+          475,
+          552
+        ],
+        "image": "ac48-ac1d21aae65d-p15-financial-selected-movable-cells.png"
+      },
+      {
+        "page": 16,
+        "id": "financial-cells",
+        "rect": [
+          75,
+          333,
+          470,
+          635
+        ],
+        "image": "ac48-ac1d21aae65d-p16-financial-selected-financial-cells.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
