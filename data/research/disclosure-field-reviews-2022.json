@@ -2546,6 +2546,127 @@
           "note": "Selected government-dues, loan and disputed cells say NA; the lower disputed continuation is partly clipped by the signature-exclusion boundary. NA is not converted to zero, so no complete primary liability total or full zero agreement with ADR’s ₹0 is assigned. Household roles unconfirmed; no current/legal assessment inferred."
         }
       ]
+    },
+    {
+      "ac": 47,
+      "candidate": "Khoho Siile Anthony",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/47/Khoho%20Siile%20Anthony.pdf",
+      "sourceSha256": "38e8e4a4170d32c13dd2eedcd26243527fdf42a5f77cc132e12b052b9109b2d3",
+      "reviewedAt": "2026-10-26",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40290205368",
+      "reviewedPages": [
+        10,
+        11
+      ],
+      "summary": "Three selected movable cells subtotal ₹64,09,658.92, excluding a clipped monetary cell. Selected outstanding loan ₹6,65,872 agrees numerically with ADR.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 2223918600,
+          "primaryValuePaise": null,
+          "primarySourceText": "Three selected movable cells; further clipped monetary cell excluded",
+          "primaryScope": "Three readable movable monetary cells on PDF 10, excluding a further clipped monetary cell",
+          "pages": [
+            10
+          ],
+          "observations": [
+            {
+              "label": "Selected movable monetary cell 1",
+              "valuePaise": 440430876,
+              "sourceText": "Rs44,04,308.76",
+              "qualifier": "exact",
+              "page": 10
+            },
+            {
+              "label": "Selected movable monetary cell 2",
+              "valuePaise": 199328703,
+              "sourceText": "Rs19,93,287.03",
+              "qualifier": "exact",
+              "page": 10
+            },
+            {
+              "label": "Selected movable monetary cell 3",
+              "valuePaise": 1206313,
+              "sourceText": "Rs12,063.13",
+              "qualifier": "exact",
+              "page": 10
+            }
+          ],
+          "selectedComponentSubtotalPaise": 640965892,
+          "unresolvedCell": "Further monetary cell partly clipped at top and excluded; current-market assets unreviewed.",
+          "note": "Three readable movable cells subtotal ₹64,09,658.92. A further monetary cell is partly clipped at the top and excluded from numeric observations; this is not a full movable-row subtotal. NA remains wording. Current-market assets are unreviewed, so no complete primary asset total or equivalent-scope discrepancy against ADR’s ₹2,22,39,186 is assigned. Household roles unconfirmed."
+        },
+        {
+          "field": "liabilities",
+          "status": "summary-value-agrees",
+          "secondaryValuePaise": 66587200,
+          "primaryValuePaise": 66587200,
+          "primarySourceText": "Outstanding Loan Rs6,65,872.00",
+          "primaryScope": "One selected creditor/outstanding-loan cell on PDF 11 only",
+          "pages": [
+            11
+          ],
+          "note": "Selected Central Bank of India outstanding loan ₹6,65,872 agrees numerically with ADR. Final region is one creditor/loan cell only; no complete government-dues, disputed-liability, current financial or legal review is claimed. Household roles unconfirmed."
+        }
+      ]
+    },
+    {
+      "ac": 47,
+      "candidate": "R Yuh Jonathan Tao",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/47/R%20Yuh%20Jonathan%20Tao.pdf",
+      "sourceSha256": "338796bd4510c5520b23f8f91a6655f1a9988657e6e9603993d628252fcf737a",
+      "reviewedAt": "2026-10-26",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40290205368",
+      "reviewedPages": [
+        12,
+        13
+      ],
+      "summary": "Two selected movable cells subtotal ₹7,85,724.13; complete current-market assets remain unreviewed. NOT APPLICABLE liability wording is not assigned monetary zero.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 678572400,
+          "primaryValuePaise": null,
+          "primarySourceText": "Two selected movable cells; current-market coverage unreviewed",
+          "primaryScope": "Two selected movable cells on PDF 12 only",
+          "pages": [
+            12
+          ],
+          "observations": [
+            {
+              "label": "Selected movable monetary cell 1",
+              "valuePaise": 50500000,
+              "sourceText": "Rs5,05,000/-",
+              "qualifier": "exact",
+              "page": 12
+            },
+            {
+              "label": "Selected movable monetary cell 2",
+              "valuePaise": 28072413,
+              "sourceText": "Rs2,80,724.13/-",
+              "qualifier": "exact",
+              "page": 12
+            }
+          ],
+          "selectedComponentSubtotalPaise": 78572413,
+          "unresolvedCell": "Current-market assets unreviewed; NOT APPLICABLE cells not assigned zero.",
+          "note": "Two selected movable cells subtotal ₹7,85,724.13; other NOT APPLICABLE cells remain wording. Current-market assets are unreviewed, so no complete primary asset total or equivalent-scope discrepancy against ADR’s ₹67,85,724 is assigned. Household roles unconfirmed."
+        },
+        {
+          "field": "liabilities",
+          "status": "wording-not-equivalent",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": null,
+          "primarySourceText": "NOT APPLICABLE",
+          "primaryScope": "Selected government-dues, loan and disputed rows on PDF 13 only",
+          "pages": [
+            13
+          ],
+          "note": "Selected government-dues, loan and disputed cells say NOT APPLICABLE. NOT APPLICABLE is not converted to zero, so no complete primary liability total or full zero agreement with ADR’s ₹0 is assigned. Household roles unconfirmed; no complete/current financial or legal assessment inferred."
+        }
+      ]
     }
   ],
   "sourceReviewRuns": [
