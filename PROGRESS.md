@@ -440,3 +440,8 @@ Renderer40421281504hashchecks passed; fourfinancial-onlyregions upright/visually
 ## Financial batch twenty-four deployed and verified — 27 October 2026 IST
 
 49selected/98notes/216withoutcomparison/0completeindependentaudits. AC49partialmovables andmixedNIL/NAliabilitiesnull retained; historicalfilings notcurrentstatus evidence. Run40427436711passed103Node/15Python/58browser checks, fivePDFpages,913HTML/31,394references/zeroerrors. Newprofiledesktop/mobile screenshots reviewed; liveJSONbyte-exact. FINANCIAL_BATCH_TWENTY_FOUR_QA_2026-10-27.md. Continue finitequeue/prospectivegates, cadenceACTIVE.
+
+
+## Batch twenty-five source locations verified — 27 October 2026 IST
+
+AC49Lohrii/Robertoriginalhashes matched; metadata-onlylocator40433338103passed. Lohrii fallbackmarkerpages needboundedsummaryconfirmation; RobertabstractPDF13. No valuesapproved/imagesrendered. FINANCIAL_BATCH_TWENTY_FIVE_PREPARATION_2026-10-27.md. Next narrowfinancialregions/visualreview thenreleaseQA; public49/98/216/0unchanged, cadenceACTIVE.
