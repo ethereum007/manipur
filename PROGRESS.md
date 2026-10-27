@@ -490,3 +490,8 @@ Scoped comparisons implemented27a4d322760b4268ce4abb61e41b762d08174d9b; repo55/1
 ## Batch27 release regression corrected — 27 October
 
 First run40489790894 blocked deployment on accidentally altered unrelated election assertion53→55; historical data unchanged. Exact assertion restored78cbb473214e44c5203dcee025f126f5d4319f5a. Replacement40497140188 active; complete original pending production/screenshot gates before newbatch. Public remainslastverified53/106/212/0.
+
+
+## Historical disclosure batch27 verified — 27 October2026
+
+Production55selected/110notes/210withoutcomparison/0completeindependentaudits. Correctedrun40497140188 passed106Node/15Python/61browser (182checks),5PDFpages,913HTML/31,400refs/0errors; deploymentgreen, liveJSONbyte-exact and two newprofile screenshots visuallyreviewed. FINANCIAL_BATCH_TWENTY_SEVEN_QA_2026-10-27.md supersedespendingreceipt. MixedNA/NILnull andpartialmovable/selectedNILscope preserved. Continuehistoricalbacklog,2027deferred,cadenceACTIVE.
