@@ -2,8 +2,8 @@
 
 User direction: continue building; defer2027analysis until explicitly resumed. Do not acquire2027nominee/alliance/opinioninputs or developprospectiveforecasts. Existing historicalreplays/limits stay intact.
 
-1. Batch29 original selected comparisons, deployment and visual QA complete; continue next bounded historical candidate batch.
-2. Continue finite206candidate selectedreviewqueue, then expandmissingfieldcoverage where reliable; retrieval/OCR notindependentaudit. Preserve anomalies/nulls/partialscopes and avoid repeatdeferrals absentnewevidence.
+1. Batch30 original selected comparisons, deployment and visual QA complete; continue next bounded historical candidate batch.
+2. Continue finite204candidate selectedreviewqueue, then expandmissingfieldcoverage where reliable; retrieval/OCR notindependentaudit. Preserve anomalies/nulls/partialscopes and avoid repeatdeferrals absentnewevidence.
 3. Audit60historicalconstituency dossiers against sourcedresults, consistentdenominators and source/date labels. Correct demonstrated omissions, never fill unsupportedcauses/identity.
 4. Improve evidence-navigation/accessibility/briefingusability based on browser/screenshots; no superficialunboundedfeatures.
 
@@ -18,3 +18,6 @@ Userdeferred2027analysis; hourlyautomationupdatedtohistoricalresearch/productqua
 ## Historical batch twenty-seven source locations verified — 27 October 2026 IST
 
 AC50Soshim/AC51Haokholetoriginalhashes matched; metadata-onlylocator40474637702passed. Exactfinancialheadingcoordinates retained, noapprovedvalues/imagesrendered. FINANCIAL_BATCH_TWENTY_SEVEN_PREPARATION_2026-10-27.md. Next narrowclips/visualreview thenreleaseQA; public53/106/212/0unchanged, 2027deferred/cadenceACTIVE.
+
+
+28October phaseboundary: source-readableconveniencequeue exhausted except documented whole-recorddeferral andHangkhanpaupartialmissingliability. Continueimage-onlycandidatesinboundedAC/nameorder, thenmissingfieldcoverage/dossierQA; readabilitynotriskranking. Candidatecountdoesnotimplybothfieldsreviewed (61candidates/121notes).
