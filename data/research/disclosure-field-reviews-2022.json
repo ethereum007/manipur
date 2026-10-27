@@ -3462,6 +3462,125 @@
           "note": "Selected primary and disputed liability cells mix NIL and NA. NA is not converted to zero, so no complete primary liability total or full zero agreement with ADR is assigned. Household roles unconfirmed; no current financial or legal assessment inferred."
         }
       ]
+    },
+    {
+      "ac": 51,
+      "candidate": "Lamtinthang Haokip",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/51/Lamtinthang%20Haokip.pdf",
+      "sourceSha256": "156a9cc94b1ec1aea234eec0a0879ef76acc391e430bc4a16bd4e7b5ca7650c5",
+      "reviewedAt": "2026-10-28",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40562814228",
+      "reviewedPages": [
+        11
+      ],
+      "summary": "Two selected movable cells subtotal ₹20,32,934.12; embedded loan is kept separate. Selected loan differs from ADR by ₹0.03.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 203293000,
+          "primaryValuePaise": null,
+          "primarySourceText": "Two selected movable cells; separate embedded liability excluded",
+          "primaryScope": "Selected movable monetary cells on PDF11 only",
+          "pages": [
+            11
+          ],
+          "observations": [
+            {
+              "label": "Selected monetary cell 1",
+              "valuePaise": 97848800,
+              "sourceText": "Rs9,78,488/-",
+              "qualifier": "exact",
+              "page": 11
+            },
+            {
+              "label": "Selected monetary cell 2",
+              "valuePaise": 105444612,
+              "sourceText": "Rs10,54,446.12/-",
+              "qualifier": "exact",
+              "page": 11
+            }
+          ],
+          "selectedComponentSubtotalPaise": 203293412,
+          "note": "Two selected movable cells subtotal ₹20,32,934.12. The second cell separately embeds liability ₹2,53,099.03; that loan is not added to assets. Complete current-market asset coverage is unreviewed, so no full primary total or equivalent-scope discrepancy against ADR’s ₹20,32,930 is assigned. Household roles unconfirmed."
+        },
+        {
+          "field": "liabilities",
+          "status": "summary-secondary-disagreement",
+          "secondaryValuePaise": 25309900,
+          "primaryValuePaise": 25309903,
+          "differencePaise": 3,
+          "primarySourceText": "Rs2,53,099.03/-",
+          "primaryScope": "One selected loan monetary cell on PDF11 only",
+          "pages": [
+            11
+          ],
+          "note": "Selected loan ₹2,53,099.03 versus ADR’s ₹2,53,099 leaves ₹0.03 unresolved. The same loan also appears within the selected movable row and is not double counted as assets. Other NOT APPLICABLE cells are not converted to zero. No rounding cause, complete filing correction or current financial/legal assessment inferred; household roles unconfirmed."
+        }
+      ]
+    },
+    {
+      "ac": 51,
+      "candidate": "Ngamthang Haokip",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/51/Ngamthang%20Haokip.pdf",
+      "sourceSha256": "8a9972ecb12c96e81df98d4546970736138e066909a55b768cf6fde18bd34e98",
+      "reviewedAt": "2026-10-28",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40562814228",
+      "reviewedPages": [
+        16,
+        17
+      ],
+      "summary": "Three selected vehicle values subtotal ₹27,30,000, not a complete movable total. Selected loan ₹23,200 is dated 31 December 2021.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 296172600,
+          "primaryValuePaise": null,
+          "primarySourceText": "Three selected vehicle monetary cells only",
+          "primaryScope": "Selected vehicle values on PDF16 only; identifiers excluded from retained crops",
+          "pages": [
+            16
+          ],
+          "observations": [
+            {
+              "label": "Selected monetary cell 1",
+              "valuePaise": 3000000,
+              "sourceText": "Rs30,000/-",
+              "qualifier": "exact",
+              "page": 16
+            },
+            {
+              "label": "Selected monetary cell 2",
+              "valuePaise": 230000000,
+              "sourceText": "Rs23,00,000/-",
+              "qualifier": "exact",
+              "page": 16
+            },
+            {
+              "label": "Selected monetary cell 3",
+              "valuePaise": 40000000,
+              "sourceText": "Rs4,00,000/-",
+              "qualifier": "exact",
+              "page": 16
+            }
+          ],
+          "selectedComponentSubtotalPaise": 273000000,
+          "note": "Three selected vehicle values subtotal ₹27,30,000; these are vehicle values rather than a complete movable-assets total. Original dates are 2 February 2022; identifiers are excluded from retained crops. Other financial cells and current-market assets remain unreviewed, so no full primary total or equivalent-scope discrepancy against ADR’s ₹29,61,726 is assigned. Household roles unconfirmed."
+        },
+        {
+          "field": "liabilities",
+          "status": "summary-value-agrees",
+          "secondaryValuePaise": 2320000,
+          "primaryValuePaise": 2320000,
+          "primarySourceText": "Rs23,200/- balance as on31/12/2021",
+          "primaryScope": "One selected loan monetary cell on PDF17 only",
+          "pages": [
+            17
+          ],
+          "note": "Selected loan ₹23,200, explicitly a balance as of 31 December 2021, agrees numerically with ADR. That balance date is distinct from this review date and does not establish current debt. Other N/A/Nil cells remain wording, not a complete zero finding or independent audit. Household roles unconfirmed."
+        }
+      ]
     }
   ],
   "sourceReviewRuns": [
