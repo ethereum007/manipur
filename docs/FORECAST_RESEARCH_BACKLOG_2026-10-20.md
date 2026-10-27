@@ -457,3 +457,8 @@ AC50Nemcha/Ngamkhohenoriginalhashes matched; metadata-onlylocator40460644510pass
 ## Batch twenty-six located source rows reviewed — 27 October 2026 IST
 
 Renderer40466709232hashchecks passed; three safe financialregions reviewed/retained aftersignatureartifactdeletion. Nemchagovernmentduesagreement/partialmovables scoped; Ngamkhohenmovables reviewed butliabilitylocation remainsmissing, notcountedreviewed. Next boundedmetadata-onlyOCRheadinglocation onNgamkhohenPDF13 beforepublication, FINANCIAL_BATCH_TWENTY_SIX_PREPARATION_2026-10-27.md. Public51/102/214/0unchanged, cadenceACTIVE.
+
+
+## User direction: defer 2027 — 27 October 2026 IST
+
+2027analysis/forecastdevelopment/nomination-alliance-opinion acquisition deferred until userresumes. Continue historicalresults/disclosure/constituencyresearch and productQA under HISTORICAL_RESEARCH_BACKLOG_2026-10-27.md. Hourlyautomationupdated accordingly, remainsACTIVE. Currentbatch26missingNgamkhohenliabilitylocation gets bounded selected-pageOCRheadingsonly before any sourcevalueapproval.
