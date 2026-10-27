@@ -1,0 +1,18 @@
+[
+  {
+    "ac": 57,
+    "candidate": "Mr. T. Manga Vaiphei",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/57/T.%20MANGA%20VAIPHEI.pdf",
+    "expectedSha256": "131083f3c56c3500ce04f7d0bf5e66ccbcfb4164ce9b4e3ffee9ebe9bb92c8f2",
+    "selectionReason": "Remaining source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
+    "clips": []
+  },
+  {
+    "ac": 60,
+    "candidate": "T. Hangkhanpau",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/60/T.%20Hangkhanpau.pdf",
+    "expectedSha256": "9a8b3def86f2cde128b8413e6393d88894e5fb4a7952cdb238e8c1ed43287736",
+    "selectionReason": "Remaining source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
+    "clips": []
+  }
+]
