@@ -495,3 +495,8 @@ First run40489790894 blocked deployment on accidentally altered unrelated electi
 ## Historical disclosure batch27 verified — 27 October2026
 
 Production55selected/110notes/210withoutcomparison/0completeindependentaudits. Correctedrun40497140188 passed106Node/15Python/61browser (182checks),5PDFpages,913HTML/31,400refs/0errors; deploymentgreen, liveJSONbyte-exact and two newprofile screenshots visuallyreviewed. FINANCIAL_BATCH_TWENTY_SEVEN_QA_2026-10-27.md supersedespendingreceipt. MixedNA/NILnull andpartialmovable/selectedNILscope preserved. Continuehistoricalbacklog,2027deferred,cadenceACTIVE.
+
+
+## Historical batch28 locator pending — 27 October2026
+
+Selected next source-readable AC51 K Lhouvum/L Johny Gangmei; metadata-only40514034101 active at OCRdependencyinstallation. No images/valuesapproved or coverageincrement. Continue same run before newbatch. FINANCIAL_BATCH_TWENTY_EIGHT_PREPARATION_2026-10-27.md. Verifiedpublic55/110/210/0,2027deferred,cadenceACTIVE.
