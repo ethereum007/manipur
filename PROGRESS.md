@@ -535,3 +535,8 @@ AC51 Lamtinthang/Ngamthang originalhashesasserted in metadata-only40558137904; e
 ## Batch29 selected original source inspection — 28 October2026 IST
 
 Final40562814228 hash-asserted; six safefinancialcropsreviewed/retained afteridentifier-bearingartifactdeletion. Lamtinthangembeddedloanseparatefrommovableassetcells; Ngamthangvehicle-onlymonetarycells/datedloan scopeexplicit. Nextsecondarycomparison/implementation/releaseQA;public57/114/208/0unchanged,2027deferred.
+
+
+## Historical batch29 implementation; release gates pending —28October2026IST
+
+86235d26d5b342afb57a1a99a7da540193ed7f22 repo59/118/206/0; lastverifiedpublic57/114/208/0. Embeddedloanseparate,3paiseunresolved,vehicle-onlypartial/dateexplicit. Cloud40567359095 active; finish deploy/liveJSON/screenshots before newbatch. FINANCIAL_BATCH_TWENTY_NINE_RELEASE_PENDING_2026-10-28.md.2027deferred/30mincadenceACTIVE.
