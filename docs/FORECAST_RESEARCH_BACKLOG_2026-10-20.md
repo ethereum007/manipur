@@ -437,3 +437,8 @@ Renderer40421281504hashchecks passed; fourfinancial-onlyregions upright/visually
 ## Batch twenty-five source locations verified — 27 October 2026 IST
 
 AC49Lohrii/Robertoriginalhashes matched; metadata-onlylocator40433338103passed. Lohrii fallbackmarkerpages needboundedsummaryconfirmation; RobertabstractPDF13. No valuesapproved/imagesrendered. FINANCIAL_BATCH_TWENTY_FIVE_PREPARATION_2026-10-27.md. Next narrowfinancialregions/visualreview thenreleaseQA; public49/98/216/0unchanged, cadenceACTIVE.
+
+
+## Batch twenty-five selected source inspection prepared — 27 October 2026 IST
+
+Finalrenderer40449135102hashchecks passed; fourfinancial-onlyregions visuallyreviewed/retained aftersignatureartifactdeletion. Lohriifallbacksummarylocation confirmed, N.A.loansnull; Robertliteralgrouping/selected92paise loandifference unresolved. FINANCIAL_BATCH_TWENTY_FIVE_PREPARATION_2026-10-27.md. Next implementation/tests/browser/productionQA; public49/98/216/0unchanged, cadenceACTIVE.
