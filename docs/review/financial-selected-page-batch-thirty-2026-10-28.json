@@ -1,0 +1,36 @@
+[
+  {
+    "candidate": "T. Hangkhanpau",
+    "ac": 60,
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/60/T.%20Hangkhanpau.pdf",
+    "sha256": "9a8b3def86f2cde128b8413e6393d88894e5fb4a7952cdb238e8c1ed43287736",
+    "pages": 15,
+    "proposals": [
+      {
+        "page": 12,
+        "width": 595.2000122070312,
+        "height": 842.4000244140625,
+        "markers": [
+          {
+            "marker": "Liabilities",
+            "rect": [
+              216.96,
+              515.04,
+              267.84,
+              524.64
+            ]
+          }
+        ],
+        "locator": "Selected-page OCR headings only; no financial values approved"
+      },
+      {
+        "page": 13,
+        "width": 595.199951171875,
+        "height": 842.4000244140625,
+        "markers": [],
+        "locator": "Selected-page OCR headings only; no financial values approved"
+      }
+    ],
+    "scope": "Fixed-page heading coordinates only; no monetary values, full extracted text or rendered images exported"
+  }
+]
