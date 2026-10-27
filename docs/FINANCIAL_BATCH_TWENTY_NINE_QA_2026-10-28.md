@@ -1,0 +1,11 @@
+# Historical batch29 QA — 28 October2026 IST
+
+Verified production59 selected candidates/118 scoped notes/206 without selected comparison/0 complete independent affidavit audits. Supersedes FINANCIAL_BATCH_TWENTY_NINE_RELEASE_PENDING_2026-10-28.md.
+
+Lamtinthang Haokip original156a9cc94b1ec1aea234eec0a0879ef76acc391e430bc4a16bd4e7b5ca7650c5 PDF11 selected movable subtotal203293412paise, embeddedloan25309903paise excluded from assets; selected loan differs from ADR25309900by3paise, unresolved. Fullassetsnull. Ngamthang Haokip original8a9972ecb12c96e81df98d4546970736138e066909a55b768cf6fde18bd34e98 PDF16 vehicle-only values273000000paisepartial, fullassetsnull; PDF17loan2320000paisebalance31Dec2021agreesnumerically, notcurrentdebt. OtherN/A/notapplicable remains wording; householdrolesunconfirmed. Finalsource40562814228hash-asserted, monetaryonlycropsvisuallyreviewed. Initialidentifier-bearingartifact40558386997deleted before retention.
+
+Implementation86235d26d5b342afb57a1a99a7da540193ed7f22; full https://github.com/ethereum007/manipur/actions/runs/40567359095 passed108Node/15Python/63browser checks (186total), fivePDFpages,913HTML/31,404localrefs/0errors. Build122412093182/deploy122413895855succeeded. LiveJSONbyte-identicalrepository, SHA256 8cb7618c7a431dae361f362ca3fa9f78631dcb7fb6339c0ae9b0b65f739e869b.
+
+Cloudscreenshotretention40571853360succeeded. Newfinancial-lamtinthang-desktop.png andfinancial-ngamthang-mobile.png reviewed: readabletypography, scope/date/differencewording andmobilewrapping, noobservedclipping/overflow. Fullcoverageoriginalsretained butnotmanuallyre-reviewedthisboundedpass; automatedcoverage/geometrypassed. Allfiles/processing/builds/screenshotsGitHubonly.
+
+2027deferred; continue finite historicalbacklog. Selectedcomparisons arenotcompleteindependentaudits.

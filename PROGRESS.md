@@ -540,3 +540,8 @@ Final40562814228 hash-asserted; six safefinancialcropsreviewed/retained afteride
 ## Historical batch29 implementation; release gates pending —28October2026IST
 
 86235d26d5b342afb57a1a99a7da540193ed7f22 repo59/118/206/0; lastverifiedpublic57/114/208/0. Embeddedloanseparate,3paiseunresolved,vehicle-onlypartial/dateexplicit. Cloud40567359095 active; finish deploy/liveJSON/screenshots before newbatch. FINANCIAL_BATCH_TWENTY_NINE_RELEASE_PENDING_2026-10-28.md.2027deferred/30mincadenceACTIVE.
+
+
+## Historical batch29 deployed and verified —28October2026IST
+
+Production59selected/118notes/206withoutcomparison/0completeindependentaudits. Run40567359095passed108Node/15Python/63browser186checks,5PDFpages,913HTML/31,404refs/0errors. ProductionJSONbyte-exact,newdesktop/mobileprofilesscreenshotsreviewed. FINANCIAL_BATCH_TWENTY_NINE_QA_2026-10-28.md supersedespendingreceipt. Embeddedloanseparate,3paiseunresolved,vehicle-onlypartial/dateexplicit.2027deferred,30mincadenceACTIVE.
