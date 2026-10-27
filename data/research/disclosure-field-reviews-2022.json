@@ -3241,6 +3241,101 @@
           "note": "The located selected liability table mixes NIL and NOT APPLICABLE in primary and disputed rows. NOT APPLICABLE is not converted to zero, so no complete primary liability total or full zero agreement with ADR’s ₹0 is assigned. Household roles unconfirmed; no current financial or legal assessment inferred."
         }
       ]
+    },
+    {
+      "ac": 50,
+      "candidate": "Soshim Gurung",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/50/Soshim%20Gurung.pdf",
+      "sourceSha256": "b2495293e3200be40dde647261171e22ab58ef5d12581d00a90af28db82d8ec0",
+      "reviewedAt": "2026-10-27",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40482540331",
+      "reviewedPages": [
+        14,
+        15
+      ],
+      "summary": "Selected movable and liability rows use mixed NA/NIL wording; no primary monetary totals assigned.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "wording-not-equivalent",
+          "secondaryValuePaise": 162230500,
+          "primaryValuePaise": null,
+          "primarySourceText": "NA/NIL",
+          "primaryScope": "Selected movable row on PDF 14 only",
+          "pages": [
+            14
+          ],
+          "note": "Selected movable cells say NA/NIL. Mixed NA/NIL is not converted to zero. Current-market assets are unreviewed; no complete primary asset total or equivalent-scope disagreement with ADR’s ₹16,22,305 is assigned. Household roles unconfirmed."
+        },
+        {
+          "field": "liabilities",
+          "status": "wording-not-equivalent",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": null,
+          "primarySourceText": "NA/NIL",
+          "primaryScope": "Selected government-dues, loan and disputed cells on PDF 15 only; lower disputed-row label partially clipped",
+          "pages": [
+            15
+          ],
+          "note": "Selected primary and disputed cells say NA/NIL. Mixed NA/NIL is not converted to zero; no full zero agreement with ADR is assigned. Lower disputed-row label is partially clipped. Household roles unconfirmed; no current financial or legal assessment inferred."
+        }
+      ]
+    },
+    {
+      "ac": 51,
+      "candidate": "Haokholet Kipgen",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/51/Haokholet%20Kipgen.pdf",
+      "sourceSha256": "395474b7370e5b19eb37bcff076fad50395291aa235e83fd8d2c4cd989aba2f5",
+      "reviewedAt": "2026-10-27",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40482540331",
+      "reviewedPages": [
+        16,
+        18
+      ],
+      "summary": "Two selected movable cells subtotal ₹46,32,802.54; complete assets remain unreviewed. Selected liability cells read NIL.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 7286744900,
+          "primaryValuePaise": null,
+          "primarySourceText": "Two selected movable monetary cells; current-market coverage unreviewed",
+          "primaryScope": "Selected movable row on PDF 16 only",
+          "pages": [
+            16
+          ],
+          "observations": [
+            {
+              "label": "Selected movable monetary cell 1",
+              "valuePaise": 373300000,
+              "sourceText": "Rs. 37,33,000.00",
+              "qualifier": "exact",
+              "page": 16
+            },
+            {
+              "label": "Selected movable monetary cell 2",
+              "valuePaise": 89980254,
+              "sourceText": "Rs. 8,99,802.54",
+              "qualifier": "exact",
+              "page": 16
+            }
+          ],
+          "selectedComponentSubtotalPaise": 463280254,
+          "note": "Two selected movable cells subtotal ₹46,32,802.54. Current-market assets are unreviewed, so no complete primary total or equivalent-scope discrepancy against ADR’s ₹7,28,67,449 is assigned. Other visible cells say NIL; household roles unconfirmed."
+        },
+        {
+          "field": "liabilities",
+          "status": "summary-value-agrees",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": 0,
+          "primarySourceText": "NIL",
+          "primaryScope": "Selected government-dues, loan and disputed cells on PDF 18 only; lower disputed-row label partially clipped",
+          "pages": [
+            18
+          ],
+          "note": "Visible selected primary and disputed liability cells read NIL, numerically agreeing with ADR’s ₹0 within this selected scope. Lower disputed-row label is partially clipped; this is not a complete filing audit or current financial or legal assessment. Household roles unconfirmed."
+        }
+      ]
     }
   ],
   "sourceReviewRuns": [
@@ -3248,7 +3343,7 @@
     "https://github.com/ethereum007/manipur/actions/runs/39527983585"
   ],
   "selectionNotes": "Second batch: two previously unreviewed native-text-available records in AC12, selected in existing record order for a bounded availability-based sample; not a representative sample or risk ranking.",
-  "selectionLimit": "Twenty-nine selected financial-summary comparisons form a nonrepresentative convenience sample, not complete independent affidavit audits.",
+  "selectionLimit": "Selected financial-summary comparisons form a nonrepresentative convenience sample, not complete independent affidavit audits.",
   "reviewDeferrals": [
     {
       "ac": 13,
