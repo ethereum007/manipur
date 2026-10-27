@@ -11,7 +11,7 @@
         "rect": [
           85,
           100,
-          520,
+          330,
           155
         ],
         "id": "movable"
@@ -36,16 +36,6 @@
     "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
     "clips": [
       {
-        "page": 16,
-        "rect": [
-          70,
-          198,
-          525,
-          455
-        ],
-        "id": "movable"
-      },
-      {
         "page": 17,
         "rect": [
           70,
@@ -54,6 +44,36 @@
           385
         ],
         "id": "liabilities"
+      },
+      {
+        "page": 16,
+        "rect": [
+          177,
+          279,
+          255,
+          294
+        ],
+        "id": "selected-vehicle-value-1"
+      },
+      {
+        "page": 16,
+        "rect": [
+          177,
+          420,
+          255,
+          440
+        ],
+        "id": "selected-vehicle-value-2"
+      },
+      {
+        "page": 16,
+        "rect": [
+          270,
+          329,
+          342,
+          346
+        ],
+        "id": "selected-vehicle-value-3"
       }
     ]
   }
