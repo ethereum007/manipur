@@ -1,0 +1,18 @@
+[
+  {
+    "ac": 1,
+    "candidate": "Elangbam Sovid Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/1/Elangbam%20Sovid%20Singh.pdf",
+    "expectedSha256": "dd934a11167b751eb06b6d4d93770225fcf29f5cedc63c9f434c61f060ecc335",
+    "selectionReason": "Next unreviewed image-only records by AC/name excluding documented deferrals; bounded nonrepresentative convenience sample",
+    "clips": []
+  },
+  {
+    "ac": 1,
+    "candidate": "Thangjam Mohendro Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/1/Thangjam%20Mohendro%20Singh.pdf",
+    "expectedSha256": "08bf8ed0b890fad9dab96eafed34ddfcb741775da6a252520bd54ea653dea867",
+    "selectionReason": "Next unreviewed image-only records by AC/name excluding documented deferrals; bounded nonrepresentative convenience sample",
+    "clips": []
+  }
+]
