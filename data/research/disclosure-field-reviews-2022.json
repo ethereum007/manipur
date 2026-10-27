@@ -3120,6 +3120,127 @@
           "note": "Selected loan ₹7,59,571.92 versus ADR’s ₹7,59,571 leaves a ₹0.92 difference unresolved. Other primary/disputed NA cells are not converted to zero. No rounding cause, corrected complete filing, current financial or legal assessment is inferred; household roles unconfirmed."
         }
       ]
+    },
+    {
+      "ac": 50,
+      "candidate": "Nemcha Kipgen",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/50/Nemcha%20Kipgen.pdf",
+      "sourceSha256": "6104db0b4573c056927026dc0d28d7de467f4bdf6707fa2016492bedef02ea80",
+      "reviewedAt": "2026-10-27",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40473253281",
+      "reviewedPages": [
+        13,
+        14
+      ],
+      "summary": "Three selected movable cells subtotal ₹3,19,11,309.02; complete current-market assets remain unreviewed. Selected government-dues cell ₹5,67,080 agrees numerically with ADR.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 3891130700,
+          "primaryValuePaise": null,
+          "primarySourceText": "Three selected movable cells; current-market coverage unreviewed",
+          "primaryScope": "Selected movable monetary cells on PDF 13 only",
+          "pages": [
+            13
+          ],
+          "observations": [
+            {
+              "label": "Selected movable monetary cell 1",
+              "valuePaise": 448072079,
+              "sourceText": "Rs44,80,720.79",
+              "qualifier": "exact",
+              "page": 13
+            },
+            {
+              "label": "Selected movable monetary cell 2",
+              "valuePaise": 2492517950,
+              "sourceText": "Rs2,49,25,179.50",
+              "qualifier": "exact",
+              "page": 13
+            },
+            {
+              "label": "Selected movable monetary cell 3",
+              "valuePaise": 250540873,
+              "sourceText": "Rs25,05,408.73",
+              "qualifier": "exact",
+              "page": 13
+            }
+          ],
+          "selectedComponentSubtotalPaise": 3191130902,
+          "unresolvedCell": "Current-market coverage unreviewed; other NIL/NOT APPLICABLE wording preserved.",
+          "note": "Three selected movable cells subtotal ₹3,19,11,309.02; other selected cells say NIL. Current-market coverage is unreviewed, so no complete primary asset total or equivalent-scope discrepancy against ADR’s ₹3,89,11,307 is assigned. Household roles unconfirmed."
+        },
+        {
+          "field": "liabilities",
+          "status": "summary-value-agrees",
+          "secondaryValuePaise": 56708000,
+          "primaryValuePaise": 56708000,
+          "primarySourceText": "Rs5,67,080 at Manipur Legislative Assembly Secretariat",
+          "primaryScope": "One selected government-dues monetary cell on PDF 14 only",
+          "pages": [
+            14
+          ],
+          "note": "Selected government-dues cell ₹5,67,080 at Manipur Legislative Assembly Secretariat agrees numerically with ADR. The source category is government dues, not a bank loan; visible selected loan/disputed cells say NIL. This does not establish adjudication, current debt or a complete legal/financial audit; household roles unconfirmed."
+        }
+      ]
+    },
+    {
+      "ac": 50,
+      "candidate": "Ngamkhohen Kipgen",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/50/Ngamkhohen%20Kipgen.pdf",
+      "sourceSha256": "0c182e052efa7b09ee9cfea2c0e1dd39a1404ccab5221e061780390d57fc4005",
+      "reviewedAt": "2026-10-27",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40473253281",
+      "reviewedPages": [
+        12,
+        13
+      ],
+      "summary": "Two selected movable cells subtotal ₹16,05,159.73; complete current-market assets remain unreviewed. Mixed NIL/NOT APPLICABLE liabilities stay unassigned.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 1263920400,
+          "primaryValuePaise": null,
+          "primarySourceText": "Two selected movable cells; current-market coverage unreviewed",
+          "primaryScope": "Selected movable monetary cells on PDF 12 only",
+          "pages": [
+            12
+          ],
+          "observations": [
+            {
+              "label": "Selected movable monetary cell 1",
+              "valuePaise": 150921957,
+              "sourceText": "Rs1509219.57/-",
+              "qualifier": "exact",
+              "page": 12
+            },
+            {
+              "label": "Selected movable monetary cell 2",
+              "valuePaise": 9594016,
+              "sourceText": "Rs95940.16/",
+              "qualifier": "exact",
+              "page": 12
+            }
+          ],
+          "selectedComponentSubtotalPaise": 160515973,
+          "unresolvedCell": "Current-market coverage unreviewed; other NIL/NOT APPLICABLE wording preserved.",
+          "note": "Two selected movable cells subtotal ₹16,05,159.73; other NOT APPLICABLE cells remain wording. Current-market coverage is unreviewed, so no complete primary asset total or equivalent-scope discrepancy against ADR’s ₹1,26,39,204 is assigned. Household roles unconfirmed."
+        },
+        {
+          "field": "liabilities",
+          "status": "wording-not-equivalent",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": null,
+          "primarySourceText": "Mixed NIL and NOT APPLICABLE",
+          "primaryScope": "Selected government-dues, loan and disputed cells on PDF 13 only",
+          "pages": [
+            13
+          ],
+          "note": "The located selected liability table mixes NIL and NOT APPLICABLE in primary and disputed rows. NOT APPLICABLE is not converted to zero, so no complete primary liability total or full zero agreement with ADR’s ₹0 is assigned. Household roles unconfirmed; no current financial or legal assessment inferred."
+        }
+      ]
     }
   ],
   "sourceReviewRuns": [
