@@ -1,0 +1,18 @@
+[
+  {
+    "ac": 49,
+    "candidate": "O. Lohrii",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/49/O.%20Lohrii.pdf",
+    "expectedSha256": "2506e3535d6cccb36f96a25e4ff4c80272863801feb0b5032199504949a9599f",
+    "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
+    "clips": []
+  },
+  {
+    "ac": 49,
+    "candidate": "Robert Tailu Maram",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/49/Robert%20Tailu%20Maram.pdf",
+    "expectedSha256": "f569cd83b6f5116c44ea8a055425c7abe51db19da4b5a812a23f33fe2dd4487a",
+    "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
+    "clips": []
+  }
+]
