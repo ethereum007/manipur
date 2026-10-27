@@ -452,3 +452,8 @@ Finalrenderer40449135102hashchecks passed; fourfinancial-onlyregions visuallyrev
 ## Batch twenty-six source locations verified — 27 October 2026 IST
 
 AC50Nemcha/Ngamkhohenoriginalhashes matched; metadata-onlylocator40460644510passed. Exactheadingcoordinates retained, noapprovedvalues/imagesrendered. FINANCIAL_BATCH_TWENTY_SIX_PREPARATION_2026-10-27.md. Next narrowfinancialclips/visualreview thenreleaseQA; public51/102/214/0unchanged, cadenceACTIVE.
+
+
+## Batch twenty-six located source rows reviewed — 27 October 2026 IST
+
+Renderer40466709232hashchecks passed; three safe financialregions reviewed/retained aftersignatureartifactdeletion. Nemchagovernmentduesagreement/partialmovables scoped; Ngamkhohenmovables reviewed butliabilitylocation remainsmissing, notcountedreviewed. Next boundedmetadata-onlyOCRheadinglocation onNgamkhohenPDF13 beforepublication, FINANCIAL_BATCH_TWENTY_SIX_PREPARATION_2026-10-27.md. Public51/102/214/0unchanged, cadenceACTIVE.
