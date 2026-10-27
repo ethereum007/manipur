@@ -520,3 +520,8 @@ MissingJohnyliabilities locatedPDF16/17 via40534509170; finalsafe40548305471 sou
 ## Historical batch28 comparisons implemented; release gates pending
 
 1b5555449e1bd0776b1d60a53d59c32ca09acfc6 adds approximation-preserving K Lhouvum/Johny partialmovables andmixedNIL/NA liabilitiesnull. Repo57/114/208/0; verifiedpublic55/110/210/0. Cloud40548745399 active; finish deploy/liveJSON/screenshots before newbatch. FINANCIAL_BATCH_TWENTY_EIGHT_RELEASE_PENDING_2026-10-27.md.2027deferred/30mincadenceactive.
+
+
+## Historical batch28 verified and deployed
+
+Production57/114/208/0 selectedcandidates/notes/withoutcomparison/completeindependentaudits. Run40548745399passed107Node/15Python/62browser184checks,5PDFpages,913HTML/31,402refs/0errors. LiveJSONbyte-exact; newdesktop/mobileprofilesreviewed. FINANCIAL_BATCH_TWENTY_EIGHT_QA_2026-10-27.md supersedespending. Approximation/mixedNApreserved;2027deferred,30mincadenceACTIVE.

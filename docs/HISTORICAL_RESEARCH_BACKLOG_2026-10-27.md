@@ -2,8 +2,8 @@
 
 User direction: continue building; defer2027analysis until explicitly resumed. Do not acquire2027nominee/alliance/opinioninputs or developprospectiveforecasts. Existing historicalreplays/limits stay intact.
 
-1. Batch27 original selected comparisons, deployment and visual QA complete; continue next bounded historical candidate batch.
-2. Continue finite210candidate selectedreviewqueue, then expandmissingfieldcoverage where reliable; retrieval/OCR notindependentaudit. Preserve anomalies/nulls/partialscopes and avoid repeatdeferrals absentnewevidence.
+1. Batch28 original selected comparisons, deployment and visual QA complete; continue next bounded historical candidate batch.
+2. Continue finite208candidate selectedreviewqueue, then expandmissingfieldcoverage where reliable; retrieval/OCR notindependentaudit. Preserve anomalies/nulls/partialscopes and avoid repeatdeferrals absentnewevidence.
 3. Audit60historicalconstituency dossiers against sourcedresults, consistentdenominators and source/date labels. Correct demonstrated omissions, never fill unsupportedcauses/identity.
 4. Improve evidence-navigation/accessibility/briefingusability based on browser/screenshots; no superficialunboundedfeatures.
 
