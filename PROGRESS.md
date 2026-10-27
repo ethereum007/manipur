@@ -530,3 +530,8 @@ Production57/114/208/0 selectedcandidates/notes/withoutcomparison/completeindepe
 ## Historical batch29 source locations verified
 
 AC51 Lamtinthang/Ngamthang originalhashesasserted in metadata-only40558137904; exactheadingcoordinates retained. Narrowfinancialrenderer dispatched; inspect result before approving fields/retainingimages. FINANCIAL_BATCH_TWENTY_NINE_PREPARATION_2026-10-27.md. Public57/114/208/0unchanged,30mincadenceACTIVE,2027deferred.
+
+
+## Batch29 selected original source inspection — 28 October2026 IST
+
+Final40562814228 hash-asserted; six safefinancialcropsreviewed/retained afteridentifier-bearingartifactdeletion. Lamtinthangembeddedloanseparatefrommovableassetcells; Ngamthangvehicle-onlymonetarycells/datedloan scopeexplicit. Nextsecondarycomparison/implementation/releaseQA;public57/114/208/0unchanged,2027deferred.

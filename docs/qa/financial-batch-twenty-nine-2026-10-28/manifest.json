@@ -1,0 +1,88 @@
+[
+  {
+    "ac": 51,
+    "candidate": "Lamtinthang Haokip",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/51/Lamtinthang%20Haokip.pdf",
+    "sha256": "156a9cc94b1ec1aea234eec0a0879ef76acc391e430bc4a16bd4e7b5ca7650c5",
+    "pages": 13,
+    "crops": [
+      {
+        "page": 11,
+        "rect": [
+          85,
+          100,
+          330,
+          155
+        ],
+        "id": "movable",
+        "image": "ac51-156a9cc94b1e-p11-financial-selected-movable.png"
+      },
+      {
+        "page": 11,
+        "rect": [
+          85,
+          425,
+          520,
+          650
+        ],
+        "id": "liabilities",
+        "image": "ac51-156a9cc94b1e-p11-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 51,
+    "candidate": "Ngamthang Haokip",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/51/Ngamthang%20Haokip.pdf",
+    "sha256": "8a9972ecb12c96e81df98d4546970736138e066909a55b768cf6fde18bd34e98",
+    "pages": 22,
+    "crops": [
+      {
+        "page": 17,
+        "rect": [
+          70,
+          166,
+          525,
+          385
+        ],
+        "id": "liabilities",
+        "image": "ac51-8a9972ecb12c-p17-financial-selected-liabilities.png"
+      },
+      {
+        "page": 16,
+        "rect": [
+          177,
+          279,
+          255,
+          294
+        ],
+        "id": "selected-vehicle-value-1",
+        "image": "ac51-8a9972ecb12c-p16-financial-selected-selected-vehicle-value-1.png"
+      },
+      {
+        "page": 16,
+        "rect": [
+          177,
+          420,
+          255,
+          440
+        ],
+        "id": "selected-vehicle-value-2",
+        "image": "ac51-8a9972ecb12c-p16-financial-selected-selected-vehicle-value-2.png"
+      },
+      {
+        "page": 16,
+        "rect": [
+          270,
+          329,
+          342,
+          346
+        ],
+        "id": "selected-vehicle-value-3",
+        "image": "ac51-8a9972ecb12c-p16-financial-selected-selected-vehicle-value-3.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
