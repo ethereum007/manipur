@@ -2,9 +2,14 @@
 
 User direction: continue building; defer2027analysis until explicitly resumed. Do not acquire2027nominee/alliance/opinioninputs or developprospectiveforecasts. Existing historicalreplays/limits stay intact.
 
-1. Finish batch26source-fieldlocation gate and selecteddisclosure publicationQA.
-2. Continue finite214candidate selectedreviewqueue, then expandmissingfieldcoverage where reliable; retrieval/OCR notindependentaudit. Preserve anomalies/nulls/partialscopes and avoid repeatdeferrals absentnewevidence.
+1. Batch26 source-fieldlocation and publicationQA complete; continue next boundedhistoricalcandidatebatch.
+2. Continue finite212candidate selectedreviewqueue, then expandmissingfieldcoverage where reliable; retrieval/OCR notindependentaudit. Preserve anomalies/nulls/partialscopes and avoid repeatdeferrals absentnewevidence.
 3. Audit60historicalconstituency dossiers against sourcedresults, consistentdenominators and source/date labels. Correct demonstrated omissions, never fill unsupportedcauses/identity.
 4. Improve evidence-navigation/accessibility/briefingusability based on browser/screenshots; no superficialunboundedfeatures.
 
 Cloud-onlyGitHubworkflow: no localprojectwrites/clone/install; finish pendingruns, tests, screenshotreview, productionverification and datedreceipts. Cadenceactive for this finitequeue; no routineapproval. Externalindependentreview remains an unfulfilled evidencegate, not an AI-completed audit.
+
+
+## Historical disclosure batch twenty-six verified — 27 October 2026 IST
+
+Userdeferred2027analysis; hourlyautomationupdatedtohistoricalresearch/productquality. MissingNgamkhohenliabilitylocation resolved through selectedpageOCRheadings/visualreview; mixedNIL/NOTAPPLICABLEnull, Nemchagovernmentdues distinctfromloan. Production53selected/106notes/212withoutcomparison/0completeindependentaudits. Run40473527152passed105Node/15Python/60browser (180checks), fivePDFpages,913HTML/31,398references/0errors; profilescreenshots reviewed, liveJSONbyte-exact. FINANCIAL_BATCH_TWENTY_SIX_QA_2026-10-27.md. Continue HISTORICAL_RESEARCH_BACKLOG_2026-10-27.md; 2027workdeferred, cadenceACTIVE.

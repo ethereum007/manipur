@@ -1,0 +1,13 @@
+# Financial batch twenty-six release QA — 27 October 2026 IST
+
+Userdirection27October: defer2027analysis; activeworkhistoricalresearch/productquality under HISTORICAL_RESEARCH_BACKLOG_2026-10-27.md. HourlyautomationupdatedACTIVE with2027forecast/nomination/alliance/opinionworkexcluded untiluserresumes.
+
+Production53selected candidates/106notes/212without selectedcomparison/0completeindependentaffidavitaudits. Nonrepresentative source-readableconveniencesample. Code6e5f213e9f06af673d9508dcc038adcdffe4bf2a, successful https://github.com/ethereum007/manipur/actions/runs/40473527152; build122086330707/deploy122087514365.105Node+15Python+60browser checks (180total) passed. Five landscapePDFpages verified,913HTML/31,398localreferences/0errors. LiveJSONbyte-identical to repo, SHA256cfa858c83ee06b0fa803a3f864ff984c086585fe6308da4318826df7a00e41dc.
+
+NewAC50Nemcha/Ngamkhohen Kipgen from finalhash-boundrenderer40473253281. Prior safe sourceimages retained from40466709232; newmissingliabilitylocation resolved by boundedpage13OCRheadingsrun40472825105 (notfinancialvalueextraction), exactmetadata docs/review/financial-selected-page-batch-twenty-six-2026-10-27.json. Newliabilityregion visuallyreviewed/retained withcomplete manifest; no personalIDs/accountnumbers/signatures/full extractedtext retained. PriorNemchasignatureartifact deleted in preparation.
+
+Nemchaselectedmovable3191130902paise partialonly/completeprimaryassetsnull; governmentdues56708000paise agreesADRnumerically, sourcecategorygovernmentdues notbankloan, no adjudication/currentdebtorlegalauditinference. Ngamkhohenselectedmovable160515973paise partialonly/completeprimaryassetsnull; locatedprimary/disputedNIL/NOTAPPLICABLEmixedliabilitiesnull againstADR0. No complete/current/legal/householdrole inference. This closes priorunlocatedfieldgate withoutfabricatingzero.
+
+Focusedretention40474174349 succeeded; fouroriginalprofile/coverageimages retained under docs/qa/financial-batch-twenty-six-2026-10-27/. Visuallyreviewed financial-nemcha-desktop.png and financial-ngamkhohen-mobile.png: readabletypography/source links/category/missingness, no clipping/overflow requiringCSS correction. Fullcoverageoriginals retained but notmanuallyre-reviewed thisboundedpass; automatedcounts/spacing/mobilewidth passed, priorunchangedlayoutreview retained. No everypixelwhole-siteclaim.
+
+Historicalgoldens unchanged; no2027analysisadded. Finite212candidatehistoricalreviewqueue remains. Nextcontinuehistoricaldisclosures/sourcequality/constituencydossiers, notforecasttrack. Externalindependentfullauditsremainunperformed. Allacquisition/files/builds/tests/screenshots inGitHub; RAM-onlyAPIinspection. CadenceACTIVE.
