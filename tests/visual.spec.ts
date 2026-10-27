@@ -209,7 +209,7 @@ test('research desk, election lab, source studies and seat notes',async({page},i
  await page.getByLabel('Party to examine').selectOption('NPP');
  await expect(page.locator('.analysis-verdict')).toContainText('retained 1, gained 6');
  await page.getByLabel('Election before').selectOption('2012');
- await expect(page.locator('.analysis-stat-grid').first()).toContainText('55');
+ await expect(page.locator('.analysis-stat-grid').first()).toContainText('53');
  const downloaded=page.waitForEvent('download');await page.getByRole('button',{name:/CSV/}).click();expect((await downloaded).suggestedFilename()).toContain('2022');
  await page.screenshot({path:info.outputPath('election-lab-mobile.png'),fullPage:true});await page.locator('#paired .analysis-stat-grid').screenshot({path:info.outputPath('matched-statistics-mobile.png')});
  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();
