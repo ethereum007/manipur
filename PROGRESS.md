@@ -525,3 +525,8 @@ MissingJohnyliabilities locatedPDF16/17 via40534509170; finalsafe40548305471 sou
 ## Historical batch28 verified and deployed
 
 Production57/114/208/0 selectedcandidates/notes/withoutcomparison/completeindependentaudits. Run40548745399passed107Node/15Python/62browser184checks,5PDFpages,913HTML/31,402refs/0errors. LiveJSONbyte-exact; newdesktop/mobileprofilesreviewed. FINANCIAL_BATCH_TWENTY_EIGHT_QA_2026-10-27.md supersedespending. Approximation/mixedNApreserved;2027deferred,30mincadenceACTIVE.
+
+
+## Historical batch29 source locations verified
+
+AC51 Lamtinthang/Ngamthang originalhashesasserted in metadata-only40558137904; exactheadingcoordinates retained. Narrowfinancialrenderer dispatched; inspect result before approving fields/retainingimages. FINANCIAL_BATCH_TWENTY_NINE_PREPARATION_2026-10-27.md. Public57/114/208/0unchanged,30mincadenceACTIVE,2027deferred.
