@@ -560,3 +560,8 @@ Final40589322860hashasserted, Hangkhanpaumovablelabel/valuesvisuallyreviewedreta
 ## Historical batch30 implementation pending release —28October2026IST
 
 69288a424b2c20cdf5befc56697068e1c8c04a50 adds3notes/Manga2+Hangkhanpauasset-only1. Repo61/121/204/0, lastverifiedpublic59/118/206/0. Missingliabilitynotcounted. Cloud40593323779active, finishdeploy/liveJSON/screenshots before nextbatch. FINANCIAL_BATCH_THIRTY_RELEASE_PENDING_2026-10-28.md.2027deferred,30mincadenceactive.
+
+
+## Batch30 isolated assertion corrected
+
+40593323779blockeddeploymentafterunrelated2019reconciledsegmentexpectation59→61wasaccidentallyaltered; historicaldataunchanged.1776ddc0116fd66e60dfaff302ee220af24a64e0restoresexactassertion. Replacement40597135379active; finishpendinggates. Verifiedpublic59/118/206/0unchanged.
