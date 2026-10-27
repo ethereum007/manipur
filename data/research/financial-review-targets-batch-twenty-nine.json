@@ -1,0 +1,18 @@
+[
+  {
+    "ac": 51,
+    "candidate": "Lamtinthang Haokip",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/51/Lamtinthang%20Haokip.pdf",
+    "expectedSha256": "156a9cc94b1ec1aea234eec0a0879ef76acc391e430bc4a16bd4e7b5ca7650c5",
+    "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
+    "clips": []
+  },
+  {
+    "ac": 51,
+    "candidate": "Ngamthang Haokip",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/51/Ngamthang%20Haokip.pdf",
+    "expectedSha256": "8a9972ecb12c96e81df98d4546970736138e066909a55b768cf6fde18bd34e98",
+    "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
+    "clips": []
+  }
+]
