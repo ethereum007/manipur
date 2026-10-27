@@ -545,3 +545,8 @@ Final40562814228 hash-asserted; six safefinancialcropsreviewed/retained afteride
 ## Historical batch29 deployed and verified —28October2026IST
 
 Production59selected/118notes/206withoutcomparison/0completeindependentaudits. Run40567359095passed108Node/15Python/63browser186checks,5PDFpages,913HTML/31,404refs/0errors. ProductionJSONbyte-exact,newdesktop/mobileprofilesscreenshotsreviewed. FINANCIAL_BATCH_TWENTY_NINE_QA_2026-10-28.md supersedespendingreceipt. Embeddedloanseparate,3paiseunresolved,vehicle-onlypartial/dateexplicit.2027deferred,30mincadenceACTIVE.
+
+
+## Historical batch30 source location —28October2026IST
+
+AC57Manga/AC60Hangkhanpau metadata-only40576278156 sourcehashesasserted/exactcoordinatesretained. Hangkhanpau12/13nativeheadingsincomplete; selectedpageOCRheadingsprepared beforeimages. No valuesapproved;public59/118/206/0unchanged,2027deferred/30mincadenceactive.

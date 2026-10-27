@@ -1,0 +1,3 @@
+# Historical batch30 preparation —28October2026IST
+
+Remaining source-readable unreviewed targets excluding recorded deferral: Mr. T. Manga Vaiphei AC57 and T. Hangkhanpau AC60. Nonrepresentative convenience sample. Locator40576278156 returned originalhash-bound heading coordinates, retained docs/review/financial-batch-thirty-locator-2026-10-28.json. Manga movablePDF13y245/primaryliabilityy680; disputedcontinuationbottom13/top14 needs narrow scope. Hangkhanpau nativeheadings incomplete on12/13; selectedpageheading-onlyOCR prepared before financial crops. No images/valuesapproved; public59/118/206/0unchanged, batch29QA latestverified. AllworkGitHubonly,2027deferred.

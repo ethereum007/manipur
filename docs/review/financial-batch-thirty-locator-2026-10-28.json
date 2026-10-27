@@ -1,0 +1,313 @@
+[
+  {
+    "ac": 57,
+    "candidate": "Mr. T. Manga Vaiphei",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/57/T.%20MANGA%20VAIPHEI.pdf",
+    "expectedSha256": "131083f3c56c3500ce04f7d0bf5e66ccbcfb4164ce9b4e3ffee9ebe9bb92c8f2",
+    "selectionReason": "Remaining source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
+    "clips": [],
+    "pages": 14,
+    "abstractPages": [
+      12
+    ],
+    "proposals": [
+      {
+        "page": 12,
+        "width": 595.2000122070312,
+        "height": 842.4000244140625,
+        "markers": [
+          {
+            "marker": "Education,",
+            "rect": [
+              270.92999267578125,
+              399.7425231933594,
+              329.0345153808594,
+              415.8183288574219
+            ]
+          },
+          {
+            "marker": "education",
+            "rect": [
+              292.2200012207031,
+              475.1650085449219,
+              338.5422668457031,
+              488.08062744140625
+            ]
+          }
+        ],
+        "locator": "native heading coordinates only"
+      },
+      {
+        "page": 13,
+        "width": 595.2000122070312,
+        "height": 842.3999633789062,
+        "markers": [
+          {
+            "marker": "Assets",
+            "rect": [
+              189.6114044189453,
+              183.43099975585938,
+              220.9184112548828,
+              198.16490173339844
+            ]
+          },
+          {
+            "marker": "liabilities",
+            "rect": [
+              243.1300048828125,
+              183.43099975585938,
+              288.5942687988281,
+              198.16490173339844
+            ]
+          },
+          {
+            "marker": "assets)",
+            "rect": [
+              381.5,
+              183.43099975585938,
+              413.3875732421875,
+              198.16490173339844
+            ]
+          },
+          {
+            "marker": "Movable",
+            "rect": [
+              142.8300018310547,
+              244.91595458984375,
+              183.015869140625,
+              258.96136474609375
+            ]
+          },
+          {
+            "marker": "Assets",
+            "rect": [
+              142.54000854492188,
+              258.95477294921875,
+              171.89442443847656,
+              273.91278076171875
+            ]
+          },
+          {
+            "marker": "Immovable",
+            "rect": [
+              142.36000061035156,
+              297.2359619140625,
+              195.6612091064453,
+              311.2813720703125
+            ]
+          },
+          {
+            "marker": "Assets",
+            "rect": [
+              142.05999755859375,
+              309.1244201660156,
+              171.9006805419922,
+              326.29840087890625
+            ]
+          },
+          {
+            "marker": "immovable",
+            "rect": [
+              142.35000610351562,
+              369.7159729003906,
+              194.66378784179688,
+              383.7613830566406
+            ]
+          },
+          {
+            "marker": "immovable",
+            "rect": [
+              142.36000061035156,
+              441.02496337890625,
+              194.79200744628906,
+              454.1064758300781
+            ]
+          },
+          {
+            "marker": "assets",
+            "rect": [
+              141.94000244140625,
+              596.0916137695312,
+              170.2672119140625,
+              611.465087890625
+            ]
+          },
+          {
+            "marker": "assets",
+            "rect": [
+              141.9300079345703,
+              638.0083618164062,
+              169.95347595214844,
+              653.79736328125
+            ]
+          },
+          {
+            "marker": "liabilities",
+            "rect": [
+              142.010009765625,
+              680.03955078125,
+              185.82240295410156,
+              696.1055908203125
+            ]
+          },
+          {
+            "marker": "liabilities",
+            "rect": [
+              141.8800048828125,
+              817.8350219726562,
+              186.66299438476562,
+              830.91650390625
+            ]
+          }
+        ],
+        "locator": "native heading coordinates only"
+      },
+      {
+        "page": 14,
+        "width": 595.2000122070312,
+        "height": 842.4000244140625,
+        "markers": [
+          {
+            "marker": "educational",
+            "rect": [
+              178.4499969482422,
+              127.75503540039062,
+              233.42626953125,
+              141.76983642578125
+            ]
+          },
+          {
+            "marker": "Education,",
+            "rect": [
+              305.70159912109375,
+              155.28294372558594,
+              355.8097229003906,
+              169.55674743652344
+            ]
+          },
+          {
+            "marker": "education",
+            "rect": [
+              338.7699890136719,
+              213.19503784179688,
+              385.6316223144531,
+              227.2098388671875
+            ]
+          },
+          {
+            "marker": "VERIFICATION",
+            "rect": [
+              257.2699890136719,
+              291.73248291015625,
+              337.0967102050781,
+              307.80828857421875
+            ]
+          },
+          {
+            "marker": "liability,",
+            "rect": [
+              430.3399963378906,
+              478.4625244140625,
+              473.072998046875,
+              494.538330078125
+            ]
+          }
+        ],
+        "locator": "native heading coordinates only"
+      }
+    ],
+    "scope": "Headings and coordinates only. No financial values, full-page text, personal identifiers or rendered images exported. Fixed crops require separate specification."
+  },
+  {
+    "ac": 60,
+    "candidate": "T. Hangkhanpau",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/60/T.%20Hangkhanpau.pdf",
+    "expectedSha256": "9a8b3def86f2cde128b8413e6393d88894e5fb4a7952cdb238e8c1ed43287736",
+    "selectionReason": "Remaining source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
+    "clips": [],
+    "pages": 15,
+    "abstractPages": [
+      11
+    ],
+    "proposals": [
+      {
+        "page": 11,
+        "width": 595.2000122070312,
+        "height": 842.4000244140625,
+        "markers": [
+          {
+            "marker": "liabilities",
+            "rect": [
+              108.88999938964844,
+              121.54881286621094,
+              152.7640838623047,
+              138.58432006835938
+            ]
+          },
+          {
+            "marker": "occupation:",
+            "rect": [
+              244.19000244140625,
+              220.53321838378906,
+              302.5792236328125,
+              237.4302215576172
+            ]
+          },
+          {
+            "marker": "education",
+            "rect": [
+              332.0299987792969,
+              605.01318359375,
+              378.84967041015625,
+              621.9102172851562
+            ]
+          }
+        ],
+        "locator": "native heading coordinates only"
+      },
+      {
+        "page": 12,
+        "width": 595.2000122070312,
+        "height": 842.4000244140625,
+        "markers": [
+          {
+            "marker": "immovable",
+            "rect": [
+              145.3699951171875,
+              654.1819458007812,
+              198.84005737304688,
+              670.8019409179688
+            ]
+          },
+          {
+            "marker": "assets",
+            "rect": [
+              190.4199981689453,
+              711.3335571289062,
+              217.9853057861328,
+              726.0145874023438
+            ]
+          },
+          {
+            "marker": "assets",
+            "rect": [
+              172.1999969482422,
+              736.6904907226562,
+              200.156494140625,
+              752.031494140625
+            ]
+          }
+        ],
+        "locator": "native heading coordinates only"
+      },
+      {
+        "page": 13,
+        "width": 595.199951171875,
+        "height": 842.4000244140625,
+        "markers": [],
+        "locator": "native heading coordinates only"
+      }
+    ],
+    "scope": "Headings and coordinates only. No financial values, full-page text, personal identifiers or rendered images exported. Fixed crops require separate specification."
+  }
+]
