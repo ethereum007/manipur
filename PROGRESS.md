@@ -550,3 +550,8 @@ Production59selected/118notes/206withoutcomparison/0completeindependentaudits. R
 ## Historical batch30 source location —28October2026IST
 
 AC57Manga/AC60Hangkhanpau metadata-only40576278156 sourcehashesasserted/exactcoordinatesretained. Hangkhanpau12/13nativeheadingsincomplete; selectedpageOCRheadingsprepared beforeimages. No valuesapproved;public59/118/206/0unchanged,2027deferred/30mincadenceactive.
+
+
+## Batch30 scoped source inspection complete —28October2026IST
+
+Final40589322860hashasserted, Hangkhanpaumovablelabel/valuesvisuallyreviewedretained; partial3716934.78rupees, otherN.A.preserved. Liabilitylocationunresolved—asset-onlynoteallowed, no liabilitycoverageincrement. Manga2fields+Hangkhanpau1field=3newnotes whenimplemented. Public59/118/206/0unchanged. Preparationreceiptupdated,nextimplementation/cloudreleaseQA;2027deferred.

@@ -11,3 +11,8 @@ SelectedheadingOCR40576664775hash-asserted HangkhanpauPDF12 tableheader liabilit
 ## Alternate bounded heading pass
 
 40585123725 hash-asserted, PSM6 expanded heading whitelist found tableheaderPDF12y511 andimmovablerowsy630/658; PDF13stillnoheadings. Metadataonlyretained. Proposed narrowfinancialrow550–610 between header andimmovablerows; inspect imagebeforeapproving any wording/value. Liabilitylocationstillunresolved; donotassignzero.
+
+
+## Movable source region confirmed
+
+40585313170 visually located Hangkhanpau movable row. Finalrefinement40589322860sourcehashasserted, financial-onlyrow562–595withreadablelabelreviewed/retained. CellsRs29,73,134.78 andRs7,43,800.00, selectedsubtotal3716934.78rupees, otherN.A.notzero; no completeassetstotal. Householdheaders excluded fromfinalcrop; do notinferroles. Primaryliabilitylocationremainsunresolved afterbounded native/PSM3/PSM6checks; publishasset-onlyselectednote if proceeding, do NOT count liabilityfieldreview or assignprimaryvalue. Explicit missingliability wording must appear in recordsummary. Manga2fields/Hangkhanpau1field yields3newnotes, notautomatic4. Public59/118/206/0unchanged. Nextimplementation/meaningfultests/fullcloudQA.

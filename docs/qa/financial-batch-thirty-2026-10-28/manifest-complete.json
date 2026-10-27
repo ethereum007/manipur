@@ -1,0 +1,55 @@
+[
+  {
+    "ac": 57,
+    "candidate": "Mr. T. Manga Vaiphei",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/57/T.%20MANGA%20VAIPHEI.pdf",
+    "sha256": "131083f3c56c3500ce04f7d0bf5e66ccbcfb4164ce9b4e3ffee9ebe9bb92c8f2",
+    "pages": 14,
+    "crops": [
+      {
+        "page": 13,
+        "rect": [
+          135,
+          243,
+          570,
+          291
+        ],
+        "id": "movable",
+        "image": "ac57-131083f3c56c-p13-financial-selected-movable.png"
+      },
+      {
+        "page": 13,
+        "rect": [
+          135,
+          680,
+          570,
+          807
+        ],
+        "id": "primary-liabilities",
+        "image": "ac57-131083f3c56c-p13-financial-selected-primary-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 60,
+    "candidate": "T. Hangkhanpau",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/60/T.%20Hangkhanpau.pdf",
+    "sha256": "9a8b3def86f2cde128b8413e6393d88894e5fb4a7952cdb238e8c1ed43287736",
+    "pages": 15,
+    "crops": [
+      {
+        "page": 12,
+        "rect": [
+          95,
+          562,
+          575,
+          595
+        ],
+        "id": "selected-financial-row",
+        "image": "ac60-9a8b3def86f2-p12-financial-selected-selected-financial-row.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
