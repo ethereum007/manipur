@@ -515,3 +515,8 @@ Refinedsource40534513458 visually confirms K Lhouvum (approx), finalcrop retaine
 ## Batch28 selected financial source inspection complete
 
 MissingJohnyliabilities locatedPDF16/17 via40534509170; finalsafe40548305471 sourcehashesasserted andfinancialregionsreviewed/retained aftersignature-marginartifactdeletion. Kapproximationexplicit; bothmixedNIL/NAliabilitiesnull, Johnyselectedmovable174463rupeespartial. Nextimplementation/regression/cloudreleaseQA; public55/110/210/0 unchanged.30mincadenceACTIVE,2027deferred.
+
+
+## Historical batch28 comparisons implemented; release gates pending
+
+1b5555449e1bd0776b1d60a53d59c32ca09acfc6 adds approximation-preserving K Lhouvum/Johny partialmovables andmixedNIL/NA liabilitiesnull. Repo57/114/208/0; verifiedpublic55/110/210/0. Cloud40548745399 active; finish deploy/liveJSON/screenshots before newbatch. FINANCIAL_BATCH_TWENTY_EIGHT_RELEASE_PENDING_2026-10-27.md.2027deferred/30mincadenceactive.
