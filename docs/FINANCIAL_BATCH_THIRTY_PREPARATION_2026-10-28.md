@@ -6,3 +6,8 @@ Remaining source-readable unreviewed targets excluding recorded deferral: Mr. T.
 ## Located original cells reviewed
 
 SelectedheadingOCR40576664775hash-asserted HangkhanpauPDF12 tableheader liabilityy515 but no primaryliabilityrow located; no values approved. Renderer40580769584hash-asserted MangaPDF13, two narrow safe financial-only images reviewed/retained. Movablecells2268679.65+510138.32=2778817.97rupees, partial only; primaryloan441400.00rupees, otherNA/NILwording. Lowerloanlabel partlyclipped; disputedcontinuation unreviewed, householdrolesunconfirmed. No completeassets/currentfinance/legalinference. Hangkhanpau emptyclips explicit. Next bounded broader-headingmetadata check for Hangkhanpau; do notguess missingvalues. Public59/118/206/0unchanged.
+
+
+## Alternate bounded heading pass
+
+40585123725 hash-asserted, PSM6 expanded heading whitelist found tableheaderPDF12y511 andimmovablerowsy630/658; PDF13stillnoheadings. Metadataonlyretained. Proposed narrowfinancialrow550–610 between header andimmovablerows; inspect imagebeforeapproving any wording/value. Liabilitylocationstillunresolved; donotassignzero.

@@ -34,6 +34,17 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/60/T.%20Hangkhanpau.pdf",
     "expectedSha256": "9a8b3def86f2cde128b8413e6393d88894e5fb4a7952cdb238e8c1ed43287736",
     "selectionReason": "Remaining source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 12,
+        "rect": [
+          135,
+          550,
+          575,
+          610
+        ],
+        "id": "selected-financial-row"
+      }
+    ]
   }
 ]
