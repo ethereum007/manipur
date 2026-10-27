@@ -1,0 +1,55 @@
+[
+  {
+    "ac": 50,
+    "candidate": "Nemcha Kipgen",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/50/Nemcha%20Kipgen.pdf",
+    "sha256": "6104db0b4573c056927026dc0d28d7de467f4bdf6707fa2016492bedef02ea80",
+    "pages": 16,
+    "crops": [
+      {
+        "page": 13,
+        "id": "movable-cells",
+        "rect": [
+          100,
+          659,
+          520,
+          696
+        ],
+        "image": "ac50-6104db0b4573-p13-financial-selected-movable-cells.png"
+      },
+      {
+        "page": 14,
+        "id": "financial-cells",
+        "rect": [
+          100,
+          405,
+          520,
+          666
+        ],
+        "image": "ac50-6104db0b4573-p14-financial-selected-financial-cells.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 50,
+    "candidate": "Ngamkhohen Kipgen",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/50/Ngamkhohen%20Kipgen.pdf",
+    "sha256": "0c182e052efa7b09ee9cfea2c0e1dd39a1404ccab5221e061780390d57fc4005",
+    "pages": 14,
+    "crops": [
+      {
+        "page": 12,
+        "id": "movable-cells",
+        "rect": [
+          98,
+          283,
+          540,
+          340
+        ],
+        "image": "ac50-0c182e052efa-p12-financial-selected-movable-cells.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
