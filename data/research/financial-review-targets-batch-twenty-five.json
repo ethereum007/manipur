@@ -18,12 +18,12 @@
       },
       {
         "page": 13,
-        "id": "financial-cells",
+        "id": "primary-loan-cells",
         "rect": [
-          70,
-          548,
+          175,
+          580,
           550,
-          750
+          630
         ]
       }
     ]
@@ -40,9 +40,9 @@
         "id": "movable-cells",
         "rect": [
           130,
-          329,
+          318,
           505,
-          393
+          372
         ]
       },
       {
