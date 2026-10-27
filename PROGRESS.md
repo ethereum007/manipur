@@ -510,3 +510,8 @@ Locator40514034101 and renderer40524004029 passed originalhashes; three safe fin
 ## Batch28 approximation resolved; selected-page locator pending
 
 Refinedsource40534513458 visually confirms K Lhouvum (approx), finalcrop retained. JohnyPDF16/17 heading-onlylocator40534509170 pendingOCRdependencysetup; continue exactrun thenbounded liabilitycrop if located. No newfields published,55/110/210/0 unchanged,2027deferred.
+
+
+## Batch28 selected financial source inspection complete
+
+MissingJohnyliabilities locatedPDF16/17 via40534509170; finalsafe40548305471 sourcehashesasserted andfinancialregionsreviewed/retained aftersignature-marginartifactdeletion. Kapproximationexplicit; bothmixedNIL/NAliabilitiesnull, Johnyselectedmovable174463rupeespartial. Nextimplementation/regression/cloudreleaseQA; public55/110/210/0 unchanged.30mincadenceACTIVE,2027deferred.

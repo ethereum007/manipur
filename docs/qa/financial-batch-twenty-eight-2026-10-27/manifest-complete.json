@@ -1,0 +1,77 @@
+[
+  {
+    "ac": 51,
+    "candidate": "K Lhouvum",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/51/K%20Lhouvum.pdf",
+    "sha256": "d8cc8f85c8c4dcfa9e6f3523b42c6c6f5ca6c209c03c20e8a1b8dffbd3a56db4",
+    "pages": 18,
+    "crops": [
+      {
+        "page": 14,
+        "rect": [
+          95,
+          490,
+          510,
+          520
+        ],
+        "id": "movable",
+        "image": "ac51-d8cc8f85c8c4-p14-financial-selected-movable.png"
+      },
+      {
+        "page": 15,
+        "rect": [
+          90,
+          180,
+          500,
+          390
+        ],
+        "id": "liabilities",
+        "image": "ac51-d8cc8f85c8c4-p15-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 51,
+    "candidate": "L Johny Gangmei",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/51/L%20Johny%20Gangmei.pdf",
+    "sha256": "602f7421cb5d360224462a5c6da4dd399d9df0b48897e39b8d51a555649aaae8",
+    "pages": 17,
+    "crops": [
+      {
+        "page": 16,
+        "rect": [
+          55,
+          164,
+          515,
+          193
+        ],
+        "id": "movable",
+        "image": "ac51-602f7421cb5d-p16-financial-selected-movable.png"
+      },
+      {
+        "page": 16,
+        "rect": [
+          50,
+          475,
+          515,
+          635
+        ],
+        "id": "liabilities",
+        "image": "ac51-602f7421cb5d-p16-financial-selected-liabilities.png"
+      },
+      {
+        "page": 17,
+        "rect": [
+          55,
+          50,
+          520,
+          100
+        ],
+        "id": "disputed-loans",
+        "image": "ac51-602f7421cb5d-p17-financial-selected-disputed-loans.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]

@@ -19,3 +19,10 @@ Pending: improve first movable crop to fully capture approximation qualifier bef
 Refined renderer40534513458 succeeded with source hashes asserted. K Lhouvum movable crop widened vertically to y520; visually reviewed and retained, clearly shows (approx) beneath Rs18,50,000. That value must keep approximate qualifier; other numeric cells are not a complete asset total. Replaces prior clipped movable image; unchanged other images retained from40524004029. Manifest-refined.json records final coordinates.
 
 Selected-page heading-only locator40534509170 for Johny PDF16/17 is active at Tesseract dependency setup. No values/full text/images exported by this locator. Finish that exact run before proposing any liability crop; if no reliable location, preserve missing-field status instead of zero. No new published records; verified55/110/210/0 unchanged.
+
+
+## Selected source inspection complete
+
+Selected-page locator40534509170 found Johny liability headings at PDF16 y476/589 and disputed loan continuation PDF17 y54. Original run40543494904 included a lower signature margin; its entire artifact was deleted before retention. Final renderer40548305471 hash-asserted; refined PDF16 crop ends635 and was visually inspected without signature margin. PDF17 selected disputed loan row inspected. Five safe financial-only regions and complete manifest retained; no personal identifiers, household names or contacts observed. Johny primary/disputed rows mix NIL/NA; retain primary liability total null. K Lhouvum mixed NIL/NA likewise null. K approximate Rs18,50,000 must remain approximate, exact other cells104972 and53590; no complete total. Johny selected movable cells166722+6924+817=174463 rupees, partial only; no full asset total. Household roles unconfirmed.
+
+Next implement scoped comparisons and meaningful regression checks, then full cloud release/browser/production gates. Public55/110/210/0 remains unchanged until verified release.
