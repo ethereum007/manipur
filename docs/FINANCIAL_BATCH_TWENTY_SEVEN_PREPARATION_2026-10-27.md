@@ -1,0 +1,11 @@
+# Financial batch twenty-seven source-location preparation — 27 October 2026 IST
+
+Historical-onlyscope; 2027analysisdeferred byuser. Latestverifiedpublic53selected/106notes/212withoutcomparison/0completeindependentaudits, FINANCIAL_BATCH_TWENTY_SIX_QA_2026-10-27.md.
+
+Nextsource-readable unreviewed AC50Soshim Gurung/AC51Haokholet Kipgen selected byAC/name convenienceorder excludingdeferrals, notrepresentative. Metadata-onlylocator https://github.com/ethereum007/manipur/actions/runs/40474637702 succeeded and matchedoriginalhashes to priorcapture. SoshimSHAb2495293e3200be40dde647261171e22ab58ef5d12581d00a90af28db82d8ec0,16pages, abstractheadingPDF14/financialproposals14–15. HaokholetSHA395474b7370e5b19eb37bcff076fad50395291aa235e83fd8d2c4cd989aba2f5,19pages, abstractheadingPDF16/financialproposals16–17. Verificationproposals notfieldapproval.
+
+Metadata docs/review/financial-batch-twenty-seven-locator-2026-10-27.json retains exactsourceidentity/hash/dimensions/headingcoordinates only; nofinancialvalues approved/imagesrendered/full extractedtext/personalidentifiers exported. Headinglocation/native-readiness notfieldverification.
+
+Next exactcoordinates/narrowfinancial-onlyclips excludinghouseholdheaders/addresses/contacts/IDs/accountnumbers/signatures; cloudrender/visuallyinspect before retention, deletecontaminatedartifacts/narrowifneeded. CompareattributedADR withintegerpaise/scope/missingness, targeteddisclosurecounts/tests, cloudbuild/browserQA, profilescreenshots/exactproductionJSON beforecoverageincrease. Historical2022filings notcurrentpoliticalstatus evidence. Existingdeferral not immediatelyretried absentnewevidence.
+
+Public53/106/212/0unchanged; finite212candidatehistoricalqueue remains, cadenceACTIVE. Allacquisition/projectfiles inGitHub, RAM-onlyAPIinspection.

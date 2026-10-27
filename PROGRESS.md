@@ -475,3 +475,8 @@ Renderer40466709232hashchecks passed; three safe financialregions reviewed/retai
 ## Historical disclosure batch twenty-six verified — 27 October 2026 IST
 
 Userdeferred2027analysis; hourlyautomationupdatedtohistoricalresearch/productquality. MissingNgamkhohenliabilitylocation resolved through selectedpageOCRheadings/visualreview; mixedNIL/NOTAPPLICABLEnull, Nemchagovernmentdues distinctfromloan. Production53selected/106notes/212withoutcomparison/0completeindependentaudits. Run40473527152passed105Node/15Python/60browser (180checks), fivePDFpages,913HTML/31,398references/0errors; profilescreenshots reviewed, liveJSONbyte-exact. FINANCIAL_BATCH_TWENTY_SIX_QA_2026-10-27.md. Continue HISTORICAL_RESEARCH_BACKLOG_2026-10-27.md; 2027workdeferred, cadenceACTIVE.
+
+
+## Historical batch twenty-seven source locations verified — 27 October 2026 IST
+
+AC50Soshim/AC51Haokholetoriginalhashes matched; metadata-onlylocator40474637702passed. Exactfinancialheadingcoordinates retained, noapprovedvalues/imagesrendered. FINANCIAL_BATCH_TWENTY_SEVEN_PREPARATION_2026-10-27.md. Next narrowclips/visualreview thenreleaseQA; public53/106/212/0unchanged, 2027deferred/cadenceACTIVE.
