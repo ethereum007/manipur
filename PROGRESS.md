@@ -570,3 +570,8 @@ Final40589322860hashasserted, Hangkhanpaumovablelabel/valuesvisuallyreviewedreta
 ## Historical batch30 deployed and verified —28October2026IST
 
 Production61selected/121notes/204withoutcomparison/0completeindependentaudits; Hangkhanpauasset-only explicitlyunreviewedliabilitynotcounted. Corrected40597135379passed109Node/15Python/64browser188checks,5PDFpages,913HTML/31,406refs/0errors;liveJSONbyte-exact,newdesktop/mobileprofilesreviewed. FINANCIAL_BATCH_THIRTY_QA_2026-10-28.md supersedespending. Native-readableconveniencequeueexhaustedexceptdocumenteddeferral/partialmissingfield; continueimage-onlyboundedreviews/dossiers.2027deferred,30mincadenceACTIVE.
+
+
+## Historical scanned-document batch31 started —28October2026IST
+
+AC1ElangbamSovid/ThangjamMohendro selected in boundedAC/nameorder; metadata-only40604195061activeatheadinglocator. Noimages/valuesapproved. Continueexactrun before newbatch; FINANCIAL_BATCH_THIRTY_ONE_PREPARATION_2026-10-28.md. Public61/121/204/0unchanged,2027deferred/30mincadenceactive.
