@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 49,
+    "candidate": "O. Lohrii",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/49/O.%20Lohrii.pdf",
+    "sha256": "2506e3535d6cccb36f96a25e4ff4c80272863801feb0b5032199504949a9599f",
+    "pages": 14,
+    "crops": [
+      {
+        "page": 13,
+        "id": "movable-cells",
+        "rect": [
+          75,
+          221,
+          550,
+          248
+        ],
+        "image": "ac49-2506e3535d6c-p13-financial-selected-movable-cells.png"
+      },
+      {
+        "page": 13,
+        "id": "primary-loan-cells",
+        "rect": [
+          175,
+          580,
+          550,
+          630
+        ],
+        "image": "ac49-2506e3535d6c-p13-financial-selected-primary-loan-cells.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 49,
+    "candidate": "Robert Tailu Maram",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/49/Robert%20Tailu%20Maram.pdf",
+    "sha256": "f569cd83b6f5116c44ea8a055425c7abe51db19da4b5a812a23f33fe2dd4487a",
+    "pages": 16,
+    "crops": [
+      {
+        "page": 14,
+        "id": "movable-cells",
+        "rect": [
+          130,
+          318,
+          505,
+          372
+        ],
+        "image": "ac49-f569cd83b6f5-p14-financial-selected-movable-cells.png"
+      },
+      {
+        "page": 15,
+        "id": "financial-cells",
+        "rect": [
+          130,
+          237,
+          525,
+          605
+        ],
+        "image": "ac49-f569cd83b6f5-p15-financial-selected-financial-cells.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
