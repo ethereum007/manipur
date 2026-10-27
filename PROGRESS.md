@@ -485,3 +485,8 @@ AC50Soshim/AC51Haokholetoriginalhashes matched; metadata-onlylocator40474637702p
 ## Historical batch twenty-seven release gates pending — 27 October 2026
 
 Scoped comparisons implemented27a4d322760b4268ce4abb61e41b762d08174d9b; repo55/110/210/0, lastverifiedpublic53/106/212/0. Healthy active run40489790894 atChromiumdependencyinstallation; finish same run, production and newprofile screenshotverification before anotherbatch. FINANCIAL_BATCH_TWENTY_SEVEN_RELEASE_PENDING_2026-10-27.md. 2027deferred, cadenceACTIVE.
+
+
+## Batch27 release regression corrected — 27 October
+
+First run40489790894 blocked deployment on accidentally altered unrelated election assertion53→55; historical data unchanged. Exact assertion restored78cbb473214e44c5203dcee025f126f5d4319f5a. Replacement40497140188 active; complete original pending production/screenshot gates before newbatch. Public remainslastverified53/106/212/0.
