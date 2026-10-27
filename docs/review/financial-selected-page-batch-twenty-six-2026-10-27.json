@@ -1,0 +1,101 @@
+[
+  {
+    "candidate": "Ngamkhohen Kipgen",
+    "ac": 50,
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/50/Ngamkhohen%20Kipgen.pdf",
+    "sha256": "0c182e052efa7b09ee9cfea2c0e1dd39a1404ccab5221e061780390d57fc4005",
+    "pages": 14,
+    "proposals": [
+      {
+        "page": 13,
+        "width": 549.7999877929688,
+        "height": 792.0,
+        "markers": [
+          {
+            "marker": "Liabilities.",
+            "rect": [
+              103.68,
+              176.64,
+              153.6,
+              184.8
+            ]
+          },
+          {
+            "marker": "Government",
+            "rect": [
+              119.04,
+              190.08,
+              174.72,
+              198.72
+            ]
+          },
+          {
+            "marker": "Loans",
+            "rect": [
+              119.52,
+              217.92,
+              145.92,
+              226.08
+            ]
+          },
+          {
+            "marker": "Liabilities",
+            "rect": [
+              104.16,
+              272.64,
+              150.72,
+              281.28
+            ]
+          },
+          {
+            "marker": "Government",
+            "rect": [
+              126.72,
+              292.32,
+              181.92,
+              300.96
+            ]
+          },
+          {
+            "marker": "Loans",
+            "rect": [
+              127.68,
+              333.6,
+              154.08,
+              341.76
+            ]
+          },
+          {
+            "marker": "VERIFICATION",
+            "rect": [
+              245.76,
+              482.4,
+              322.08,
+              491.04
+            ]
+          },
+          {
+            "marker": "liability",
+            "rect": [
+              384.0,
+              590.88,
+              418.56,
+              602.4
+            ]
+          },
+          {
+            "marker": "Signature",
+            "rect": [
+              379.68,
+              659.04,
+              422.4,
+              669.6
+            ]
+          }
+        ],
+        "locator": "Selected-page OCR headings only; no financial values approved"
+      }
+    ],
+    "scope": "Fixed-page heading coordinates only; no monetary values, full extracted text or rendered images exported"
+  }
+]
