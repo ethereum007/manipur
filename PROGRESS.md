@@ -500,3 +500,8 @@ Production55selected/110notes/210withoutcomparison/0completeindependentaudits. C
 ## Historical batch28 locator pending — 27 October2026
 
 Selected next source-readable AC51 K Lhouvum/L Johny Gangmei; metadata-only40514034101 active at OCRdependencyinstallation. No images/valuesapproved or coverageincrement. Continue same run before newbatch. FINANCIAL_BATCH_TWENTY_EIGHT_PREPARATION_2026-10-27.md. Verifiedpublic55/110/210/0,2027deferred,cadenceACTIVE.
+
+
+## Historical batch28 selected source inspection — 27 October2026
+
+Locator40514034101 and renderer40524004029 passed originalhashes; three safe financialregions inspected/retained. K Lhouvum approximation qualifier partlyclipped/mixedNIL-NA liabilities; Johny movablecells inspected, liabilitylocation unresolved. Refinequalifiercrop andboundedmetadata-onlyliabilitylocation before fieldpublication. FINANCIAL_BATCH_TWENTY_EIGHT_PREPARATION_2026-10-27.md; public55/110/210/0 unchanged,2027deferred.
