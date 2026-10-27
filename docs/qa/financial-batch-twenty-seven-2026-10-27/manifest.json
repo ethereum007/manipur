@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 50,
+    "candidate": "Soshim Gurung",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/50/Soshim%20Gurung.pdf",
+    "sha256": "b2495293e3200be40dde647261171e22ab58ef5d12581d00a90af28db82d8ec0",
+    "pages": 16,
+    "crops": [
+      {
+        "page": 14,
+        "rect": [
+          60,
+          614,
+          535,
+          645
+        ],
+        "id": "movable",
+        "image": "ac50-b2495293e320-p14-financial-selected-movable.png"
+      },
+      {
+        "page": 15,
+        "rect": [
+          75,
+          330,
+          540,
+          525
+        ],
+        "id": "liabilities",
+        "image": "ac50-b2495293e320-p15-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 51,
+    "candidate": "Haokholet Kipgen",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/51/Haokholet%20Kipgen.pdf",
+    "sha256": "395474b7370e5b19eb37bcff076fad50395291aa235e83fd8d2c4cd989aba2f5",
+    "pages": 19,
+    "crops": [
+      {
+        "page": 16,
+        "rect": [
+          65,
+          483,
+          510,
+          540
+        ],
+        "id": "movable",
+        "image": "ac51-395474b7370e-p16-financial-selected-movable.png"
+      },
+      {
+        "page": 18,
+        "rect": [
+          65,
+          275,
+          510,
+          460
+        ],
+        "id": "liabilities",
+        "image": "ac51-395474b7370e-p18-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
