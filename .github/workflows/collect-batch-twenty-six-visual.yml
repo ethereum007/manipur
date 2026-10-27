@@ -1,0 +1,46 @@
+name: Collect focused cloud visual evidence
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: read
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: visual-review
+          run-id: 40473527152
+          github-token: ${{ github.token }}
+          path: original
+      - uses: actions/upload-artifact@v4
+        with:
+          name: financial-batch-twenty-six-focused
+          path: |
+            original/**/financial-nemcha-desktop.png
+            original/**/financial-ngamkhohen-mobile.png
+            original/**/field-review-desktop.png
+            original/**/field-review-coverage-mobile.png
+          if-no-files-found: error
+          retention-days: 7
+      - name: Retain selected verified cloud screenshots
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import shutil
+          target=Path('docs/qa/financial-batch-twenty-six-2026-10-27')
+          target.mkdir(parents=True,exist_ok=True)
+          names=['financial-nemcha-desktop.png','financial-ngamkhohen-mobile.png','field-review-desktop.png','field-review-coverage-mobile.png']
+          for name in names:
+              matches=list(Path('original').rglob(name))
+              assert len(matches)==1, (name,len(matches))
+              shutil.copyfile(matches[0],target/name)
+          PY
+          git config user.name 'Mandate Terrain QA'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/qa/financial-batch-twenty-six-2026-10-27
+          git diff --cached --quiet || git commit -m 'docs: retain existing verified batch twenty-six cloud screenshots'
+          git push origin HEAD:main
