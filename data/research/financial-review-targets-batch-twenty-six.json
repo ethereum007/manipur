@@ -5,7 +5,28 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/50/Nemcha%20Kipgen.pdf",
     "expectedSha256": "6104db0b4573c056927026dc0d28d7de467f4bdf6707fa2016492bedef02ea80",
     "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 13,
+        "id": "movable-cells",
+        "rect": [
+          100,
+          659,
+          520,
+          724
+        ]
+      },
+      {
+        "page": 14,
+        "id": "financial-cells",
+        "rect": [
+          100,
+          405,
+          520,
+          737
+        ]
+      }
+    ]
   },
   {
     "ac": 50,
@@ -13,6 +34,17 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/50/Ngamkhohen%20Kipgen.pdf",
     "expectedSha256": "0c182e052efa7b09ee9cfea2c0e1dd39a1404ccab5221e061780390d57fc4005",
     "selectionReason": "Next source-readable unreviewed records by AC/name excluding recorded deferrals; nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 12,
+        "id": "movable-cells",
+        "rect": [
+          98,
+          283,
+          540,
+          340
+        ]
+      }
+    ]
   }
 ]
