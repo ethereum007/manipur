@@ -12,3 +12,10 @@ Last verified published release remains batch27:55 selected candidates/110notes/
 Locator40514034101 succeeded; exact heading coordinates retained in docs/review/financial-batch-twenty-eight-locator-2026-10-27.json. Renderer40524004029 asserted both original hashes; three financial-only regions visually inspected, no identifiers, household names, signatures or contact details observed. K Lhouvum PDF14 selected movable row shows Rs18,50,000 with partly clipped approx qualifier, Rs1,04972/- and Rs53,590/-, other NA; do not treat approximate cell as exact or full assets. PDF15 primary/disputed rows mix NIL and NA, no full zero total. Lower disputed label partially clipped. L Johny Gangmei PDF16 selected movable cells read Rs1,66,722/-, Rs6,924/-, Rs817/-, other NA/NIL; no full asset total. Household roles unconfirmed.
 
 Pending: improve first movable crop to fully capture approximation qualifier before numeric approval; locate Johny liability region with bounded metadata-only selected-page heading checks (no full-text export). Native locator abstract15 but financial summary16; continuation17 has no recognized liability headings, so do not invent a location or zero. No selected field records published; public55/110/210/0 unchanged. Source crops are preparation, not independent audits.
+
+
+## Approximation qualifier resolved; continuation check pending
+
+Refined renderer40534513458 succeeded with source hashes asserted. K Lhouvum movable crop widened vertically to y520; visually reviewed and retained, clearly shows (approx) beneath Rs18,50,000. That value must keep approximate qualifier; other numeric cells are not a complete asset total. Replaces prior clipped movable image; unchanged other images retained from40524004029. Manifest-refined.json records final coordinates.
+
+Selected-page heading-only locator40534509170 for Johny PDF16/17 is active at Tesseract dependency setup. No values/full text/images exported by this locator. Finish that exact run before proposing any liability crop; if no reliable location, preserve missing-field status instead of zero. No new published records; verified55/110/210/0 unchanged.

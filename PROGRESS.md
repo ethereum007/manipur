@@ -505,3 +505,8 @@ Selected next source-readable AC51 K Lhouvum/L Johny Gangmei; metadata-only40514
 ## Historical batch28 selected source inspection — 27 October2026
 
 Locator40514034101 and renderer40524004029 passed originalhashes; three safe financialregions inspected/retained. K Lhouvum approximation qualifier partlyclipped/mixedNIL-NA liabilities; Johny movablecells inspected, liabilitylocation unresolved. Refinequalifiercrop andboundedmetadata-onlyliabilitylocation before fieldpublication. FINANCIAL_BATCH_TWENTY_EIGHT_PREPARATION_2026-10-27.md; public55/110/210/0 unchanged,2027deferred.
+
+
+## Batch28 approximation resolved; selected-page locator pending
+
+Refinedsource40534513458 visually confirms K Lhouvum (approx), finalcrop retained. JohnyPDF16/17 heading-onlylocator40534509170 pendingOCRdependencysetup; continue exactrun thenbounded liabilitycrop if located. No newfields published,55/110/210/0 unchanged,2027deferred.
