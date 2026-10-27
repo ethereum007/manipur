@@ -1,0 +1,5 @@
+# Batch twenty-seven release pending — 27 October 2026
+
+Implementation commit 27a4d322760b4268ce4abb61e41b762d08174d9b adds scoped Soshim Gurung and Haokholet Kipgen comparisons from visually reviewed financial-only original regions, source run 40482540331. Repository coverage: 55 selected candidates, 110 notes, 210 without selected comparison, zero complete independent audits. Mixed NA/NIL remains null; Haokholet selected movable subtotal Rs46,32,802.54 is not a complete asset total. Liability continuation PDF18 and partially clipped lower label remain explicit. Removed stale spelled-out selection count.
+
+Full cloud run https://github.com/ethereum007/manipur/actions/runs/40489790894 is pending at Chromium dependency installation, build job 122140538673. Do not start another batch until this run passes and Pages, live JSON equality and new profile screenshot review are completed. Last verified published research release remains batch26 (53/106/212/0). Prior source-preparation preview40482533092 succeeded. All files and tests remain in GitHub; 2027 analysis deferred.
