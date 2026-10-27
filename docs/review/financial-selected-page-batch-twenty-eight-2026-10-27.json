@@ -1,0 +1,109 @@
+[
+  {
+    "candidate": "L Johny Gangmei",
+    "ac": 51,
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/51/L%20Johny%20Gangmei.pdf",
+    "sha256": "602f7421cb5d360224462a5c6da4dd399d9df0b48897e39b8d51a555649aaae8",
+    "pages": 17,
+    "proposals": [
+      {
+        "page": 16,
+        "width": 539.7999877929688,
+        "height": 792.0,
+        "markers": [
+          {
+            "marker": "Liabilities",
+            "rect": [
+              158.88,
+              51.84,
+              205.92,
+              60.0
+            ]
+          },
+          {
+            "marker": "Liabilities.",
+            "rect": [
+              67.68,
+              476.16,
+              118.08,
+              489.6
+            ]
+          },
+          {
+            "marker": "Government",
+            "rect": [
+              67.2,
+              492.48,
+              122.4,
+              499.68
+            ]
+          },
+          {
+            "marker": "Loans",
+            "rect": [
+              55.2,
+              524.16,
+              94.08,
+              535.68
+            ]
+          },
+          {
+            "marker": "Liabilities",
+            "rect": [
+              67.2,
+              589.44,
+              114.24,
+              598.08
+            ]
+          },
+          {
+            "marker": "Government",
+            "rect": [
+              68.16,
+              607.2,
+              123.36,
+              614.4
+            ]
+          }
+        ],
+        "locator": "Selected-page OCR headings only; no financial values approved"
+      },
+      {
+        "page": 17,
+        "width": 545.5,
+        "height": 792.0,
+        "markers": [
+          {
+            "marker": "Loans",
+            "rect": [
+              63.36,
+              54.24,
+              91.68,
+              69.12
+            ]
+          },
+          {
+            "marker": "VERIFICATION",
+            "rect": [
+              238.08,
+              228.96,
+              319.68,
+              238.08
+            ]
+          },
+          {
+            "marker": "liability,",
+            "rect": [
+              349.92,
+              341.76,
+              386.4,
+              352.32
+            ]
+          }
+        ],
+        "locator": "Selected-page OCR headings only; no financial values approved"
+      }
+    ],
+    "scope": "Fixed-page heading coordinates only; no monetary values, full extracted text or rendered images exported"
+  }
+]

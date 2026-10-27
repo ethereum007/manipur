@@ -44,6 +44,26 @@
           193
         ],
         "id": "movable"
+      },
+      {
+        "page": 16,
+        "rect": [
+          50,
+          475,
+          515,
+          655
+        ],
+        "id": "liabilities"
+      },
+      {
+        "page": 17,
+        "rect": [
+          55,
+          50,
+          520,
+          100
+        ],
+        "id": "disputed-loans"
       }
     ]
   }
