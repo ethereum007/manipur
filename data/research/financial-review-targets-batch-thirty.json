@@ -38,10 +38,10 @@
       {
         "page": 12,
         "rect": [
-          135,
-          550,
+          95,
+          562,
           575,
-          610
+          595
         ],
         "id": "selected-financial-row"
       }
