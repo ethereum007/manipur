@@ -685,3 +685,8 @@ AC3LaitongjamJayananda/LeishangthemSusindro fixedtargets prepared; metadata-only
 ## Scanned batch35 implementation pending release
 
 2da310803b3ec0ce4636d28bbcfd71a75a067177 repo70/139/195/0,verifiedpublic68/135/197/0. Fullassetsnull/selected59paiseloandifferenceunresolved. Cloud40699423246active; finishdeploy/liveJSON/screenshotsbefore nextbatch. FINANCIAL_BATCH_THIRTY_FIVE_RELEASE_PENDING_2026-10-28.md.2027deferred/30mincadenceactive.
+
+
+## Scanned batch35 verified/deployed —28October2026IST
+
+Production70/139/195/0.40699423246passed114Node/15Python/69browser198checks,5PDFpages,913HTML/31,415refs/0errors. LiveJSONbyteexact/newuniquenameddesktopmobileprofilesreviewed. FINANCIAL_BATCH_THIRTY_FIVE_QA_2026-10-28.md supersedespending. Partialassets/selected59paiseloandifferenceunresolvedexplicit.2027deferred/30mincadenceactive.
