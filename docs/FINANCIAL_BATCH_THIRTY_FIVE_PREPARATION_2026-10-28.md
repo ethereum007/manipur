@@ -1,0 +1,5 @@
+# Scanned historical batch35 preparation —28October2026IST
+
+Next unreviewed image-only AC3Laitongjam Jayananda Singh(22pages) andLeishangthem Susindro Meitei(18pages), fixedsourceURLs/hashes intargetJSON. BoundednonrepresentativeAC/nameconvenienceselection excludingdocumenteddeferrals, readabilitynotriskranking.
+
+Metadata-only source https://github.com/ethereum007/manipur/actions/runs/40686326100 active. Finishsamehash-assertedrun/retainheadingcoordinates/proposefinancial-onlycrops/visualprivacyandvalueinspection beforeapproval. No monetaryvalues/fulltext/imagesexportedbylocator; OCRnotfieldverification. Public68selected/135notes/197withoutcomparison/0completeindependentauditsunchanged; batch34QAlatestverified. AllprojectworkGitHubonly,2027deferred/30mincadenceactive.
