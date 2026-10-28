@@ -1,0 +1,349 @@
+[
+  {
+    "ac": 4,
+    "candidate": "Punnam Rani Wangkhem",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/4/Punnam%20Rani%20Wangkhem.pdf",
+    "expectedSha256": "bcb3eb2ac2de202805e3bb24bb9b9f42275a48e473a56de5fa2fbdbfcff6ef5a",
+    "selectionReason": "Next unreviewed image-only records by AC/name excluding documented deferrals; bounded nonrepresentative convenience sample",
+    "clips": [],
+    "pages": 18,
+    "abstractPages": [
+      15
+    ],
+    "proposals": [
+      {
+        "page": 15,
+        "width": 595.0,
+        "height": 842.0,
+        "markers": [
+          {
+            "marker": "Assets",
+            "rect": [
+              177.23076923076923,
+              572.123076923077,
+              203.8153846153846,
+              579.876923076923
+            ]
+          },
+          {
+            "marker": "Liabilities",
+            "rect": [
+              226.52307692307693,
+              568.8,
+              270.83076923076925,
+              577.6615384615385
+            ]
+          },
+          {
+            "marker": "assets)",
+            "rect": [
+              361.66153846153844,
+              565.4769230769231,
+              396.55384615384617,
+              576.0
+            ]
+          },
+          {
+            "marker": "Moveable",
+            "rect": [
+              132.36923076923077,
+              628.6153846153846,
+              174.46153846153845,
+              637.4769230769231
+            ]
+          },
+          {
+            "marker": "Assets",
+            "rect": [
+              183.87692307692308,
+              628.0615384615385,
+              211.01538461538462,
+              635.8153846153846
+            ]
+          },
+          {
+            "marker": "Immovable",
+            "rect": [
+              132.36923076923077,
+              666.276923076923,
+              180.55384615384617,
+              687.3230769230769
+            ]
+          },
+          {
+            "marker": "Assets",
+            "rect": [
+              131.8153846153846,
+              689.5384615384615,
+              157.84615384615384,
+              696.7384615384616
+            ]
+          },
+          {
+            "marker": "immovable",
+            "rect": [
+              131.26153846153846,
+              731.0769230769231,
+              176.6769230769231,
+              747.1384615384616
+            ]
+          }
+        ],
+        "locator": "OCR headings only, not verified values"
+      },
+      {
+        "page": 16,
+        "width": 595.0,
+        "height": 842.0,
+        "markers": [
+          {
+            "marker": "immovable",
+            "rect": [
+              137.90769230769232,
+              109.66153846153846,
+              186.09230769230768,
+              117.96923076923076
+            ]
+          },
+          {
+            "marker": "assets",
+            "rect": [
+              137.35384615384615,
+              253.1076923076923,
+              161.72307692307692,
+              260.3076923076923
+            ]
+          },
+          {
+            "marker": "assets",
+            "rect": [
+              194.95384615384614,
+              281.9076923076923,
+              219.3230769230769,
+              289.66153846153844
+            ]
+          },
+          {
+            "marker": "Liabilities",
+            "rect": [
+              137.90769230769232,
+              328.4307692307692,
+              180.55384615384617,
+              337.84615384615387
+            ]
+          },
+          {
+            "marker": "Liabilities",
+            "rect": [
+              137.35384615384615,
+              460.8,
+              181.1076923076923,
+              470.7692307692308
+            ]
+          },
+          {
+            "marker": "educational",
+            "rect": [
+              145.1076923076923,
+              595.9384615384615,
+              196.06153846153848,
+              606.4615384615385
+            ]
+          },
+          {
+            "marker": "education",
+            "rect": [
+              306.83076923076925,
+              604.2461538461539,
+              347.26153846153846,
+              613.6615384615385
+            ]
+          }
+        ],
+        "locator": "OCR headings only, not verified values"
+      },
+      {
+        "page": 17,
+        "width": 595.0,
+        "height": 842.0,
+        "markers": [
+          {
+            "marker": "VERIFICATION",
+            "rect": [
+              254.76923076923077,
+              131.26153846153846,
+              335.0769230769231,
+              140.6769230769231
+            ]
+          },
+          {
+            "marker": "liability,",
+            "rect": [
+              349.4769230769231,
+              258.0923076923077,
+              384.3692307692308,
+              269.16923076923075
+            ]
+          }
+        ],
+        "locator": "OCR headings only, not verified values"
+      }
+    ],
+    "scope": "Headings and coordinates only. No financial values, full-page text, personal identifiers or rendered images exported. Fixed crops require separate specification."
+  },
+  {
+    "ac": 4,
+    "candidate": "Sheikh Noorul Hassan",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/4/Sheikh%20Noorul%20Hassan.pdf",
+    "expectedSha256": "08073b168c7ff0654c422b219ae5e79b9a3ee4457cbe7a10a92246a107156fd1",
+    "selectionReason": "Next unreviewed image-only records by AC/name excluding documented deferrals; bounded nonrepresentative convenience sample",
+    "clips": [],
+    "pages": 19,
+    "abstractPages": [
+      16
+    ],
+    "proposals": [
+      {
+        "page": 16,
+        "width": 595.0,
+        "height": 842.0,
+        "markers": [
+          {
+            "marker": "Assets",
+            "rect": [
+              134.58461538461538,
+              504.0,
+              166.15384615384616,
+              511.75384615384615
+            ]
+          },
+          {
+            "marker": "Liabilities",
+            "rect": [
+              187.75384615384615,
+              502.89230769230767,
+              229.2923076923077,
+              510.6461538461538
+            ]
+          },
+          {
+            "marker": "assets)",
+            "rect": [
+              314.5846153846154,
+              501.7846153846154,
+              341.7230769230769,
+              511.75384615384615
+            ]
+          },
+          {
+            "marker": "Moveable",
+            "rect": [
+              102.46153846153847,
+              564.3692307692307,
+              143.44615384615383,
+              572.123076923077
+            ]
+          },
+          {
+            "marker": "Assets)",
+            "rect": [
+              152.30769230769232,
+              564.3692307692307,
+              178.33846153846153,
+              571.5692307692308
+            ]
+          },
+          {
+            "marker": "Immovable",
+            "rect": [
+              101.35384615384615,
+              600.3692307692307,
+              148.43076923076924,
+              615.3230769230769
+            ]
+          },
+          {
+            "marker": "Assets",
+            "rect": [
+              98.58461538461539,
+              613.6615384615385,
+              126.27692307692308,
+              628.6153846153846
+            ]
+          },
+          {
+            "marker": "immovable",
+            "rect": [
+              100.24615384615385,
+              664.6153846153846,
+              143.44615384615383,
+              680.6769230769231
+            ]
+          }
+        ],
+        "locator": "OCR headings only, not verified values"
+      },
+      {
+        "page": 17,
+        "width": 595.0,
+        "height": 842.0,
+        "markers": [
+          {
+            "marker": "assets",
+            "rect": [
+              100.8,
+              289.10769230769233,
+              143.44615384615383,
+              299.0769230769231
+            ]
+          },
+          {
+            "marker": "Liabilities",
+            "rect": [
+              107.44615384615385,
+              317.3538461538462,
+              148.43076923076924,
+              325.10769230769233
+            ]
+          },
+          {
+            "marker": "Liabilities",
+            "rect": [
+              106.8923076923077,
+              427.5692307692308,
+              147.3230769230769,
+              435.87692307692305
+            ]
+          },
+          {
+            "marker": "educational",
+            "rect": [
+              182.2153846153846,
+              639.6923076923077,
+              229.2923076923077,
+              647.4461538461538
+            ]
+          },
+          {
+            "marker": "education",
+            "rect": [
+              266.4,
+              687.876923076923,
+              303.5076923076923,
+              695.6307692307693
+            ]
+          }
+        ],
+        "locator": "OCR headings only, not verified values"
+      },
+      {
+        "page": 18,
+        "width": 595.0,
+        "height": 842.0,
+        "markers": [],
+        "locator": "OCR headings only, not verified values"
+      }
+    ],
+    "scope": "Headings and coordinates only. No financial values, full-page text, personal identifiers or rendered images exported. Fixed crops require separate specification."
+  }
+]
