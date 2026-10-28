@@ -1,0 +1,18 @@
+[
+  {
+    "ac": 1,
+    "candidate": "Thangjam Shyam Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/1/Thangjam%20Shyam%20Singh.pdf",
+    "expectedSha256": "1ca20905d0e828af14dd3efde8de60cc9a6dcec7a07a42f690e825302bc0cd14",
+    "selectionReason": "Next unreviewed image-only records by AC/name excluding documented deferrals; bounded nonrepresentative convenience sample",
+    "clips": []
+  },
+  {
+    "ac": 1,
+    "candidate": "Thokchom Lokeshwar Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/1/Thokchom%20Lokeshwar%20Singh.pdf",
+    "expectedSha256": "1fc862de753a814b236c7d22829aa849f213299739a7ec064da65f9704cdfaa3",
+    "selectionReason": "Next unreviewed image-only records by AC/name excluding documented deferrals; bounded nonrepresentative convenience sample",
+    "clips": []
+  }
+]
