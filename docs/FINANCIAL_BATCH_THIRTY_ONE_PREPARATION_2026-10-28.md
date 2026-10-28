@@ -3,3 +3,6 @@
 Next unreviewed image-only records by AC/name excluding documented deferrals: Elangbam Sovid Singh AC1 (24pages, originalSHA dd934a11167b751eb06b6d4d93770225fcf29f5cedc63c9f434c61f060ecc335) and Thangjam Mohendro Singh AC1 (17pages, originalSHA08bf8ed0b890fad9dab96eafed34ddfcb741775da6a252520bd54ea653dea867). Nonrepresentative convenience sample; image-onlyreadability isnotquality/riskranking. FixedURLs/hashes in financial-review-targets-batch-thirty-one.json.
 
 Metadata-only locator https://github.com/ethereum007/manipur/actions/runs/40604195061 active at source heading location. Originalhashesmustmatch; outputs headings/coordinatesonly, no values/fulltext/images. Continue same run, retain metadata then propose narrowfinancialcrops, visualinspection before any fieldapproval. Published61selected/121notes/204withoutcomparison/0completeindependentaudits unchanged; batch30QA latestverified. AllprojectworkGitHubonly,2027deferred/30mincadenceactive.
+
+
+Locator40604195061 succeeded, originalhashesasserted, exactmetadataretained. First renderer40607546805 included signaturemargins in governmentdues crops; entireartifactdeletedbeforeretention. Sovidblankheadercropremoved (governmentdues visible with loan on23); Mohendrogovernmentduesendnarrowed695. Refinedsource rerenderrequired before any retainedimages/valuesapproval. Public61/121/204/0unchanged.

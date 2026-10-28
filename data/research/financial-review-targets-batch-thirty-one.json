@@ -17,16 +17,6 @@
         "id": "movable"
       },
       {
-        "page": 22,
-        "rect": [
-          150,
-          704,
-          575,
-          800
-        ],
-        "id": "government-dues"
-      },
-      {
         "page": 23,
         "rect": [
           150,
@@ -61,7 +51,7 @@
           110,
           649,
           550,
-          735
+          695
         ],
         "id": "government-dues"
       },
