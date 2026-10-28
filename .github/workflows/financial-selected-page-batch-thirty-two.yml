@@ -1,0 +1,24 @@
+name: Locate selected missing financial field page
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  locate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: sudo apt-get update && sudo apt-get install -y tesseract-ocr
+      - run: pip install requests==2.34.2 pymupdf==2.0
+      - run: python scripts/ingest/locate-selected-financial-page.py
+        env:
+          FINANCIAL_TARGETS: data/research/financial-selected-page-targets-batch-thirty-two.json
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: financial-selected-page-batch-thirty-two
+          path: work-financial-locator/
