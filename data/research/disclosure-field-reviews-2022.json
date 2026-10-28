@@ -3679,6 +3679,113 @@
           "note": "Two selected movable cells subtotal ₹37,16,934.78. Other N.A. cells are not converted to zero. Complete current-market assets remain unreviewed, so no full primary asset total or equivalent-scope discrepancy against ADR’s ₹42,21,002 is assigned. Liability section remains unlocated and unreviewed: no primary liability value or liability field-review coverage is assigned. Household roles unconfirmed."
         }
       ]
+    },
+    {
+      "ac": 1,
+      "candidate": "Elangbam Sovid Singh",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/1/Elangbam%20Sovid%20Singh.pdf",
+      "sourceSha256": "dd934a11167b751eb06b6d4d93770225fcf29f5cedc63c9f434c61f060ecc335",
+      "reviewedAt": "2026-10-28",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40607701942",
+      "reviewedPages": [
+        22,
+        23
+      ],
+      "summary": "Two selected movable cells subtotal ₹50,75,212.43; complete assets unreviewed. Selected loan differs from ADR by ₹0.13.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 1444147400,
+          "primaryValuePaise": null,
+          "primarySourceText": "Two selected movable monetary cells",
+          "primaryScope": "Selected movable row on PDF22 only",
+          "pages": [
+            22
+          ],
+          "observations": [
+            {
+              "label": "Selected movable cell 1",
+              "valuePaise": 432708729,
+              "sourceText": "Rs43,27,087.29/-",
+              "qualifier": "exact",
+              "page": 22
+            },
+            {
+              "label": "Selected movable cell 2",
+              "valuePaise": 74812514,
+              "sourceText": "Rs7,48,125.14/-",
+              "qualifier": "exact",
+              "page": 22
+            }
+          ],
+          "selectedComponentSubtotalPaise": 507521243,
+          "note": "Two selected movable cells subtotal ₹50,75,212.43. Other visible NIL cells remain scoped observations. Complete current-market assets are unreviewed, so no complete primary total or equivalent-scope discrepancy against ADR’s ₹1,44,41,474 is assigned. Household roles unconfirmed."
+        },
+        {
+          "field": "liabilities",
+          "status": "summary-secondary-disagreement",
+          "secondaryValuePaise": 195049300,
+          "primaryValuePaise": 195049313,
+          "differencePaise": 13,
+          "primarySourceText": "Rs19,50,493.13/-",
+          "primaryScope": "One selected primary loan cell and visible government-dues row on PDF23; disputed continuation unreviewed",
+          "pages": [
+            23
+          ],
+          "note": "Selected primary loan ₹19,50,493.13 versus ADR’s ₹19,50,493 leaves ₹0.13 unresolved. Visible government dues say NIL; disputed liabilities remain unreviewed. No rounding cause, full filing correction or current financial/legal assessment inferred; household roles unconfirmed."
+        }
+      ]
+    },
+    {
+      "ac": 1,
+      "candidate": "Thangjam Mohendro Singh",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/1/Thangjam%20Mohendro%20Singh.pdf",
+      "sourceSha256": "08bf8ed0b890fad9dab96eafed34ddfcb741775da6a252520bd54ea653dea867",
+      "reviewedAt": "2026-10-28",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40607701942",
+      "reviewedPages": [
+        14,
+        15
+      ],
+      "summary": "One selected movable cell ₹3,15,391.80; complete assets unreviewed. Primary government-dues and loan cells say NA, not zero.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 71539100,
+          "primaryValuePaise": null,
+          "primarySourceText": "One selected movable monetary cell",
+          "primaryScope": "Selected movable row on PDF14 only",
+          "pages": [
+            14
+          ],
+          "observations": [
+            {
+              "label": "Selected movable cell 1",
+              "valuePaise": 31539180,
+              "sourceText": "Rs3,15,391.80/-",
+              "qualifier": "exact",
+              "page": 14
+            }
+          ],
+          "selectedComponentSubtotalPaise": 31539180,
+          "note": "Selected movable cell ₹3,15,391.80 is partial only. Other NA cells are not converted to zero. Complete current-market assets are unreviewed, so no complete primary total or equivalent-scope discrepancy against ADR’s ₹7,15,391 is assigned. Household roles unconfirmed."
+        },
+        {
+          "field": "liabilities",
+          "status": "wording-not-equivalent",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": null,
+          "primarySourceText": "NA",
+          "primaryScope": "Selected government-dues row PDF14 and primary loan row PDF15 only; notarial stamp partly covers loan label",
+          "pages": [
+            14,
+            15
+          ],
+          "note": "Selected primary government-dues and loan cells say NA. NA is not converted to zero, so no primary liability total or full zero agreement with ADR’s ₹0 is assigned. A notarial stamp partly covers the loan label; disputed liabilities remain unreviewed. Household roles unconfirmed; no current financial/legal assessment inferred."
+        }
+      ]
     }
   ],
   "sourceReviewRuns": [
