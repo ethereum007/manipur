@@ -54,6 +54,16 @@
           641
         ],
         "id": "primary-liabilities"
+      },
+      {
+        "page": 22,
+        "rect": [
+          180,
+          108,
+          595,
+          319
+        ],
+        "id": "loan-continuation"
       }
     ]
   }

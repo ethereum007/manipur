@@ -1,0 +1,74 @@
+[
+  {
+    "candidate": "Khuraijam Ratankumar Singh",
+    "ac": 3,
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/3/KHURAIJAM%20RATANKUMAR%20SINGH.pdf",
+    "sha256": "f3e25346ccc58dfe45413cd4a05596a79eff4a4f736b2baa18ea6c2284cf5ca6",
+    "pages": 22,
+    "proposals": [
+      {
+        "page": 22,
+        "width": 612.0,
+        "height": 792.0,
+        "markers": [
+          {
+            "marker": "Loans",
+            "rect": [
+              188.64,
+              109.44,
+              216.48,
+              118.08
+            ]
+          },
+          {
+            "marker": "Liabilities",
+            "rect": [
+              186.72,
+              166.56,
+              234.72,
+              183.36
+            ]
+          },
+          {
+            "marker": "Government",
+            "rect": [
+              188.16,
+              229.44,
+              251.04,
+              238.56
+            ]
+          },
+          {
+            "marker": "Loans",
+            "rect": [
+              188.64,
+              263.04,
+              216.0,
+              272.16
+            ]
+          },
+          {
+            "marker": "VERIFICATION",
+            "rect": [
+              280.8,
+              449.28,
+              396.48,
+              459.36
+            ]
+          },
+          {
+            "marker": "liability,",
+            "rect": [
+              467.04,
+              577.92,
+              506.4,
+              588.96
+            ]
+          }
+        ],
+        "locator": "Selected-page OCR headings only; no financial values approved"
+      }
+    ],
+    "scope": "Fixed-page heading coordinates only; no monetary values, full extracted text or rendered images exported"
+  }
+]
