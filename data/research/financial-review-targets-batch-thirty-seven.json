@@ -5,7 +5,28 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/4/Mohammed%20Amin%20Shah.pdf",
     "expectedSha256": "030c7b1cb2d9d544966555daccb2f47a5598fb700f2fb3f5aba9f64920b7ac78",
     "selectionReason": "Next unreviewed image-only records by AC/name excluding documented deferrals; bounded nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 16,
+        "rect": [
+          115,
+          440,
+          570,
+          490
+        ],
+        "id": "movable"
+      },
+      {
+        "page": 17,
+        "rect": [
+          110,
+          334,
+          570,
+          535
+        ],
+        "id": "liabilities"
+      }
+    ]
   },
   {
     "ac": 4,
@@ -13,6 +34,27 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/4/Nahakpam%20Indrajit%20Singh.pdf",
     "expectedSha256": "6d493c86978394a5f34384732ba2a7503ba27273f77e0ca49b7088240fb27b78",
     "selectionReason": "Next unreviewed image-only records by AC/name excluding documented deferrals; bounded nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 15,
+        "rect": [
+          65,
+          547,
+          570,
+          580
+        ],
+        "id": "movable"
+      },
+      {
+        "page": 16,
+        "rect": [
+          75,
+          216,
+          570,
+          425
+        ],
+        "id": "liabilities"
+      }
+    ]
   }
 ]
