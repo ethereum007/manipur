@@ -2,8 +2,8 @@
 
 User direction: continue building; defer2027analysis until explicitly resumed. Do not acquire2027nominee/alliance/opinioninputs or developprospectiveforecasts. Existing historicalreplays/limits stay intact.
 
-1. Batch32 original selected comparisons, deployment and visual QA complete; continue next bounded historical candidate batch.
-2. Continue finite200candidate selectedreviewqueue, then expandmissingfieldcoverage where reliable; retrieval/OCR notindependentaudit. Preserve anomalies/nulls/partialscopes and avoid repeatdeferrals absentnewevidence.
+1. Batch33 original selected comparisons, deployment and visual QA complete; continue next bounded historical candidate batch.
+2. Continue finite199candidate selectedreviewqueue, then expandmissingfieldcoverage where reliable; retrieval/OCR notindependentaudit. Preserve anomalies/nulls/partialscopes and avoid repeatdeferrals absentnewevidence.
 3. Audit60historicalconstituency dossiers against sourcedresults, consistentdenominators and source/date labels. Correct demonstrated omissions, never fill unsupportedcauses/identity.
 4. Improve evidence-navigation/accessibility/briefingusability based on browser/screenshots; no superficialunboundedfeatures.
 
@@ -21,3 +21,6 @@ AC50Soshim/AC51Haokholetoriginalhashes matched; metadata-onlylocator40474637702p
 
 
 28October phaseboundary: source-readableconveniencequeue exhausted except documented whole-recorddeferral andHangkhanpaupartialmissingliability. Continueimage-onlycandidatesinboundedAC/nameorder, thenmissingfieldcoverage/dossierQA; readabilitynotriskranking. Candidatecountdoesnotimplybothfieldsreviewed (61candidates/121notes).
+
+
+Batch33: twoavailable-sourcewhole-recordlocationdeferrals (IrengbamHemochandra/PangeijamSaratchandra) remainwithin199unreviewed; do notretryabsentnewlocator evidence. Hangkhanpaumissingliability remainspartialfieldgapwithinselectedcandidatecoverage.
