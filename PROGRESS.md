@@ -595,3 +595,8 @@ Production63/125/202/0.40615418773passed110Node/15Python/65browser190checks,5PDF
 ## Scanned historical batch32 locator pending —28October2026IST
 
 AC1ThangjamShyam/ThokchomLokeshwar fixedsource-targets prepared; metadata-only40624133359activeatheadinglocation. Noimages/valuesapproved. Continueexactrunbeforeanotherbatch; FINANCIAL_BATCH_THIRTY_TWO_PREPARATION_2026-10-28.md. Public63/125/202/0unchanged,2027deferred/30mincadenceactive.
+
+
+## Scanned batch32 source headings verified
+
+40624133359originalhashesasserted; exactcoordinatesretained. Threefixedfinancialregionsrenderer+LokeshwarPDF35heading-onlylocator dispatched. No valuesapproved; finishruns/visualprivacyreview beforepublication. Public63/125/202/0unchanged,2027deferred/30mincadenceactive.
