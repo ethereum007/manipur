@@ -1,0 +1,155 @@
+[
+  {
+    "candidate": "Pangeijam Saratchandra Singh",
+    "ac": 2,
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/2/Pangeijam%20Saratchandra%20Singh.pdf",
+    "sha256": "e016cc68596198111792d598398667fa23eb6449ecfc033c72b79d24fb7f0fe4",
+    "pages": 26,
+    "proposals": [
+      {
+        "page": 19,
+        "width": 612.0,
+        "height": 792.0,
+        "markers": [],
+        "locator": "Selected-page OCR headings only; no financial values approved"
+      },
+      {
+        "page": 20,
+        "width": 612.0,
+        "height": 792.0,
+        "markers": [
+          {
+            "marker": "Signature",
+            "rect": [
+              353.28,
+              228.48,
+              396.48,
+              240.0
+            ]
+          }
+        ],
+        "locator": "Selected-page OCR headings only; no financial values approved"
+      },
+      {
+        "page": 21,
+        "width": 612.0,
+        "height": 792.0,
+        "markers": [],
+        "locator": "Selected-page OCR headings only; no financial values approved"
+      },
+      {
+        "page": 22,
+        "width": 612.0,
+        "height": 792.0,
+        "markers": [
+          {
+            "marker": "VERIFICATION",
+            "rect": [
+              128.16,
+              511.68,
+              231.36,
+              522.24
+            ]
+          }
+        ],
+        "locator": "Selected-page OCR headings only; no financial values approved"
+      },
+      {
+        "page": 23,
+        "width": 612.0,
+        "height": 792.0,
+        "markers": [
+          {
+            "marker": "Signature",
+            "rect": [
+              410.4,
+              660.0,
+              453.6,
+              671.04
+            ]
+          }
+        ],
+        "locator": "Selected-page OCR headings only; no financial values approved"
+      },
+      {
+        "page": 24,
+        "width": 612.0,
+        "height": 792.0,
+        "markers": [
+          {
+            "marker": "signature",
+            "rect": [
+              145.92,
+              312.0,
+              256.8,
+              324.0
+            ]
+          },
+          {
+            "marker": "Signature",
+            "rect": [
+              389.28,
+              461.76,
+              432.96,
+              473.28
+            ]
+          }
+        ],
+        "locator": "Selected-page OCR headings only; no financial values approved"
+      },
+      {
+        "page": 25,
+        "width": 612.0,
+        "height": 792.0,
+        "markers": [
+          {
+            "marker": "signature",
+            "rect": [
+              450.24,
+              733.44,
+              488.64,
+              741.6
+            ]
+          },
+          {
+            "marker": "signature",
+            "rect": [
+              84.0,
+              744.48,
+              123.84,
+              752.64
+            ]
+          }
+        ],
+        "locator": "Selected-page OCR headings only; no financial values approved"
+      },
+      {
+        "page": 26,
+        "width": 612.0,
+        "height": 792.0,
+        "markers": [
+          {
+            "marker": "signature",
+            "rect": [
+              402.24,
+              709.92,
+              435.84,
+              725.28
+            ]
+          },
+          {
+            "marker": "signature",
+            "rect": [
+              449.76,
+              709.92,
+              484.8,
+              725.28
+            ]
+          }
+        ],
+        "locator": "Selected-page OCR headings only; no financial values approved"
+      }
+    ],
+    "scope": "Fixed-page heading coordinates only; no monetary values, full extracted text or rendered images exported"
+  }
+]
