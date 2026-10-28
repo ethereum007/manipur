@@ -1,0 +1,18 @@
+[
+  {
+    "ac": 3,
+    "candidate": "Khagokpam Khamba Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/3/KHAGOKPAM%20KHAMBA%20SINGH.pdf",
+    "expectedSha256": "4d4aeb5839c4020ecf5a968a718dbbf954b12f5214df6f1af92a075bc981e3cb",
+    "selectionReason": "Next unreviewed image-only records by AC/name excluding documented deferrals; bounded nonrepresentative convenience sample",
+    "clips": []
+  },
+  {
+    "ac": 3,
+    "candidate": "Khuraijam Ratankumar Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/3/KHURAIJAM%20RATANKUMAR%20SINGH.pdf",
+    "expectedSha256": "f3e25346ccc58dfe45413cd4a05596a79eff4a4f736b2baa18ea6c2284cf5ca6",
+    "selectionReason": "Next unreviewed image-only records by AC/name excluding documented deferrals; bounded nonrepresentative convenience sample",
+    "clips": []
+  }
+]
