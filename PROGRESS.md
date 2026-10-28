@@ -700,3 +700,8 @@ AC3R.K.Amusana/ToijamLokendro fixedtargets prepared; metadata-only40709116754act
 ## Scanned batch36 selected source inspection complete
 
 40733044790hashasserted/fourfinancial-onlyregionsreviewedretained aftercontaminatedartifactdeletion. Amusanapartialmovables1975876.57/NotApplicableprimaryliabilitiesnull. Toijampartialmovable1180779/government-dues-onlyNA;loans/disputedunreviewedexplicit. Nextscopedrecords/tests/releaseQA;public70/139/195/0unchanged,2027deferred.
+
+
+## Scanned batch36 implementation pending release
+
+c3fc6cdfab09c01d2499db952003f4467839078f repo72/143/193/0,verifiedpublic70/139/195/0. Toijamgovtdues-only/loansdisputedunreviewed,fullassetsnull. Cloud40742540549active; finishdeploy/liveJSON/screenshotsbefore nextbatch. FINANCIAL_BATCH_THIRTY_SIX_RELEASE_PENDING_2026-10-28.md.2027deferred/30mincadenceactive.

@@ -1,0 +1,5 @@
+# Scanned batch36 release pending —28October2026IST
+
+Implementationc3fc6cdfab09c01d2499db952003f4467839078f addsAmusana/Toijam4scopednotes fromvisuallyreviewedsource40733044790. Repo72selected/143notes/193withoutcomparison/0completeindependentaudits. Fullassetsnull; NotApplicable/NAliabilitynull. Toijamgovernment-dues-only note explicitlydoesnotcoverprimaryloans/disputedliabilities.
+
+Cloudrun40742540549 active; finishexactrun/deploy/liveJSON/newdesktopmobilescreenshots before nextbatch. Lastverifiedpublic70/139/195/0. AllworkGitHubonly,2027deferred/30mincadenceactive.
