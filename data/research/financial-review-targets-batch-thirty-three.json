@@ -13,6 +13,27 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/3/HEISNAM%20SUBHAS%20SINGH.pdf",
     "expectedSha256": "f674fea1997a24d8afba41505acb23f5975e28c4d8441c9a8f0964be83c1b9c5",
     "selectionReason": "Next unreviewed image-only records by AC/name excluding documented deferrals; bounded nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 20,
+        "rect": [
+          75,
+          497,
+          580,
+          535
+        ],
+        "id": "movable"
+      },
+      {
+        "page": 21,
+        "rect": [
+          75,
+          218,
+          580,
+          415
+        ],
+        "id": "liabilities"
+      }
+    ]
   }
 ]
