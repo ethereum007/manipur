@@ -36,6 +36,8 @@ jobs:
           names=['financial-khamba-desktop.png','financial-ratankumar-mobile.png','field-review-desktop.png','field-review-coverage-mobile.png']
           for name in names:
               matches=list(Path('original').rglob(name))
+              if name=='financial-ratankumar-mobile.png':
+                  matches=[p for p in matches if 'batch34' in str(p)]
               assert len(matches)==1, (name,len(matches))
               shutil.copyfile(matches[0],target/name)
           PY
