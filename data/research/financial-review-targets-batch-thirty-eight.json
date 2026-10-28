@@ -1,0 +1,18 @@
+[
+  {
+    "ac": 4,
+    "candidate": "Punnam Rani Wangkhem",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/4/Punnam%20Rani%20Wangkhem.pdf",
+    "expectedSha256": "bcb3eb2ac2de202805e3bb24bb9b9f42275a48e473a56de5fa2fbdbfcff6ef5a",
+    "selectionReason": "Next unreviewed image-only records by AC/name excluding documented deferrals; bounded nonrepresentative convenience sample",
+    "clips": []
+  },
+  {
+    "ac": 4,
+    "candidate": "Sheikh Noorul Hassan",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/4/Sheikh%20Noorul%20Hassan.pdf",
+    "expectedSha256": "08073b168c7ff0654c422b219ae5e79b9a3ee4457cbe7a10a92246a107156fd1",
+    "selectionReason": "Next unreviewed image-only records by AC/name excluding documented deferrals; bounded nonrepresentative convenience sample",
+    "clips": []
+  }
+]
