@@ -6,3 +6,8 @@ Metadata-only https://github.com/ethereum007/manipur/actions/runs/40751797281 ac
 
 
 40751797281succeeded/hashasserted/exactcoordinatesretained. MohammedmovablePDF16/liabilitiesPDF17; NahakpammovablePDF15/liabilitiesPDF16located. Fourfixedfinancial-onlycropsprepared; inspectprivacy/clipping/rowidentity beforevaluesapproval. Public72/143/193/0unchanged.
+
+
+## Selected source inspection complete
+
+Initial40756326556includedadjoiningpropertyidentifiersunderMohammedmovablerow; entireartifactdeletedbeforeretention. Final40760803556sourcehashasserted/fourfinancial-onlyregionsreviewedretained; nopersonalidentifiers/householdnames/signaturesobserved. MohammedPDF16selectedmovable1730000rupeespartial/fullassetsnull, otherNilscoped; PDF17primary/disputedNil, lowerdisputedlabelpartlyclipped. NahakpamPDF15selectedmovables1930952.27+1562254.69+290050=3783256.96rupeespartial/fullassetsnull, otherNOTAPPLICABLE. PDF16selectedgovernmentdues1050180rupees, notbankloan; otherNOTAPPLICABLE/NILnotzero. Rightwording/lowerdisputedlabelpartlyclipped, householdrolesunconfirmed/nocurrentfinancelegalinference. Nextsecondarycomparison/scopedimplementation/regression/fullcloudrelease/production/screenshots;public72/143/193/0unchanged.
