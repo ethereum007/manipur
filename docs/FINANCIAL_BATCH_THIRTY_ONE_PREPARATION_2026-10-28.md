@@ -6,3 +6,10 @@ Metadata-only locator https://github.com/ethereum007/manipur/actions/runs/406041
 
 
 Locator40604195061 succeeded, originalhashesasserted, exactmetadataretained. First renderer40607546805 included signaturemargins in governmentdues crops; entireartifactdeletedbeforeretention. Sovidblankheadercropremoved (governmentdues visible with loan on23); Mohendrogovernmentduesendnarrowed695. Refinedsource rerenderrequired before any retainedimages/valuesapproval. Public61/121/204/0unchanged.
+
+
+## Refined original financial regions visually inspected
+
+Final40607701942 sourcehashesasserted. Five financial-only crops visuallyreviewed/retained aftersignature-marginartifactdeletion. No signatures, personalidentifiers, householdnames or contacts observed in retainedregions; genericnotarialstamp partiallycovers Mohendroloanlabel, scopeexplicit. SovidPDF22selectedmovables4327087.29+748125.14=5075212.43rupeespartialonly, completeassetsnull versusADR14441474. PDF23selectedloan1950493.13versusADR1950493 leaves0.13rupeeunresolved; governmentduesNIL/disputedunreviewed. MohendroPDF14selectedmovable315391.80partialonly, fullassetsnull versusADR715391; otherNApreserved. GovernmentduesPDF14andprimaryloanPDF15NA, notzero; no primaryliabilitytotal or fullzeroagreement withADR0. Householdrolesunconfirmed, nocurrentfinancial/legalinference.
+
+Next scopedfieldrecords/regression/fullcloudrelease/production/screenshots. Public61/121/204/0unchanged. OCRlocatedheadings; approvedobservationscomefromvisualcomparison, notOCRfinancialextraction.

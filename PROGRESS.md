@@ -575,3 +575,8 @@ Production61selected/121notes/204withoutcomparison/0completeindependentaudits; H
 ## Historical scanned-document batch31 started —28October2026IST
 
 AC1ElangbamSovid/ThangjamMohendro selected in boundedAC/nameorder; metadata-only40604195061activeatheadinglocator. Noimages/valuesapproved. Continueexactrun before newbatch; FINANCIAL_BATCH_THIRTY_ONE_PREPARATION_2026-10-28.md. Public61/121/204/0unchanged,2027deferred/30mincadenceactive.
+
+
+## Scanned batch31 selected financial source inspection complete —28October2026IST
+
+Final40607701942sourcehashasserted,fivefinancial-onlyregionsvisuallyreviewed/retainedaftersignatureartifactdeletion. Sovidpartialmovables5075212.43rupees/selectedloan0.13differenceunresolved; Mohendropartialmovable315391.80/NAliabilitiesnull. Fullassetsnull/householdrolesunconfirmed. Nextimplementation/regression/cloudreleaseQA;public61/121/204/0unchanged,2027deferred/30mincadenceactive.

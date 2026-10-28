@@ -1,0 +1,77 @@
+[
+  {
+    "ac": 1,
+    "candidate": "Elangbam Sovid Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/1/Elangbam%20Sovid%20Singh.pdf",
+    "sha256": "dd934a11167b751eb06b6d4d93770225fcf29f5cedc63c9f434c61f060ecc335",
+    "pages": 24,
+    "crops": [
+      {
+        "page": 22,
+        "rect": [
+          150,
+          120,
+          575,
+          176
+        ],
+        "id": "movable",
+        "image": "ac1-dd934a11167b-p22-financial-selected-movable.png"
+      },
+      {
+        "page": 23,
+        "rect": [
+          150,
+          80,
+          575,
+          255
+        ],
+        "id": "primary-loans",
+        "image": "ac1-dd934a11167b-p23-financial-selected-primary-loans.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 1,
+    "candidate": "Thangjam Mohendro Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/1/Thangjam%20Mohendro%20Singh.pdf",
+    "sha256": "08bf8ed0b890fad9dab96eafed34ddfcb741775da6a252520bd54ea653dea867",
+    "pages": 17,
+    "crops": [
+      {
+        "page": 14,
+        "rect": [
+          110,
+          332,
+          550,
+          365
+        ],
+        "id": "movable",
+        "image": "ac1-08bf8ed0b890-p14-financial-selected-movable.png"
+      },
+      {
+        "page": 14,
+        "rect": [
+          110,
+          649,
+          550,
+          695
+        ],
+        "id": "government-dues",
+        "image": "ac1-08bf8ed0b890-p14-financial-selected-government-dues.png"
+      },
+      {
+        "page": 15,
+        "rect": [
+          110,
+          70,
+          550,
+          145
+        ],
+        "id": "primary-loans",
+        "image": "ac1-08bf8ed0b890-p15-financial-selected-primary-loans.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
