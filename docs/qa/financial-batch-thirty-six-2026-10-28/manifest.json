@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 3,
+    "candidate": "R.K. AMUSANA SINGH",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/3/RK%20Amusana.pdf",
+    "sha256": "f66c9184d838624abb97b814d2f3d7a7da4a3b65830d8794534551a77fb3d2ac",
+    "pages": 13,
+    "crops": [
+      {
+        "page": 12,
+        "rect": [
+          135,
+          432,
+          575,
+          473
+        ],
+        "id": "movable",
+        "image": "ac3-f66c9184d838-p12-financial-selected-movable.png"
+      },
+      {
+        "page": 12,
+        "rect": [
+          135,
+          655,
+          575,
+          735
+        ],
+        "id": "primary-liabilities",
+        "image": "ac3-f66c9184d838-p12-financial-selected-primary-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 3,
+    "candidate": "Toijam Lokendro Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/3/TOIJAM%20LOKENDRO%20SINGH.pdf",
+    "sha256": "96c4ba7ebd8094684a08beb3fcf8a6dee8cf108f246352b17b89a3b60f5c27ca",
+    "pages": 21,
+    "crops": [
+      {
+        "page": 19,
+        "rect": [
+          115,
+          395,
+          565,
+          427
+        ],
+        "id": "movable",
+        "image": "ac3-96c4ba7ebd80-p19-financial-selected-movable.png"
+      },
+      {
+        "page": 19,
+        "rect": [
+          115,
+          661,
+          565,
+          686
+        ],
+        "id": "government-dues",
+        "image": "ac3-96c4ba7ebd80-p19-financial-selected-government-dues.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]

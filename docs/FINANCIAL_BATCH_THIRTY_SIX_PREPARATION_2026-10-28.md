@@ -9,3 +9,8 @@ Metadata-only https://github.com/ethereum007/manipur/actions/runs/40709116754 ac
 
 
 40714118938sourcehashasserted, firstinspectionToijam19cropincludedsignatureand20proposalhitstampidentifier, notfinancialrow. Entireartifactdeletedbeforeretention. Remove20proposal, narrow19toselectedgovernmentduesrow661–686; no primaryloanvalueapproved. Amusana12movable/primaryliabilityregionsfinancialonly. Rerenderbeforeimage retention/valueapproval. Public70/139/195/0unchanged.
+
+
+## Refined selected source inspection complete
+
+40733044790hashasserted/fourfinancial-onlycropsvisuallyreviewedretained, nopersonalidentifiers/householdnames/signaturesobserved. AmusanaPDF12movable1319420.37+470090.20+156425.00+29941.00=1975876.57rupeespartial/fullassetsnull; otherN/Awording. Selectedprimarygovernmentdues/loansNotApplicable, primaryliabilitytotalnull, disputedcontinuationunreviewed/lowerlabelpartlyclipped. ToijamPDF19selectedmovable1180779rupeespartial/fullassetsnull; selectedgovernmentduesNAonly. Primaryloans/disputedrowsnotreviewed and mustnotcountascomplete liabilityreview; government-dues-onlyscopednoteallowed withnullprimarytotal. IncorrectPDF20stampcropremoved/deletedartifactnotretained. No currentfinance/legalinference; householdrolesunconfirmed. Nextsecondarycomparison/scopedimplementation/regression/fullcloudQA. Public70/139/195/0unchanged.
