@@ -590,3 +590,8 @@ Final40607701942sourcehashasserted,fivefinancial-onlyregionsvisuallyreviewed/ret
 ## Scanned batch31 verified and deployed —28October2026IST
 
 Production63/125/202/0.40615418773passed110Node/15Python/65browser190checks,5PDFpages,913HTML/31,408refs/0errors. LiveJSONbyteexact/newdesktopmobileprofilesreviewed. FINANCIAL_BATCH_THIRTY_ONE_QA_2026-10-28.md supersedespending. Partialassets/NAliabilities/13paiseunresolvedexplicit;2027deferred/30mincadenceactive.
+
+
+## Scanned historical batch32 locator pending —28October2026IST
+
+AC1ThangjamShyam/ThokchomLokeshwar fixedsource-targets prepared; metadata-only40624133359activeatheadinglocation. Noimages/valuesapproved. Continueexactrunbeforeanotherbatch; FINANCIAL_BATCH_THIRTY_TWO_PREPARATION_2026-10-28.md. Public63/125/202/0unchanged,2027deferred/30mincadenceactive.
