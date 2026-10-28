@@ -620,3 +620,8 @@ Production65/129/200/0.40634116198passed111Node/15Python/66browser192checks,5PDF
 ## Scanned historical batch33 locator pending —28October2026IST
 
 AC2PangeijamSaratchandra/AC3HeisnamSubhas fixedtargets prepared; metadata-only40639825802activeatheadinglocation. Noimages/valuesapproved. Continueexactrunbeforeanotherbatch; FINANCIAL_BATCH_THIRTY_THREE_PREPARATION_2026-10-28.md. Public65/129/200/0unchanged,2027deferred/30mincadenceactive.
+
+
+## Scanned batch33 source location advanced
+
+40639825802hashasserted; HeisnamPDF20/21financialregionslocated/rendererdispatched. Pangeijamfinancialsectionunlocated, boundedalternateheading-onlypages19–26checkdispatched;noinferredvalues. Metadataretained,finishruns/visualprivacyreview. Public65/129/200/0unchanged,2027deferred/30mincadenceactive.
