@@ -1,0 +1,74 @@
+[
+  {
+    "candidate": "Thokchom Lokeshwar Singh",
+    "ac": 1,
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/1/Thokchom%20Lokeshwar%20Singh.pdf",
+    "sha256": "1fc862de753a814b236c7d22829aa849f213299739a7ec064da65f9704cdfaa3",
+    "pages": 36,
+    "proposals": [
+      {
+        "page": 35,
+        "width": 595.0,
+        "height": 842.0,
+        "markers": [
+          {
+            "marker": "Liabilities",
+            "rect": [
+              144.96,
+              377.28,
+              186.24,
+              390.24
+            ]
+          },
+          {
+            "marker": "Government",
+            "rect": [
+              156.96,
+              389.28,
+              201.6,
+              396.48
+            ]
+          },
+          {
+            "marker": "Loans",
+            "rect": [
+              159.84,
+              420.48,
+              181.44,
+              427.2
+            ]
+          },
+          {
+            "marker": "Liabilities",
+            "rect": [
+              146.88,
+              461.28,
+              184.32,
+              468.48
+            ]
+          },
+          {
+            "marker": "Government",
+            "rect": [
+              157.44,
+              482.4,
+              201.6,
+              489.12
+            ]
+          },
+          {
+            "marker": "Loans",
+            "rect": [
+              159.84,
+              523.2,
+              181.44,
+              529.92
+            ]
+          }
+        ],
+        "locator": "Selected-page OCR headings only; no financial values approved"
+      }
+    ],
+    "scope": "Fixed-page heading coordinates only; no monetary values, full extracted text or rendered images exported"
+  }
+]
