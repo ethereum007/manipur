@@ -1,0 +1,41 @@
+[
+  {
+    "ac": 2,
+    "candidate": "Pangeijam Saratchandra Singh",
+    "status": "no-fixed-regions-rendered",
+    "expectedSha256": "e016cc68596198111792d598398667fa23eb6449ecfc033c72b79d24fb7f0fe4",
+    "scope": "No field-review approval; not fetched by this render"
+  },
+  {
+    "ac": 3,
+    "candidate": "Heisnam Subhas Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/3/HEISNAM%20SUBHAS%20SINGH.pdf",
+    "sha256": "f674fea1997a24d8afba41505acb23f5975e28c4d8441c9a8f0964be83c1b9c5",
+    "pages": 22,
+    "crops": [
+      {
+        "page": 20,
+        "rect": [
+          75,
+          497,
+          535,
+          540
+        ],
+        "id": "movable",
+        "image": "ac3-f674fea1997a-p20-financial-selected-movable.png"
+      },
+      {
+        "page": 21,
+        "rect": [
+          75,
+          218,
+          535,
+          415
+        ],
+        "id": "liabilities",
+        "image": "ac3-f674fea1997a-p21-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]

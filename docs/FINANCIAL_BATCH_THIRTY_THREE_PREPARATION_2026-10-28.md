@@ -8,3 +8,10 @@ Metadata-only https://github.com/ethereum007/manipur/actions/runs/40639825802 ac
 ## Native/standard OCR heading check complete
 
 40639825802succeeded, originalhashesasserted/exactmetadataretained. HeisnamfinancialPDF20movable/PDF21liabilitieslocated; twofinancial-onlycropsrendererdispatched. Pangeijamnoabstract/reliablefinancialheadings in firstlocator; emptyclipsmeansnovaluesapproved. One boundedalternatePSM6expandedheadingcheck fixedpages19–26dispatched, nofulltext/values/imagesexported. Continueexactrunsbeforeanynewbatch. Public65/129/200/0unchanged.
+
+
+## Original selected cells inspected; unsuccessful location preserved
+
+Renderer40642756408includedrightsignaturemargin; artifactdeletedbeforeretention. Final40645822481hash-asserted, twofinancial-onlycropsvisuallyreviewed/retained afterrightmarginexcluded. HeisnamPDF20selectedmovableliteralfirstRs15,51,824.81/-wrapped,secondRs6,06,223.00/-,thirdRs3,20,903.50/-; otherNOTAPPLICABLEwordingpartlyclipped at right. Numericobservations may use only clearlyreadmonetarycells, partialsubtotal2478951.31rupees, completeassetsnull. PDF21selectedprimary/disputedNILmixedNOTAPPLICABLE, primaryliabilitytotalnull; lowerdisputedlabelpartlyclipped, householdrolesunconfirmed, nocurrentfinance/legalinference.
+
+Pangeijam sourcehashasserted butnative/standardOCRlocator40639825802 andboundedPSM6expandedheadings40642758923foundnoreliablefinancialregion. RetainmissinglocationandcountsAsSelectedReviewfalse ifdeferring; availablePDFnotmissing/deficient. NoapprovedfinancialvaluesforPangeijam. Next implementHeisnam2notes anddocumentPangeijamdeferral withcoverage/tests, thencloudrelease/production/screenshots. Public65/129/200/0unchanged.

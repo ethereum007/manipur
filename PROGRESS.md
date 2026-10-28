@@ -625,3 +625,8 @@ AC2PangeijamSaratchandra/AC3HeisnamSubhas fixedtargets prepared; metadata-only40
 ## Scanned batch33 source location advanced
 
 40639825802hashasserted; HeisnamPDF20/21financialregionslocated/rendererdispatched. Pangeijamfinancialsectionunlocated, boundedalternateheading-onlypages19–26checkdispatched;noinferredvalues. Metadataretained,finishruns/visualprivacyreview. Public65/129/200/0unchanged,2027deferred/30mincadenceactive.
+
+
+## Scanned batch33 source inspection complete —28October2026IST
+
+Final40645822481hashasserted/twofinancial-onlyHeisnamregionsreviewedretainedaftersignatureartifactdeletion. Pangeijamboundedalternateheading40642758923stillunlocated; preserveavailable-sourcegap/novalues. NextHeisnam2notes+documenteddeferral/regression/releaseQA. Public65/129/200/0unchanged,2027deferred.
