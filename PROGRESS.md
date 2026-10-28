@@ -600,3 +600,8 @@ AC1ThangjamShyam/ThokchomLokeshwar fixedsource-targets prepared; metadata-only40
 ## Scanned batch32 source headings verified
 
 40624133359originalhashesasserted; exactcoordinatesretained. Threefixedfinancialregionsrenderer+LokeshwarPDF35heading-onlylocator dispatched. No valuesapproved; finishruns/visualprivacyreview beforepublication. Public63/125/202/0unchanged,2027deferred/30mincadenceactive.
+
+
+## Scanned batch32 original cells reviewed —28October2026IST
+
+Final40631321831hashasserted,fourfinancial-onlycropsreviewed/retained; missingLokeshwarliabilitieslocatedPDF35via40627097189. ShyamselectedNilscopes/Lokeshwarwrappedliteraldecimalambiguitypreserved, nofullaudit. Nextsecondarycomparison/implementation/releaseQA;public63/125/202/0unchanged,2027deferred/30mincadenceactive.
