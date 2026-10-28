@@ -3902,6 +3902,69 @@
           "note": "Two selected loan cells ₹27,33,440 and ₹7,89,507 sum ₹35,22,947, agreeing numerically with ADR. Other NOT APPLICABLE/NIL cells remain wording; this is a selected loan-cell sum, not a complete independent audit or current financial/legal assessment. Household roles unconfirmed."
         }
       ]
+    },
+    {
+      "ac": 3,
+      "candidate": "Heisnam Subhas Singh",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/3/HEISNAM%20SUBHAS%20SINGH.pdf",
+      "sourceSha256": "f674fea1997a24d8afba41505acb23f5975e28c4d8441c9a8f0964be83c1b9c5",
+      "reviewedAt": "2026-10-28",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40645822481",
+      "reviewedPages": [
+        20,
+        21
+      ],
+      "summary": "Three selected movable cells subtotal ₹24,78,951.31; complete assets unreviewed. Mixed NIL/NOT APPLICABLE liability wording stays unassigned.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 748609400,
+          "primaryValuePaise": null,
+          "primarySourceText": "Three selected movable monetary cells",
+          "primaryScope": "Selected movable row PDF20 only; right wording partly clipped",
+          "pages": [
+            20
+          ],
+          "observations": [
+            {
+              "label": "Selected movable cell 1",
+              "valuePaise": 155182481,
+              "sourceText": "Rs15,51,824.81/-",
+              "qualifier": "exact",
+              "page": 20
+            },
+            {
+              "label": "Selected movable cell 2",
+              "valuePaise": 60622300,
+              "sourceText": "Rs6,06,223.00/-",
+              "qualifier": "exact",
+              "page": 20
+            },
+            {
+              "label": "Selected movable cell 3",
+              "valuePaise": 32090350,
+              "sourceText": "Rs3,20,903.50/-",
+              "qualifier": "exact",
+              "page": 20
+            }
+          ],
+          "selectedComponentSubtotalPaise": 247895131,
+          "note": "Three selected movable cells subtotal ₹24,78,951.31. Other NOT APPLICABLE cells remain wording; rightmost wording is partly clipped. Complete current-market assets are unreviewed, so no full primary asset total or equivalent-scope discrepancy against ADR’s ₹74,86,094 is assigned. Household roles unconfirmed."
+        },
+        {
+          "field": "liabilities",
+          "status": "wording-not-equivalent",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": null,
+          "primarySourceText": "Mixed NIL and NOT APPLICABLE",
+          "primaryScope": "Selected primary/disputed rows PDF21 only; lower disputed label partly clipped",
+          "pages": [
+            21
+          ],
+          "note": "Selected primary and disputed rows mix NIL and NOT APPLICABLE. NOT APPLICABLE is not converted to zero, so no primary liability total or full zero agreement with ADR’s ₹0 is assigned. Lower disputed label and rightmost wording are partly clipped. Household roles unconfirmed; no current financial/legal assessment inferred."
+        }
+      ]
     }
   ],
   "sourceReviewRuns": [
@@ -3927,6 +3990,25 @@
       "runs": [
         "https://github.com/ethereum007/manipur/actions/runs/39750544658",
         "https://github.com/ethereum007/manipur/actions/runs/39751197043"
+      ],
+      "scope": "A review-location gap, not a finding that the affidavit is missing or incomplete. No selected financial values approved; original source remains available."
+    },
+    {
+      "ac": 2,
+      "candidate": "Pangeijam Saratchandra Singh",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/2/Pangeijam%20Saratchandra%20Singh.pdf",
+      "sourceSha256": "e016cc68596198111792d598398667fa23eb6449ecfc033c72b79d24fb7f0fe4",
+      "observedAt": "2026-10-28",
+      "status": "financial-region-location-unresolved",
+      "countsAsSelectedReview": false,
+      "sourceAvailable": true,
+      "attempts": [
+        "Native/standard OCR heading locator: no reliable financial-region proposal",
+        "Bounded alternate PSM6 financial-heading check on PDF19–26: no reliable financial-region proposal"
+      ],
+      "runs": [
+        "https://github.com/ethereum007/manipur/actions/runs/40639825802",
+        "https://github.com/ethereum007/manipur/actions/runs/40642758923"
       ],
       "scope": "A review-location gap, not a finding that the affidavit is missing or incomplete. No selected financial values approved; original source remains available."
     }
