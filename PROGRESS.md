@@ -580,3 +580,8 @@ AC1ElangbamSovid/ThangjamMohendro selected in boundedAC/nameorder; metadata-only
 ## Scanned batch31 selected financial source inspection complete —28October2026IST
 
 Final40607701942sourcehashasserted,fivefinancial-onlyregionsvisuallyreviewed/retainedaftersignatureartifactdeletion. Sovidpartialmovables5075212.43rupees/selectedloan0.13differenceunresolved; Mohendropartialmovable315391.80/NAliabilitiesnull. Fullassetsnull/householdrolesunconfirmed. Nextimplementation/regression/cloudreleaseQA;public61/121/204/0unchanged,2027deferred/30mincadenceactive.
+
+
+## Scanned batch31 implementation pending release —28October2026IST
+
+997e5945e3e21979be712e6c51ebde0f5100d82f repo63/125/202/0;lastverifiedpublic61/121/204/0. Sovidselected13paiseloandifferenceunresolved/MohendroNAliabilitynull/fullassetsnull. Cloud40615418773active; finish exactrun/deploy/liveJSON/screenshots before nextbatch. FINANCIAL_BATCH_THIRTY_ONE_RELEASE_PENDING_2026-10-28.md.2027deferred/30mincadenceactive.
