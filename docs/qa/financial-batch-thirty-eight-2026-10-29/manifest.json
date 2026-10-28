@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 4,
+    "candidate": "Punnam Rani Wangkhem",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/4/Punnam%20Rani%20Wangkhem.pdf",
+    "sha256": "bcb3eb2ac2de202805e3bb24bb9b9f42275a48e473a56de5fa2fbdbfcff6ef5a",
+    "pages": 18,
+    "crops": [
+      {
+        "page": 15,
+        "rect": [
+          120,
+          627,
+          575,
+          663
+        ],
+        "id": "movable",
+        "image": "ac4-bcb3eb2ac2de-p15-financial-selected-movable.png"
+      },
+      {
+        "page": 16,
+        "rect": [
+          125,
+          328,
+          575,
+          580
+        ],
+        "id": "liabilities",
+        "image": "ac4-bcb3eb2ac2de-p16-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 4,
+    "candidate": "Sheikh Noorul Hassan",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/4/Sheikh%20Noorul%20Hassan.pdf",
+    "sha256": "08073b168c7ff0654c422b219ae5e79b9a3ee4457cbe7a10a92246a107156fd1",
+    "pages": 19,
+    "crops": [
+      {
+        "page": 16,
+        "rect": [
+          90,
+          563,
+          560,
+          597
+        ],
+        "id": "movable",
+        "image": "ac4-08073b168c7f-p16-financial-selected-movable.png"
+      },
+      {
+        "page": 17,
+        "rect": [
+          95,
+          317,
+          560,
+          600
+        ],
+        "id": "liabilities",
+        "image": "ac4-08073b168c7f-p17-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
