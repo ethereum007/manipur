@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 3,
+    "candidate": "Laitongjam Jayananda Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/3/LAITONJAM%20JAYANANDA%20SINGH.pdf",
+    "sha256": "4e0a30cb0a7e6c6f823c6948aa325bb51c50bc53f5a1503474837cf4a43e818e",
+    "pages": 22,
+    "crops": [
+      {
+        "page": 16,
+        "rect": [
+          95,
+          495,
+          575,
+          550
+        ],
+        "id": "movable",
+        "image": "ac3-4e0a30cb0a7e-p16-financial-selected-movable.png"
+      },
+      {
+        "page": 17,
+        "rect": [
+          95,
+          286,
+          575,
+          540
+        ],
+        "id": "liabilities",
+        "image": "ac3-4e0a30cb0a7e-p17-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 3,
+    "candidate": "Leishangthem Susindro Meitei",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/3/LEISHANGTHEM%20SUSINDRO%20MEITEI.pdf",
+    "sha256": "63a19c12870ecfa2b5f1cc670739ee8521978c62829c0374718229299eaeb24b",
+    "pages": 18,
+    "crops": [
+      {
+        "page": 16,
+        "rect": [
+          95,
+          543,
+          575,
+          590
+        ],
+        "id": "movable",
+        "image": "ac3-63a19c12870e-p16-financial-selected-movable.png"
+      },
+      {
+        "page": 17,
+        "rect": [
+          65,
+          289,
+          575,
+          500
+        ],
+        "id": "liabilities",
+        "image": "ac3-63a19c12870e-p17-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]

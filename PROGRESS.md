@@ -675,3 +675,8 @@ Production68/135/197/0.40674649248passed113Node/15Python/68browser196checks,5PDF
 ## Scanned batch35 locator pending —28October2026IST
 
 AC3LaitongjamJayananda/LeishangthemSusindro fixedtargets prepared; metadata-only40686326100active. Noimages/valuesapproved,continueexactrunbeforeanotherbatch. FINANCIAL_BATCH_THIRTY_FIVE_PREPARATION_2026-10-28.md. Public68/135/197/0unchanged,2027deferred/30mincadenceactive.
+
+
+## Scanned batch35 selected source inspection complete
+
+40690495736hashasserted/fourfinancial-onlyregionsreviewedretained. Jayanandapartialmovables6901196.71/selectedloan11417149.59; Susindropartialmovables9848185.21/selectedloan5000000rupees. Fullassetsnull/otherNApreserved/scopesexplicit. Nextimplementation/regression/releaseQA;public68/135/197/0unchanged,2027deferred.

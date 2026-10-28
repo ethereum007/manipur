@@ -6,3 +6,8 @@ Metadata-only source https://github.com/ethereum007/manipur/actions/runs/4068632
 
 
 40686326100succeeded/originalhashesasserted/exactcoordinatesretained. BothselectedmovablerowsPDF16/liabilitiesPDF17located. Fourfinancial-onlyfixedcropsprepared; visuallyinspect/refineprivacyandclipping beforevalueapproval. Public68/135/197/0unchanged.
+
+
+## Selected source inspection complete
+
+40690495736sourcehashasserted/fourfinancial-onlyregionsvisuallyreviewedretained; nopersonalidentifiers/householdnames/signaturesobserved. JayanandaPDF16selectedmovableRs69,01,196.71/-partial/fullassetsnull, otherNOTAPPLICABLEwording. PDF17selectedloanRs1,14,17,149.59/-; otherNOTAPPLICABLEnotzero, lowerdisputedlabelpartlyclipped. SusindroPDF16selectedmovablecells8061767.29,1640666.88,50660.83,48090.21,47000=9848185.21rupeespartial/fullassetsnull; literalNILnotimputedhouseholdroles. PDF17selectedloan5000000rupees, visibleotherprimary/disputedNIL, lowerdisputedlabelpartlyclipped. No currentfinance/legalassessment. Nextsecondarycomparison/scopedrecords/regression/fullcloudrelease/liveJSON/screenshots. Public68/135/197/0unchanged.
