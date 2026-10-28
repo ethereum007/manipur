@@ -11,3 +11,8 @@ Metadata-only https://github.com/ethereum007/manipur/actions/runs/40659122208 ac
 ## First original inspection/refinement
 
 40662847813sourcehashasserted. Ratankumarprimaryliabilitycropincludedlower signaturemargin; entireartifactdeletedbeforeretention. Cropendnarrowed641, rerenderdispatched. Khambamovable2331638+422145partial; NOTAPPLICABLEliabilitiesnotzero. Ratankumarmovable1758494+wrapped958027partial, governmentduesmixedNil/N.A.; loancontinuationnotyetlocated. Selectedpage22heading-onlyOCRdispatched beforeloanreview. No newpublishedvalues/retainedimages fromdeletedartifact. Public66/131/199/0unchanged.
+
+
+## Selected source inspection completed
+
+Refined40666753986fourfinancial-onlyregionsvisuallyreviewed,signaturemarginexcluded; selectedpage40666782060locatedRatankumarPDF22loan/disputedrows. Final40670677965hashasserted/fivefinancial-onlyregionsreviewedretained,nopersonalidentifiers/householdnames/signaturesobserved. KhambaPDF15movables2331638+422145=2753783rupeespartial, fullassetsnull; PDF16NOTAPPLICABLEprimary/disputedliabilitywordingnull, lowerdisputedlabelpartlyclipped. RatankumarPDF21movables1758494+958027=2716521rupeespartial, fullassetsnull; PDF21govtdues+PDF22loans/disputedmixedNil/N.A., nozeroassignment. Householdrolesunconfirmed/nocurrentfinancelegalinference. Nextsecondarycomparison/records/tests/fullcloudrelease/production/screenshots;public66/131/199/0unchanged.

@@ -1,0 +1,77 @@
+[
+  {
+    "ac": 3,
+    "candidate": "Khagokpam Khamba Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/3/KHAGOKPAM%20KHAMBA%20SINGH.pdf",
+    "sha256": "4d4aeb5839c4020ecf5a968a718dbbf954b12f5214df6f1af92a075bc981e3cb",
+    "pages": 17,
+    "crops": [
+      {
+        "page": 15,
+        "rect": [
+          130,
+          562,
+          575,
+          595
+        ],
+        "id": "movable",
+        "image": "ac3-4d4aeb5839c4-p15-financial-selected-movable.png"
+      },
+      {
+        "page": 16,
+        "rect": [
+          130,
+          167,
+          575,
+          335
+        ],
+        "id": "liabilities",
+        "image": "ac3-4d4aeb5839c4-p16-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 3,
+    "candidate": "Khuraijam Ratankumar Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/3/KHURAIJAM%20RATANKUMAR%20SINGH.pdf",
+    "sha256": "f3e25346ccc58dfe45413cd4a05596a79eff4a4f736b2baa18ea6c2284cf5ca6",
+    "pages": 22,
+    "crops": [
+      {
+        "page": 21,
+        "rect": [
+          185,
+          185,
+          595,
+          230
+        ],
+        "id": "movable",
+        "image": "ac3-f3e25346ccc5-p21-financial-selected-movable.png"
+      },
+      {
+        "page": 21,
+        "rect": [
+          185,
+          588,
+          595,
+          641
+        ],
+        "id": "primary-liabilities",
+        "image": "ac3-f3e25346ccc5-p21-financial-selected-primary-liabilities.png"
+      },
+      {
+        "page": 22,
+        "rect": [
+          180,
+          108,
+          595,
+          319
+        ],
+        "id": "loan-continuation",
+        "image": "ac3-f3e25346ccc5-p22-financial-selected-loan-continuation.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
