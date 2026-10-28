@@ -1,0 +1,18 @@
+[
+  {
+    "ac": 2,
+    "candidate": "Pangeijam Saratchandra Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/2/Pangeijam%20Saratchandra%20Singh.pdf",
+    "expectedSha256": "e016cc68596198111792d598398667fa23eb6449ecfc033c72b79d24fb7f0fe4",
+    "selectionReason": "Next unreviewed image-only records by AC/name excluding documented deferrals; bounded nonrepresentative convenience sample",
+    "clips": []
+  },
+  {
+    "ac": 3,
+    "candidate": "Heisnam Subhas Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/3/HEISNAM%20SUBHAS%20SINGH.pdf",
+    "expectedSha256": "f674fea1997a24d8afba41505acb23f5975e28c4d8441c9a8f0964be83c1b9c5",
+    "selectionReason": "Next unreviewed image-only records by AC/name excluding documented deferrals; bounded nonrepresentative convenience sample",
+    "clips": []
+  }
+]
