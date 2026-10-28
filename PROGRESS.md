@@ -705,3 +705,8 @@ AC3R.K.Amusana/ToijamLokendro fixedtargets prepared; metadata-only40709116754act
 ## Scanned batch36 implementation pending release
 
 c3fc6cdfab09c01d2499db952003f4467839078f repo72/143/193/0,verifiedpublic70/139/195/0. Toijamgovtdues-only/loansdisputedunreviewed,fullassetsnull. Cloud40742540549active; finishdeploy/liveJSON/screenshotsbefore nextbatch. FINANCIAL_BATCH_THIRTY_SIX_RELEASE_PENDING_2026-10-28.md.2027deferred/30mincadenceactive.
+
+
+## Scanned batch36 verified/deployed —29October2026IST
+
+Production72/143/193/0.40742540549passed115Node/15Python/70browser200checks,5PDFpages,913HTML/31,417refs/0errors. LiveJSONbyteexact/newdesktopmobileprofilesreviewed. FINANCIAL_BATCH_THIRTY_SIX_QA_2026-10-29.md supersedespending. Toijamgovtdues-onlynoteexplicitlyexcludesunreviewedloans/disputed.2027deferred/30mincadenceactive.
