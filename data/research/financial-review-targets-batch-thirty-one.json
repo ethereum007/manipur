@@ -5,7 +5,38 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/1/Elangbam%20Sovid%20Singh.pdf",
     "expectedSha256": "dd934a11167b751eb06b6d4d93770225fcf29f5cedc63c9f434c61f060ecc335",
     "selectionReason": "Next unreviewed image-only records by AC/name excluding documented deferrals; bounded nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 22,
+        "rect": [
+          150,
+          120,
+          575,
+          176
+        ],
+        "id": "movable"
+      },
+      {
+        "page": 22,
+        "rect": [
+          150,
+          704,
+          575,
+          800
+        ],
+        "id": "government-dues"
+      },
+      {
+        "page": 23,
+        "rect": [
+          150,
+          80,
+          575,
+          255
+        ],
+        "id": "primary-loans"
+      }
+    ]
   },
   {
     "ac": 1,
@@ -13,6 +44,37 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/1/Thangjam%20Mohendro%20Singh.pdf",
     "expectedSha256": "08bf8ed0b890fad9dab96eafed34ddfcb741775da6a252520bd54ea653dea867",
     "selectionReason": "Next unreviewed image-only records by AC/name excluding documented deferrals; bounded nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 14,
+        "rect": [
+          110,
+          332,
+          550,
+          365
+        ],
+        "id": "movable"
+      },
+      {
+        "page": 14,
+        "rect": [
+          110,
+          649,
+          550,
+          735
+        ],
+        "id": "government-dues"
+      },
+      {
+        "page": 15,
+        "rect": [
+          110,
+          70,
+          550,
+          145
+        ],
+        "id": "primary-loans"
+      }
+    ]
   }
 ]
