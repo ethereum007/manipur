@@ -690,3 +690,8 @@ AC3LaitongjamJayananda/LeishangthemSusindro fixedtargets prepared; metadata-only
 ## Scanned batch35 verified/deployed —28October2026IST
 
 Production70/139/195/0.40699423246passed114Node/15Python/69browser198checks,5PDFpages,913HTML/31,415refs/0errors. LiveJSONbyteexact/newuniquenameddesktopmobileprofilesreviewed. FINANCIAL_BATCH_THIRTY_FIVE_QA_2026-10-28.md supersedespending. Partialassets/selected59paiseloandifferenceunresolvedexplicit.2027deferred/30mincadenceactive.
+
+
+## Scanned batch36 locator pending —28October2026IST
+
+AC3R.K.Amusana/ToijamLokendro fixedtargets prepared; metadata-only40709116754active. Noimages/valuesapproved,continueexactrunbeforeanotherbatch. FINANCIAL_BATCH_THIRTY_SIX_PREPARATION_2026-10-28.md. Public70/139/195/0unchanged,2027deferred/30mincadenceactive.
