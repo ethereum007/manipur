@@ -1,0 +1,18 @@
+[
+  {
+    "ac": 6,
+    "candidate": "Lourembam Rameshwor Meetei",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/6/Lourembam%20Rameshwor%20Meetei.pdf",
+    "expectedSha256": "4beef883c0ca087d38e48ef17be9f9e1152eca1dad21b25d4d6c89e26ce61d79",
+    "selectionReason": "Next unreviewed AC/name records excluding documented source-location deferrals; bounded nonrepresentative convenience sample",
+    "clips": []
+  },
+  {
+    "ac": 6,
+    "candidate": "M.I. Khan",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/6/M.I.%20Khan.pdf",
+    "expectedSha256": "105dd404d5580cc2f8c66d70af76aef3446d790ab03e87d9279bf4259d82f691",
+    "selectionReason": "Next unreviewed AC/name records excluding documented source-location deferrals; bounded nonrepresentative convenience sample",
+    "clips": []
+  }
+]
