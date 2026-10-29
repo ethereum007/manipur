@@ -23,5 +23,5 @@ test('all sixty dossiers retain independent winners and explicit missing contest
 });
 test('all sixty Parliamentary segments use their own reconciled ballot denominator and source locators',()=>{
  assert.equal(segments.length,60);assert.equal(new Set(segments.map(r=>r.ac)).size,60);
- for(const s of segments){assert.equal(s.year,2024);assert.ok(s.ac>=1&&s.ac<=60);assert.equal(s.candidateVotes,s.candidates.reduce((a,r)=>a+r.votes,0));assert.equal(s.votesPolled,s.candidateVotes+s.nota+s.rejected);assert.match(s.sourceUrl,/^https://ceomanipur.nic.in//);assert.match(s.sourceSha256,/^[a-f0-9]{64}$/);assert.ok(s.sourcePage>0);assert.ok(s.candidates[0].votes>=s.candidates[1].votes);}
+ for(const s of segments){assert.equal(s.year,2024);assert.ok(s.ac>=1&&s.ac<=60);assert.equal(s.candidateVotes,s.candidates.reduce((a,r)=>a+r.votes,0));assert.equal(s.votesPolled,s.candidateVotes+s.nota+s.rejected);assert.ok(s.sourceUrl.startsWith('https://ceomanipur.nic.in/'));assert.match(s.sourceSha256,/^[a-f0-9]{64}$/);assert.ok(s.sourcePage>0);assert.ok(s.candidates[0].votes>=s.candidates[1].votes);}
 });
