@@ -57,7 +57,7 @@ test("all 60 constituency routes resolve", async ({ request }) => {
   for (const slug of names) {
     const r = await request.get("/manipur/constituencies/" + slug + "/");
     expect(r.status(), slug).toBe(200);
-    const html=await r.text();expect(html,slug).toContain('id="parliament-2024"');expect(html,slug).toContain('id="representation"');
+    const html=await r.text();expect(html,slug).toContain('id="parliament-2024"');expect(html,slug).toContain('id="representation"');expect(html,slug).toContain('contest structure and denominators');expect(html,slug).toContain('candidate votes');expect(html,slug).toContain('2027 analysis track is deferred');expect(html,slug).toContain('not an Assembly win');
   }
 });
 test("briefing supports keyboard navigation and screenshots", async ({
@@ -443,3 +443,13 @@ test('evidence ledger derives financial coverage from current export', async ({p
  await page.setViewportSize({width:390,height:844});await page.screenshot({path:info.outputPath('evidence-coverage-mobile.png'),fullPage:true});
  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();
 });
+
+ test('dossier presentation preserves missing contest and readable historical comparison',async({page},info)=>{
+ await page.goto('/manipur/constituencies/naoriya-pakhanglakpa/');
+ await expect(page.locator('.history-grid')).toContainText('Full candidate totals not reconciled');
+ await expect(page.locator('#parliament-2024')).toContainText('2027 analysis track is deferred');
+ await page.locator('#parliament-2024 .segment-note').screenshot({path:info.outputPath('dossier-history-desktop.png')});
+ await page.setViewportSize({width:390,height:844});
+ await page.locator('#parliament-2024 .segment-note').screenshot({path:info.outputPath('dossier-history-mobile.png')});
+ expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();
+ });
