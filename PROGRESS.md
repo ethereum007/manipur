@@ -845,3 +845,8 @@ AC5SeramNeken/ThongamBiswajit pinnedtargets prepared; metadata-only40840535274qu
 ## Batch40 original selected financial cells inspected —29 October2026IST
 
 40844122191hashasserted/fourprivacy-reviewedfinancialregionsretained. Seramspousewrappedliteralexcluded/twoclearcells551928.07partial/mixedNILNAliabilitynull;Thongampartialmovables31525164.61/selectedloan3099150rupees. Nextsecondarycomparison/implementation/releaseQA;public78/155/187/0unchanged,2027deferred.
+
+
+## Batch40 scoped comparisons implemented, release pending
+
+3a971e40274f8a841e996fd4998cc02e6cc7b07b repo80/159/185/0,verifiedpublic78/155/187/0. Wrappedspouseexcluded/mixedNILNAliabilitynull/selectedloanagreementscoped. Cloud40851834524active; finishdeploy/liveJSON/screenshotsbeforeanotherbatch. FINANCIAL_BATCH_FORTY_RELEASE_PENDING_2026-10-29.md.2027deferred.
