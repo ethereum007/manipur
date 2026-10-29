@@ -1,0 +1,5 @@
+# Batch41 release pending —29October2026IST
+
+Implementation05f6c37611b07e9e0440530a4e5cf55be6e4d40e adds4scopednotes/2candidates fromoriginal40896752283reviewedregions. Repo82/163/183/0, lastverifiedpublic80/159/185/0. Lourembampartial845285899paise/fullassetsnull,selectedloan432471081vsADR432471000 leaves81paiseunresolved. Khanpartial19685000paise/fullassetsnull,visibleprimaryNil0onlyselectedscope/disputedcontinuationunreviewed. No currentfinance/legalinference.
+
+Cloud40906927903active;finishexactrun/deploy/liveJSON/desktopmobilescreenshots beforeanotherbatch. Newfinancial-lourembam-b41-desktop.png/financial-khan-b41-mobile.png. Dynamicpresentation/handoutcoverage followsregister;PDFcontentassertionsmustpass.2027deferred/30mincadenceactive/allprojectworkGitHub-only.

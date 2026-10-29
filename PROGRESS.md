@@ -875,3 +875,8 @@ AC6LourembamRameshwor/M.I.Khanpinnedtargets prepared;metadata-only40891689479que
 ## Batch41 selected original financial review complete
 
 40896752283hashasserted/fourfinancial-onlyregionsreviewedretained. Lourembampartialmovables8452858.99/selectedloan4324710.81;Khanpartialmovables196850/visibleprimaryNilwithdisputedcontinuationunreviewed. Nextsecondarycomparison/implementation/releaseQA. Public80/159/185/0unchanged;2027deferred.
+
+
+## Batch41 scoped implementation pending release
+
+05f6c37611b07e9e0440530a4e5cf55be6e4d40e repo82/163/183/0,lastverifiedpublic80/159/185/0.81paisedifferenceunresolved/primaryNilselectedscopeonly. Cloud40906927903active;finishdeploy/liveJSON/screenshotsbeforeanotherbatch. FINANCIAL_BATCH_FORTY_ONE_RELEASE_PENDING_2026-10-29.md.2027deferred.
