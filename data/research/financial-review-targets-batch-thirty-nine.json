@@ -15,6 +15,16 @@
           396
         ],
         "id": "movable"
+      },
+      {
+        "page": 12,
+        "rect": [
+          140,
+          620,
+          565,
+          700
+        ],
+        "id": "primary-liabilities"
       }
     ]
   },

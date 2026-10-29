@@ -1,0 +1,100 @@
+[
+  {
+    "candidate": "Wahengbam Rojit Singh",
+    "ac": 4,
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/4/Wahengbam%20Rojit%20Singh.pdf",
+    "sha256": "e0c3bbc5a259ba73577eaddc7ccb5c2d1682e716c9917cb28f9a6dc2e29aad2b",
+    "pages": 15,
+    "proposals": [
+      {
+        "page": 12,
+        "width": 595.0,
+        "height": 842.0,
+        "markers": [
+          {
+            "marker": "Liabilities",
+            "rect": [
+              201.12,
+              333.6,
+              241.44,
+              340.32
+            ]
+          },
+          {
+            "marker": "Liabilities",
+            "rect": [
+              147.36,
+              621.12,
+              184.32,
+              636.0
+            ]
+          },
+          {
+            "marker": "Loans",
+            "rect": [
+              146.88,
+              670.08,
+              167.04,
+              675.84
+            ]
+          }
+        ],
+        "locator": "Selected-page OCR headings only; no financial values approved"
+      },
+      {
+        "page": 13,
+        "width": 595.0,
+        "height": 842.0,
+        "markers": [
+          {
+            "marker": "Liabilities",
+            "rect": [
+              156.96,
+              59.04,
+              190.56,
+              66.72
+            ]
+          },
+          {
+            "marker": "Government",
+            "rect": [
+              156.48,
+              69.12,
+              197.28,
+              77.28
+            ]
+          },
+          {
+            "marker": "Loans",
+            "rect": [
+              156.96,
+              88.8,
+              176.64,
+              95.52
+            ]
+          },
+          {
+            "marker": "VERIFICATION",
+            "rect": [
+              319.68,
+              193.44,
+              373.92,
+              200.16
+            ]
+          },
+          {
+            "marker": "liability,",
+            "rect": [
+              373.92,
+              261.6,
+              398.4,
+              268.8
+            ]
+          }
+        ],
+        "locator": "Selected-page OCR headings only; no financial values approved"
+      }
+    ],
+    "scope": "Fixed-page heading coordinates only; no monetary values, full extracted text or rendered images exported"
+  }
+]
