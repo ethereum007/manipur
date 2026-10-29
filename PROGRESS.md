@@ -860,3 +860,8 @@ AC5SeramNeken/ThongamBiswajit pinnedtargets prepared; metadata-only40840535274qu
 ## Original financial batch40 verified/deployed —29October2026IST
 
 Production80/159/185/0. Corrected40855773595passed214checks/5PDFpages/currentPDFcoverage/913HTML/31,428refs/0errors. LiveJSONbyteexact,newdesktop/mobileprofilesretained40886826140andmanuallyreviewed. FINANCIAL_BATCH_FORTY_QA_2026-10-29.md supersedespending;wrappedcell/mixedNILNA/partialscopepreserved.2027deferred/cadenceactive.
+
+
+## Bounded financial batch41 locator pending —29October2026IST
+
+AC6LourembamRameshwor/M.I.Khanpinnedtargets prepared;metadata-only40891689479queued. Noimages/valuesapproved;finishexactrunbeforeanotherbatch. FINANCIAL_BATCH_FORTY_ONE_PREPARATION_2026-10-29.md. Public80/159/185/0unchanged;2027deferred.
