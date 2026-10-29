@@ -865,3 +865,8 @@ Production80/159/185/0. Corrected40855773595passed214checks/5PDFpages/currentPDF
 ## Bounded financial batch41 locator pending —29October2026IST
 
 AC6LourembamRameshwor/M.I.Khanpinnedtargets prepared;metadata-only40891689479queued. Noimages/valuesapproved;finishexactrunbeforeanotherbatch. FINANCIAL_BATCH_FORTY_ONE_PREPARATION_2026-10-29.md. Public80/159/185/0unchanged;2027deferred.
+
+
+## Batch41 financial source location complete
+
+40891689479hashasserted/safemetadatastored;fourfinancial-onlyclipsrenderer40896752283queued. LourembamPDF24/25,KhanlandscapePDF21/22. Novaluesapproved;finishprivacy/visualreview. Public80/159/185/0unchanged,2027deferred.
