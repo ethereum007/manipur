@@ -4659,11 +4659,131 @@
           "note": "Selected primary loan ₹1,58,49,642 agrees numerically with ADR within this selected scope. Other visible primary/disputed cells say NIL; lower disputed label is partly clipped. No complete independent audit or current financial/legal assessment inferred; household roles unconfirmed."
         }
       ]
+    },
+    {
+      "ac": 5,
+      "candidate": "Seram Neken Singh",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/5/Seram%20Neken%20Singh.pdf",
+      "sourceSha256": "d2fe8c06459dd2027c9186688fef863c05ef70f95bb924f679924bea090d6f7e",
+      "reviewedAt": "2026-10-29",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40844122191",
+      "reviewedPages": [
+        11,
+        12
+      ],
+      "summary": "Two unambiguous selected movable cells subtotal ₹5,51,928.07; wrapped spouse amount excluded. Visible liability cells mix NIL and Not Applicable; complete primary liability unassigned.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 206014300,
+          "primaryValuePaise": null,
+          "primarySourceText": "Two clear movable cells; wrapped spouse amount unresolved and excluded",
+          "primaryScope": "Selected movable row PDF11 only",
+          "pages": [
+            11
+          ],
+          "observations": [
+            {
+              "label": "Selected movable cell 1",
+              "valuePaise": 55161700,
+              "sourceText": "Rs5,51,617/-",
+              "qualifier": "exact",
+              "page": 11
+            },
+            {
+              "label": "Selected movable cell 2",
+              "valuePaise": 31107,
+              "sourceText": "Rs311.07/-",
+              "qualifier": "exact",
+              "page": 11
+            }
+          ],
+          "selectedComponentSubtotalPaise": 55192807,
+          "note": "Self ₹5,51,617 and dependent-1 ₹311.07 subtotal ₹5,51,928.07. Spouse literal wraps Rs15,08,21 then5.30/-; no digits or numeric resolution invented. HUF Not Applicable remains nonnumeric. Complete assets unreviewed, full primary total null; no equivalent-scope discrepancy against ADR ₹20,60,143 assigned."
+        },
+        {
+          "field": "liabilities",
+          "status": "partial-wording-review",
+          "secondaryValuePaise": 14371400,
+          "primaryValuePaise": null,
+          "primarySourceText": "Visible primary/disputed cells NIL; HUF Not Applicable",
+          "primaryScope": "Selected liability rows PDF12; lower disputed loan label partly clipped",
+          "pages": [
+            12
+          ],
+          "note": "Visible self/spouse/dependent primary and disputed loan/government-dues cells say NIL, with HUF Not Applicable. ADR reports ₹1,43,714; the source wording difference remains unresolved. Mixed applicability is not converted to a complete monetary zero or arithmetic discrepancy. No cause or current financial/legal assessment inferred; lower disputed label partly clipped."
+        }
+      ]
+    },
+    {
+      "ac": 5,
+      "candidate": "Thongam Biswajit Singh",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/5/Thongam%20Biswajit%20Singh.pdf",
+      "sourceSha256": "5a09724ff5550ff569cf2895af57ce53d0f6b9ef1c64a13c51abd07c749903f3",
+      "reviewedAt": "2026-10-29",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40844122191",
+      "reviewedPages": [
+        14,
+        15
+      ],
+      "summary": "Selected movable cells subtotal ₹3,15,25,164.61; complete assets unreviewed. Selected primary loan ₹30,99,150 agrees numerically with ADR.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 4253384400,
+          "primaryValuePaise": null,
+          "primarySourceText": "Three selected movable monetary cells",
+          "primaryScope": "Selected movable row PDF14 only",
+          "pages": [
+            14
+          ],
+          "observations": [
+            {
+              "label": "Selected movable cell 1",
+              "valuePaise": 1434425360,
+              "sourceText": "Rs1,43,44,253.60/-",
+              "qualifier": "exact",
+              "page": 14
+            },
+            {
+              "label": "Selected movable cell 2",
+              "valuePaise": 1715771101,
+              "sourceText": "Rs1,71,57,711.01/-",
+              "qualifier": "exact",
+              "page": 14
+            },
+            {
+              "label": "Selected movable cell 3",
+              "valuePaise": 2320000,
+              "sourceText": "Rs23,200/-",
+              "qualifier": "exact",
+              "page": 14
+            }
+          ],
+          "selectedComponentSubtotalPaise": 3152516461,
+          "note": "Selected movable subtotal ₹3,15,25,164.61 is partial; complete current-market assets remain unreviewed. No full primary total or equivalent-scope discrepancy against ADR ₹4,25,33,844 assigned. Household roles not fully confirmed by clipped header; other displayed cells NIL."
+        },
+        {
+          "field": "liabilities",
+          "status": "summary-value-agrees",
+          "secondaryValuePaise": 309915000,
+          "primaryValuePaise": 309915000,
+          "primarySourceText": "Rs30,99,150/-",
+          "primaryScope": "Selected primary loan row PDF15 only; lower disputed label partly clipped",
+          "pages": [
+            15
+          ],
+          "note": "Selected primary loan ₹30,99,150 agrees numerically with ADR within this selected scope. Visible government-dues and disputed cells NIL; lower disputed label partly clipped. No complete independent audit or current financial/legal assessment inferred; household roles not fully confirmed."
+        }
+      ]
     }
   ],
   "sourceReviewRuns": [
     "https://github.com/ethereum007/manipur/actions/runs/39463703402",
-    "https://github.com/ethereum007/manipur/actions/runs/39527983585"
+    "https://github.com/ethereum007/manipur/actions/runs/39527983585",
+    "https://github.com/ethereum007/manipur/actions/runs/40844122191"
   ],
   "selectionNotes": "Second batch: two previously unreviewed native-text-available records in AC12, selected in existing record order for a bounded availability-based sample; not a representative sample or risk ranking.",
   "selectionLimit": "Selected financial-summary comparisons form a nonrepresentative convenience sample, not complete independent affidavit audits.",
