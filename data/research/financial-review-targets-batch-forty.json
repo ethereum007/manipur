@@ -1,0 +1,18 @@
+[
+  {
+    "ac": 5,
+    "candidate": "Seram Neken Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/5/Seram%20Neken%20Singh.pdf",
+    "expectedSha256": "d2fe8c06459dd2027c9186688fef863c05ef70f95bb924f679924bea090d6f7e",
+    "selectionReason": "Next unreviewed records by AC/name excluding documented source-location deferrals; bounded nonrepresentative convenience sample",
+    "clips": []
+  },
+  {
+    "ac": 5,
+    "candidate": "Thongam Biswajit Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/5/Thongam%20Biswajit%20Singh.pdf",
+    "expectedSha256": "5a09724ff5550ff569cf2895af57ce53d0f6b9ef1c64a13c51abd07c749903f3",
+    "selectionReason": "Next unreviewed records by AC/name excluding documented source-location deferrals; bounded nonrepresentative convenience sample",
+    "clips": []
+  }
+]
