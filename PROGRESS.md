@@ -830,3 +830,8 @@ Inspectioncorrectedearlierclaim: executivePDFgeneratedfromcurrentwalkthroughinev
 ## Presentation runbook and bounded foundation complete —29 October2026IST
 
 PRESENTATION_RUNBOOK_2026-10-29.md provides5minroute/questiondemos/handoutlink/evidenceboundaries,verified8liveroutesHTTP200andcurrent78/155/187coverage. Dossier/ledger/slides/walkthrough/5pagehandoutgatesrecordedcomplete;human timedrehearsal/externalindependentreviewstillopen. Activebacklogupdated;continuefinite187selectedreviewqueue/missingfields/localdatedsources,2027deferred/30mincadenceactive.
+
+
+## Bounded original financial batch40 locator pending —29 October2026IST
+
+AC5SeramNeken/ThongamBiswajit pinnedtargets prepared; metadata-only40840535274queued. Noimages/valuesapproved;finishexactrunbeforeanotherbatch. FINANCIAL_BATCH_FORTY_PREPARATION_2026-10-29.md. Public78/155/187/0unchanged;2027deferred/cadenceactive.
