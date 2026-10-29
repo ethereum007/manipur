@@ -1,0 +1,5 @@
+# Scanned batch39 release pending —29October2026IST
+
+3970549dea81ce3132da0b9a124128576597dea9 addsRojit/Preshyojit4scopednotes fromreviewedoriginal40801807431. Repo78selected/155notes/187withoutcomparison/0completeindependentaudits. RojitNILheaderconflictswithselectedAxisloan1993000rupees, completeprimaryliabilitynull/equivalentADRscopeunestablished; wrappedassetvaluesexcluded. Fullassetsnullforboth.
+
+Cloudrun40804770490active; finishexactrun/deploy/liveJSON/newdesktopmobilescreenshots beforeanotherbatch. Lastverifiedpublic76/151/189/0. AllprojectworkGitHubonly,2027deferred/30mincadenceactive.
