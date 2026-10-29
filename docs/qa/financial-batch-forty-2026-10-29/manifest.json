@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 5,
+    "candidate": "Seram Neken Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/5/Seram%20Neken%20Singh.pdf",
+    "sha256": "d2fe8c06459dd2027c9186688fef863c05ef70f95bb924f679924bea090d6f7e",
+    "pages": 13,
+    "crops": [
+      {
+        "page": 11,
+        "rect": [
+          118,
+          574,
+          570,
+          635
+        ],
+        "id": "movable",
+        "image": "ac5-d2fe8c06459d-p11-financial-selected-movable.png"
+      },
+      {
+        "page": 12,
+        "rect": [
+          118,
+          358,
+          570,
+          580
+        ],
+        "id": "liabilities",
+        "image": "ac5-d2fe8c06459d-p12-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 5,
+    "candidate": "Thongam Biswajit Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/5/Thongam%20Biswajit%20Singh.pdf",
+    "sha256": "5a09724ff5550ff569cf2895af57ce53d0f6b9ef1c64a13c51abd07c749903f3",
+    "pages": 17,
+    "crops": [
+      {
+        "page": 14,
+        "rect": [
+          100,
+          482,
+          565,
+          513
+        ],
+        "id": "movable",
+        "image": "ac5-5a09724ff555-p14-financial-selected-movable.png"
+      },
+      {
+        "page": 15,
+        "rect": [
+          95,
+          164,
+          565,
+          320
+        ],
+        "id": "liabilities",
+        "image": "ac5-5a09724ff555-p15-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
