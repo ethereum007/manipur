@@ -840,3 +840,8 @@ AC5SeramNeken/ThongamBiswajit pinnedtargets prepared; metadata-only40840535274qu
 ## Batch40 financial source locations verified
 
 40840535274hashasserted/metadataretained;fourfixedfinancial-onlyregionsspecified,renderer40844122191queued. SeramPDF11/12,ThongamPDF14/15. Novaluesapproved;finishrender/privacy/visualreviewbeforepublication. Public78/155/187/0unchanged,2027deferred.
+
+
+## Batch40 original selected financial cells inspected —29 October2026IST
+
+40844122191hashasserted/fourprivacy-reviewedfinancialregionsretained. Seramspousewrappedliteralexcluded/twoclearcells551928.07partial/mixedNILNAliabilitynull;Thongampartialmovables31525164.61/selectedloan3099150rupees. Nextsecondarycomparison/implementation/releaseQA;public78/155/187/0unchanged,2027deferred.
