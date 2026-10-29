@@ -760,3 +760,8 @@ AC4WahengbamRojit/AC5SanglakpamPreshyojit fixedtargets prepared; metadata-only40
 ## Batch39 missing primary loan amount crop refinement
 
 40795539770locatedRojitPDF12primaryliability;40798733679amountclipped,nonnumericbankloantextvisible—doNOTassignzerofromNILheader. Extendfinancialcrop755/rerenderbeforeapproval. Preshyojitregionsreviewed,nopublicvaluesadded. Public76/151/189/0unchanged,2027deferred.
+
+
+## Scanned batch39 source inspection complete
+
+40801807431hashasserted/fourfinancial-onlyregionsreviewedretainedaftersignatureartifactdeletion. RojitNILheadercontradictsselectedAxisloan1993000; completeprimaryliabilitynull/ADRscopeunresolved,wrappedmovablesnotinvented. Preshyojitpartialmovables41375718/selectedloan15849642rupees. Nextimplementation/regression/releaseQA;public76/151/189/0unchanged,2027deferred.
