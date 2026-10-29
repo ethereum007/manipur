@@ -805,3 +805,8 @@ a001899c8adb2f1d6061f62e659aa76602ffbc85 replacesdeferred2027illustrativeslidewi
 ## Presentation coverage slide verified —29 October2026IST
 
 40819215493passed211checks/5PDFpages/913HTML/31,424refs/0errors. Productionpresentationcontainsdata-derived78/155/187scope/2027deferral,oldscenarioheadingabsent. Screenshotsretained40822022617anddesktop/mobilemanuallyreviewed. BRIEFING_COVERAGE_QA_2026-10-29.md supersedespending. Nextwalkthrough/printbriefusability;0completeindependentaudits/2027deferred.
+
+
+## Five-minute walkthrough research gates pending —29 October2026IST
+
+ae17728f165ffd338abdf12be561cd27bdee9e9e alignswebwalkthroughcoverage/gaps/2027deferral. Cloud40824934611active; finishdeploy/production/screenshotsbeforeanotherbatch. WALKTHROUGH_GATES_RELEASE_PENDING_2026-10-29.md. SeparatePDFhandoutunchanged.
