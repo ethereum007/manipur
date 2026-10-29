@@ -4,6 +4,7 @@ import Link from "next/link";
 import { GeoMap } from "./geo";
 import { SeatChart } from "./seat-chart";
 import { results, winnerRegister, number } from "@/lib/data";
+import fieldReviews from '../../data/research/disclosure-field-reviews-2022.json';
 import budget from "../../data/research/budget-2026.json";
 const stops = [
   {
@@ -39,7 +40,7 @@ const stops = [
     label: "Evidence & delivery roadmap",
     time: "4:00–5:00",
     notes:
-      "Close by separating working product capabilities from incomplete research. Remaining totals, turnout, segment accounting and disclosures require verification. No polling-based forecast is available.",
+      "Close by separating working product capabilities from incomplete research. The 2017 AC21 full contest remains withheld. Selected disclosure comparisons are partial; local outcomes and unresolved source conflicts require more evidence. 2027 analysis is deferred.",
   },
 ];
 export function ExecutiveWalkthrough() {
@@ -174,7 +175,7 @@ export function ExecutiveWalkthrough() {
                   className="text-link"
                   href="/candidates/nongthombam-biren-singh"
                 >
-                  Open the complete reviewed profile ↗
+                  Open the sourced historical profile ↗
                 </Link>
               </div>
               <div>
@@ -204,7 +205,7 @@ export function ExecutiveWalkthrough() {
                 </p>
                 <p>
                   All 265 official 2022 candidacies are indexed with original
-                  affidavit links. Untranscribed disclosures remain unavailable.
+                  affidavit links. Selected original comparisons cover {fieldReviews.records.length} candidates and {fieldReviews.records.reduce((sum,r)=>sum+r.fields.length,0)} scoped field notes. Retrieval is not a complete independent affidavit audit.
                 </p>
               </div>
             </div>
@@ -273,17 +274,14 @@ export function ExecutiveWalkthrough() {
                 </p>
               </div>
               <div>
-                <h3>The next research gates.</h3>
+                <h3>The next research gates.</h3><p>{fieldReviews.records.length} of 265 candidates have selected original financial comparisons; {265-fieldReviews.records.length} remain without them. Selected coverage does not imply every field or an independent audit.</p><Link className="text-link" href="/analysis/evidence">Inspect current coverage and source discrepancies ↗</Link>
                 <p>
-                  Remaining historical candidate totals; 2024 Assembly-segment,
-                  postal and special-station accounting; compatible turnout
-                  denominators; further candidate disclosures and newer
-                  governance documents.
+                  The 2017 AC21 full numerical contest remains withheld. All 60 ordinary 2024 Parliamentary segments reconcile; special-station groups and unallocated residuals remain separate. Residuals are not automatically postal votes. Further original disclosure fields and constituency-level service outcomes require review.
                 </p>
                 <p>
                   Reference polygons are historical and publisher-marked
                   pre-delimitation. No seat forecast or individual
-                  voter-transfer estimate is claimed.
+                  voter-transfer estimate is claimed. The 2027 analysis track is deferred.
                 </p>
                 <Link className="text-link" href="/sources">
                   Open sources, coverage and downloads ↗

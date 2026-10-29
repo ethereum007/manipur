@@ -470,3 +470,11 @@ test('evidence ledger derives financial coverage from current export', async ({p
  await page.locator('h1').filter({hasText:'Know the review boundary.'}).click();
  await page.keyboard.press('End');await expect(page.locator('.briefing-slide.current')).toContainText('Return to the source');
  });
+
+ test('five minute walkthrough states current coverage and remaining gates',async({page,request},info)=>{
+ const data=await(await request.get('/manipur/data/disclosure-field-reviews-2022.json')).json();
+ await page.goto('/manipur/briefing/');await expect(page.locator('.executive-walkthrough')).toHaveAttribute('data-ready','true');
+ await page.getByRole('button',{name:/Evidence & delivery roadmap/}).click();const current=page.locator('.walkthrough-slide.current');
+ await expect(current).toContainText(data.records.length+' of 265');await expect(current).toContainText('2017 AC21 full numerical contest remains withheld');await expect(current).toContainText('All 60 ordinary 2024 Parliamentary segments reconcile');await expect(current).toContainText('2027 analysis track is deferred');
+ await current.screenshot({path:info.outputPath('walkthrough-gates-desktop.png')});await page.setViewportSize({width:390,height:844});await current.screenshot({path:info.outputPath('walkthrough-gates-mobile.png')});expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();
+ });
