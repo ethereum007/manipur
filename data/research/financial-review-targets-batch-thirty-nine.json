@@ -5,7 +5,18 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/4/Wahengbam%20Rojit%20Singh.pdf",
     "expectedSha256": "e0c3bbc5a259ba73577eaddc7ccb5c2d1682e716c9917cb28f9a6dc2e29aad2b",
     "selectionReason": "Next unreviewed image-only records by AC/name excluding documented deferrals; bounded nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 12,
+        "rect": [
+          115,
+          368,
+          565,
+          396
+        ],
+        "id": "movable"
+      }
+    ]
   },
   {
     "ac": 5,
@@ -13,6 +24,27 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/5/Sanglakpam%20Preshyojit%20Sharma.pdf",
     "expectedSha256": "ca31d4fb0527f01da12840cf8a9af48f27f26af350e6aeb4953a92d0b0dd8fa5",
     "selectionReason": "Next unreviewed image-only records by AC/name excluding documented deferrals; bounded nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 16,
+        "rect": [
+          105,
+          598,
+          570,
+          637
+        ],
+        "id": "movable"
+      },
+      {
+        "page": 17,
+        "rect": [
+          110,
+          334,
+          570,
+          540
+        ],
+        "id": "liabilities"
+      }
+    ]
   }
 ]
