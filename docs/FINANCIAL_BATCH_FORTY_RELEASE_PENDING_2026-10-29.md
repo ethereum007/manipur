@@ -3,3 +3,8 @@
 3a971e40274f8a841e996fd4998cc02e6cc7b07b adds2candidates/4scopednotes from visually reviewed originals40844122191. Repo80selected/159notes/185withoutcomparison/0completeindependentaudits. Last verifiedpublic78/155/187/0. Seramwrappedspouseamountexcluded/partialassets55192807paise/fullassetsnull/mixedNILNAliabilitynull; ADR143714rupeeswordingdifferenceunresolved. Biswajitpartial3152516461paise/fullassetsnull/selectedloan309915000paiseagreesADR. No currentfinance/legal inference.
 
 Cloud 40851834524 active; finishexactrun/deploy/liveJSON/screenshotsbeforeanotherbatch. Newfinancial-seram-b40-desktop.png/financial-biswajit-b40-mobile.png. Dynamicbriefing/handoutcoveragewillfollowregisterandmustpassPDFcontentgate. AllprojectworkGitHub-only,2027deferred/cadenceactive.
+
+
+## Exact coverage assertion correction
+
+40851834524blockeddeployment: one remaining selected-register uniqueness assertion expected78whileactual80. No underlying historical/sourcevalue failure. a07e38778eaea6239ea629b597ad7e7bae8f1c03updatesonlythat exactcount; replacement40855773595active. Finish replacement/deploy/liveJSON/screenshots before nextbatch. Lastverifiedpublic78/155/187/0unchanged.
