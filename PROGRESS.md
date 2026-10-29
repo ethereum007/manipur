@@ -795,3 +795,8 @@ Historical-onlycomparisonlabels and180winner/179contest/60Parliamentsegmentaudit
 ## Sixty-seat historical dossier gate verified —29 October 2026 IST
 
 40816216489passed210checks/5PDFpages/913HTML/31,423refs/0errors.180winner/179contest/60Parliamentsegmentboundeddataauditpassed;2017AC21withheldexplicit. All60liveHTMLroutesverified, screenshotsretained40816648955anddesktop/mobilemanuallyreviewed. DOSSIER_AUDIT_QA_2026-10-29.md supersedespending. Nextbriefingreadiness/deferralalignment;78/155/187/0unchanged,2027deferred.
+
+
+## Presentation review-boundary slide pending —29 October2026IST
+
+a001899c8adb2f1d6061f62e659aa76602ffbc85 replacesdeferred2027illustrativeslidewithdata-derivedcoverage/limits;15slidesretained. Cloud40819215493active; finishdeploy/production/screenshotsbeforeanotherbatch. BRIEFING_COVERAGE_RELEASE_PENDING_2026-10-29.md.78/155/187/0unchanged;2027deferred.
