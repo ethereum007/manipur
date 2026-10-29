@@ -770,3 +770,8 @@ AC4WahengbamRojit/AC5SanglakpamPreshyojit fixedtargets prepared; metadata-only40
 ## Scanned batch39 implementation pending release
 
 3970549dea81ce3132da0b9a124128576597dea9 repo78/155/187/0,verifiedpublic76/151/189/0. RojitNILheader/loancontradictionexplicit,completeprimarytotalnull,wrappedvaluesexcluded. Cloud40804770490active; finishdeploy/liveJSON/screenshotsbefore nextbatch. FINANCIAL_BATCH_THIRTY_NINE_RELEASE_PENDING_2026-10-29.md.2027deferred/30mincadenceactive.
+
+
+## Batch39 verified; presentation scope prioritized —29 October 2026 IST
+
+Production78selected/155notes/187withoutcomparison/0completeindependentaudits.40804770490passed118Node/15Python/73browser206checks,5PDFpages,913HTML/31,423refs/0errors. LiveJSONbyteexact; retained40807912636/newdesktopmobileprofilesmanuallyreviewed. FINANCIAL_BATCH_THIRTY_NINE_QA_2026-10-29.md supersedespending. Follow PRESENTATION_RELEASE_SCOPE_2026-10-29.md: dossier/readiness/briefing gates before further optional candidate batches.2027deferred/30mincadenceactive.
