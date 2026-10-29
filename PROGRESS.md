@@ -775,3 +775,8 @@ AC4WahengbamRojit/AC5SanglakpamPreshyojit fixedtargets prepared; metadata-only40
 ## Batch39 verified; presentation scope prioritized —29 October 2026 IST
 
 Production78selected/155notes/187withoutcomparison/0completeindependentaudits.40804770490passed118Node/15Python/73browser206checks,5PDFpages,913HTML/31,423refs/0errors. LiveJSONbyteexact; retained40807912636/newdesktopmobileprofilesmanuallyreviewed. FINANCIAL_BATCH_THIRTY_NINE_QA_2026-10-29.md supersedespending. Follow PRESENTATION_RELEASE_SCOPE_2026-10-29.md: dossier/readiness/briefing gates before further optional candidate batches.2027deferred/30mincadenceactive.
+
+
+## Presentation evidence-ledger correction pending —29 October 2026 IST
+
+Found stale3/6/262publicledger counts. cdf05de30a224913d51e4cf322f3585d9d21c13a derives selectedcandidate/field/gap counts fromregister and explicitly defers2027analysis. Cloud40810827602active; finishcloud/deploy/screenshots/liveHTML beforeanotherbatch. EVIDENCE_LEDGER_RELEASE_PENDING_2026-10-29.md. Verifiedfinancialregister78/155/187/0unchanged.
