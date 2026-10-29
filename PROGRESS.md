@@ -755,3 +755,8 @@ Production76/151/189/0.40785380602passed117Node/15Python/72browser204checks,5PDF
 ## Scanned batch39 locator pending —29October2026IST
 
 AC4WahengbamRojit/AC5SanglakpamPreshyojit fixedtargets prepared; metadata-only40792231947active. Noimages/valuesapproved,continueexactrunbeforeanotherbatch. FINANCIAL_BATCH_THIRTY_NINE_PREPARATION_2026-10-29.md. Public76/151/189/0unchanged,2027deferred/30mincadenceactive.
+
+
+## Batch39 missing primary loan amount crop refinement
+
+40795539770locatedRojitPDF12primaryliability;40798733679amountclipped,nonnumericbankloantextvisible—doNOTassignzerofromNILheader. Extendfinancialcrop755/rerenderbeforeapproval. Preshyojitregionsreviewed,nopublicvaluesadded. Public76/151/189/0unchanged,2027deferred.
