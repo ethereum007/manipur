@@ -453,3 +453,20 @@ test('evidence ledger derives financial coverage from current export', async ({p
  await page.locator('#parliament-2024 .segment-note').screenshot({path:info.outputPath('dossier-history-mobile.png')});
  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();
  });
+
+ test('briefing review-boundary slide matches current register and supports keyboard navigation',async({page,request},info)=>{
+ const d=await(await request.get('/manipur/data/disclosure-field-reviews-2022.json')).json();
+ await page.goto('/manipur/presentation/');
+ await expect(page.locator('.briefing')).toHaveAttribute('data-ready','true');
+ await page.getByLabel('Choose a slide').selectOption('13');
+ const slide=page.locator('.briefing-slide.current');
+ await expect(slide).toContainText(d.records.length+' of 265');
+ await expect(slide).toContainText(d.records.reduce((s:any,r:any)=>s+r.fields.length,0)+' scoped field notes');
+ await expect(slide).toContainText('2027 analysis is deferred');
+ await expect(slide.getByRole('link')).toHaveAttribute('href','https://mandateterrain.com/analysis/evidence/');
+ await slide.screenshot({path:info.outputPath('briefing-coverage-desktop.png')});
+ await page.setViewportSize({width:390,height:844});await slide.screenshot({path:info.outputPath('briefing-coverage-mobile.png')});
+ expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();
+ await page.locator('h1').filter({hasText:'Know the review boundary.'}).click();
+ await page.keyboard.press('End');await expect(page.locator('.briefing-slide.current')).toContainText('Return to the source');
+ });

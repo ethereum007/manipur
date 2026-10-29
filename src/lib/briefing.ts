@@ -1,3 +1,6 @@
+import fieldReviews from '../../data/research/disclosure-field-reviews-2022.json';
+const reviewedCandidates=fieldReviews.records.length;
+const reviewedFields=fieldReviews.records.reduce((sum,r)=>sum+r.fields.length,0);
 export const slides = [
   {
     title: "A state. Sixty constituencies.",
@@ -114,11 +117,11 @@ export const slides = [
     kind: "text",
   },
   {
-    title: "Scenarios are not predictions.",
-    subtitle: "The road to 2027",
-    body: "Examine continuity, fragmentation, regional parties, participation and coalition arrangements as assumptions. No probability or seat forecast is assigned.",
-    source: "https://mandateterrain.com/outlook/",
-    sourceLabel: "Atlas analytical framework · illustrative assumptions",
+    title: "Know the review boundary.",
+    subtitle: "Historical research coverage and limits",
+    body: `Selected original financial comparisons cover ${reviewedCandidates} of 265 candidates and ${reviewedFields} scoped field notes; ${265-reviewedCandidates} candidates remain without selected comparison. Retrieval and OCR are not field verification or a complete independent affidavit audit. 2027 analysis is deferred.`,
+    source: "https://mandateterrain.com/analysis/evidence/",
+    sourceLabel: "Mandate Terrain · coverage register and unresolved discrepancies",
     kind: "text",
   },
   {
