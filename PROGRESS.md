@@ -870,3 +870,8 @@ AC6LourembamRameshwor/M.I.Khanpinnedtargets prepared;metadata-only40891689479que
 ## Batch41 financial source location complete
 
 40891689479hashasserted/safemetadatastored;fourfinancial-onlyclipsrenderer40896752283queued. LourembamPDF24/25,KhanlandscapePDF21/22. Novaluesapproved;finishprivacy/visualreview. Public80/159/185/0unchanged,2027deferred.
+
+
+## Batch41 selected original financial review complete
+
+40896752283hashasserted/fourfinancial-onlyregionsreviewedretained. Lourembampartialmovables8452858.99/selectedloan4324710.81;Khanpartialmovables196850/visibleprimaryNilwithdisputedcontinuationunreviewed. Nextsecondarycomparison/implementation/releaseQA. Public80/159/185/0unchanged;2027deferred.
