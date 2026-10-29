@@ -855,3 +855,8 @@ AC5SeramNeken/ThongamBiswajit pinnedtargets prepared; metadata-only40840535274qu
 ## Batch40 stale count assertion corrected
 
 40851834524blockeddeployon78expected/80actualregisteruniquenesscount. a07e38778eaea6239ea629b597ad7e7bae8f1c03correctsexactassertion;replacement40855773595active. Finishpendingreleasegates;publiclastverified78/155/187/0unchanged.
+
+
+## Original financial batch40 verified/deployed —29October2026IST
+
+Production80/159/185/0. Corrected40855773595passed214checks/5PDFpages/currentPDFcoverage/913HTML/31,428refs/0errors. LiveJSONbyteexact,newdesktop/mobileprofilesretained40886826140andmanuallyreviewed. FINANCIAL_BATCH_FORTY_QA_2026-10-29.md supersedespending;wrappedcell/mixedNILNA/partialscopepreserved.2027deferred/cadenceactive.
