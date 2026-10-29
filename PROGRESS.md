@@ -810,3 +810,8 @@ a001899c8adb2f1d6061f62e659aa76602ffbc85 replacesdeferred2027illustrativeslidewi
 ## Five-minute walkthrough research gates pending —29 October2026IST
 
 ae17728f165ffd338abdf12be561cd27bdee9e9e alignswebwalkthroughcoverage/gaps/2027deferral. Cloud40824934611active; finishdeploy/production/screenshotsbeforeanotherbatch. WALKTHROUGH_GATES_RELEASE_PENDING_2026-10-29.md. SeparatePDFhandoutunchanged.
+
+
+## Five-minute web walkthrough verified —29 October2026IST
+
+40824934611passed212checks/5PDFpages/913HTML/31,426refs/0errors; liveHTMLcurrentcoverage/AC21gap/Parliamentaccounting/2027deferralconfirmed. Screenshotsretained40827808266anddesktop/mobilemanuallyreviewed. WALKTHROUGH_GATES_QA_2026-10-29.md supersedespending. SeparatePDFcontentalignmentnext;78/155/187/0unchanged.
