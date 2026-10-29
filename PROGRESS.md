@@ -835,3 +835,8 @@ PRESENTATION_RUNBOOK_2026-10-29.md provides5minroute/questiondemos/handoutlink/e
 ## Bounded original financial batch40 locator pending —29 October2026IST
 
 AC5SeramNeken/ThongamBiswajit pinnedtargets prepared; metadata-only40840535274queued. Noimages/valuesapproved;finishexactrunbeforeanotherbatch. FINANCIAL_BATCH_FORTY_PREPARATION_2026-10-29.md. Public78/155/187/0unchanged;2027deferred/cadenceactive.
+
+
+## Batch40 financial source locations verified
+
+40840535274hashasserted/metadataretained;fourfixedfinancial-onlyregionsspecified,renderer40844122191queued. SeramPDF11/12,ThongamPDF14/15. Novaluesapproved;finishrender/privacy/visualreviewbeforepublication. Public78/155/187/0unchanged,2027deferred.
