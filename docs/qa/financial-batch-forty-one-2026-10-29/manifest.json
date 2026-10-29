@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 6,
+    "candidate": "Lourembam Rameshwor Meetei",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/6/Lourembam%20Rameshwor%20Meetei.pdf",
+    "sha256": "4beef883c0ca087d38e48ef17be9f9e1152eca1dad21b25d4d6c89e26ce61d79",
+    "pages": 27,
+    "crops": [
+      {
+        "page": 24,
+        "rect": [
+          60,
+          252,
+          555,
+          325
+        ],
+        "id": "movable",
+        "image": "ac6-4beef883c0ca-p24-financial-selected-movable.png"
+      },
+      {
+        "page": 25,
+        "rect": [
+          60,
+          113,
+          555,
+          450
+        ],
+        "id": "liabilities",
+        "image": "ac6-4beef883c0ca-p25-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 6,
+    "candidate": "M.I. Khan",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/6/M.I.%20Khan.pdf",
+    "sha256": "105dd404d5580cc2f8c66d70af76aef3446d790ab03e87d9279bf4259d82f691",
+    "pages": 25,
+    "crops": [
+      {
+        "page": 21,
+        "rect": [
+          115,
+          398,
+          750,
+          465
+        ],
+        "id": "movable",
+        "image": "ac6-105dd404d558-p21-financial-selected-movable.png"
+      },
+      {
+        "page": 22,
+        "rect": [
+          115,
+          352,
+          750,
+          455
+        ],
+        "id": "primary-liabilities",
+        "image": "ac6-105dd404d558-p22-financial-selected-primary-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
