@@ -4778,12 +4778,175 @@
           "note": "Selected primary loan ₹30,99,150 agrees numerically with ADR within this selected scope. Visible government-dues and disputed cells NIL; lower disputed label partly clipped. No complete independent audit or current financial/legal assessment inferred; household roles not fully confirmed."
         }
       ]
+    },
+    {
+      "ac": 6,
+      "candidate": "Lourembam Rameshwor Meetei",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/6/Lourembam%20Rameshwor%20Meetei.pdf",
+      "sourceSha256": "4beef883c0ca087d38e48ef17be9f9e1152eca1dad21b25d4d6c89e26ce61d79",
+      "reviewedAt": "2026-10-29",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40896752283",
+      "reviewedPages": [
+        24,
+        25
+      ],
+      "summary": "Selected movable cells subtotal ₹84,52,858.99; complete assets unreviewed. Selected loan ₹43,24,710.81 differs from ADR by ₹0.81, unresolved.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 1630285800,
+          "primaryValuePaise": null,
+          "primarySourceText": "Selected movable monetary cells; complete assets unreviewed",
+          "primaryScope": "Selected movable row PDF24 only",
+          "pages": [
+            24
+          ],
+          "observations": [
+            {
+              "label": "Selected movable cell 1",
+              "valuePaise": 434084839,
+              "sourceText": "Rs4340848.39/-",
+              "qualifier": "exact",
+              "page": 24
+            },
+            {
+              "label": "Selected movable cell 2",
+              "valuePaise": 311001060,
+              "sourceText": "Rs31,10,010.60/-",
+              "qualifier": "exact",
+              "page": 24
+            },
+            {
+              "label": "Selected movable cell 3",
+              "valuePaise": 50200000,
+              "sourceText": "Rs502000/-",
+              "qualifier": "exact",
+              "page": 24
+            },
+            {
+              "label": "Selected movable cell 4",
+              "valuePaise": 50000000,
+              "sourceText": "Rs500000/-",
+              "qualifier": "exact",
+              "page": 24
+            }
+          ],
+          "selectedComponentSubtotalPaise": 845285899,
+          "note": "Selected movable subtotal ₹84,52,858.99 is partial. Complete current-market assets are unreviewed; no full primary total or equivalent-scope discrepancy against ADR ₹1,63,02,858 assigned. Other Not Applicable cells remain nonnumeric; household roles not fully confirmed by clipped header."
+        },
+        {
+          "field": "liabilities",
+          "status": "summary-secondary-disagreement",
+          "secondaryValuePaise": 432471000,
+          "primaryValuePaise": 432471081,
+          "differencePaise": 81,
+          "primarySourceText": "Rs43,24,710.81/-",
+          "primaryScope": "Selected primary loan PDF25 only; lower disputed label partly clipped",
+          "pages": [
+            25
+          ],
+          "note": "Selected primary loan ₹43,24,710.81 versus ADR ₹43,24,710 leaves ₹0.81 unresolved. Other Not Applicable cells are not converted to zero; lower disputed label partly clipped. No rounding cause, complete filing correction or current financial/legal assessment inferred."
+        }
+      ]
+    },
+    {
+      "ac": 6,
+      "candidate": "M.I. Khan",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/6/M.I.%20Khan.pdf",
+      "sourceSha256": "105dd404d5580cc2f8c66d70af76aef3446d790ab03e87d9279bf4259d82f691",
+      "reviewedAt": "2026-10-29",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40896752283",
+      "reviewedPages": [
+        21,
+        22
+      ],
+      "summary": "Selected movable cells subtotal ₹1,96,850; complete assets unreviewed. Visible primary liability cells say NIL; disputed continuation unreviewed.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 1024685000,
+          "primaryValuePaise": null,
+          "primarySourceText": "Selected movable monetary cells; complete assets unreviewed",
+          "primaryScope": "Selected movable row PDF21 only",
+          "pages": [
+            21
+          ],
+          "observations": [
+            {
+              "label": "Selected movable cell 1",
+              "valuePaise": 14388800,
+              "sourceText": "Rs1,43,888/-",
+              "qualifier": "exact",
+              "page": 21
+            },
+            {
+              "label": "Selected movable cell 2",
+              "valuePaise": 3000000,
+              "sourceText": "Rs30,000/-",
+              "qualifier": "exact",
+              "page": 21
+            },
+            {
+              "label": "Selected movable cell 3",
+              "valuePaise": 2200000,
+              "sourceText": "Rs22,000/-",
+              "qualifier": "exact",
+              "page": 21
+            },
+            {
+              "label": "Selected movable cell 4",
+              "valuePaise": 56200,
+              "sourceText": "Rs562/-",
+              "qualifier": "exact",
+              "page": 21
+            },
+            {
+              "label": "Selected movable cell 5",
+              "valuePaise": 10000,
+              "sourceText": "Rs100/-",
+              "qualifier": "exact",
+              "page": 21
+            },
+            {
+              "label": "Selected movable cell 6",
+              "valuePaise": 20000,
+              "sourceText": "Rs200/-",
+              "qualifier": "exact",
+              "page": 21
+            },
+            {
+              "label": "Selected movable cell 7",
+              "valuePaise": 10000,
+              "sourceText": "Rs100/-",
+              "qualifier": "exact",
+              "page": 21
+            }
+          ],
+          "selectedComponentSubtotalPaise": 19685000,
+          "note": "Seven selected monetary cells subtotal ₹1,96,850; other displayed cell NIL. Complete current-market assets unreviewed, so full primary asset total stays null and no equivalent-scope discrepancy against ADR ₹1,02,46,850 assigned. Household roles not confirmed."
+        },
+        {
+          "field": "liabilities",
+          "status": "summary-value-agrees",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": 0,
+          "primarySourceText": "NIL in visible primary government-dues and loan cells",
+          "primaryScope": "Visible primary liability rows PDF22 only; disputed continuation unreviewed",
+          "pages": [
+            22
+          ],
+          "note": "Visible primary government-dues and loan cells say NIL, numerically consistent with ADR zero within this selected scope. Lower loan label partly clipped and disputed continuation unreviewed. This is not complete liability coverage, financial/legal clearance or current debt assessment; household roles unconfirmed."
+        }
+      ]
     }
   ],
   "sourceReviewRuns": [
     "https://github.com/ethereum007/manipur/actions/runs/39463703402",
     "https://github.com/ethereum007/manipur/actions/runs/39527983585",
-    "https://github.com/ethereum007/manipur/actions/runs/40844122191"
+    "https://github.com/ethereum007/manipur/actions/runs/40844122191",
+    "https://github.com/ethereum007/manipur/actions/runs/40896752283"
   ],
   "selectionNotes": "Second batch: two previously unreviewed native-text-available records in AC12, selected in existing record order for a bounded availability-based sample; not a representative sample or risk ranking.",
   "selectionLimit": "Selected financial-summary comparisons form a nonrepresentative convenience sample, not complete independent affidavit audits.",
