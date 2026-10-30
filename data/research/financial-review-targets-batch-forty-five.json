@@ -1,0 +1,18 @@
+[
+  {
+    "ac": 7,
+    "candidate": "Lourembam Sanjoy Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/7/Lourembam%20Sanjoy%20Singh.pdf",
+    "expectedSha256": "f16a58df5e92747a36c5c70b1082bbc2fc07c67c5f34f7fccbf496136be91ea3",
+    "selectionReason": "Next unreviewed AC/name records excluding documented source-location deferrals; bounded nonrepresentative convenience sample",
+    "clips": []
+  },
+  {
+    "ac": 7,
+    "candidate": "Thounaojam Shyamkumar",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/7/Thounaojam%20Shyamkumar.pdf",
+    "expectedSha256": "747e0a94a10ef68f14bfbef6ada59b43b8cc2f1e978521fcefa05fef0c63c570",
+    "selectionReason": "Next unreviewed AC/name records excluding documented source-location deferrals; bounded nonrepresentative convenience sample",
+    "clips": []
+  }
+]
