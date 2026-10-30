@@ -1,0 +1,5 @@
+# Batch46 release pending —30October2026IST
+
+1cfb9069dce85b0b96a68fd22292e109bf1abf34 adds2candidates/4scopednotes fromcleanreviewed41082523789. Repo92/183/173/0,lastverifiedpublic90/179/175/0. Achoibampartial231281497paise/wrappedspouseexcluded/selectedloan311760300agreesADR. Ibomchapartial24236800paise/NotApplicableliabilitynull. Fullassetsnull/scopesexplicit.
+
+Cloud41091670783active;finishexactrun/deploy/liveJSON/screenshotsbeforeanotherbatch. financial-achoibam-b46-desktop.png/financial-ibomcha-b46-mobile.png;dynamicbriefing/PDFcoveragechecksrequired.2027deferred/cadenceactive/allprojectworkGitHub-only.
