@@ -1,0 +1,5 @@
+# Batch43 release pending —30October2026IST
+
+c30d660aea805e06c6c1aa91735ad337cafc8bf9 adds2candidates/4scopednotes fromcleanreviewed41014134874. Repo86/171/179/0,lastverifiedpublic84/167/181/0. Toijampartial50000/fullassetsnull/visibleNilscoped. Shantapartial100000/fullassetsnull,NILheadingvs90000HDFCloancontradiction;selectedloanagreesADRbutcompleteprimaryliabilitynull/noarithmeticdiscrepancy. PrintedNA/handwrittenNILalterationspreserved,disputedcontinuationreviewed.
+
+Cloud41020206879active;finishexactrun/deploy/liveJSON/screenshotsbeforeanotherbatch. financial-toijam-b43-desktop.png/financial-shanta-b43-mobile.png. Dynamicbriefing/PDFcoveragechecksrequired.2027deferred/cadenceactive/allprojectworkGitHub-only.
