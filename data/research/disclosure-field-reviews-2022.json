@@ -5038,6 +5038,114 @@
           "note": "Visible primary and disputed cells show handwritten Nil. Numerically consistent with ADR zero within the selected visible primary scope only. Lower disputed loan label partly clipped. This is not complete liability coverage, financial/legal clearance or a current debt assessment."
         }
       ]
+    },
+    {
+      "ac": 6,
+      "candidate": "Toijam Debananda Singh",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/6/Toijam%20Debananda%20Singh.pdf",
+      "sourceSha256": "314a95f2a0e7cd438fb30e2a530db8313291a10c380fd07ecc6953db752a6472",
+      "reviewedAt": "2026-10-30",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41014134874",
+      "reviewedPages": [
+        12
+      ],
+      "summary": "Selected movable cell ₹50,000 is partial; complete assets unreviewed. Visible primary liability cells Nil within selected scope.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 1124188900,
+          "primaryValuePaise": null,
+          "primarySourceText": "One selected movable monetary cell; complete assets unreviewed",
+          "primaryScope": "Selected movable row PDF12 only",
+          "pages": [
+            12
+          ],
+          "observations": [
+            {
+              "label": "Selected movable cell",
+              "valuePaise": 5000000,
+              "sourceText": "Rs50,000/-",
+              "qualifier": "exact",
+              "page": 12
+            }
+          ],
+          "selectedComponentSubtotalPaise": 5000000,
+          "note": "Selected ₹50,000 cell; other displayed cells Nil. Complete current-market assets unreviewed, full primary total stays null; no equivalent-scope discrepancy against ADR assigned. Household roles unconfirmed."
+        },
+        {
+          "field": "liabilities",
+          "status": "summary-value-agrees",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": 0,
+          "primarySourceText": "Nil in visible primary liability cells",
+          "primaryScope": "Selected visible liability rows PDF12 only; lower disputed label partly clipped",
+          "pages": [
+            12
+          ],
+          "note": "Visible primary and disputed cells say Nil, numerically consistent with ADR zero within selected scope. Lower disputed loan label partly clipped. No complete liability coverage, current debt assessment or financial/legal clearance inferred."
+        }
+      ]
+    },
+    {
+      "ac": 6,
+      "candidate": "Yumnam Shanta Meetei",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/6/Yumnam%20Shanta%20Meetei.pdf",
+      "sourceSha256": "0246ff26ccff9851ed7368f2896b4877feb5837bcc2a71131d948598b70c5c24",
+      "reviewedAt": "2026-10-30",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41014134874",
+      "reviewedPages": [
+        16,
+        17,
+        18
+      ],
+      "summary": "Selected movable cell ₹1,00,000 is partial. Handwritten NIL liability heading conflicts with selected ₹90,000 HDFC loan; complete liability total unassigned.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 904000000,
+          "primaryValuePaise": null,
+          "primarySourceText": "One selected movable monetary cell; complete assets unreviewed",
+          "primaryScope": "Selected movable row PDF16 only",
+          "pages": [
+            16
+          ],
+          "observations": [
+            {
+              "label": "Selected movable cell",
+              "valuePaise": 10000000,
+              "sourceText": "Rs100000/-",
+              "qualifier": "exact",
+              "page": 16
+            }
+          ],
+          "selectedComponentSubtotalPaise": 10000000,
+          "note": "Selected ₹1,00,000 cell; other NIL or printed NA overwritten with handwritten NIL preserved. Complete current-market assets unreviewed, full primary total stays null; no equivalent-scope discrepancy against ADR assigned. Household roles unconfirmed."
+        },
+        {
+          "field": "liabilities",
+          "status": "partial-wording-review",
+          "secondaryValuePaise": 9000000,
+          "primaryValuePaise": null,
+          "primarySourceText": "Handwritten NIL heading; explicit Rs90,000 due to HDFC Bank",
+          "primaryScope": "Selected primary rows PDF17 and disputed continuation PDF18",
+          "pages": [
+            17,
+            18
+          ],
+          "observations": [
+            {
+              "label": "Selected HDFC loan",
+              "valuePaise": 9000000,
+              "sourceText": "Rs90,000 due to HDFC Bank",
+              "qualifier": "exact",
+              "page": 17
+            }
+          ],
+          "note": "Handwritten NIL heading conflicts with explicit selected ₹90,000 HDFC loan. The loan observation agrees numerically with ADR ₹90,000, but the internal contradiction remains unresolved; complete primary liability stays null, with no zero finding or arithmetic discrepancy assigned. Printed NA and handwritten NIL alterations remain literal. Disputed continuation reviewed; no cause, filing correction or current financial/legal assessment inferred."
+        }
+      ]
     }
   ],
   "sourceReviewRuns": [
@@ -5045,7 +5153,8 @@
     "https://github.com/ethereum007/manipur/actions/runs/39527983585",
     "https://github.com/ethereum007/manipur/actions/runs/40844122191",
     "https://github.com/ethereum007/manipur/actions/runs/40896752283",
-    "https://github.com/ethereum007/manipur/actions/runs/40994578199"
+    "https://github.com/ethereum007/manipur/actions/runs/40994578199",
+    "https://github.com/ethereum007/manipur/actions/runs/41014134874"
   ],
   "selectionNotes": "Second batch: two previously unreviewed native-text-available records in AC12, selected in existing record order for a bounded availability-based sample; not a representative sample or risk ranking.",
   "selectionLimit": "Selected financial-summary comparisons form a nonrepresentative convenience sample, not complete independent affidavit audits.",
