@@ -880,3 +880,8 @@ AC6LourembamRameshwor/M.I.Khanpinnedtargets prepared;metadata-only40891689479que
 ## Batch41 scoped implementation pending release
 
 05f6c37611b07e9e0440530a4e5cf55be6e4d40e repo82/163/183/0,lastverifiedpublic80/159/185/0.81paisedifferenceunresolved/primaryNilselectedscopeonly. Cloud40906927903active;finishdeploy/liveJSON/screenshotsbeforeanotherbatch. FINANCIAL_BATCH_FORTY_ONE_RELEASE_PENDING_2026-10-29.md.2027deferred.
+
+
+## Financial batch41 verified/deployed —30October2026IST
+
+Production82/163/183/0.40906927903passed216checks/5PDFpages/currentPDFcoverage/913HTML/31,430refs/0errors. LiveJSONbyteexact,newdesktopmobileprofilesretained40988795548andmanuallyreviewed. FINANCIAL_BATCH_FORTY_ONE_QA_2026-10-30.md supersedespending.81paiseunresolved/selectedNilcontinuationlimitsexplicit;2027deferred/cadenceactive.
