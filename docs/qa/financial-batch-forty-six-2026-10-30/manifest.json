@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 8,
+    "candidate": "Achoibam Deben Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/8/Achoibam%20Deben%20Singh.pdf",
+    "sha256": "db93c2f1ebe29762cb3a51ae3394895950697b3efe76fbfd2d2bc80ffe2fd6a5",
+    "pages": 34,
+    "crops": [
+      {
+        "page": 32,
+        "rect": [
+          78,
+          565,
+          560,
+          610
+        ],
+        "id": "movable",
+        "image": "ac8-db93c2f1ebe2-p32-financial-selected-movable.png"
+      },
+      {
+        "page": 33,
+        "rect": [
+          78,
+          333,
+          535,
+          527
+        ],
+        "id": "liabilities",
+        "image": "ac8-db93c2f1ebe2-p33-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 8,
+    "candidate": "Khongbantabam Ibomcha",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/8/Khongbantabam%20Ibomcha.pdf",
+    "sha256": "ffaa8c7b6ac4c2facf6edc2f079eb788b9810709ca26f37cfe270a44ea6063a7",
+    "pages": 19,
+    "crops": [
+      {
+        "page": 17,
+        "rect": [
+          70,
+          651,
+          560,
+          692
+        ],
+        "id": "movable",
+        "image": "ac8-ffaa8c7b6ac4-p17-financial-selected-movable.png"
+      },
+      {
+        "page": 18,
+        "rect": [
+          70,
+          380,
+          560,
+          604
+        ],
+        "id": "liabilities",
+        "image": "ac8-ffaa8c7b6ac4-p18-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
