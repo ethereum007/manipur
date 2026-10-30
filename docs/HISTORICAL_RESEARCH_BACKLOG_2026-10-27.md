@@ -3,7 +3,7 @@
 User direction: continue building; defer2027analysis until explicitly resumed. Do not acquire2027nominee/alliance/opinioninputs or developprospectiveforecasts. Existing historicalreplays/limits stay intact.
 
 1. Presentation foundation verified:60-seat bounded dossier audit, current evidence ledger,15-slidecoverage,5-minutewebwalkthrough and5-pagegeneratedhandout. Use docs/PRESENTATION_RUNBOOK_2026-10-29.md for rehearsal; human timed rehearsal remains open. Continue source-gap research and demonstrated usability fixes, not duplicate presentation surfaces.
-2. Continue finite179candidate selectedreviewqueue, then expandmissingfieldcoverage where reliable; retrieval/OCR notindependentaudit. Preserve anomalies/nulls/partialscopes and avoid repeatdeferrals absentnewevidence.
+2. Continue finite177candidate selectedreviewqueue, then expandmissingfieldcoverage where reliable; retrieval/OCR notindependentaudit. Preserve anomalies/nulls/partialscopes and avoid repeatdeferrals absentnewevidence.
 3. Audit60historicalconstituency dossiers against sourcedresults, consistentdenominators and source/date labels. Correct demonstrated omissions, never fill unsupportedcauses/identity.
 4. Improve evidence-navigation/accessibility/briefingusability based on browser/screenshots; no superficialunboundedfeatures.
 
