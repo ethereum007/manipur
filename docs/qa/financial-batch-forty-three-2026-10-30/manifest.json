@@ -1,0 +1,77 @@
+[
+  {
+    "ac": 6,
+    "candidate": "Toijam Debananda Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/6/Toijam%20Debananda%20Singh.pdf",
+    "sha256": "314a95f2a0e7cd438fb30e2a530db8313291a10c380fd07ecc6953db752a6472",
+    "pages": 14,
+    "crops": [
+      {
+        "page": 12,
+        "rect": [
+          100,
+          50,
+          565,
+          105
+        ],
+        "id": "movable",
+        "image": "ac6-314a95f2a0e7-p12-financial-selected-movable.png"
+      },
+      {
+        "page": 12,
+        "rect": [
+          120,
+          503,
+          565,
+          675
+        ],
+        "id": "liabilities",
+        "image": "ac6-314a95f2a0e7-p12-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 6,
+    "candidate": "Yumnam Shanta Meetei",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/6/Yumnam%20Shanta%20Meetei.pdf",
+    "sha256": "0246ff26ccff9851ed7368f2896b4877feb5837bcc2a71131d948598b70c5c24",
+    "pages": 19,
+    "crops": [
+      {
+        "page": 16,
+        "rect": [
+          95,
+          662,
+          565,
+          712
+        ],
+        "id": "movable",
+        "image": "ac6-0246ff26ccff-p16-financial-selected-movable.png"
+      },
+      {
+        "page": 17,
+        "rect": [
+          108,
+          555,
+          565,
+          710
+        ],
+        "id": "primary-liabilities",
+        "image": "ac6-0246ff26ccff-p17-financial-selected-primary-liabilities.png"
+      },
+      {
+        "page": 18,
+        "rect": [
+          105,
+          68,
+          565,
+          238
+        ],
+        "id": "disputed-liabilities",
+        "image": "ac6-0246ff26ccff-p18-financial-selected-disputed-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
