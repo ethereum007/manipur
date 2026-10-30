@@ -5,7 +5,38 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/7/Lourembam%20Sanjoy%20Singh.pdf",
     "expectedSha256": "f16a58df5e92747a36c5c70b1082bbc2fc07c67c5f34f7fccbf496136be91ea3",
     "selectionReason": "Next unreviewed AC/name records excluding documented source-location deferrals; bounded nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 18,
+        "rect": [
+          72,
+          608,
+          555,
+          653
+        ],
+        "id": "movable"
+      },
+      {
+        "page": 19,
+        "rect": [
+          72,
+          355,
+          555,
+          540
+        ],
+        "id": "primary-liabilities"
+      },
+      {
+        "page": 19,
+        "rect": [
+          72,
+          560,
+          555,
+          735
+        ],
+        "id": "disputed-liabilities"
+      }
+    ]
   },
   {
     "ac": 7,
@@ -13,6 +44,37 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/7/Thounaojam%20Shyamkumar.pdf",
     "expectedSha256": "747e0a94a10ef68f14bfbef6ada59b43b8cc2f1e978521fcefa05fef0c63c570",
     "selectionReason": "Next unreviewed AC/name records excluding documented source-location deferrals; bounded nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 19,
+        "rect": [
+          88,
+          310,
+          565,
+          365
+        ],
+        "id": "movable"
+      },
+      {
+        "page": 19,
+        "rect": [
+          110,
+          670,
+          565,
+          752
+        ],
+        "id": "primary-liabilities"
+      },
+      {
+        "page": 20,
+        "rect": [
+          112,
+          82,
+          565,
+          215
+        ],
+        "id": "disputed-liabilities"
+      }
+    ]
   }
 ]
