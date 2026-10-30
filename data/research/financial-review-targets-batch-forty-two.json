@@ -1,0 +1,18 @@
+[
+  {
+    "ac": 6,
+    "candidate": "Md. Nasiruddin Khan",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/6/Md.%20Nasiruddin%20Khan.pdf",
+    "expectedSha256": "1ccdfe38488b791c91b5bfe1e2f71c5a262c9a38d4ae640693fa3cda9fa47547",
+    "selectionReason": "Next unreviewed AC/name records excluding documented source-location deferrals; bounded nonrepresentative convenience sample",
+    "clips": []
+  },
+  {
+    "ac": 6,
+    "candidate": "Thongram Tony Meitei",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/6/Thongram%20Tony%20Meitei.pdf",
+    "expectedSha256": "5fc544807cd338ddece8cbbdafeb0a85d9c43a5dda4605f7dd11d1f1e0048165",
+    "selectionReason": "Next unreviewed AC/name records excluding documented source-location deferrals; bounded nonrepresentative convenience sample",
+    "clips": []
+  }
+]
