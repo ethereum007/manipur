@@ -5,7 +5,28 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/6/Toijam%20Debananda%20Singh.pdf",
     "expectedSha256": "314a95f2a0e7cd438fb30e2a530db8313291a10c380fd07ecc6953db752a6472",
     "selectionReason": "Next unreviewed AC/name records excluding documented source-location deferrals; bounded nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 12,
+        "rect": [
+          100,
+          50,
+          565,
+          112
+        ],
+        "id": "movable"
+      },
+      {
+        "page": 12,
+        "rect": [
+          120,
+          503,
+          565,
+          675
+        ],
+        "id": "liabilities"
+      }
+    ]
   },
   {
     "ac": 6,
@@ -13,6 +34,37 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/6/Yumnam%20Shanta%20Meetei.pdf",
     "expectedSha256": "0246ff26ccff9851ed7368f2896b4877feb5837bcc2a71131d948598b70c5c24",
     "selectionReason": "Next unreviewed AC/name records excluding documented source-location deferrals; bounded nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 16,
+        "rect": [
+          95,
+          662,
+          565,
+          719
+        ],
+        "id": "movable"
+      },
+      {
+        "page": 17,
+        "rect": [
+          108,
+          555,
+          565,
+          710
+        ],
+        "id": "primary-liabilities"
+      },
+      {
+        "page": 18,
+        "rect": [
+          105,
+          68,
+          565,
+          238
+        ],
+        "id": "disputed-liabilities"
+      }
+    ]
   }
 ]
