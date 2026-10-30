@@ -920,3 +920,8 @@ AC6ToijamDebananda/YumnamShanta fixedtargets prepared;metadata-only41006718557qu
 ## Batch43 original financial source locations verified
 
 41006718557hashasserted/safemetadataretained;fivefinancial-onlyregionsrenderer41008491847queued. Noimages/valuesapproved;finishprivacy/visualreview. Public84/167/181/0unchanged,2027deferred.
+
+
+## Batch43 financial crop privacy refinement pending
+
+41008491847hashasserted;uncertainbluelowermarginartifactdeletedbeforeretention,Shantamovableendnarrowed712/replacement41011231714queued. Explicit90000HDFCloancontradictsNILheading;donotassigncompletezero. Finishcleanrenderreview;public84/167/181/0unchanged.
