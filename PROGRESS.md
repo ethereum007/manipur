@@ -895,3 +895,8 @@ AC6Md.Nasiruddin/ThongramTony fixedtargets prepared;metadata-only40991722035queu
 ## Batch42 original financial locations verified
 
 40991722035hashasserted/metadataretained;fourfinancial-onlyregionsrenderer40994578199queued. Novaluesapproved;finishprivacy/visualreviewbeforepublication. Public82/163/183/0unchanged,2027deferred.
+
+
+## Batch42 selected original financial regions reviewed
+
+40994578199hashasserted/fourfinancial-onlyregionsretained. Nasiruddinfirstmovable320000partial/wrappedsecondexcluded/rightcolumnclipped;TonyhandwrittenNilselectedscope/fullassetsnull. LiabilityNilscopeslimited/lowerlabelsclipped. Nextsecondarycomparison/implementation/releaseQA;public82/163/183/0unchanged,2027deferred.
