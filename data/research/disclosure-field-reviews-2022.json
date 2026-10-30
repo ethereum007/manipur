@@ -4940,13 +4940,112 @@
           "note": "Visible primary government-dues and loan cells say NIL, numerically consistent with ADR zero within this selected scope. Lower loan label partly clipped and disputed continuation unreviewed. This is not complete liability coverage, financial/legal clearance or current debt assessment; household roles unconfirmed."
         }
       ]
+    },
+    {
+      "ac": 6,
+      "candidate": "Md. Nasiruddin Khan",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/6/Md.%20Nasiruddin%20Khan.pdf",
+      "sourceSha256": "1ccdfe38488b791c91b5bfe1e2f71c5a262c9a38d4ae640693fa3cda9fa47547",
+      "reviewedAt": "2026-10-30",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40994578199",
+      "reviewedPages": [
+        14,
+        15
+      ],
+      "summary": "One clear movable cell ₹3,20,000; wrapped amount excluded and complete assets unreviewed. Visible primary liabilities NIL; rightmost column clipped.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 535621300,
+          "primaryValuePaise": null,
+          "primarySourceText": "One clear movable cell; second wrapped amount excluded",
+          "primaryScope": "Selected movable row PDF14 only",
+          "pages": [
+            14
+          ],
+          "observations": [
+            {
+              "label": "One clear movable cell",
+              "valuePaise": 32000000,
+              "sourceText": "Rs3,20,000/-",
+              "qualifier": "exact",
+              "page": 14
+            }
+          ],
+          "selectedComponentSubtotalPaise": 32000000,
+          "note": "Only the clear ₹3,20,000 cell is included. Second literal wraps Rs.5,36,21 then3.49/- and remains excluded; no digits/group resolution invented. Rightmost column clipped. Complete assets unreviewed, full primary total null; no equivalent-scope discrepancy against ADR ₹53,56,213 assigned; household roles unconfirmed."
+        },
+        {
+          "field": "liabilities",
+          "status": "summary-value-agrees",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": 0,
+          "primarySourceText": "NIL in visible primary government-dues and loan cells",
+          "primaryScope": "Visible primary liability rows PDF15 only; rightmost column and lower disputed loan label partly clipped",
+          "pages": [
+            15
+          ],
+          "note": "Visible primary and disputed cells say NIL; rightmost column clipped. Numerically consistent with ADR zero within the selected visible primary scope only. Lower disputed loan label partly clipped. This is not complete liability coverage, financial/legal clearance or a current debt assessment."
+        }
+      ]
+    },
+    {
+      "ac": 6,
+      "candidate": "Thongram Tony Meitei",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/6/Thongram%20Tony%20Meitei.pdf",
+      "sourceSha256": "5fc544807cd338ddece8cbbdafeb0a85d9c43a5dda4605f7dd11d1f1e0048165",
+      "reviewedAt": "2026-10-30",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40994578199",
+      "reviewedPages": [
+        15,
+        16
+      ],
+      "summary": "Selected movable row handwritten Nil; complete assets unreviewed. Visible primary liabilities handwritten Nil within selected scope.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 47916000,
+          "primaryValuePaise": null,
+          "primarySourceText": "Handwritten Nil across selected movable row",
+          "primaryScope": "Selected movable row PDF15 only",
+          "pages": [
+            15
+          ],
+          "observations": [
+            {
+              "label": "Selected movable row",
+              "valuePaise": 0,
+              "sourceText": "Nil",
+              "qualifier": "exact",
+              "page": 15
+            }
+          ],
+          "selectedComponentSubtotalPaise": 0,
+          "note": "Selected movable cells say handwritten Nil. Complete current-market assets remain unreviewed; full primary asset total stays null. ADR ₹4,79,160 is a complete secondary summary on a different unverified scope; no equivalent-scope discrepancy or complete zero-assets finding assigned."
+        },
+        {
+          "field": "liabilities",
+          "status": "summary-value-agrees",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": 0,
+          "primarySourceText": "Handwritten Nil in visible primary liability cells",
+          "primaryScope": "Visible primary liability rows PDF16 only; lower disputed label partly clipped",
+          "pages": [
+            16
+          ],
+          "note": "Visible primary and disputed cells show handwritten Nil. Numerically consistent with ADR zero within the selected visible primary scope only. Lower disputed loan label partly clipped. This is not complete liability coverage, financial/legal clearance or a current debt assessment."
+        }
+      ]
     }
   ],
   "sourceReviewRuns": [
     "https://github.com/ethereum007/manipur/actions/runs/39463703402",
     "https://github.com/ethereum007/manipur/actions/runs/39527983585",
     "https://github.com/ethereum007/manipur/actions/runs/40844122191",
-    "https://github.com/ethereum007/manipur/actions/runs/40896752283"
+    "https://github.com/ethereum007/manipur/actions/runs/40896752283",
+    "https://github.com/ethereum007/manipur/actions/runs/40994578199"
   ],
   "selectionNotes": "Second batch: two previously unreviewed native-text-available records in AC12, selected in existing record order for a bounded availability-based sample; not a representative sample or risk ranking.",
   "selectionLimit": "Selected financial-summary comparisons form a nonrepresentative convenience sample, not complete independent affidavit audits.",
