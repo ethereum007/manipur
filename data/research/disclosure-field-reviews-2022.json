@@ -5146,6 +5146,93 @@
           "note": "Handwritten NIL heading conflicts with explicit selected ₹90,000 HDFC loan. The loan observation agrees numerically with ADR ₹90,000, but the internal contradiction remains unresolved; complete primary liability stays null, with no zero finding or arithmetic discrepancy assigned. Printed NA and handwritten NIL alterations remain literal. Disputed continuation reviewed; no cause, filing correction or current financial/legal assessment inferred."
         }
       ]
+    },
+    {
+      "ac": 7,
+      "candidate": "Asheibam Bele Singh",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/7/Asheibam%20Bele%20Singh.pdf",
+      "sourceSha256": "d2bc53c8a3322f3796d69acd0ecd4493664e14e93c2d66b7636bc67bc84ca909",
+      "reviewedAt": "2026-10-30",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41031238465",
+      "reviewedPages": [
+        15
+      ],
+      "summary": "Selected movable cell ₹4,66,676.35 is partial; complete assets unreviewed. Liability cells mix NIL and Not Applicable; primary total unassigned.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 86667600,
+          "primaryValuePaise": null,
+          "primarySourceText": "One selected movable monetary cell; other Not Applicable",
+          "primaryScope": "Selected movable row PDF15 only",
+          "pages": [
+            15
+          ],
+          "observations": [
+            {
+              "label": "Selected movable cell",
+              "valuePaise": 46667635,
+              "sourceText": "Rs4,66,676.35/-",
+              "qualifier": "exact",
+              "page": 15
+            }
+          ],
+          "selectedComponentSubtotalPaise": 46667635,
+          "note": "One selected movable cell ₹4,66,676.35; other Not Applicable cells remain nonnumeric. Complete current-market assets unreviewed, full primary total stays null; no equivalent-scope discrepancy against ADR assigned."
+        },
+        {
+          "field": "liabilities",
+          "status": "partial-wording-review",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": null,
+          "primarySourceText": "Self NIL; other cells Not Applicable",
+          "primaryScope": "Selected liability rows PDF15 only; lower disputed loan label partly clipped",
+          "pages": [
+            15
+          ],
+          "note": "Visible primary and disputed rows show self NIL with other cells Not Applicable. ADR zero is a secondary summary; non-applicability is not converted to a complete primary monetary zero. Primary liability total stays null. Lower disputed loan label partly clipped; no current financial/legal clearance or complete independent audit inferred."
+        }
+      ]
+    },
+    {
+      "ac": 7,
+      "candidate": "Keisham Ningthemjao Singh",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/7/Keisham%20Ningthemjao%20Singh.pdf",
+      "sourceSha256": "12015d18ea2a801b47a609ebe93f1c306e44c59083e1bb71580677871824b09b",
+      "reviewedAt": "2026-10-30",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41031238465",
+      "reviewedPages": [
+        11,
+        12
+      ],
+      "summary": "Selected movable row mixes NIL and NOT APPLICABLE; complete assets unreviewed. Liability wording is mixed applicability, not a complete monetary zero.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 161000000,
+          "primaryValuePaise": null,
+          "primarySourceText": "NIL except HUF NOT APPLICABLE in selected movable row",
+          "primaryScope": "Selected movable row PDF11 only",
+          "pages": [
+            11
+          ],
+          "note": "Displayed selected movable cells say NIL except HUF NOT APPLICABLE; mixed applicability is not a complete zero-assets finding. Complete current-market assets unreviewed, full primary total stays null; no equivalent-scope discrepancy against ADR assigned."
+        },
+        {
+          "field": "liabilities",
+          "status": "partial-wording-review",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": null,
+          "primarySourceText": "Government dues NIL except HUF NOT APPLICABLE; primary loans self/spouse/HUF NOT APPLICABLE, dependents NIL",
+          "primaryScope": "Selected liability rows PDF12 only; lower disputed loan label partly clipped",
+          "pages": [
+            12
+          ],
+          "note": "Visible primary and disputed rows mix NIL and NOT APPLICABLE, including NOT APPLICABLE primary loan cells. ADR zero is a secondary summary; non-applicability is not converted to a complete primary monetary zero. Primary liability total stays null. Lower disputed loan label partly clipped; no current financial/legal clearance or complete independent audit inferred."
+        }
+      ]
     }
   ],
   "sourceReviewRuns": [
@@ -5154,7 +5241,8 @@
     "https://github.com/ethereum007/manipur/actions/runs/40844122191",
     "https://github.com/ethereum007/manipur/actions/runs/40896752283",
     "https://github.com/ethereum007/manipur/actions/runs/40994578199",
-    "https://github.com/ethereum007/manipur/actions/runs/41014134874"
+    "https://github.com/ethereum007/manipur/actions/runs/41014134874",
+    "https://github.com/ethereum007/manipur/actions/runs/41031238465"
   ],
   "selectionNotes": "Second batch: two previously unreviewed native-text-available records in AC12, selected in existing record order for a bounded availability-based sample; not a representative sample or risk ranking.",
   "selectionLimit": "Selected financial-summary comparisons form a nonrepresentative convenience sample, not complete independent affidavit audits.",
