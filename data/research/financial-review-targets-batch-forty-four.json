@@ -5,7 +5,28 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/7/Asheibam%20Bele%20Singh.pdf",
     "expectedSha256": "d2bc53c8a3322f3796d69acd0ecd4493664e14e93c2d66b7636bc67bc84ca909",
     "selectionReason": "Next unreviewed AC/name records excluding documented source-location deferrals; bounded nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 15,
+        "rect": [
+          100,
+          155,
+          565,
+          207
+        ],
+        "id": "movable"
+      },
+      {
+        "page": 15,
+        "rect": [
+          112,
+          515,
+          565,
+          750
+        ],
+        "id": "liabilities"
+      }
+    ]
   },
   {
     "ac": 7,
@@ -13,6 +34,27 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/7/Keisham%20Ningthemjao%20Singh.pdf",
     "expectedSha256": "12015d18ea2a801b47a609ebe93f1c306e44c59083e1bb71580677871824b09b",
     "selectionReason": "Next unreviewed AC/name records excluding documented source-location deferrals; bounded nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 11,
+        "rect": [
+          92,
+          518,
+          565,
+          581
+        ],
+        "id": "movable"
+      },
+      {
+        "page": 12,
+        "rect": [
+          98,
+          82,
+          565,
+          326
+        ],
+        "id": "liabilities"
+      }
+    ]
   }
 ]
