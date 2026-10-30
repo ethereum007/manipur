@@ -930,3 +930,8 @@ AC6ToijamDebananda/YumnamShanta fixedtargets prepared;metadata-only41006718557qu
 ## Batch43 lower-margin candidate correction
 
 BlueuncertainmarginactuallyToijamPDF12movable;replacementartifactdeletedbeforeretention,endnarrowed105/finalrenderer41014134874queued. Finishcleanvisualreview;public84/167/181/0unchanged.
+
+
+## Batch43 clean original financial review complete
+
+Final41014134874hashasserted/fivefinancial-onlyregionsreviewedretained. Toijamselectedmovable50000/primaryNilscoped;Shantaselectedmovable100000/NILheadingvs90000HDFCloancontradictioncompleteprimaryliabilitynull. Nextsecondarycomparison/implementation/releaseQA;public84/167/181/0unchanged,2027deferred.
