@@ -5,7 +5,28 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/8/Achoibam%20Deben%20Singh.pdf",
     "expectedSha256": "db93c2f1ebe29762cb3a51ae3394895950697b3efe76fbfd2d2bc80ffe2fd6a5",
     "selectionReason": "Next unreviewed AC/name records excluding documented source-location deferrals; bounded nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 32,
+        "rect": [
+          78,
+          565,
+          560,
+          610
+        ],
+        "id": "movable"
+      },
+      {
+        "page": 33,
+        "rect": [
+          78,
+          333,
+          560,
+          527
+        ],
+        "id": "liabilities"
+      }
+    ]
   },
   {
     "ac": 8,
@@ -13,6 +34,27 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/8/Khongbantabam%20Ibomcha.pdf",
     "expectedSha256": "ffaa8c7b6ac4c2facf6edc2f079eb788b9810709ca26f37cfe270a44ea6063a7",
     "selectionReason": "Next unreviewed AC/name records excluding documented source-location deferrals; bounded nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 17,
+        "rect": [
+          70,
+          651,
+          560,
+          689
+        ],
+        "id": "movable"
+      },
+      {
+        "page": 18,
+        "rect": [
+          70,
+          380,
+          560,
+          604
+        ],
+        "id": "liabilities"
+      }
+    ]
   }
 ]
