@@ -945,3 +945,8 @@ c30d660aea805e06c6c1aa91735ad337cafc8bf9 repo86/171/179/0,lastverifiedpublic84/1
 ## Financial batch43 verified/deployed —30October2026IST
 
 Production86/171/179/0.41020206879passed220checks/5PDFpages/currentPDFcoverage/913HTML/31,434refs/0errors. LiveJSONbyteexact,newdesktopmobileprofilesretained41024425710andmanuallyreviewed. FINANCIAL_BATCH_FORTY_THREE_QA_2026-10-30.md supersedespending;NILheading/loanscopecontradictionpreserved.2027deferred/cadenceactive.
+
+
+## Original financial batch44 locator pending —30October2026IST
+
+AC7AsheibamBele/KeishamNingthemjao fixedtargets prepared;metadata-only41027729587queued. Noimages/valuesapproved;finishexactrunbeforeanotherbatch. FINANCIAL_BATCH_FORTY_FOUR_PREPARATION_2026-10-30.md. Public86/171/179/0unchanged;2027deferred.
