@@ -1,0 +1,5 @@
+# Batch42 release pending —30October2026IST
+
+03000a4984847481496e7ddae57063c9c08ed759 adds2candidates/4scopednotes fromreviewedoriginal40994578199. Repo84/167/181/0,lastverifiedpublic82/163/183/0. Nasiruddinpartial320000rupees/wrappedsecondexcluded/rightmostcolumnclipped;TonyselectedmovablehandwrittenNil/fullassetsnull. Primaryliabilityzeroonlyvisiblecellscope/lowerlabelsclipped,no fullclearance/audit.
+
+Cloud41000141774active;finishexactrun/deploy/liveJSON/screenshotsbeforeanotherbatch. financial-nasiruddin-b42-desktop.png/financial-tony-b42-mobile.png. Dynamicbriefing/PDFcoverage mustpass.2027deferred/cadenceactive/allprojectworkGitHub-only.
