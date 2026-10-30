@@ -1,0 +1,88 @@
+[
+  {
+    "ac": 7,
+    "candidate": "Lourembam Sanjoy Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/7/Lourembam%20Sanjoy%20Singh.pdf",
+    "sha256": "f16a58df5e92747a36c5c70b1082bbc2fc07c67c5f34f7fccbf496136be91ea3",
+    "pages": 21,
+    "crops": [
+      {
+        "page": 18,
+        "rect": [
+          72,
+          622,
+          555,
+          653
+        ],
+        "id": "movable",
+        "image": "ac7-f16a58df5e92-p18-financial-selected-movable.png"
+      },
+      {
+        "page": 19,
+        "rect": [
+          72,
+          355,
+          555,
+          540
+        ],
+        "id": "primary-liabilities",
+        "image": "ac7-f16a58df5e92-p19-financial-selected-primary-liabilities.png"
+      },
+      {
+        "page": 19,
+        "rect": [
+          72,
+          560,
+          555,
+          680
+        ],
+        "id": "disputed-liabilities",
+        "image": "ac7-f16a58df5e92-p19-financial-selected-disputed-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 7,
+    "candidate": "Thounaojam Shyamkumar",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/7/Thounaojam%20Shyamkumar.pdf",
+    "sha256": "747e0a94a10ef68f14bfbef6ada59b43b8cc2f1e978521fcefa05fef0c63c570",
+    "pages": 21,
+    "crops": [
+      {
+        "page": 19,
+        "rect": [
+          88,
+          326,
+          565,
+          365
+        ],
+        "id": "movable",
+        "image": "ac7-747e0a94a10e-p19-financial-selected-movable.png"
+      },
+      {
+        "page": 19,
+        "rect": [
+          110,
+          670,
+          565,
+          744
+        ],
+        "id": "primary-liabilities",
+        "image": "ac7-747e0a94a10e-p19-financial-selected-primary-liabilities.png"
+      },
+      {
+        "page": 20,
+        "rect": [
+          112,
+          130,
+          565,
+          215
+        ],
+        "id": "disputed-liabilities",
+        "image": "ac7-747e0a94a10e-p20-financial-selected-disputed-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
