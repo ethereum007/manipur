@@ -1,0 +1,5 @@
+# Batch45 release pending —30October2026IST
+
+bfa2eb6c7d67f6d112f20d04c2bdd7fff01564a7 adds2candidates/4scopednotes fromcleanreviewed41053087387. Repo90/179/175/0,lastverifiedpublic88/175/177/0. Sanjoypartialmovable1176136300paise,selectedloanentries69818828paisevsADR69818800;completeprimaryliabilitynull/mixedNA-Nilscope,no completedifferencefield. Shyamkumarpartial809820515paise/primaryloanclippedunapproved/liabilitynull. No cause/currentdebt/legalinference.
+
+Cloud41060708561active;finishexactrun/deploy/liveJSON/screenshotsbeforeanotherbatch. financial-sanjoy-b45-desktop.png/financial-shyamkumar-b45-mobile.png. Dynamicbriefing/PDFcoveragechecksrequired.2027deferred/cadenceactive/allprojectworkGitHub-only.
