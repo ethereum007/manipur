@@ -1,0 +1,5 @@
+# Batch44 release pending —30October2026IST
+
+be940bf8a0c4d692951ebf59aaaceea6c5045f8a adds2candidates/4scopednotes fromreviewed41031238465. Repo88/175/177/0,lastverifiedpublic86/171/179/0. Asheibampartial46667635paise/fullassetsnull/mixedNILNAliabilitynull. KeishammovableNIL/NOTAPPLICABLE/fullassetsnull,mixedNAloanwordingprimaryliabilitynull;secondaryzero notprimaryzero. Lowerdisputedlabelsclipped/scopesexplicit.
+
+Cloud41038483724active;finishexactrun/deploy/liveJSON/screenshotsbeforeanotherbatch. financial-asheibam-b44-desktop.png/financial-keisham-b44-mobile.png;dynamicbriefing/PDFcoveragechecksrequired.2027deferred/cadenceactive/allprojectworkGitHub-only.
