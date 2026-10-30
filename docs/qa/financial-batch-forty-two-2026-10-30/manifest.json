@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 6,
+    "candidate": "Md. Nasiruddin Khan",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/6/Md.%20Nasiruddin%20Khan.pdf",
+    "sha256": "1ccdfe38488b791c91b5bfe1e2f71c5a262c9a38d4ae640693fa3cda9fa47547",
+    "pages": 16,
+    "crops": [
+      {
+        "page": 14,
+        "rect": [
+          105,
+          420,
+          565,
+          475
+        ],
+        "id": "movable",
+        "image": "ac6-1ccdfe38488b-p14-financial-selected-movable.png"
+      },
+      {
+        "page": 15,
+        "rect": [
+          100,
+          272,
+          565,
+          425
+        ],
+        "id": "liabilities",
+        "image": "ac6-1ccdfe38488b-p15-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 6,
+    "candidate": "Thongram Tony Meitei",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/6/Thongram%20Tony%20Meitei.pdf",
+    "sha256": "5fc544807cd338ddece8cbbdafeb0a85d9c43a5dda4605f7dd11d1f1e0048165",
+    "pages": 17,
+    "crops": [
+      {
+        "page": 15,
+        "rect": [
+          100,
+          465,
+          565,
+          508
+        ],
+        "id": "movable",
+        "image": "ac6-5fc544807cd3-p15-financial-selected-movable.png"
+      },
+      {
+        "page": 16,
+        "rect": [
+          80,
+          178,
+          565,
+          410
+        ],
+        "id": "liabilities",
+        "image": "ac6-5fc544807cd3-p16-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
