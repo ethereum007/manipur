@@ -1020,3 +1020,8 @@ AC8AchoibamDeben/KhongbantabamIbomcha fixedtargets prepared;metadata-only4107333
 ## Batch46 financial source locations verified
 
 41073339729hashasserted/metadataretained;fourfinancial-onlyregionsrenderer41077880185queued. Finishprivacy/visualreviewbeforepublication. Public90/179/175/0unchanged,2027deferred.
+
+
+## Batch46 right-margin privacy refinement pending
+
+41077880185signaturemarginartifactdeletedbeforeretention;Achoibamrightcrop535/Ibomchamovablebottom692,replacement41082523789queued. Noimagesretained/valuesapproved;finishcleanreview. Public90/179/175/0unchanged.
