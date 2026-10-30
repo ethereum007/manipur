@@ -1,0 +1,18 @@
+[
+  {
+    "ac": 7,
+    "candidate": "Asheibam Bele Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/7/Asheibam%20Bele%20Singh.pdf",
+    "expectedSha256": "d2bc53c8a3322f3796d69acd0ecd4493664e14e93c2d66b7636bc67bc84ca909",
+    "selectionReason": "Next unreviewed AC/name records excluding documented source-location deferrals; bounded nonrepresentative convenience sample",
+    "clips": []
+  },
+  {
+    "ac": 7,
+    "candidate": "Keisham Ningthemjao Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/7/Keisham%20Ningthemjao%20Singh.pdf",
+    "expectedSha256": "12015d18ea2a801b47a609ebe93f1c306e44c59083e1bb71580677871824b09b",
+    "selectionReason": "Next unreviewed AC/name records excluding documented source-location deferrals; bounded nonrepresentative convenience sample",
+    "clips": []
+  }
+]
