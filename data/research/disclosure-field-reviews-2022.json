@@ -1,6 +1,6 @@
 {
   "year": 2022,
-  "reviewedAt": "2026-10-27",
+  "reviewedAt": "2026-10-31",
   "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40158668602",
   "method": "Codex visual comparison of selected original financial-summary regions. OCR located pages only; retained images use fixed financial-region coordinates and matching source hashes. Selected cells, not an independent human audit or complete affidavit review.",
   "scope": "Self-declarations at 2022 nomination. Not present wealth, current liabilities, legal status or certification of truth.",
@@ -5606,6 +5606,146 @@
             12
           ],
           "note": "Selected primary loan ₹13,24,000 agrees numerically with ADR within selected scope. Other Not Applicable and visible disputed NIL/Not Applicable wording preserved; lower disputed label clipped. No complete independent audit, current debt or legal assessment inferred."
+        }
+      ]
+    },
+    {
+      "ac": 8,
+      "candidate": "Sapam Kangleipal Meitei",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/8/Sapam%20Kangleipal%20Meitei.pdf",
+      "sourceSha256": "8e66c452597424f02090e5addc8ab70e7d7514b34ab50f37d2148336206af2e8",
+      "reviewedAt": "2026-10-31",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41187675237",
+      "reviewedPages": [
+        21,
+        22
+      ],
+      "summary": "Selected movable cell ₹34,975 equals the ADR asset figure numerically, but complete assets remain unreviewed. Visible Nil liability cells have clipped scope.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 3497500,
+          "primaryValuePaise": null,
+          "primarySourceText": "Rs34,975/- and visible Nil cells; rightmost continuation clipped",
+          "primaryScope": "Selected movable row PDF21 only",
+          "pages": [
+            21
+          ],
+          "observations": [
+            {
+              "label": "First selected movable cell",
+              "valuePaise": 3497500,
+              "sourceText": "₹34,975/-",
+              "qualifier": "exact",
+              "page": 21
+            }
+          ],
+          "selectedComponentSubtotalPaise": 3497500,
+          "note": "Selected movable ₹34,975 equals ADR numerically, but this does not establish an equivalent complete-asset scope. Rightmost cells are clipped; immovable current-market rows are unreviewed. Full primary total null and no complete-asset difference assigned."
+        },
+        {
+          "field": "liabilities",
+          "status": "partial-wording-review",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": null,
+          "primarySourceText": "Nil in visible government-dues and loan cells",
+          "primaryScope": "Selected primary rows PDF21 and disputed rows PDF22; rightmost cells and primary loan-label continuation clipped",
+          "pages": [
+            21,
+            22
+          ],
+          "note": "Visible primary and disputed government-dues/loan cells read Nil. Rightmost columns and primary loan-label continuation are clipped; a complete primary monetary zero is not assigned. ADR zero remains secondary, not a full filing or debt-clearance finding."
+        }
+      ]
+    },
+    {
+      "ac": 9,
+      "candidate": "Hijam Nutanchandra Singh",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/9/Hijam%20Nutanchandra%20Singh.pdf",
+      "sourceSha256": "cc8eef7680faac76d4542378006dfe5533691c680284edb62aa4dced1ed9f9be",
+      "reviewedAt": "2026-10-31",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41187675237",
+      "reviewedPages": [
+        16,
+        17,
+        34,
+        35
+      ],
+      "summary": "Two selected abstract versions agree on four movable amounts but conflict on the spouse-loan cell: PDF17 ₹1,60,43,357 versus PDF35 ₹16,04,357. Complete primary liability remains null.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 352357200,
+          "primaryValuePaise": null,
+          "primarySourceText": "Wrapped movable cells on PDF16 and34; HUF/dependent wording -NA-",
+          "primaryScope": "Four selected movable amounts repeated on PDF16/34; not counted twice",
+          "pages": [
+            16,
+            34
+          ],
+          "observations": [
+            {
+              "label": "Self movable",
+              "valuePaise": 59338500,
+              "sourceText": "Rs5,93,3 / 85/-",
+              "qualifier": "exact",
+              "page": 16
+            },
+            {
+              "label": "Spouse movable",
+              "valuePaise": 8000000,
+              "sourceText": "Rs80,000 /-",
+              "qualifier": "exact",
+              "page": 16
+            },
+            {
+              "label": "Dependent-1 movable",
+              "valuePaise": 11500000,
+              "sourceText": "Rs1,15,000/-",
+              "qualifier": "exact",
+              "page": 16
+            },
+            {
+              "label": "Dependent-2 movable",
+              "valuePaise": 35207300,
+              "sourceText": "Rs3,52,073/-",
+              "qualifier": "exact",
+              "page": 16
+            }
+          ],
+          "selectedComponentSubtotalPaise": 114045800,
+          "note": "Four selected movable amounts subtotal ₹11,40,458, each counted once despite repetition on PDF34. Self593385 and spouse80000 wrap across lines; HUF and visible other dependent -NA- wording is not numeric zero. Complete immovable current-market rows remain unreviewed, so full primary assets null; no equivalent-scope discrepancy against ADR assigned."
+        },
+        {
+          "field": "liabilities",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 160435700,
+          "primaryValuePaise": null,
+          "primarySourceText": "PDF17 Rs16,043,357/-; PDF35 Rs16,04,357/-",
+          "primaryScope": "Conflicting spouse-loan cells in two selected abstract versions; no version precedence established",
+          "pages": [
+            17,
+            35
+          ],
+          "observations": [
+            {
+              "label": "Spouse loan, first abstract PDF17",
+              "valuePaise": 1604335700,
+              "sourceText": "Rs16,043,357/-",
+              "qualifier": "exact",
+              "page": 17
+            },
+            {
+              "label": "Spouse loan, second abstract PDF35",
+              "valuePaise": 160435700,
+              "sourceText": "Rs16,04, / 357/-",
+              "qualifier": "exact",
+              "page": 35
+            }
+          ],
+          "note": "Internal page-version contradiction remains unresolved: PDF17 prints ₹1,60,43,357 and PDF35 prints ₹16,04,357 in the spouse-loan column. ADR ₹16,04,357 agrees numerically with the second version only; no correction or authoritative version is inferred. These are alternate readings of one cell, not additive components. Other primary/disputed cells read -NA- and remain nonnumeric. Complete primary liability null; no single monetary difference assigned."
         }
       ]
     }
