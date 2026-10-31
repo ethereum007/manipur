@@ -1,0 +1,5 @@
+# Batch47 release pending —31October2026IST
+
+fd63e61505e6dc58fa9693ba7bb31e689446f53c adds2candidates/3scopednotes fromreviewed41161035062. Repo94/186/171/0,lastverifiedpublic92/183/173/0. Kshetrimayumasset-onlypartial8687082371paise/liabilityunlocatedunreviewednotcounted;Mongjampartial302858102/selectedloan132400000agreesADR. Fullassetsnull/clippedvaluesexcluded.
+
+Cloud41165379433active;finishexactrun/deploy/liveJSON/screenshotsbeforeanotherbatch. financial-kshetrimayum-b47-desktop.png/financial-mongjam-b47-mobile.png;dynamicbriefing/PDFcoveragechecksrequired.2027deferred/cadenceactive/allprojectworkGitHub-only.
