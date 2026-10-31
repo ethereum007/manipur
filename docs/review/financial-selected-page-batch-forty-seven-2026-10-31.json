@@ -1,0 +1,19 @@
+[
+  {
+    "candidate": "Kshetrimayum Biren Singh",
+    "ac": 8,
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/8/Kshetrimayum%20Biren%20Singh.pdf",
+    "sha256": "ec6148d425899be2ed2cdebae20cb63f9606cf03680f3fe5f17b5680ebf10707",
+    "pages": 16,
+    "proposals": [
+      {
+        "page": 15,
+        "width": 595.0,
+        "height": 842.0,
+        "markers": [],
+        "locator": "Selected-page OCR headings only; no financial values approved"
+      }
+    ],
+    "scope": "Fixed-page heading coordinates only; no monetary values, full extracted text or rendered images exported"
+  }
+]
