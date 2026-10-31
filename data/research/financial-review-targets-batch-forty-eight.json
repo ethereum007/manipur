@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/8/Sapam%20Kangleipal%20Meitei.pdf",
+    "clips": [],
+    "ac": 8,
+    "selectionReason": "Next image-only record in bounded AC/name convenience queue; not representative or risk ranked.",
+    "expectedSha256": "8e66c452597424f02090e5addc8ab70e7d7514b34ab50f37d2148336206af2e8",
+    "candidate": "Sapam Kangleipal Meitei"
+  },
+  {
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/9/Hijam%20Nutanchandra%20Singh.pdf",
+    "clips": [],
+    "ac": 9,
+    "selectionReason": "Next image-only record in bounded AC/name convenience queue; not representative or risk ranked.",
+    "expectedSha256": "cc8eef7680faac76d4542378006dfe5533691c680284edb62aa4dced1ed9f9be",
+    "candidate": "Hijam Nutanchandra Singh"
+  }
+]
