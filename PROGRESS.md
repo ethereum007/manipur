@@ -1045,3 +1045,8 @@ AC8AchoibamDeben/KhongbantabamIbomcha fixedtargets prepared;metadata-only4107333
 ## Batch46 verified; retention race fixed —31October2026IST
 
 Production92/183/173/0;226checks/5PDFpages/currentcoverage/913HTML/31,440refs/0errors. LiveJSONbyteexact,newprofilesmanuallyreviewed. Originalcollectorpushracefixedrebasebeforepush,replacement41154042804successconfirmed. FINANCIAL_BATCH_FORTY_SIX_QA_2026-10-31.md supersedespending.2027deferred/cadenceactive.
+
+
+## Original financial batch47 locator pending —31October2026IST
+
+AC8KshetrimayumBiren/MongjamPoireihenba fixedtargets prepared;metadata-only41156427017queued. Noimages/valuesapproved;finishexactrunbeforeanotherbatch. FINANCIAL_BATCH_FORTY_SEVEN_PREPARATION_2026-10-31.md. Public92/183/173/0unchanged;2027deferred.
