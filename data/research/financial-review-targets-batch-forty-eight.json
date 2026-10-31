@@ -1,7 +1,38 @@
 [
   {
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/8/Sapam%20Kangleipal%20Meitei.pdf",
-    "clips": [],
+    "clips": [
+      {
+        "id": "movable",
+        "rect": [
+          135,
+          136,
+          700,
+          175
+        ],
+        "page": 21
+      },
+      {
+        "id": "liabilities",
+        "rect": [
+          140,
+          388,
+          700,
+          475
+        ],
+        "page": 21
+      },
+      {
+        "id": "disputed",
+        "rect": [
+          145,
+          96,
+          700,
+          174
+        ],
+        "page": 22
+      }
+    ],
     "ac": 8,
     "selectionReason": "Next image-only record in bounded AC/name convenience queue; not representative or risk ranked.",
     "expectedSha256": "8e66c452597424f02090e5addc8ab70e7d7514b34ab50f37d2148336206af2e8",
@@ -9,7 +40,48 @@
   },
   {
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/9/Hijam%20Nutanchandra%20Singh.pdf",
-    "clips": [],
+    "clips": [
+      {
+        "id": "assets-first",
+        "rect": [
+          115,
+          448,
+          530,
+          531
+        ],
+        "page": 16
+      },
+      {
+        "id": "liabilities-first",
+        "rect": [
+          120,
+          284,
+          530,
+          447
+        ],
+        "page": 17
+      },
+      {
+        "id": "assets-second",
+        "rect": [
+          105,
+          430,
+          530,
+          516
+        ],
+        "page": 34
+      },
+      {
+        "id": "liabilities-second",
+        "rect": [
+          98,
+          251,
+          520,
+          417
+        ],
+        "page": 35
+      }
+    ],
     "ac": 9,
     "selectionReason": "Next image-only record in bounded AC/name convenience queue; not representative or risk ranked.",
     "expectedSha256": "cc8eef7680faac76d4542378006dfe5533691c680284edb62aa4dced1ed9f9be",
