@@ -5,7 +5,18 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/8/Kshetrimayum%20Biren%20Singh.pdf",
     "expectedSha256": "ec6148d425899be2ed2cdebae20cb63f9606cf03680f3fe5f17b5680ebf10707",
     "selectionReason": "Next unreviewed AC/name records excluding documented source-location deferrals; bounded nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 14,
+        "rect": [
+          86,
+          490,
+          560,
+          555
+        ],
+        "id": "movable"
+      }
+    ]
   },
   {
     "ac": 8,
@@ -13,6 +24,27 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/8/Mongjam%20Poireihenba%20Meetei.pdf",
     "expectedSha256": "e03aa9b52d3e397b9a747a48b83752abdbff4ca300186d4b4d12bfc070d0a7da",
     "selectionReason": "Next unreviewed AC/name records excluding documented source-location deferrals; bounded nonrepresentative convenience sample",
-    "clips": []
+    "clips": [
+      {
+        "page": 12,
+        "rect": [
+          120,
+          264,
+          555,
+          290
+        ],
+        "id": "movable"
+      },
+      {
+        "page": 12,
+        "rect": [
+          112,
+          459,
+          555,
+          610
+        ],
+        "id": "liabilities"
+      }
+    ]
   }
 ]
