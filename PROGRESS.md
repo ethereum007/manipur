@@ -1050,3 +1050,8 @@ Production92/183/173/0;226checks/5PDFpages/currentcoverage/913HTML/31,440refs/0e
 ## Original financial batch47 locator pending —31October2026IST
 
 AC8KshetrimayumBiren/MongjamPoireihenba fixedtargets prepared;metadata-only41156427017queued. Noimages/valuesapproved;finishexactrunbeforeanotherbatch. FINANCIAL_BATCH_FORTY_SEVEN_PREPARATION_2026-10-31.md. Public92/183/173/0unchanged;2027deferred.
+
+
+## Batch47 source refinement pending
+
+41156427017hashasserted;threefinancial-onlyregionsrenderer41158795494queued,KshetrimayummissingPDF15liabilityheading-only41158797610queued. Finishbothruns/privacy/visualreviewbeforepublication. Public92/183/173/0unchanged.
