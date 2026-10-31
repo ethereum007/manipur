@@ -1070,3 +1070,8 @@ PDF15firstheadinglookupempty;alternatePSM6fixedpage41161036697queued. Kshetrimay
 ## Batch47 scoped implementation pending release
 
 fd63e61505e6dc58fa9693ba7bb31e689446f53c repo94/186/171/0,lastverifiedpublic92/183/173/0. Asset-onlymissingliabilitynotcounted;Mongjamselectedloanagrees/partialassetsnull. Cloud41165379433active;finishdeploy/liveJSON/screenshotsbeforeanotherbatch. FINANCIAL_BATCH_FORTY_SEVEN_RELEASE_PENDING_2026-10-31.md.2027deferred.
+
+
+## Batch47 verified/deployed —31October2026IST
+
+Production94/186/171/0.41165379433passed228checks/5PDFpages/currentcoverage/913HTML/31,442refs/0errors. LiveJSONbyteexact,profilesretained41167426877andmanuallyreviewed. FINANCIAL_BATCH_FORTY_SEVEN_QA_2026-10-31.md supersedespending. Kshetrimayumasset-onlyliabilityunlocatednotcounted;2027deferred/cadenceactive.
