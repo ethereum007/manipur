@@ -1,0 +1,24 @@
+name: Locate bounded financial summary regions batch forty-seven
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  locate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: sudo apt-get update && sudo apt-get install -y tesseract-ocr
+      - run: pip install requests==2.34.2 pymupdf==2.0
+      - run: python scripts/ingest/locate-financial-native.py
+        env:
+          FINANCIAL_TARGETS: data/research/financial-review-targets-batch-forty-seven.json
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: financial-locator-batch-forty-seven
+          path: work-financial-locator/
