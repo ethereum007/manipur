@@ -3,7 +3,38 @@
     "ac": 9,
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/9/Jotin%20Waikhom.pdf",
     "selectionReason": "Next image-only record in bounded AC/name convenience queue; not representative or risk ranked.",
-    "clips": [],
+    "clips": [
+      {
+        "page": 17,
+        "rect": [
+          108,
+          180,
+          545,
+          223
+        ],
+        "id": "movable"
+      },
+      {
+        "page": 17,
+        "rect": [
+          108,
+          590,
+          545,
+          700
+        ],
+        "id": "liabilities"
+      },
+      {
+        "page": 18,
+        "rect": [
+          108,
+          80,
+          545,
+          210
+        ],
+        "id": "disputed"
+      }
+    ],
     "candidate": "Jyotin Waikhom",
     "expectedSha256": "080091e067b9069caa74a814601894a6c1fc58e74decc9b93bbe9480d18f2bc3"
   },
@@ -11,7 +42,28 @@
     "ac": 9,
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/9/Khumukcham%20Joykisan%20Singh.pdf",
     "selectionReason": "Next image-only record in bounded AC/name convenience queue; not representative or risk ranked.",
-    "clips": [],
+    "clips": [
+      {
+        "page": 20,
+        "rect": [
+          70,
+          530,
+          540,
+          567
+        ],
+        "id": "movable"
+      },
+      {
+        "page": 21,
+        "rect": [
+          74,
+          222,
+          540,
+          427
+        ],
+        "id": "liabilities"
+      }
+    ],
     "candidate": "Khumukchan Joykisan Singh",
     "expectedSha256": "6a9ebbc131251e516fefd09d75c3c22dbbad51f6444447cc0c45542897d3cc9c"
   }
