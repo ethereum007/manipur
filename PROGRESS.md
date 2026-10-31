@@ -1040,3 +1040,8 @@ AC8AchoibamDeben/KhongbantabamIbomcha fixedtargets prepared;metadata-only4107333
 ## Batch46 production checks passed; final visual gate pending
 
 41091670783passed226checks/5PDFpages/currentcoverage/913HTML/31,440refs/0errors;liveJSONbyteexact92/183/173. Collector41096113879inprogress/filesnotyetavailable. Manualprofilevisualreviewstillrequired;finishexactgatebeforeanotherbatch.
+
+
+## Batch46 verified; retention race fixed —31October2026IST
+
+Production92/183/173/0;226checks/5PDFpages/currentcoverage/913HTML/31,440refs/0errors. LiveJSONbyteexact,newprofilesmanuallyreviewed. Originalcollectorpushracefixedrebasebeforepush,replacement41154042804successconfirmed. FINANCIAL_BATCH_FORTY_SIX_QA_2026-10-31.md supersedespending.2027deferred/cadenceactive.
