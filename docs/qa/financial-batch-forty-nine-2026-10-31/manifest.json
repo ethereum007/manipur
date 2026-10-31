@@ -1,0 +1,77 @@
+[
+  {
+    "ac": 9,
+    "candidate": "Jyotin Waikhom",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/9/Jotin%20Waikhom.pdf",
+    "sha256": "080091e067b9069caa74a814601894a6c1fc58e74decc9b93bbe9480d18f2bc3",
+    "pages": 19,
+    "crops": [
+      {
+        "page": 17,
+        "rect": [
+          108,
+          180,
+          545,
+          223
+        ],
+        "id": "movable",
+        "image": "ac9-080091e067b9-p17-financial-selected-movable.png"
+      },
+      {
+        "page": 17,
+        "rect": [
+          108,
+          590,
+          545,
+          700
+        ],
+        "id": "liabilities",
+        "image": "ac9-080091e067b9-p17-financial-selected-liabilities.png"
+      },
+      {
+        "page": 18,
+        "rect": [
+          108,
+          80,
+          545,
+          210
+        ],
+        "id": "disputed",
+        "image": "ac9-080091e067b9-p18-financial-selected-disputed.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 9,
+    "candidate": "Khumukchan Joykisan Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/9/Khumukcham%20Joykisan%20Singh.pdf",
+    "sha256": "6a9ebbc131251e516fefd09d75c3c22dbbad51f6444447cc0c45542897d3cc9c",
+    "pages": 22,
+    "crops": [
+      {
+        "page": 20,
+        "rect": [
+          70,
+          530,
+          540,
+          567
+        ],
+        "id": "movable",
+        "image": "ac9-6a9ebbc13125-p20-financial-selected-movable.png"
+      },
+      {
+        "page": 21,
+        "rect": [
+          74,
+          222,
+          540,
+          427
+        ],
+        "id": "liabilities",
+        "image": "ac9-6a9ebbc13125-p21-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
