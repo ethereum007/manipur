@@ -5503,6 +5503,111 @@
           "note": "Visible primary and disputed cells say Not Applicable. ADR zero is a secondary summary; non-applicability is not a primary monetary zero. Complete primary liability stays null. Lower disputed label clipped; no current financial/legal clearance or complete independent audit inferred."
         }
       ]
+    },
+    {
+      "ac": 8,
+      "candidate": "Kshetrimayum Biren Singh",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/8/Kshetrimayum%20Biren%20Singh.pdf",
+      "sourceSha256": "ec6148d425899be2ed2cdebae20cb63f9606cf03680f3fe5f17b5680ebf10707",
+      "reviewedAt": "2026-10-31",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41161035062",
+      "reviewedPages": [
+        14
+      ],
+      "summary": "Selected movable cells subtotal ₹8,68,70,823.71; complete assets unreviewed. Liability source section remains unlocated and unreviewed.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 16100181900,
+          "primaryValuePaise": null,
+          "primarySourceText": "Four selected movable cells; rightmost multiline continuation excluded",
+          "primaryScope": "Selected movable row PDF14 only",
+          "pages": [
+            14
+          ],
+          "observations": [
+            {
+              "label": "Selected movable cell 1",
+              "valuePaise": 771541991,
+              "sourceText": "Rs77,15,419.91",
+              "qualifier": "exact",
+              "page": 14
+            },
+            {
+              "label": "Selected movable cell 2",
+              "valuePaise": 4467614346,
+              "sourceText": "Rs4,46,76,143.46",
+              "qualifier": "exact",
+              "page": 14
+            },
+            {
+              "label": "Selected movable cell 3",
+              "valuePaise": 3290553518,
+              "sourceText": "Rs3,29,05,535.18",
+              "qualifier": "exact",
+              "page": 14
+            },
+            {
+              "label": "Selected movable cell 4",
+              "valuePaise": 157372516,
+              "sourceText": "Rs15,73,725.16",
+              "qualifier": "exact",
+              "page": 14
+            }
+          ],
+          "selectedComponentSubtotalPaise": 8687082371,
+          "note": "Four selected movable cells subtotal ₹8,68,70,823.71. Rightmost multiline cells and clipped bottom continuation excluded. Liability section remains unlocated after two bounded PDF15 heading checks; no liability observation is counted. Complete current-market assets unreviewed, full primary total null; no equivalent-scope discrepancy against ADR assigned."
+        }
+      ]
+    },
+    {
+      "ac": 8,
+      "candidate": "Mongjam Poireihenba Meetei",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/8/Mongjam%20Poireihenba%20Meetei.pdf",
+      "sourceSha256": "e03aa9b52d3e397b9a747a48b83752abdbff4ca300186d4b4d12bfc070d0a7da",
+      "reviewedAt": "2026-10-31",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41161035062",
+      "reviewedPages": [
+        12
+      ],
+      "summary": "One selected movable cell ₹30,28,581.02 is partial; other cells clipped. Selected loan ₹13,24,000 agrees numerically with ADR.",
+      "fields": [
+        {
+          "field": "assets",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 782906500,
+          "primaryValuePaise": null,
+          "primarySourceText": "One clear selected movable cell; other values clipped",
+          "primaryScope": "Selected movable row PDF12 only",
+          "pages": [
+            12
+          ],
+          "observations": [
+            {
+              "label": "Selected movable cell 1",
+              "valuePaise": 302858102,
+              "sourceText": "Rs3028,581.02",
+              "qualifier": "exact",
+              "page": 12
+            }
+          ],
+          "selectedComponentSubtotalPaise": 302858102,
+          "note": "Only first clear self movable ₹30,28,581.02 included; spouse/other cells clipped and unapproved. Complete current-market assets unreviewed, full primary total null; no equivalent-scope discrepancy against ADR assigned."
+        },
+        {
+          "field": "liabilities",
+          "status": "summary-value-agrees",
+          "secondaryValuePaise": 132400000,
+          "primaryValuePaise": 132400000,
+          "primarySourceText": "Rs13,24,000/-",
+          "primaryScope": "Selected primary loan PDF12 only; lower disputed label clipped",
+          "pages": [
+            12
+          ],
+          "note": "Selected primary loan ₹13,24,000 agrees numerically with ADR within selected scope. Other Not Applicable and visible disputed NIL/Not Applicable wording preserved; lower disputed label clipped. No complete independent audit, current debt or legal assessment inferred."
+        }
+      ]
     }
   ],
   "sourceReviewRuns": [
@@ -5514,7 +5619,8 @@
     "https://github.com/ethereum007/manipur/actions/runs/41014134874",
     "https://github.com/ethereum007/manipur/actions/runs/41031238465",
     "https://github.com/ethereum007/manipur/actions/runs/41053087387",
-    "https://github.com/ethereum007/manipur/actions/runs/41082523789"
+    "https://github.com/ethereum007/manipur/actions/runs/41082523789",
+    "https://github.com/ethereum007/manipur/actions/runs/41161035062"
   ],
   "selectionNotes": "Second batch: two previously unreviewed native-text-available records in AC12, selected in existing record order for a bounded availability-based sample; not a representative sample or risk ranking.",
   "selectionLimit": "Selected financial-summary comparisons form a nonrepresentative convenience sample, not complete independent affidavit audits.",
