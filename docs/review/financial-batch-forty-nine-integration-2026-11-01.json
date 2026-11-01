@@ -1,0 +1,41 @@
+{
+  "status": "reviewed-source-comparison-awaiting-register-integration",
+  "sourceReviewedAt": "2026-10-31",
+  "comparisonRecordedAt": "2026-11-01",
+  "sourceRun": "https://github.com/ethereum007/manipur/actions/runs/41197849426",
+  "countsAsPublishedSelectedReview": false,
+  "records": [
+    {
+      "ac": 9,
+      "candidate": "Jyotin Waikhom",
+      "sourceSha256": "080091e067b9069caa74a814601894a6c1fc58e74decc9b93bbe9480d18f2bc3",
+      "assetPages": [17],
+      "liabilityPages": [17,18],
+      "movableObservationsPaise": [191109917,123256462,30300],
+      "selectedMovableSubtotalPaise": 314396679,
+      "secondaryAssetsPaise": 314396600,
+      "completePrimaryAssetsPaise": null,
+      "completeAssetDifferencePaise": null,
+      "selectedLoanPaise": 98308800,
+      "secondaryLiabilitiesPaise": 98308800,
+      "scope": "Selected movable cells and Axis loan only. A79paise numerical difference from ADR is not assigned as a complete-asset discrepancy. Full immovable current-market rows unreviewed; loan label/lower continuation clipped. Visible other selected primary/disputed wording NIL; no complete debt-clearance finding."
+    },
+    {
+      "ac": 9,
+      "candidate": "Khumukchan Joykisan Singh",
+      "sourceSha256": "6a9ebbc131251e516fefd09d75c3c22dbbad51f6444447cc0c45542897d3cc9c",
+      "assetPages": [20],
+      "liabilityPages": [21],
+      "movableObservationsPaise": [728973046,116898998],
+      "selectedMovableSubtotalPaise": 845872044,
+      "secondaryAssetsPaise": 3500871900,
+      "completePrimaryAssetsPaise": null,
+      "completeAssetDifferencePaise": null,
+      "selectedLoanPaise": 321678000,
+      "secondaryLiabilitiesPaise": 321678000,
+      "scope": "Selected movable and loan cells only. Complete immovable current-market rows unreviewed. Visible other primary/disputed wording NIL; rightmost columns/bottom loan label clipped. No complete debt-clearance finding."
+    }
+  ],
+  "releaseGates": ["register integration","source-scope regression","desktop/mobile cloud screenshots","full cloud tests","production comparison","manual screenshot review","dated QA receipt"],
+  "limitations": "Nonrepresentative convenience sample. Original dates/spellings preserved. No cause inferred or complete independent audit.2027 analysis deferred."
+}
