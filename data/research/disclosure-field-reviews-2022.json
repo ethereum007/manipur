@@ -5748,6 +5748,126 @@
           "note": "Internal page-version contradiction remains unresolved: PDF17 prints ₹1,60,43,357 and PDF35 prints ₹16,04,357 in the spouse-loan column. ADR ₹16,04,357 agrees numerically with the second version only; no correction or authoritative version is inferred. These are alternate readings of one cell, not additive components. Other primary/disputed cells read -NA- and remain nonnumeric. Complete primary liability null; no single monetary difference assigned."
         }
       ]
+    },
+    {
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41197849426",
+      "sourceSha256": "080091e067b9069caa74a814601894a6c1fc58e74decc9b93bbe9480d18f2bc3",
+      "summary": "Selected movable subtotal remains partial; selected loan agrees numerically with ADR. Complete assets unreviewed.",
+      "candidate": "Jyotin Waikhom",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/9/Jotin%20Waikhom.pdf",
+      "ac": 9,
+      "reviewedAt": "2026-10-31",
+      "reviewedPages": [
+        17,
+        18
+      ],
+      "fields": [
+        {
+          "note": "Selected movable cells and Axis loan only. A79paise numerical difference from ADR is not assigned as a complete-asset discrepancy. Full immovable current-market rows unreviewed; loan label/lower continuation clipped. Visible other selected primary/disputed wording NIL; no complete debt-clearance finding.",
+          "pages": [
+            17
+          ],
+          "primaryValuePaise": null,
+          "secondaryValuePaise": 314396600,
+          "primaryScope": "Selected movable row only; complete current-market assets unreviewed",
+          "primarySourceText": "Selected movable cells; other visible NIL wording",
+          "status": "partial-summary-comparison",
+          "selectedComponentSubtotalPaise": 314396679,
+          "field": "assets",
+          "observations": [
+            {
+              "valuePaise": 191109917,
+              "page": 17,
+              "qualifier": "exact",
+              "label": "Selected movable cell 1",
+              "sourceText": "1911099.17"
+            },
+            {
+              "valuePaise": 123256462,
+              "page": 17,
+              "qualifier": "exact",
+              "label": "Selected movable cell 2",
+              "sourceText": "1232564.62"
+            },
+            {
+              "valuePaise": 30300,
+              "page": 17,
+              "qualifier": "exact",
+              "label": "Selected movable cell 3",
+              "sourceText": "303.00"
+            }
+          ]
+        },
+        {
+          "field": "liabilities",
+          "primaryScope": "Selected loan only; clipped label/columns excluded",
+          "pages": [
+            17,
+            18
+          ],
+          "primarySourceText": "983088",
+          "primaryValuePaise": 98308800,
+          "status": "summary-value-agrees",
+          "note": "Selected loan agrees numerically with ADR. Visible other selected primary/disputed wording NIL. Clipped labels/columns excluded; no complete independent audit, current debt or debt-clearance finding.",
+          "secondaryValuePaise": 98308800
+        }
+      ]
+    },
+    {
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41197849426",
+      "sourceSha256": "6a9ebbc131251e516fefd09d75c3c22dbbad51f6444447cc0c45542897d3cc9c",
+      "summary": "Selected movable subtotal remains partial; selected loan agrees numerically with ADR. Complete assets unreviewed.",
+      "candidate": "Khumukchan Joykisan Singh",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/9/Khumukcham%20Joykisan%20Singh.pdf",
+      "ac": 9,
+      "reviewedAt": "2026-10-31",
+      "reviewedPages": [
+        20,
+        21
+      ],
+      "fields": [
+        {
+          "note": "Selected movable and loan cells only. Complete immovable current-market rows unreviewed. Visible other primary/disputed wording NIL; rightmost columns/bottom loan label clipped. No complete debt-clearance finding.",
+          "pages": [
+            20
+          ],
+          "primaryValuePaise": null,
+          "secondaryValuePaise": 3500871900,
+          "primaryScope": "Selected movable row only; complete current-market assets unreviewed",
+          "primarySourceText": "Selected movable cells; other visible NIL wording",
+          "status": "partial-summary-comparison",
+          "selectedComponentSubtotalPaise": 845872044,
+          "field": "assets",
+          "observations": [
+            {
+              "valuePaise": 728973046,
+              "page": 20,
+              "qualifier": "exact",
+              "label": "Selected movable cell 1",
+              "sourceText": "7289730.46"
+            },
+            {
+              "valuePaise": 116898998,
+              "page": 20,
+              "qualifier": "exact",
+              "label": "Selected movable cell 2",
+              "sourceText": "1168989.98"
+            }
+          ]
+        },
+        {
+          "field": "liabilities",
+          "primaryScope": "Selected loan only; clipped label/columns excluded",
+          "pages": [
+            21
+          ],
+          "primarySourceText": "3216780",
+          "primaryValuePaise": 321678000,
+          "status": "summary-value-agrees",
+          "note": "Selected loan agrees numerically with ADR. Visible other selected primary/disputed wording NIL. Clipped labels/columns excluded; no complete independent audit, current debt or debt-clearance finding.",
+          "secondaryValuePaise": 321678000
+        }
+      ]
     }
   ],
   "sourceReviewRuns": [
