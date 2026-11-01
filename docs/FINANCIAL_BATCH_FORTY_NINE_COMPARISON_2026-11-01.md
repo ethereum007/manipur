@@ -1,0 +1,11 @@
+# Batch49 source comparison —1 November 2026 IST
+
+Five financial-only regions from hash-asserted run41197849426 were visually reviewed31 October and retained in docs/qa/financial-batch-forty-nine-2026-10-31/. This comparison uses the existing ADR secondary register, preserving original review dates. No complete independent affidavit audit.
+
+Jyotin Waikhom AC9: selected movable cells on PDF17 are1911099.17,1232564.62 and303 rupees; integer-paise subtotal314396679. ADR assets314396600paise differ numerically by79paise, but equivalent complete-asset scope is unestablished, so do not assign a full-primary asset value or full-field discrepancy. Selected Axis loan983088rupees agrees numerically with ADR983088; government-dues and selected disputed cells say NIL. Primary loan label/lower continuation is clipped. This is a selected loan agreement, not a full debt-clearance finding.
+
+Khumukchan Joykisan Singh AC9: selected movable7289730.46+1168989.98=8458720.44rupees (845872044paise). ADR assets35008719rupees includes broader scope; complete immovable current-market rows remain unreviewed. Full primary assets null, no equivalent-scope discrepancy. Selected loan3216780rupees agrees numerically with ADR3216780. Visible other primary/disputed cells say NIL; rightmost columns and bottom loan label are clipped. Preserve the limited comparison scope.
+
+Registry spellings and original source URLs stay unchanged. Readability/AC-order convenience sample, not representative or risk ranked. No cause, current wealth, current debt, identity or legal conclusion inferred.2027 analysis deferred.
+
+Next finite gate: add two candidate records/four scoped notes with full-assets null, selected loan scopes,79paise numerical observation explicitly excluded from complete-field discrepancy; update coverage96/190/169 to98/194/167 only after implementation. Add source-scope regression and desktop/mobile profile screenshots, run complete cloud pipeline and finish deployment/production/screenshot verification before batch50. Current verified public96/190/169/0 remains unchanged.
