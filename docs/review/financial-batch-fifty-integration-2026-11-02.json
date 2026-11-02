@@ -1,0 +1,13 @@
+{
+ "status":"reviewed-source-comparison-awaiting-register-integration",
+ "sourceReviewedAt":"2026-11-02",
+ "sourceRun":"https://github.com/ethereum007/manipur/actions/runs/41386456246",
+ "countsAsPublishedSelectedReview":false,
+ "records":[
+  {"ac":10,"candidate":"Khombongmayum Suresh Singh","sourceSha256":"20f68be27158a9b0ee8256ae0b8441376def81c2dae68e16d3772573cfd8099c","assetPages":[13],"liabilityPages":[13],"movableObservationsPaise":[16519663107,218539939],"selectedMovableSubtotalPaise":16738203046,"secondaryAssetsPaise":18959403000,"completePrimaryAssetsPaise":null,"completeAssetDifferencePaise":null,"loanObservationsPaise":[484887408,28012781],"selectedLoanSubtotalPaise":512900189,"secondaryLiabilitiesPaise":512900100,"completePrimaryLiabilitiesPaise":null,"scope":"Selected movable amounts subtotal167382030.46rupees; complete immovable current-market rows unreviewed, full primary assets null. Two selected loan entries4848874.08 and280127.81 subtotal5129001.89rupees,89paise above ADR5129001. Other primary/disputed cells mix NIL,N A,Not Applicable; labels at left and rightmost columns clipped. Complete primary liability null; selected-entry numerical difference only, no complete-field correction or cause inferred."},
+  {"ac":10,"candidate":"Khwairakpam Raghumani Singh","sourceSha256":"17622af5dce34d80222e60a6aad2574a09a306e636e363f804346186569ecd95","assetPages":[16],"liabilityPages":[17],"movableObservationsPaise":[454853099,236180432,944889,332723],"selectedMovableSubtotalPaise":692311143,"secondaryAssetsPaise":2239310900,"completePrimaryAssetsPaise":null,"completeAssetDifferencePaise":null,"secondaryLiabilitiesPaise":0,"completePrimaryLiabilitiesPaise":null,"scope":"Four selected movable amounts4548530.99,2361804.32,9448.89,3327.23 subtotal6923111.43rupees. Other cells Not Applicable; rightmost and lower continuation clipped. Complete immovable current-market assets unreviewed, full primary assets null. Selected primary/disputed liabilities say Not Applicable; preserve nonnumeric wording, do not convert to primary zero despite ADR zero. Disputed label present; bottom continuation clipped."}
+ ],
+ "privacy":"Initial artifact13114870388 deleted before retention for uncertain blue top margin. Clean replacement13115039303 four crops manually reviewed and retained in docs/qa/financial-batch-fifty-2026-11-02/.",
+ "releaseGates":["register integration with null complete totals","integer-paise scope regression","desktop/mobile cloud screenshots","full cloud pipeline","production comparison","manual screenshot review","dated QA receipt"],
+ "limitations":"Nonrepresentative convenience sample; retrieval/OCR not field verification or complete independent audit.2027 research deferred. Current verified coverage98/194/167/0."
+}
