@@ -1,6 +1,6 @@
 {
   "year": 2022,
-  "reviewedAt": "2026-10-31",
+  "reviewedAt": "2026-11-02",
   "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40158668602",
   "method": "Codex visual comparison of selected original financial-summary regions. OCR located pages only; retained images use fixed financial-region coordinates and matching source hashes. Selected cells, not an independent human audit or complete affidavit review.",
   "scope": "Self-declarations at 2022 nomination. Not present wealth, current liabilities, legal status or certification of truth.",
@@ -5867,6 +5867,148 @@
           "note": "Selected loan agrees numerically with ADR. Visible other selected primary/disputed wording NIL. Clipped labels/columns excluded; no complete independent audit, current debt or debt-clearance finding.",
           "secondaryValuePaise": 321678000
         }
+      ]
+    },
+    {
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41386456246",
+      "summary": "Selected movable amounts are partial; mixed applicability and clipped liability scopes do not establish complete monetary totals.",
+      "reviewedAt": "2026-11-02",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/10/KHOMBONGMAYUM%20SURESH%20SINGH.pdf",
+      "ac": 10,
+      "sourceSha256": "20f68be27158a9b0ee8256ae0b8441376def81c2dae68e16d3772573cfd8099c",
+      "fields": [
+        {
+          "primaryValuePaise": null,
+          "secondaryValuePaise": 18959403000,
+          "primaryScope": "Selected movable row only",
+          "field": "assets",
+          "pages": [
+            13
+          ],
+          "note": "Selected movable amounts subtotal167382030.46rupees; complete immovable current-market rows unreviewed, full primary assets null. Two selected loan entries4848874.08 and280127.81 subtotal5129001.89rupees,89paise above ADR5129001. Other primary/disputed cells mix NIL,N A,Not Applicable; labels at left and rightmost columns clipped. Complete primary liability null; selected-entry numerical difference only, no complete-field correction or cause inferred.",
+          "selectedComponentSubtotalPaise": 16738203046,
+          "observations": [
+            {
+              "label": "Selected movable cell 1",
+              "valuePaise": 16519663107,
+              "qualifier": "exact",
+              "sourceText": "165196631.07",
+              "page": 13
+            },
+            {
+              "label": "Selected movable cell 2",
+              "valuePaise": 218539939,
+              "qualifier": "exact",
+              "sourceText": "2185399.39",
+              "page": 13
+            }
+          ],
+          "primarySourceText": "Selected movable amounts; other applicability wording preserved",
+          "status": "partial-summary-comparison"
+        },
+        {
+          "secondaryValuePaise": 512900100,
+          "pages": [
+            13
+          ],
+          "selectedComponentSubtotalPaise": 512900189,
+          "field": "liabilities",
+          "observations": [
+            {
+              "label": "Selected loan cell 1",
+              "valuePaise": 484887408,
+              "qualifier": "exact",
+              "sourceText": "4848874.08",
+              "page": 13
+            },
+            {
+              "label": "Selected loan cell 2",
+              "valuePaise": 28012781,
+              "qualifier": "exact",
+              "sourceText": "280127.81",
+              "page": 13
+            }
+          ],
+          "primaryValuePaise": null,
+          "status": "partial-summary-comparison",
+          "note": "Selected movable amounts subtotal167382030.46rupees; complete immovable current-market rows unreviewed, full primary assets null. Two selected loan entries4848874.08 and280127.81 subtotal5129001.89rupees,89paise above ADR5129001. Other primary/disputed cells mix NIL,N A,Not Applicable; labels at left and rightmost columns clipped. Complete primary liability null; selected-entry numerical difference only, no complete-field correction or cause inferred.",
+          "primarySourceText": "Two selected loan cells; other NIL/N A/Not Applicable wording",
+          "primaryScope": "Selected primary/disputed rows; clipped continuations excluded"
+        }
+      ],
+      "candidate": "Khombongmayum Suresh Singh",
+      "reviewedPages": [
+        13
+      ]
+    },
+    {
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41386456246",
+      "summary": "Selected movable amounts are partial; mixed applicability and clipped liability scopes do not establish complete monetary totals.",
+      "reviewedAt": "2026-11-02",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/10/KHWAIRAKPAM%20RAGHUMANI%20SINGH.pdf",
+      "ac": 10,
+      "sourceSha256": "17622af5dce34d80222e60a6aad2574a09a306e636e363f804346186569ecd95",
+      "fields": [
+        {
+          "primaryValuePaise": null,
+          "secondaryValuePaise": 2239310900,
+          "primaryScope": "Selected movable row only",
+          "field": "assets",
+          "pages": [
+            16
+          ],
+          "note": "Four selected movable amounts4548530.99,2361804.32,9448.89,3327.23 subtotal6923111.43rupees. Other cells Not Applicable; rightmost and lower continuation clipped. Complete immovable current-market assets unreviewed, full primary assets null. Selected primary/disputed liabilities say Not Applicable; preserve nonnumeric wording, do not convert to primary zero despite ADR zero. Disputed label present; bottom continuation clipped.",
+          "selectedComponentSubtotalPaise": 692311143,
+          "observations": [
+            {
+              "label": "Selected movable cell 1",
+              "valuePaise": 454853099,
+              "qualifier": "exact",
+              "sourceText": "4548530.99",
+              "page": 16
+            },
+            {
+              "label": "Selected movable cell 2",
+              "valuePaise": 236180432,
+              "qualifier": "exact",
+              "sourceText": "2361804.32",
+              "page": 16
+            },
+            {
+              "label": "Selected movable cell 3",
+              "valuePaise": 944889,
+              "qualifier": "exact",
+              "sourceText": "9448.89",
+              "page": 16
+            },
+            {
+              "label": "Selected movable cell 4",
+              "valuePaise": 332723,
+              "qualifier": "exact",
+              "sourceText": "3327.23",
+              "page": 16
+            }
+          ],
+          "primarySourceText": "Selected movable amounts; other applicability wording preserved",
+          "status": "partial-summary-comparison"
+        },
+        {
+          "secondaryValuePaise": 0,
+          "pages": [
+            17
+          ],
+          "field": "liabilities",
+          "primaryValuePaise": null,
+          "status": "partial-wording-review",
+          "note": "Four selected movable amounts4548530.99,2361804.32,9448.89,3327.23 subtotal6923111.43rupees. Other cells Not Applicable; rightmost and lower continuation clipped. Complete immovable current-market assets unreviewed, full primary assets null. Selected primary/disputed liabilities say Not Applicable; preserve nonnumeric wording, do not convert to primary zero despite ADR zero. Disputed label present; bottom continuation clipped.",
+          "primarySourceText": "Not Applicable",
+          "primaryScope": "Selected primary/disputed rows; clipped continuations excluded"
+        }
+      ],
+      "candidate": "Khwairakpam Raghumani Singh",
+      "reviewedPages": [
+        16,
+        17
       ]
     }
   ],
