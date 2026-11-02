@@ -5885,7 +5885,7 @@
           "pages": [
             13
           ],
-          "note": "Selected movable amounts subtotal167382030.46rupees; complete immovable current-market rows unreviewed, full primary assets null. Two selected loan entries4848874.08 and280127.81 subtotal5129001.89rupees,89paise above ADR5129001. Other primary/disputed cells mix NIL,N A,Not Applicable; labels at left and rightmost columns clipped. Complete primary liability null; selected-entry numerical difference only, no complete-field correction or cause inferred.",
+          "note": "Two selected movable amounts total ₹16,73,82,030.46. Complete immovable current-market rows remain unreviewed, so the full primary asset total stays null. Other cells say N A or Not Applicable; clipped columns are excluded. This partial subtotal is not compared with ADR as a complete-asset discrepancy.",
           "selectedComponentSubtotalPaise": 16738203046,
           "observations": [
             {
@@ -5931,7 +5931,7 @@
           ],
           "primaryValuePaise": null,
           "status": "partial-summary-comparison",
-          "note": "Selected movable amounts subtotal167382030.46rupees; complete immovable current-market rows unreviewed, full primary assets null. Two selected loan entries4848874.08 and280127.81 subtotal5129001.89rupees,89paise above ADR5129001. Other primary/disputed cells mix NIL,N A,Not Applicable; labels at left and rightmost columns clipped. Complete primary liability null; selected-entry numerical difference only, no complete-field correction or cause inferred.",
+          "note": "Selected loan entries ₹48,48,874.08 and ₹2,80,127.81 total ₹51,29,001.89, which is 89paise (₹0.89) above ADR ₹51,29,001. Other primary and disputed cells mix NIL, N A and Not Applicable. Left-hand labels and rightmost columns are clipped. The complete primary liability total stays null; this is a selected-entry difference with no complete-field correction or inferred cause.",
           "primarySourceText": "Two selected loan cells; other NIL/N A/Not Applicable wording",
           "primaryScope": "Selected primary/disputed rows; clipped continuations excluded"
         }
@@ -5957,7 +5957,7 @@
           "pages": [
             16
           ],
-          "note": "Four selected movable amounts4548530.99,2361804.32,9448.89,3327.23 subtotal6923111.43rupees. Other cells Not Applicable; rightmost and lower continuation clipped. Complete immovable current-market assets unreviewed, full primary assets null. Selected primary/disputed liabilities say Not Applicable; preserve nonnumeric wording, do not convert to primary zero despite ADR zero. Disputed label present; bottom continuation clipped.",
+          "note": "Four selected movable amounts—₹45,48,530.99, ₹23,61,804.32, ₹9,448.89 and ₹3,327.23—total ₹69,23,111.43. Other cells say Not Applicable. Rightmost columns and lower continuation are clipped; complete immovable current-market rows remain unreviewed. The full primary asset total stays null.",
           "selectedComponentSubtotalPaise": 692311143,
           "observations": [
             {
@@ -6000,7 +6000,7 @@
           "field": "liabilities",
           "primaryValuePaise": null,
           "status": "partial-wording-review",
-          "note": "Four selected movable amounts4548530.99,2361804.32,9448.89,3327.23 subtotal6923111.43rupees. Other cells Not Applicable; rightmost and lower continuation clipped. Complete immovable current-market assets unreviewed, full primary assets null. Selected primary/disputed liabilities say Not Applicable; preserve nonnumeric wording, do not convert to primary zero despite ADR zero. Disputed label present; bottom continuation clipped.",
+          "note": "Selected primary and disputed liability cells say Not Applicable. Preserve this nonnumeric wording; do not convert to primary zero despite ADR zero. The disputed heading is visible, but the bottom continuation and rightmost columns are clipped. No complete debt-clearance finding is inferred.",
           "primarySourceText": "Not Applicable",
           "primaryScope": "Selected primary/disputed rows; clipped continuations excluded"
         }
