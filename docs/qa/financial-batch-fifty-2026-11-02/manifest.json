@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 10,
+    "candidate": "Khombongmayum Suresh Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/10/KHOMBONGMAYUM%20SURESH%20SINGH.pdf",
+    "sha256": "20f68be27158a9b0ee8256ae0b8441376def81c2dae68e16d3772573cfd8099c",
+    "pages": 21,
+    "crops": [
+      {
+        "id": "movable",
+        "rect": [
+          90,
+          335,
+          535,
+          358
+        ],
+        "page": 13,
+        "image": "ac10-20f68be27158-p13-financial-selected-movable.png"
+      },
+      {
+        "id": "liabilities",
+        "rect": [
+          160,
+          550,
+          535,
+          691
+        ],
+        "page": 13,
+        "image": "ac10-20f68be27158-p13-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 10,
+    "candidate": "Khwairakpam Raghumani Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/10/KHWAIRAKPAM%20RAGHUMANI%20SINGH.pdf",
+    "sha256": "17622af5dce34d80222e60a6aad2574a09a306e636e363f804346186569ecd95",
+    "pages": 20,
+    "crops": [
+      {
+        "id": "movable",
+        "rect": [
+          90,
+          378,
+          540,
+          442
+        ],
+        "page": 16,
+        "image": "ac10-17622af5dce3-p16-financial-selected-movable.png"
+      },
+      {
+        "id": "liabilities",
+        "rect": [
+          80,
+          240,
+          535,
+          532
+        ],
+        "page": 17,
+        "image": "ac10-17622af5dce3-p17-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
