@@ -1,0 +1,18 @@
+[
+  {
+    "expectedSha256": "f400210617d4621d9b31f94dd3ccc592db12c88f3a6934a67871acfbc1619e91",
+    "ac": 13,
+    "candidate": "Ngangbam Robert Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/13/Ngangbam%20Robert%20Singh.pdf",
+    "selectionReason": "Next image-only AC/name convenience record;not representative or risk ranked.",
+    "clips": []
+  },
+  {
+    "expectedSha256": "059eae5f52c51fa6ddb8e89291686ec2b6d29a68de11e5d2e6f63971c2ffd02c",
+    "ac": 13,
+    "candidate": "Oinam Romen Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/13/Oinam%20Romen%20Singh.pdf",
+    "selectionReason": "Next image-only AC/name convenience record;not representative or risk ranked.",
+    "clips": []
+  }
+]
