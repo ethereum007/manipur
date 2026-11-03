@@ -1,0 +1,25 @@
+[
+  {
+    "selectionReason": "Next image-only AC/name convenience record;not representative or risk ranked.",
+    "clips": [
+      {
+        "page": 22,
+        "id": "movable",
+        "rect": [
+          95,
+          538,
+          535,
+          566
+        ]
+      }
+    ],
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/10/YUMNAM%20JOYKUMAR%20SINGH.pdf",
+    "expectedSha256": "b9bc72e02b11ecf21ec0a1b604f7d18d33d8731947242c6f6fad1976cf0679e6",
+    "candidate": "Yumnam Joykumar Singh",
+    "ac": 10,
+    "locatorPages": [
+      25,
+      26
+    ]
+  }
+]
