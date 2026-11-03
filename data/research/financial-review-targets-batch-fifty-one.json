@@ -1,0 +1,18 @@
+[
+  {
+    "selectionReason": "Next image-only AC/name convenience record;not representative or risk ranked.",
+    "clips": [],
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/10/NUNGLEPAM%20MAHANANDA%20SINGH.pdf",
+    "expectedSha256": "6b97c2e80a06c9aa0b8811fda4d26d3a4169b1e7ff1841729bf2dec55eef7d12",
+    "candidate": "Nunglepam Mahananda Singh",
+    "ac": 10
+  },
+  {
+    "selectionReason": "Next image-only AC/name convenience record;not representative or risk ranked.",
+    "clips": [],
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/10/YUMNAM%20JOYKUMAR%20SINGH.pdf",
+    "expectedSha256": "b9bc72e02b11ecf21ec0a1b604f7d18d33d8731947242c6f6fad1976cf0679e6",
+    "candidate": "Yumnam Joykumar Singh",
+    "ac": 10
+  }
+]
