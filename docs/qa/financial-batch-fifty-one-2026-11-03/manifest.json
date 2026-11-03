@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 10,
+    "candidate": "Nunglepam Mahananda Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/10/NUNGLEPAM%20MAHANANDA%20SINGH.pdf",
+    "sha256": "6b97c2e80a06c9aa0b8811fda4d26d3a4169b1e7ff1841729bf2dec55eef7d12",
+    "pages": 20,
+    "crops": [
+      {
+        "page": 18,
+        "id": "movable",
+        "rect": [
+          105,
+          628,
+          540,
+          662
+        ],
+        "image": "ac10-6b97c2e80a06-p18-financial-selected-movable.png"
+      },
+      {
+        "page": 19,
+        "id": "liabilities",
+        "rect": [
+          80,
+          358,
+          535,
+          577
+        ],
+        "image": "ac10-6b97c2e80a06-p19-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 10,
+    "candidate": "Yumnam Joykumar Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/10/YUMNAM%20JOYKUMAR%20SINGH.pdf",
+    "sha256": "b9bc72e02b11ecf21ec0a1b604f7d18d33d8731947242c6f6fad1976cf0679e6",
+    "pages": 27,
+    "crops": [
+      {
+        "page": 22,
+        "id": "movable",
+        "rect": [
+          95,
+          538,
+          535,
+          566
+        ],
+        "image": "ac10-b9bc72e02b11-p22-financial-selected-movable.png"
+      },
+      {
+        "rect": [
+          80,
+          282,
+          535,
+          510
+        ],
+        "id": "liabilities",
+        "page": 25,
+        "image": "ac10-b9bc72e02b11-p25-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
