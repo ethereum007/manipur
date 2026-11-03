@@ -5,7 +5,38 @@
     "candidate": "Rajkumar Imo Singh",
     "expectedSha256": "96722d6ea11128ed049a65c5cb66bb3f709653d4784f43525bdd30396e2f27ba",
     "ac": 11,
-    "clips": []
+    "clips": [
+      {
+        "page": 14,
+        "rect": [
+          100,
+          370,
+          545,
+          401
+        ],
+        "id": "movable-first"
+      },
+      {
+        "page": 35,
+        "rect": [
+          80,
+          352,
+          535,
+          425
+        ],
+        "id": "movable-second"
+      },
+      {
+        "page": 36,
+        "rect": [
+          82,
+          207,
+          535,
+          545
+        ],
+        "id": "liabilities-second"
+      }
+    ]
   },
   {
     "selectionReason": "Next image-only AC/name convenience record;not representative or risk ranked.",
@@ -13,6 +44,27 @@
     "candidate": "Langpoklakpam Jayanta Kumar Singh",
     "expectedSha256": "bbe9c9fbd258fe2b42d870a322b23a6080d2db9d08454b06ead28ebc7eb46888",
     "ac": 12,
-    "clips": []
+    "clips": [
+      {
+        "page": 18,
+        "rect": [
+          102,
+          611,
+          545,
+          669
+        ],
+        "id": "movable"
+      },
+      {
+        "page": 19,
+        "rect": [
+          108,
+          344,
+          545,
+          648
+        ],
+        "id": "liabilities"
+      }
+    ]
   }
 ]
