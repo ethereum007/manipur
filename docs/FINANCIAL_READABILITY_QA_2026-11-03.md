@@ -1,0 +1,7 @@
+# Financial note readability QA —3 November2026IST
+
+Bounded usability fix c491addd12442c8d250fbd0fab8a7a049dd9a45d: two batch50 profiles now use field-specific paragraphs and spaced Indian-formatted rupee amounts. Numeric observations, source dates, null complete totals,89paise selected-entry difference and Not Applicable wording preserved. Coverage100/198/165/0 unchanged.
+
+Full cloud41417338043 success confirmed;production JSON all fields semantically identical to repository. Refreshed collector41434803201 final success confirmed. Manually reviewed financial-suresh-b50-desktop.png and financial-raghumani-b50-mobile.png in docs/qa/financial-readability-2026-11-02/: duplicated mixed paragraphs removed, amounts readable, source links/null limits visible,no observed overflow. Original batch50 screenshots retained separately. Coverage screenshots not manually rereviewed this pass. Supersedes FINANCIAL_READABILITY_PENDING_2026-11-02.md.
+
+This closes the demonstrated dense/repeated financial-note usability issue for these two profiles, not a full editorial or independent audit.2027 analysis deferred;historical results unchanged. Continue finite165-candidate selected-review queue and partial-field gaps;cadence remains active. All project work GitHub-only.
