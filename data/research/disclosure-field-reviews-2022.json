@@ -6133,6 +6133,175 @@
         25
       ],
       "ac": 10
+    },
+    {
+      "ac": 11,
+      "fields": [
+        {
+          "primaryScope": "Selected movable rows only; complete current-market assets unreviewed",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 3587504700,
+          "pages": [
+            15,
+            34
+          ],
+          "note": "Selected movable cells ₹32,87,890, ₹40,99,822 and ₹14,20,874 total ₹88,08,586. The repeated abstract on PDF34 agrees with PDF15; count each value once. Other visible cells read NIL. Complete immovable current-market rows remain unreviewed; full primary assets stay null, with no equivalent-scope discrepancy assigned.",
+          "field": "assets",
+          "selectedComponentSubtotalPaise": 880858600,
+          "primaryValuePaise": null,
+          "primarySourceText": "Selected movable cells; source qualifiers preserved",
+          "observations": [
+            {
+              "qualifier": "exact",
+              "valuePaise": 328789000,
+              "sourceText": "3287890.00",
+              "label": "Selected movable cell 1",
+              "page": 15
+            },
+            {
+              "qualifier": "exact",
+              "valuePaise": 409982200,
+              "sourceText": "4099822.00",
+              "label": "Selected movable cell 2",
+              "page": 15
+            },
+            {
+              "qualifier": "exact",
+              "valuePaise": 142087400,
+              "sourceText": "1420874.00",
+              "label": "Selected movable cell 3",
+              "page": 15
+            }
+          ]
+        },
+        {
+          "primaryScope": "Selected liability rows only; complete audit unperformed",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 289602800,
+          "pages": [
+            16
+          ],
+          "note": "Selected loans ₹16,55,388 and ₹12,40,640 total ₹28,96,028, numerically equal to ADR. Other selected primary/disputed cells read NIL. Only PDF16 liability rows were reviewed; the repeated abstract liability page35 is unreviewed. Keep complete primary liability null and state selected-entry agreement only; no complete audit or debt-clearance finding.",
+          "field": "liabilities",
+          "selectedComponentSubtotalPaise": 289602800,
+          "primaryValuePaise": null,
+          "primarySourceText": "Selected loan entries and visible NIL wording",
+          "observations": [
+            {
+              "qualifier": "exact",
+              "valuePaise": 165538800,
+              "sourceText": "1655388.00",
+              "label": "Selected loan cell 1",
+              "page": 16
+            },
+            {
+              "qualifier": "exact",
+              "valuePaise": 124064000,
+              "sourceText": "1240640.00",
+              "label": "Selected loan cell 2",
+              "page": 16
+            }
+          ]
+        }
+      ],
+      "candidate": "Dr. Khwairakpam Loken Singh",
+      "reviewedPages": [
+        15,
+        16,
+        34
+      ],
+      "summary": "Selected movable amounts remain partial, with original approximation and repeated-page limits preserved. Selected loan entries agree numerically with ADR; complete totals remain unassigned.",
+      "sourceSha256": "a321873418c1dffa98e7ed112063f2f55b9a52dae352f9add5ce0ca291bd4ccf",
+      "reviewedAt": "2026-11-03",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41594771815",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/11/Dr.%20Khwairakpam%20Loken%20Singh.pdf"
+    },
+    {
+      "ac": 11,
+      "fields": [
+        {
+          "primaryScope": "Selected movable rows only; complete current-market assets unreviewed",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 3177399600,
+          "pages": [
+            25
+          ],
+          "note": "Two movable cells explicitly marked approx. are ₹57,47,324.75 and ₹19,62,626.38; selected ₹1,000 and ₹500 cells are also visible. Their arithmetic subtotal is approximately ₹77,11,451.13, not an exact complete-asset total. Preserve approximate qualifiers; complete immovable current-market rows unreviewed and rightmost column clipped. Full primary assets null; no equivalent-scope discrepancy assigned.",
+          "field": "assets",
+          "selectedComponentSubtotalPaise": 771145113,
+          "primaryValuePaise": null,
+          "primarySourceText": "Selected movable cells; source qualifiers preserved",
+          "observations": [
+            {
+              "qualifier": "approximate",
+              "valuePaise": 574732475,
+              "sourceText": "5747324.75",
+              "label": "Selected movable cell 1",
+              "page": 25
+            },
+            {
+              "qualifier": "approximate",
+              "valuePaise": 196262638,
+              "sourceText": "1962626.38",
+              "label": "Selected movable cell 2",
+              "page": 25
+            },
+            {
+              "qualifier": "exact",
+              "valuePaise": 100000,
+              "sourceText": "1000.00",
+              "label": "Selected movable cell 3",
+              "page": 25
+            },
+            {
+              "qualifier": "exact",
+              "valuePaise": 50000,
+              "sourceText": "500.00",
+              "label": "Selected movable cell 4",
+              "page": 25
+            }
+          ]
+        },
+        {
+          "primaryScope": "Selected liability rows only; complete audit unperformed",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 923661400,
+          "pages": [
+            26
+          ],
+          "note": "Selected loan entries ₹82,52,165 and ₹9,84,449 total ₹92,36,614, numerically equal to ADR. Other visible primary/disputed cells read NIL; rightmost columns/bottom continuation clipped. Complete primary liability stays null; agreement applies to selected entries only, not a completed independent affidavit audit.",
+          "field": "liabilities",
+          "selectedComponentSubtotalPaise": 923661400,
+          "primaryValuePaise": null,
+          "primarySourceText": "Selected loan entries and visible NIL wording",
+          "observations": [
+            {
+              "qualifier": "exact",
+              "valuePaise": 825216500,
+              "sourceText": "8252165.00",
+              "label": "Selected loan cell 1",
+              "page": 26
+            },
+            {
+              "qualifier": "exact",
+              "valuePaise": 98444900,
+              "sourceText": "984449.00",
+              "label": "Selected loan cell 2",
+              "page": 26
+            }
+          ]
+        }
+      ],
+      "candidate": "Moirangthem Momo Singh",
+      "reviewedPages": [
+        25,
+        26
+      ],
+      "summary": "Selected movable amounts remain partial, with original approximation and repeated-page limits preserved. Selected loan entries agree numerically with ADR; complete totals remain unassigned.",
+      "sourceSha256": "ecbcb0e80cceef8e6e4c2fd1f020242a89af6a5ea9d148d6eb57dafc587db091",
+      "reviewedAt": "2026-11-03",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41594771815",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/11/Moirangthem%20Momo%20Singh.pdf"
     }
   ],
   "sourceReviewRuns": [
