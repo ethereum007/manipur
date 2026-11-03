@@ -2,7 +2,38 @@
   {
     "candidate": "Dr. Khwairakpam Loken Singh",
     "ac": 11,
-    "clips": [],
+    "clips": [
+      {
+        "id": "movable-first",
+        "page": 15,
+        "rect": [
+          120,
+          650,
+          530,
+          696
+        ]
+      },
+      {
+        "id": "liabilities-first",
+        "page": 16,
+        "rect": [
+          108,
+          340,
+          530,
+          558
+        ]
+      },
+      {
+        "id": "movable-second",
+        "page": 34,
+        "rect": [
+          115,
+          658,
+          525,
+          704
+        ]
+      }
+    ],
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/11/Dr.%20Khwairakpam%20Loken%20Singh.pdf",
     "expectedSha256": "a321873418c1dffa98e7ed112063f2f55b9a52dae352f9add5ce0ca291bd4ccf",
     "selectionReason": "Next image-only AC/name convenience record;not representative or risk ranked."
@@ -10,7 +41,28 @@
   {
     "candidate": "Moirangthem Momo Singh",
     "ac": 11,
-    "clips": [],
+    "clips": [
+      {
+        "id": "movable",
+        "page": 25,
+        "rect": [
+          115,
+          335,
+          710,
+          385
+        ]
+      },
+      {
+        "id": "liabilities",
+        "page": 26,
+        "rect": [
+          102,
+          218,
+          710,
+          442
+        ]
+      }
+    ],
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/11/Moirangthem%20Momo%20Singh.pdf",
     "expectedSha256": "ecbcb0e80cceef8e6e4c2fd1f020242a89af6a5ea9d148d6eb57dafc587db091",
     "selectionReason": "Next image-only AC/name convenience record;not representative or risk ranked."
