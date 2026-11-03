@@ -1,0 +1,18 @@
+[
+  {
+    "selectionReason": "Next image-only AC/name convenience record;not representative or risk ranked.",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/11/Rajkumar%20Imo%20Singh.pdf",
+    "candidate": "Rajkumar Imo Singh",
+    "expectedSha256": "96722d6ea11128ed049a65c5cb66bb3f709653d4784f43525bdd30396e2f27ba",
+    "ac": 11,
+    "clips": []
+  },
+  {
+    "selectionReason": "Next image-only AC/name convenience record;not representative or risk ranked.",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/12/LANGPOKLAKPAM%20JAYANTA%20KUMAR%20SINGH.pdf",
+    "candidate": "Langpoklakpam Jayanta Kumar Singh",
+    "expectedSha256": "bbe9c9fbd258fe2b42d870a322b23a6080d2db9d08454b06ead28ebc7eb46888",
+    "ac": 12,
+    "clips": []
+  }
+]
