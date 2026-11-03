@@ -6302,6 +6302,147 @@
       "reviewedAt": "2026-11-03",
       "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41594771815",
       "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/11/Moirangthem%20Momo%20Singh.pdf"
+    },
+    {
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/11/Rajkumar%20Imo%20Singh.pdf",
+      "candidate": "Rajkumar Imo Singh",
+      "ac": 11,
+      "reviewedAt": "2026-11-03",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41625639138",
+      "summary": "Selected movable amounts remain partial; repeated-page wording and clipped scopes are preserved. Selected loan entries agree numerically with ADR; complete totals remain unassigned.",
+      "sourceSha256": "96722d6ea11128ed049a65c5cb66bb3f709653d4784f43525bdd30396e2f27ba",
+      "fields": [
+        {
+          "observations": [
+            {
+              "sourceText": "11437779.93",
+              "page": 14,
+              "qualifier": "exact",
+              "valuePaise": 1143777993,
+              "label": "Selected movable cell 1"
+            },
+            {
+              "sourceText": "5210021.61",
+              "page": 14,
+              "qualifier": "exact",
+              "valuePaise": 521002161,
+              "label": "Selected movable cell 2"
+            }
+          ],
+          "primarySourceText": "Selected movable cells only",
+          "secondaryValuePaise": 7241493800,
+          "primaryScope": "Selected movable rows; complete current-market assets unreviewed",
+          "selectedComponentSubtotalPaise": 1664780154,
+          "primaryValuePaise": null,
+          "status": "partial-summary-comparison",
+          "note": "Two selected movable amounts ₹1,14,37,779.93 and ₹52,10,021.61 subtotal ₹1,66,47,801.54. PDF14 and PDF35 agree numerically; count each once. Other cells say N.A. on the first abstract and Not Applicable on the second, preserved as literal variants. Complete immovable current-market rows unreviewed; full primary assets stay null, with no equivalent-scope discrepancy assigned.",
+          "pages": [
+            14,
+            35
+          ],
+          "field": "assets"
+        },
+        {
+          "observations": [
+            {
+              "sourceText": "4436391.00",
+              "page": 36,
+              "qualifier": "exact",
+              "valuePaise": 443639100,
+              "label": "Selected loan cell 1"
+            },
+            {
+              "sourceText": "3953442.00",
+              "page": 36,
+              "qualifier": "exact",
+              "valuePaise": 395344200,
+              "label": "Selected loan cell 2"
+            }
+          ],
+          "primarySourceText": "Selected loan entries; other source wording preserved",
+          "secondaryValuePaise": 838983300,
+          "primaryScope": "Selected liability rows only",
+          "selectedComponentSubtotalPaise": 838983300,
+          "primaryValuePaise": null,
+          "status": "partial-summary-comparison",
+          "note": "Selected second-abstract loans ₹44,36,391 and ₹39,53,442 total ₹83,89,833, numerically equal to ADR. Other primary/disputed cells read Not Applicable. First-abstract primary liabilities were not reviewed; rightmost/bottom continuation clipped. Complete primary liability stays null; agreement applies only to selected entries, not a complete filing audit.",
+          "pages": [
+            36
+          ],
+          "field": "liabilities"
+        }
+      ],
+      "reviewedPages": [
+        14,
+        35,
+        36
+      ]
+    },
+    {
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/12/LANGPOKLAKPAM%20JAYANTA%20KUMAR%20SINGH.pdf",
+      "candidate": "Langpoklakpam Jayanta Kumar Singh",
+      "ac": 12,
+      "reviewedAt": "2026-11-03",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41625639138",
+      "summary": "Selected movable amounts remain partial; repeated-page wording and clipped scopes are preserved. Selected loan entries agree numerically with ADR; complete totals remain unassigned.",
+      "sourceSha256": "bbe9c9fbd258fe2b42d870a322b23a6080d2db9d08454b06ead28ebc7eb46888",
+      "fields": [
+        {
+          "observations": [
+            {
+              "sourceText": "5904612.29",
+              "page": 18,
+              "qualifier": "exact",
+              "valuePaise": 590461229,
+              "label": "Selected movable cell 1"
+            },
+            {
+              "sourceText": "1568383.51",
+              "page": 18,
+              "qualifier": "exact",
+              "valuePaise": 156838351,
+              "label": "Selected movable cell 2"
+            }
+          ],
+          "primarySourceText": "Selected movable cells only",
+          "secondaryValuePaise": 1082299500,
+          "primaryScope": "Selected movable rows; complete current-market assets unreviewed",
+          "selectedComponentSubtotalPaise": 747299580,
+          "primaryValuePaise": null,
+          "status": "partial-summary-comparison",
+          "note": "Two selected movable amounts ₹59,04,612.29 and ₹15,68,383.51 subtotal ₹74,72,995.80. Other visible cells read NIL; rightmost column clipped. Complete immovable current-market rows unreviewed, so full primary assets stay null and no equivalent-scope discrepancy is assigned.",
+          "pages": [
+            18
+          ],
+          "field": "assets"
+        },
+        {
+          "observations": [
+            {
+              "sourceText": "12608189.00",
+              "page": 19,
+              "qualifier": "exact",
+              "valuePaise": 1260818900,
+              "label": "Selected loan cell 1"
+            }
+          ],
+          "primarySourceText": "Selected loan entries; other source wording preserved",
+          "secondaryValuePaise": 1260818900,
+          "primaryScope": "Selected liability rows only",
+          "selectedComponentSubtotalPaise": 1260818900,
+          "primaryValuePaise": null,
+          "status": "partial-summary-comparison",
+          "note": "Selected second-column loan ₹1,26,08,189 agrees numerically with ADR. First-column loan and other visible primary/disputed cells read NIL. Column-role headings are not included in these crops, so no household role is inferred. Rightmost columns clipped;complete primary liability stays null. No current debt or complete clearance inferred.",
+          "pages": [
+            19
+          ],
+          "field": "liabilities"
+        }
+      ],
+      "reviewedPages": [
+        18,
+        19
+      ]
     }
   ],
   "sourceReviewRuns": [
