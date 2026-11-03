@@ -1,0 +1,77 @@
+[
+  {
+    "ac": 11,
+    "candidate": "Dr. Khwairakpam Loken Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/11/Dr.%20Khwairakpam%20Loken%20Singh.pdf",
+    "sha256": "a321873418c1dffa98e7ed112063f2f55b9a52dae352f9add5ce0ca291bd4ccf",
+    "pages": 37,
+    "crops": [
+      {
+        "id": "movable-first",
+        "page": 15,
+        "rect": [
+          120,
+          650,
+          530,
+          696
+        ],
+        "image": "ac11-a321873418c1-p15-financial-selected-movable-first.png"
+      },
+      {
+        "id": "liabilities-first",
+        "page": 16,
+        "rect": [
+          108,
+          340,
+          530,
+          558
+        ],
+        "image": "ac11-a321873418c1-p16-financial-selected-liabilities-first.png"
+      },
+      {
+        "id": "movable-second",
+        "page": 34,
+        "rect": [
+          115,
+          658,
+          525,
+          704
+        ],
+        "image": "ac11-a321873418c1-p34-financial-selected-movable-second.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 11,
+    "candidate": "Moirangthem Momo Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/11/Moirangthem%20Momo%20Singh.pdf",
+    "sha256": "ecbcb0e80cceef8e6e4c2fd1f020242a89af6a5ea9d148d6eb57dafc587db091",
+    "pages": 27,
+    "crops": [
+      {
+        "id": "movable",
+        "page": 25,
+        "rect": [
+          115,
+          335,
+          710,
+          385
+        ],
+        "image": "ac11-ecbcb0e80cce-p25-financial-selected-movable.png"
+      },
+      {
+        "id": "liabilities",
+        "page": 26,
+        "rect": [
+          102,
+          218,
+          710,
+          442
+        ],
+        "image": "ac11-ecbcb0e80cce-p26-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
