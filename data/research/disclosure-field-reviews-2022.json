@@ -1,6 +1,6 @@
 {
   "year": 2022,
-  "reviewedAt": "2026-11-02",
+  "reviewedAt": "2026-11-03",
   "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40158668602",
   "method": "Codex visual comparison of selected original financial-summary regions. OCR located pages only; retained images use fixed financial-region coordinates and matching source hashes. Selected cells, not an independent human audit or complete affidavit review.",
   "scope": "Self-declarations at 2022 nomination. Not present wealth, current liabilities, legal status or certification of truth.",
@@ -6010,6 +6010,129 @@
         16,
         17
       ]
+    },
+    {
+      "sourceSha256": "6b97c2e80a06c9aa0b8811fda4d26d3a4169b1e7ff1841729bf2dec55eef7d12",
+      "candidate": "Nunglepam Mahananda Singh",
+      "reviewedAt": "2026-11-03",
+      "summary": "Selected movable observations are partial; complete financial totals remain unassigned. Original unknown/applicability wording and clipped scope are preserved.",
+      "fields": [
+        {
+          "secondaryValuePaise": 133604100,
+          "note": "One selected movable amount is ₹1,50,304. The adjacent cell explicitly says NOT KNOWN; other cells mix N.A. and NIL. Unknown/applicability wording is not numeric zero. Complete immovable current-market rows remain unreviewed; full primary assets stay null, with no equivalent-scope difference assigned.",
+          "field": "assets",
+          "selectedComponentSubtotalPaise": 15030400,
+          "primaryValuePaise": null,
+          "primaryScope": "Selected movable row; complete current-market assets unreviewed",
+          "observations": [
+            {
+              "label": "Selected movable cell 1",
+              "sourceText": "150304.00",
+              "qualifier": "exact",
+              "page": 18,
+              "valuePaise": 15030400
+            }
+          ],
+          "status": "partial-summary-comparison",
+          "pages": [
+            18
+          ],
+          "primarySourceText": "Selected movable cells only"
+        },
+        {
+          "secondaryValuePaise": 3501000,
+          "note": "Selected HDFC personal loan ₹35,010 agrees numerically with ADR. Adjacent primary and disputed cells explicitly say NOT KNOWN, with other N.A./NIL wording. Preserve the unresolved cells; the complete primary liability total stays null despite selected-loan agreement. Rightmost columns/bottom continuation are clipped. No cause, current debt or complete clearance inferred.",
+          "field": "liabilities",
+          "primaryValuePaise": null,
+          "primaryScope": "Selected primary/disputed rows; clipped columns excluded",
+          "observations": [
+            {
+              "label": "Selected loan cell only",
+              "sourceText": "35010",
+              "qualifier": "exact",
+              "page": 19,
+              "valuePaise": 3501000
+            }
+          ],
+          "status": "partial-wording-review",
+          "pages": [
+            19
+          ],
+          "primarySourceText": "HDFC Rs35,010 personal loan; adjacent NOT KNOWN/N.A./NIL"
+        }
+      ],
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/10/NUNGLEPAM%20MAHANANDA%20SINGH.pdf",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41570696496",
+      "reviewedPages": [
+        18,
+        19
+      ],
+      "ac": 10
+    },
+    {
+      "sourceSha256": "b9bc72e02b11ecf21ec0a1b604f7d18d33d8731947242c6f6fad1976cf0679e6",
+      "candidate": "Yumnam Joykumar Singh",
+      "reviewedAt": "2026-11-03",
+      "summary": "Selected movable observations are partial; complete financial totals remain unassigned. Original unknown/applicability wording and clipped scope are preserved.",
+      "fields": [
+        {
+          "secondaryValuePaise": 5051543000,
+          "note": "Two selected movable amounts ₹1,61,32,217.30 and ₹1,07,42,213.31 subtotal ₹2,68,74,430.61. Other visible cells read NIL; the row label is clipped at its lower edge. Complete immovable current-market rows remain unreviewed, so full primary assets stay null and no equivalent-scope discrepancy is assigned.",
+          "field": "assets",
+          "selectedComponentSubtotalPaise": 2687443061,
+          "primaryValuePaise": null,
+          "primaryScope": "Selected movable row; complete current-market assets unreviewed",
+          "observations": [
+            {
+              "label": "Selected movable cell 1",
+              "sourceText": "16132217.30",
+              "qualifier": "exact",
+              "page": 22,
+              "valuePaise": 1613221730
+            },
+            {
+              "label": "Selected movable cell 2",
+              "sourceText": "10742213.31",
+              "qualifier": "exact",
+              "page": 22,
+              "valuePaise": 1074221331
+            }
+          ],
+          "status": "partial-summary-comparison",
+          "pages": [
+            22
+          ],
+          "primarySourceText": "Selected movable cells only"
+        },
+        {
+          "secondaryValuePaise": 0,
+          "note": "Visible selected primary and disputed government-dues/loan cells on PDF25 read NIL, numerically consistent with ADR zero within this selected scope. Rightmost columns/bottom continuation are clipped; a complete primary monetary total is not assigned. No complete debt-clearance finding or independent affidavit audit inferred.",
+          "field": "liabilities",
+          "primaryValuePaise": null,
+          "primaryScope": "Selected primary/disputed rows; clipped columns excluded",
+          "observations": [
+            {
+              "label": "Selected loan cell only",
+              "sourceText": "0",
+              "qualifier": "exact",
+              "page": 25,
+              "valuePaise": 0
+            }
+          ],
+          "status": "partial-wording-review",
+          "pages": [
+            25
+          ],
+          "primarySourceText": "NIL in selected primary/disputed cells"
+        }
+      ],
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/10/YUMNAM%20JOYKUMAR%20SINGH.pdf",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41570696496",
+      "reviewedPages": [
+        22,
+        25
+      ],
+      "ac": 10
     }
   ],
   "sourceReviewRuns": [
