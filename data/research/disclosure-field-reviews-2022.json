@@ -6580,6 +6580,117 @@
         14
       ],
       "sourceSha256": "059eae5f52c51fa6ddb8e89291686ec2b6d29a68de11e5d2e6f63971c2ffd02c"
+    },
+    {
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41782985051",
+      "sourceSha256": "2615e445bca4eef6efd3e3405c5cba33f609fb5e3a49355f38530a097127caa9",
+      "reviewedAt": "2026-11-04",
+      "reviewedPages": [
+        11,
+        12
+      ],
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/14/Huidrom%20Vikramjit%20Singh.pdf",
+      "fields": [
+        {
+          "primaryValuePaise": null,
+          "primaryScope": "Selected movable row; complete current-market assets unreviewed",
+          "status": "partial-summary-comparison",
+          "primarySourceText": "Selected movable cells; applicability wording preserved",
+          "secondaryValuePaise": 11325048100,
+          "pages": [
+            11
+          ],
+          "note": "Two selected movable amounts ₹1,98,96,832.63 and ₹74,09,649.94 subtotal ₹2,73,06,482.57. Other visible cells say N A or Not Applicable, preserved as nonnumeric wording. Complete immovable current-market rows remain unreviewed and the row label is clipped; full primary assets stay null with no equivalent-scope discrepancy.",
+          "observations": [
+            {
+              "sourceText": "19896832.63",
+              "valuePaise": 1989683263,
+              "label": "Selected movable cell 1",
+              "qualifier": "exact",
+              "page": 11
+            },
+            {
+              "sourceText": "7409649.94",
+              "valuePaise": 740964994,
+              "label": "Selected movable cell 2",
+              "qualifier": "exact",
+              "page": 11
+            }
+          ],
+          "field": "assets",
+          "selectedComponentSubtotalPaise": 2730648257
+        },
+        {
+          "primaryScope": "Only clean selected financial regions; excluded fields unverified",
+          "primaryValuePaise": null,
+          "pages": [
+            12
+          ],
+          "note": "Only the selected disputed government-dues/loan continuation was reviewed cleanly: visible cells read NIL, N A and Not Applicable. The primary-loan amount is obscured by a stamp and was excluded; no numerical primary-loan observation is approved. These disputed cells do not verify or contradict ADR ₹17,21,913. Complete primary liability stays null; do not infer zero or clearance.",
+          "status": "partial-wording-review",
+          "primarySourceText": "Visible selected NIL/N A/Not Applicable wording; primary total unassigned",
+          "field": "liabilities",
+          "secondaryValuePaise": 172191300
+        }
+      ],
+      "summary": "Selected movable amounts remain partial. Clean liability wording has limited scope; excluded or obscured fields do not establish a complete monetary total.",
+      "ac": 14,
+      "candidate": "Huidrom Vikramjit Singhh"
+    },
+    {
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41782985051",
+      "sourceSha256": "b4a44f2b486cc460eea04331927d45325fc414f3de9ca5d606812758369dd582",
+      "reviewedAt": "2026-11-04",
+      "reviewedPages": [
+        11
+      ],
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/14/Ningombam%20Helendro%20Singh.pdf",
+      "fields": [
+        {
+          "primaryValuePaise": null,
+          "primaryScope": "Selected movable row; complete current-market assets unreviewed",
+          "status": "partial-summary-comparison",
+          "primarySourceText": "Selected movable cells; applicability wording preserved",
+          "secondaryValuePaise": 927900600,
+          "pages": [
+            11
+          ],
+          "note": "Selected self/spouse movable amounts ₹7,43,756 and ₹10,750 subtotal ₹7,54,506. HUF N A and partly clipped dependent Not Applicable wording remain nonnumeric. Complete immovable current-market rows unreviewed;full primary assets null,no equivalent-scope discrepancy assigned.",
+          "observations": [
+            {
+              "sourceText": "743756.00",
+              "valuePaise": 74375600,
+              "label": "Selected movable cell 1",
+              "qualifier": "exact",
+              "page": 11
+            },
+            {
+              "sourceText": "10750.00",
+              "valuePaise": 1075000,
+              "label": "Selected movable cell 2",
+              "qualifier": "exact",
+              "page": 11
+            }
+          ],
+          "field": "assets",
+          "selectedComponentSubtotalPaise": 75450600
+        },
+        {
+          "primaryScope": "Only clean selected financial regions; excluded fields unverified",
+          "primaryValuePaise": null,
+          "pages": [
+            11
+          ],
+          "note": "Visible selected primary and disputed government-dues/loan cells read NIL, numerically consistent with ADR zero in this selected scope. Left-hand labels and rightmost continuation are clipped; no complete primary monetary total is assigned. No full filing audit,current debt or complete clearance inferred.",
+          "status": "partial-wording-review",
+          "primarySourceText": "Visible selected NIL/N A/Not Applicable wording; primary total unassigned",
+          "field": "liabilities",
+          "secondaryValuePaise": 0
+        }
+      ],
+      "summary": "Selected movable amounts remain partial. Clean liability wording has limited scope; excluded or obscured fields do not establish a complete monetary total.",
+      "ac": 14,
+      "candidate": "Ningombam Helendro Singh"
     }
   ],
   "sourceReviewRuns": [
