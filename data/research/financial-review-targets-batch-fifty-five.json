@@ -17,24 +17,14 @@
         ]
       },
       {
-        "id": "liabilities-start",
-        "page": 11,
-        "rect": [
-          165,
-          731,
-          540,
-          786
-        ]
-      },
-      {
-        "id": "liabilities-continuation",
-        "page": 12,
         "rect": [
           95,
-          48,
+          145,
           540,
           205
-        ]
+        ],
+        "id": "disputed-only",
+        "page": 12
       }
     ]
   },
