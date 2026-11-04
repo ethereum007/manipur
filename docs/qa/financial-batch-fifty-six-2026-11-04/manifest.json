@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 14,
+    "candidate": "Rajkumar Suraj Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/14/Rajkumar%20Suraj%20Singh.pdf",
+    "sha256": "d45be8c80ea9ce13a4f55ce62677914d27c85f8bfdc6bb06c8151eb138b6d5bc",
+    "pages": 15,
+    "crops": [
+      {
+        "id": "movable",
+        "rect": [
+          80,
+          364,
+          535,
+          398
+        ],
+        "page": 11,
+        "image": "ac14-d45be8c80ea9-p11-financial-selected-movable.png"
+      },
+      {
+        "id": "disputed-only",
+        "rect": [
+          68,
+          165,
+          535,
+          263
+        ],
+        "page": 12,
+        "image": "ac14-d45be8c80ea9-p12-financial-selected-disputed-only.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 14,
+    "candidate": "Thokchom Satyabrata Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/14/Thokchom%20Satyabrata%20Singh.pdf",
+    "sha256": "ced4ac8497989bed2eba00c0a1fdfe5a7a232f34ca97e244569c644836e2300e",
+    "pages": 20,
+    "crops": [
+      {
+        "id": "movable-location",
+        "rect": [
+          180,
+          90,
+          535,
+          148
+        ],
+        "page": 15,
+        "image": "ac14-ced4ac849798-p15-financial-selected-movable-location.png"
+      },
+      {
+        "id": "liabilities",
+        "rect": [
+          90,
+          493,
+          535,
+          730
+        ],
+        "page": 15,
+        "image": "ac14-ced4ac849798-p15-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
