@@ -5,7 +5,38 @@
     "expectedSha256": "2615e445bca4eef6efd3e3405c5cba33f609fb5e3a49355f38530a097127caa9",
     "ac": 14,
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/14/Huidrom%20Vikramjit%20Singh.pdf",
-    "clips": []
+    "clips": [
+      {
+        "id": "movable",
+        "page": 11,
+        "rect": [
+          95,
+          490,
+          540,
+          526
+        ]
+      },
+      {
+        "id": "liabilities-start",
+        "page": 11,
+        "rect": [
+          165,
+          731,
+          540,
+          786
+        ]
+      },
+      {
+        "id": "liabilities-continuation",
+        "page": 12,
+        "rect": [
+          95,
+          48,
+          540,
+          205
+        ]
+      }
+    ]
   },
   {
     "candidate": "Ningombam Helendro Singh",
@@ -13,6 +44,27 @@
     "expectedSha256": "b4a44f2b486cc460eea04331927d45325fc414f3de9ca5d606812758369dd582",
     "ac": 14,
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/14/Ningombam%20Helendro%20Singh.pdf",
-    "clips": []
+    "clips": [
+      {
+        "id": "movable",
+        "page": 11,
+        "rect": [
+          95,
+          249,
+          540,
+          290
+        ]
+      },
+      {
+        "id": "liabilities",
+        "page": 11,
+        "rect": [
+          185,
+          483,
+          540,
+          627
+        ]
+      }
+    ]
   }
 ]
