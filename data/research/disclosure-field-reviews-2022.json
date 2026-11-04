@@ -6691,6 +6691,117 @@
       "summary": "Selected movable amounts remain partial. Clean liability wording has limited scope; excluded or obscured fields do not establish a complete monetary total.",
       "ac": 14,
       "candidate": "Ningombam Helendro Singh"
+    },
+    {
+      "reviewedAt": "2026-11-04",
+      "reviewedPages": [
+        11,
+        12
+      ],
+      "fields": [
+        {
+          "selectedComponentSubtotalPaise": 273989763,
+          "status": "partial-summary-comparison",
+          "primarySourceText": "Selected movable cells; wording and clipped scope preserved",
+          "primaryScope": "Selected movable row; complete current-market assets unreviewed",
+          "pages": [
+            11
+          ],
+          "note": "Two selected movable amounts ₹21,92,824.48 and ₹5,47,073.15 subtotal ₹27,39,897.63. Other visible cells say N.A., preserved as nonnumeric wording. Complete immovable current-market rows remain unreviewed;full primary assets stay null and no equivalent-scope discrepancy is assigned.",
+          "secondaryValuePaise": 844983900,
+          "field": "assets",
+          "observations": [
+            {
+              "label": "Selected movable cell 1",
+              "page": 11,
+              "valuePaise": 219282448,
+              "sourceText": "2192824.48",
+              "qualifier": "exact"
+            },
+            {
+              "label": "Selected movable cell 2",
+              "page": 11,
+              "valuePaise": 54707315,
+              "sourceText": "547073.15",
+              "qualifier": "exact"
+            }
+          ],
+          "primaryValuePaise": null
+        },
+        {
+          "secondaryValuePaise": 0,
+          "pages": [
+            12
+          ],
+          "primaryScope": "Only clean selected rows; obscured or clipped fields unverified",
+          "primarySourceText": "Selected N.A./NA/NIL wording only",
+          "field": "liabilities",
+          "status": "partial-wording-review",
+          "primaryValuePaise": null,
+          "note": "Only clean selected disputed government-dues/loan rows on PDF12 were reviewed: cells read N.A. The primary-liability section is obscured by a stamp and excluded. Do not promote disputed N.A. to numeric zero or claim verification of ADR zero. The disputed heading is above the retained crop;location established in bounded source review,not full-page retention. Complete primary liability stays null;no debt-clearance finding."
+        }
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41814989706",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/14/Rajkumar%20Suraj%20Singh.pdf",
+      "sourceSha256": "d45be8c80ea9ce13a4f55ce62677914d27c85f8bfdc6bb06c8151eb138b6d5bc",
+      "candidate": "Rajkumar Suraj Singh",
+      "summary": "Selected movable amounts remain partial. Applicability wording and excluded primary fields do not establish a complete monetary zero.",
+      "ac": 14
+    },
+    {
+      "reviewedAt": "2026-11-04",
+      "reviewedPages": [
+        15
+      ],
+      "fields": [
+        {
+          "selectedComponentSubtotalPaise": 252396857,
+          "status": "partial-summary-comparison",
+          "primarySourceText": "Selected movable cells; wording and clipped scope preserved",
+          "primaryScope": "Selected movable row; complete current-market assets unreviewed",
+          "pages": [
+            15
+          ],
+          "note": "Two wrapped selected movable amounts ₹21,15,214.67 and ₹4,08,753.90 subtotal ₹25,23,968.57. Visible other cells read NIL. The stamped row-label margin was excluded;source location was visually confirmed before narrowing. Complete immovable current-market rows remain unreviewed;full primary assets null,no equivalent-scope discrepancy assigned.",
+          "secondaryValuePaise": 742396700,
+          "field": "assets",
+          "observations": [
+            {
+              "label": "Selected movable cell 1",
+              "page": 15,
+              "valuePaise": 211521467,
+              "sourceText": "2115214.67",
+              "qualifier": "exact"
+            },
+            {
+              "label": "Selected movable cell 2",
+              "page": 15,
+              "valuePaise": 40875390,
+              "sourceText": "408753.90",
+              "qualifier": "exact"
+            }
+          ],
+          "primaryValuePaise": null
+        },
+        {
+          "secondaryValuePaise": 0,
+          "pages": [
+            15
+          ],
+          "primaryScope": "Only clean selected rows; obscured or clipped fields unverified",
+          "primarySourceText": "Selected N.A./NA/NIL wording only",
+          "field": "liabilities",
+          "status": "partial-wording-review",
+          "primaryValuePaise": null,
+          "note": "Selected primary cells mix NA,N.A. and NIL;selected disputed cells mix NIL and N.A. Preserve those literal wording differences and do not convert applicability wording to complete primary monetary zero despite ADR zero. Rightmost/bottom continuation clipped;complete primary liability stays null. No full affidavit audit,current debt or complete clearance inferred."
+        }
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41814989706",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/14/Thokchom%20Satyabrata%20Singh.pdf",
+      "sourceSha256": "ced4ac8497989bed2eba00c0a1fdfe5a7a232f34ca97e244569c644836e2300e",
+      "candidate": "Thokchom Satyabrata Singh",
+      "summary": "Selected movable amounts remain partial. Applicability wording and excluded primary fields do not establish a complete monetary zero.",
+      "ac": 14
     }
   ],
   "sourceReviewRuns": [
