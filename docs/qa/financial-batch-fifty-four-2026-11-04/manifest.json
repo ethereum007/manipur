@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 13,
+    "candidate": "Ngangbam Robert Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/13/Ngangbam%20Robert%20Singh.pdf",
+    "sha256": "f400210617d4621d9b31f94dd3ccc592db12c88f3a6934a67871acfbc1619e91",
+    "pages": 15,
+    "crops": [
+      {
+        "rect": [
+          120,
+          504,
+          545,
+          529
+        ],
+        "page": 12,
+        "id": "movable",
+        "image": "ac13-f400210617d4-p12-financial-selected-movable.png"
+      },
+      {
+        "rect": [
+          192,
+          175,
+          545,
+          310
+        ],
+        "page": 13,
+        "id": "liabilities",
+        "image": "ac13-f400210617d4-p13-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 13,
+    "candidate": "Oinam Romen Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/13/Oinam%20Romen%20Singh.pdf",
+    "sha256": "059eae5f52c51fa6ddb8e89291686ec2b6d29a68de11e5d2e6f63971c2ffd02c",
+    "pages": 17,
+    "crops": [
+      {
+        "rect": [
+          142,
+          139,
+          550,
+          175
+        ],
+        "page": 14,
+        "id": "movable",
+        "image": "ac13-059eae5f52c5-p14-financial-selected-movable.png"
+      },
+      {
+        "rect": [
+          138,
+          410,
+          550,
+          573
+        ],
+        "page": 14,
+        "id": "liabilities",
+        "image": "ac13-059eae5f52c5-p14-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
