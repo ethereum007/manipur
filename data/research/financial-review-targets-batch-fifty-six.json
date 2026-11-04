@@ -14,10 +14,10 @@
         "page": 11
       },
       {
-        "id": "liabilities",
+        "id": "disputed-only",
         "rect": [
           68,
-          18,
+          165,
           535,
           263
         ],
@@ -35,7 +35,7 @@
       {
         "id": "movable-location",
         "rect": [
-          90,
+          180,
           90,
           535,
           148
