@@ -1,6 +1,6 @@
 {
   "year": 2022,
-  "reviewedAt": "2026-11-03",
+  "reviewedAt": "2026-11-04",
   "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40158668602",
   "method": "Codex visual comparison of selected original financial-summary regions. OCR located pages only; retained images use fixed financial-region coordinates and matching source hashes. Selected cells, not an independent human audit or complete affidavit review.",
   "scope": "Self-declarations at 2022 nomination. Not present wealth, current liabilities, legal status or certification of truth.",
@@ -6443,6 +6443,143 @@
         18,
         19
       ]
+    },
+    {
+      "reviewedAt": "2026-11-04",
+      "ac": 13,
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/13/Ngangbam%20Robert%20Singh.pdf",
+      "candidate": "Ngangbam Robert Singh",
+      "fields": [
+        {
+          "primaryValuePaise": null,
+          "selectedComponentSubtotalPaise": 283486327,
+          "pages": [
+            12
+          ],
+          "secondaryValuePaise": 409986200,
+          "primarySourceText": "Selected movable cells only; clipped cells excluded",
+          "primaryScope": "Selected movable row; complete current-market assets unreviewed",
+          "observations": [
+            {
+              "valuePaise": 237068195,
+              "label": "Selected movable cell 1",
+              "sourceText": "2370681.95",
+              "page": 12,
+              "qualifier": "exact"
+            },
+            {
+              "valuePaise": 46418132,
+              "label": "Selected movable cell 2",
+              "sourceText": "464181.32",
+              "page": 12,
+              "qualifier": "exact"
+            }
+          ],
+          "status": "partial-summary-comparison",
+          "note": "Selected self/spouse movable amounts ₹23,70,681.95 and ₹4,64,181.32 subtotal ₹28,34,863.27. HUF says N A and dependent cells Not Applicable; neither is numeric zero. Complete immovable current-market rows unreviewed; full primary assets null, no equivalent-scope discrepancy assigned.",
+          "field": "assets"
+        },
+        {
+          "primaryValuePaise": null,
+          "pages": [
+            13
+          ],
+          "secondaryValuePaise": 75000000,
+          "primarySourceText": "Selected primary/disputed rows; different scopes preserved",
+          "primaryScope": "Selected rows only; disputed entries not added to primary totals",
+          "observations": [
+            {
+              "valuePaise": 0,
+              "label": "Selected primary loan Nil",
+              "sourceText": "Nil",
+              "page": 13,
+              "qualifier": "exact"
+            },
+            {
+              "valuePaise": 75000000,
+              "label": "Separate disputed loan",
+              "sourceText": "7,50,000.00",
+              "page": 13,
+              "qualifier": "exact"
+            }
+          ],
+          "status": "partial-summary-comparison",
+          "note": "Selected primary government-dues and loan cells read Nil, while the separately labelled disputed-loan row shows ₹7,50,000. ADR ₹7,50,000 matches that disputed amount numerically; this does not establish ADR aggregation rules or a contradiction between separate scopes. Preserve primary Nil, disputed750000 and N A wording distinctly. Left-hand labels/rightmost columns clipped. Complete primary liability null; do not label the filing debt-free or add disputed and primary scopes into a corrected total.",
+          "field": "liabilities"
+        }
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41754769150",
+      "summary": "Selected movable observations are partial; primary and disputed liability scopes remain distinct. Complete totals remain unassigned.",
+      "reviewedPages": [
+        12,
+        13
+      ],
+      "sourceSha256": "f400210617d4621d9b31f94dd3ccc592db12c88f3a6934a67871acfbc1619e91"
+    },
+    {
+      "reviewedAt": "2026-11-04",
+      "ac": 13,
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/13/Oinam%20Romen%20Singh.pdf",
+      "candidate": "Oinam Romen Singh",
+      "fields": [
+        {
+          "primaryValuePaise": null,
+          "selectedComponentSubtotalPaise": 292393509,
+          "pages": [
+            14
+          ],
+          "secondaryValuePaise": 1018228500,
+          "primarySourceText": "Selected movable cells only; clipped cells excluded",
+          "primaryScope": "Selected movable row; complete current-market assets unreviewed",
+          "observations": [
+            {
+              "valuePaise": 281794709,
+              "label": "Selected movable cell 1",
+              "sourceText": "2817947.09",
+              "page": 14,
+              "qualifier": "exact"
+            },
+            {
+              "valuePaise": 10598800,
+              "label": "Selected movable cell 2",
+              "sourceText": "105988.00",
+              "page": 14,
+              "qualifier": "exact"
+            }
+          ],
+          "status": "partial-summary-comparison",
+          "note": "Only two clear selected movable amounts ₹28,17,947.09 and ₹1,05,988 are included, subtotal ₹29,23,935.09. Wrapped dependent cells and rightmost amount are clipped and excluded; visible NIL wording preserved. Complete immovable current-market rows unreviewed, full primary assets null; no equivalent-scope discrepancy assigned.",
+          "field": "assets"
+        },
+        {
+          "primaryValuePaise": null,
+          "selectedComponentSubtotalPaise": 124091705,
+          "pages": [
+            14
+          ],
+          "secondaryValuePaise": 124091700,
+          "primarySourceText": "Selected primary/disputed rows; different scopes preserved",
+          "primaryScope": "Selected rows only; disputed entries not added to primary totals",
+          "observations": [
+            {
+              "valuePaise": 124091705,
+              "label": "Selected primary loan cell 1",
+              "sourceText": "1240917.05",
+              "page": 14,
+              "qualifier": "exact"
+            }
+          ],
+          "status": "partial-summary-comparison",
+          "note": "Selected loan ₹12,40,917.05 is5paise above ADR ₹12,40,917. Other selected primary/disputed cells say N/A and remain nonnumeric. Bottom continuation/rightmost scope clipped;complete primary liability null, no single complete-field correction assigned and no cause inferred.",
+          "field": "liabilities"
+        }
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41754769150",
+      "summary": "Selected movable observations are partial; primary and disputed liability scopes remain distinct. Complete totals remain unassigned.",
+      "reviewedPages": [
+        14
+      ],
+      "sourceSha256": "059eae5f52c51fa6ddb8e89291686ec2b6d29a68de11e5d2e6f63971c2ffd02c"
     }
   ],
   "sourceReviewRuns": [
