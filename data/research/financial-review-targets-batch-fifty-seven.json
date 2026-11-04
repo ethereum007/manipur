@@ -1,0 +1,18 @@
+[
+  {
+    "candidate": "Thounaojam Brinda",
+    "selectionReason": "Next image-only AC/name convenience record; not representative or risk ranked.",
+    "clips": [],
+    "ac": 14,
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/14/Thounaojam%20Brinda.pdf",
+    "expectedSha256": "69814f98fb77485fd3daf81c8fe98a3f189bfdc7b466fa933e3a4cebd15d6c70"
+  },
+  {
+    "candidate": "Okram Henry",
+    "selectionReason": "Next image-only AC/name convenience record; not representative or risk ranked.",
+    "clips": [],
+    "ac": 15,
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/15/Okram%20Henry.pdf",
+    "expectedSha256": "92e2e5140f000d78178671e1eb5ab801bdfc1999a27ad0e8302f9b3a7af4e106"
+  }
+]
