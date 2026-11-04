@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 14,
+    "candidate": "Huidrom Vikramjit Singhh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/14/Huidrom%20Vikramjit%20Singh.pdf",
+    "sha256": "2615e445bca4eef6efd3e3405c5cba33f609fb5e3a49355f38530a097127caa9",
+    "pages": 18,
+    "crops": [
+      {
+        "id": "movable",
+        "page": 11,
+        "rect": [
+          95,
+          490,
+          540,
+          526
+        ],
+        "image": "ac14-2615e445bca4-p11-financial-selected-movable.png"
+      },
+      {
+        "rect": [
+          95,
+          145,
+          540,
+          205
+        ],
+        "id": "disputed-only",
+        "page": 12,
+        "image": "ac14-2615e445bca4-p12-financial-selected-disputed-only.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 14,
+    "candidate": "Ningombam Helendro Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/14/Ningombam%20Helendro%20Singh.pdf",
+    "sha256": "b4a44f2b486cc460eea04331927d45325fc414f3de9ca5d606812758369dd582",
+    "pages": 13,
+    "crops": [
+      {
+        "id": "movable",
+        "page": 11,
+        "rect": [
+          95,
+          249,
+          540,
+          290
+        ],
+        "image": "ac14-b4a44f2b486c-p11-financial-selected-movable.png"
+      },
+      {
+        "id": "liabilities",
+        "page": 11,
+        "rect": [
+          185,
+          483,
+          540,
+          627
+        ],
+        "image": "ac14-b4a44f2b486c-p11-financial-selected-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
