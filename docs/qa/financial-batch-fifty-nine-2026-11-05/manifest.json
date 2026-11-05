@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 15,
+    "candidate": "Yumkham Erabot Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/15/Yumkham%20Erabot%20Singh.pdf",
+    "sha256": "0d7aa564c5e7dd0f13673a70130946062252163efd75500aba14e47d20f2f517",
+    "pages": 17,
+    "crops": [
+      {
+        "rect": [
+          95,
+          65,
+          450,
+          102
+        ],
+        "page": 14,
+        "id": "movable",
+        "image": "ac15-0d7aa564c5e7-p14-financial-selected-movable.png"
+      },
+      {
+        "rect": [
+          100,
+          400,
+          450,
+          529
+        ],
+        "page": 14,
+        "id": "primary-liabilities",
+        "image": "ac15-0d7aa564c5e7-p14-financial-selected-primary-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 16,
+    "candidate": "Ayangbam Oken Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/16/Ayangbam%20Oken%20Singh.pdf",
+    "sha256": "d3fe9091a40c42abcaf66786cca83e8eba8dfd34775d19330484edc985549ebc",
+    "pages": 15,
+    "crops": [
+      {
+        "rect": [
+          120,
+          577,
+          450,
+          618
+        ],
+        "page": 12,
+        "id": "movable",
+        "image": "ac16-d3fe9091a40c-p12-financial-selected-movable.png"
+      },
+      {
+        "rect": [
+          120,
+          81,
+          450,
+          177
+        ],
+        "page": 13,
+        "id": "primary-liabilities",
+        "image": "ac16-d3fe9091a40c-p13-financial-selected-primary-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
