@@ -1,0 +1,18 @@
+[
+  {
+    "candidate": "Yumkham Erabot Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/15/Yumkham%20Erabot%20Singh.pdf",
+    "ac": 15,
+    "selectionReason": "Next image-only AC/name convenience record; not representative or risk ranked.",
+    "clips": [],
+    "expectedSha256": "0d7aa564c5e7dd0f13673a70130946062252163efd75500aba14e47d20f2f517"
+  },
+  {
+    "candidate": "Ayangbam Oken Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/16/Ayangbam%20Oken%20Singh.pdf",
+    "ac": 16,
+    "selectionReason": "Next image-only AC/name convenience record; not representative or risk ranked.",
+    "clips": [],
+    "expectedSha256": "d3fe9091a40c42abcaf66786cca83e8eba8dfd34775d19330484edc985549ebc"
+  }
+]
