@@ -1,0 +1,77 @@
+[
+  {
+    "ac": 16,
+    "candidate": "Heikham Dingo Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/16/Heikham%20Dingo%20Singh.pdf",
+    "sha256": "43868d45f66c867811ec73d5399e2ddb138c4bdb492c4d2512d124e5e68aa7c9",
+    "pages": 19,
+    "crops": [
+      {
+        "rect": [
+          85,
+          248,
+          450,
+          321
+        ],
+        "page": 17,
+        "id": "movable",
+        "image": "ac16-43868d45f66c-p17-financial-selected-movable.png"
+      },
+      {
+        "rect": [
+          80,
+          646,
+          450,
+          719
+        ],
+        "page": 17,
+        "id": "government-dues-only",
+        "image": "ac16-43868d45f66c-p17-financial-selected-government-dues-only.png"
+      },
+      {
+        "id": "primary-loans",
+        "page": 18,
+        "rect": [
+          140,
+          62,
+          450,
+          131
+        ],
+        "image": "ac16-43868d45f66c-p18-financial-selected-primary-loans.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 16,
+    "candidate": "Khaidem Ranjit Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/16/Khaidem%20Ranjit%20Singh.pdf",
+    "sha256": "96da4868d09d048e107c8ad26ab627fdcf32b87d1a05926fb347682a5dcafce1",
+    "pages": 20,
+    "crops": [
+      {
+        "rect": [
+          150,
+          273,
+          535,
+          302
+        ],
+        "page": 18,
+        "id": "movable",
+        "image": "ac16-96da4868d09d-p18-financial-selected-movable.png"
+      },
+      {
+        "rect": [
+          150,
+          490,
+          535,
+          571
+        ],
+        "page": 18,
+        "id": "primary-liabilities",
+        "image": "ac16-96da4868d09d-p18-financial-selected-primary-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
