@@ -4,7 +4,18 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/15/Rajkumar%20Priyobarta%20Singh.pdf",
     "ac": 15,
     "candidate": "Rajkumar Priyobarta Singh",
-    "clips": [],
+    "clips": [
+      {
+        "rect": [
+          155,
+          180,
+          535,
+          278
+        ],
+        "id": "liability-selected",
+        "page": 11
+      }
+    ],
     "expectedSha256": "b7ed1b11b278757b07c4703d393bfcd769f14f48d25b7663acba37256193c9ce"
   },
   {
@@ -12,7 +23,28 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/15/Thangjam%20Arunkumar.pdf",
     "ac": 15,
     "candidate": "Thangjam Arunkumar",
-    "clips": [],
+    "clips": [
+      {
+        "rect": [
+          95,
+          418,
+          535,
+          459
+        ],
+        "id": "movable",
+        "page": 24
+      },
+      {
+        "rect": [
+          95,
+          508,
+          535,
+          610
+        ],
+        "id": "primary-liabilities",
+        "page": 25
+      }
+    ],
     "expectedSha256": "f435ae9a5e259d363b06fd05ca0bea05679353ff0ddac479a6533549982e221c"
   }
 ]

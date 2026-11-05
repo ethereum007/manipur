@@ -1,0 +1,223 @@
+[
+  {
+    "selectionReason": "Next image-only AC/name convenience record; not representative or risk ranked.",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/15/Rajkumar%20Priyobarta%20Singh.pdf",
+    "ac": 15,
+    "candidate": "Rajkumar Priyobarta Singh",
+    "clips": [],
+    "expectedSha256": "b7ed1b11b278757b07c4703d393bfcd769f14f48d25b7663acba37256193c9ce",
+    "pages": 11,
+    "abstractPages": [
+      10
+    ],
+    "proposals": [
+      {
+        "page": 10,
+        "width": 595.0,
+        "height": 842.0,
+        "markers": [],
+        "locator": "OCR headings only, not verified values"
+      },
+      {
+        "page": 11,
+        "width": 595.0,
+        "height": 842.0,
+        "markers": [
+          {
+            "marker": "Liabilities",
+            "rect": [
+              188.86153846153846,
+              187.75384615384615,
+              230.4,
+              195.5076923076923
+            ]
+          },
+          {
+            "marker": "educational",
+            "rect": [
+              205.47692307692307,
+              288.55384615384617,
+              254.2153846153846,
+              296.3076923076923
+            ]
+          },
+          {
+            "marker": "education",
+            "rect": [
+              347.81538461538463,
+              305.16923076923075,
+              388.8,
+              311.81538461538463
+            ]
+          },
+          {
+            "marker": "liability,",
+            "rect": [
+              417.6,
+              451.9384615384615,
+              451.38461538461536,
+              460.24615384615385
+            ]
+          }
+        ],
+        "locator": "OCR headings only, not verified values"
+      }
+    ],
+    "scope": "Headings and coordinates only. No financial values, full-page text, personal identifiers or rendered images exported. Fixed crops require separate specification."
+  },
+  {
+    "selectionReason": "Next image-only AC/name convenience record; not representative or risk ranked.",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/15/Thangjam%20Arunkumar.pdf",
+    "ac": 15,
+    "candidate": "Thangjam Arunkumar",
+    "clips": [],
+    "expectedSha256": "f435ae9a5e259d363b06fd05ca0bea05679353ff0ddac479a6533549982e221c",
+    "pages": 27,
+    "abstractPages": [
+      23
+    ],
+    "proposals": [
+      {
+        "page": 23,
+        "width": 595.0,
+        "height": 842.0,
+        "markers": [],
+        "locator": "OCR headings only, not verified values"
+      },
+      {
+        "page": 24,
+        "width": 595.0,
+        "height": 842.0,
+        "markers": [
+          {
+            "marker": "Assets",
+            "rect": [
+              163.93846153846152,
+              369.96923076923076,
+              193.2923076923077,
+              377.7230769230769
+            ]
+          },
+          {
+            "marker": "Liabilities",
+            "rect": [
+              216.55384615384617,
+              366.0923076923077,
+              309.6,
+              377.16923076923075
+            ]
+          },
+          {
+            "marker": "assets",
+            "rect": [
+              353.9076923076923,
+              362.2153846153846,
+              388.24615384615385,
+              372.73846153846154
+            ]
+          },
+          {
+            "marker": "Moveable",
+            "rect": [
+              100.8,
+              430.33846153846156,
+              144.55384615384617,
+              438.6461538461538
+            ]
+          },
+          {
+            "marker": "Assets",
+            "rect": [
+              158.95384615384614,
+              430.33846153846156,
+              187.2,
+              438.0923076923077
+            ]
+          },
+          {
+            "marker": "Immovable",
+            "rect": [
+              101.9076923076923,
+              471.87692307692305,
+              148.98461538461538,
+              488.4923076923077
+            ]
+          },
+          {
+            "marker": "Assets",
+            "rect": [
+              153.96923076923076,
+              471.87692307692305,
+              182.76923076923077,
+              488.4923076923077
+            ]
+          },
+          {
+            "marker": "immovable",
+            "rect": [
+              155.07692307692307,
+              501.7846153846154,
+              203.8153846153846,
+              511.2
+            ]
+          }
+        ],
+        "locator": "OCR headings only, not verified values"
+      },
+      {
+        "page": 25,
+        "width": 595.0,
+        "height": 842.0,
+        "markers": [
+          {
+            "marker": "immovable",
+            "rect": [
+              157.2923076923077,
+              369.4153846153846,
+              207.13846153846154,
+              379.38461538461536
+            ]
+          },
+          {
+            "marker": "assets",
+            "rect": [
+              103.01538461538462,
+              474.6461538461538,
+              129.6,
+              482.4
+            ]
+          },
+          {
+            "marker": "assets",
+            "rect": [
+              173.35384615384615,
+              485.16923076923075,
+              206.03076923076924,
+              495.1384615384615
+            ]
+          },
+          {
+            "marker": "Liabilities",
+            "rect": [
+              103.56923076923077,
+              517.2923076923076,
+              145.1076923076923,
+              526.1538461538462
+            ]
+          },
+          {
+            "marker": "Liabilities",
+            "rect": [
+              103.56923076923077,
+              619.2,
+              144.55384615384617,
+              628.0615384615385
+            ]
+          }
+        ],
+        "locator": "OCR headings only, not verified values"
+      }
+    ],
+    "scope": "Headings and coordinates only. No financial values, full-page text, personal identifiers or rendered images exported. Fixed crops require separate specification."
+  }
+]

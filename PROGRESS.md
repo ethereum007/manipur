@@ -1185,3 +1185,8 @@ Production114/226/151/0. Full41853824402 passed248checks,5PDFpages,913HTML/31,46
 ## Batch58 original source preparation — 5 November 2026 IST
 
 Prior batch57 cloud/production/visual gates closed. Next AC15 Rajkumar Priyobarta Singh / Thangjam Arunkumar pinned to captured hashes; metadata-only locator prepared. No new values/images approved. Production114/226/151/0 unchanged;2027 deferred/cadence active.
+
+
+## Batch58 source locations; bounded missing asset locator
+
+41962353276 passed hashes/headings. Three financial-only regions specified for Priyobarta PDF11 and Arunkumar PDF24/25; Priyobarta PDF10 headings absent, fixed-page alternate locator prepared. Finish both cloud runs and privacy/visual review. No new values approved;production114/226/151/0 unchanged,2027 deferred.

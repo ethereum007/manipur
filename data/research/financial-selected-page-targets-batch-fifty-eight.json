@@ -1,0 +1,24 @@
+[
+  {
+    "selectionReason": "Next image-only AC/name convenience record; not representative or risk ranked.",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/15/Rajkumar%20Priyobarta%20Singh.pdf",
+    "ac": 15,
+    "candidate": "Rajkumar Priyobarta Singh",
+    "clips": [
+      {
+        "rect": [
+          155,
+          180,
+          535,
+          278
+        ],
+        "id": "liability-selected",
+        "page": 11
+      }
+    ],
+    "expectedSha256": "b7ed1b11b278757b07c4703d393bfcd769f14f48d25b7663acba37256193c9ce",
+    "locatorPages": [
+      10
+    ]
+  }
+]
