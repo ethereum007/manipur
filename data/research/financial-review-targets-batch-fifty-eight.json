@@ -12,8 +12,28 @@
           535,
           278
         ],
-        "id": "liability-selected",
+        "id": "disputed-liabilities",
         "page": 11
+      },
+      {
+        "id": "movable",
+        "page": 10,
+        "rect": [
+          150,
+          405,
+          535,
+          449
+        ]
+      },
+      {
+        "id": "primary-loans",
+        "page": 11,
+        "rect": [
+          150,
+          65,
+          535,
+          180
+        ]
       }
     ],
     "expectedSha256": "b7ed1b11b278757b07c4703d393bfcd769f14f48d25b7663acba37256193c9ce"
