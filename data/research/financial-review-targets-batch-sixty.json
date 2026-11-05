@@ -5,7 +5,28 @@
     "ac": 16,
     "expectedSha256": "43868d45f66c867811ec73d5399e2ddb138c4bdb492c4d2512d124e5e68aa7c9",
     "selectionReason": "Next image-only AC/name convenience record; not representative or risk ranked.",
-    "clips": []
+    "clips": [
+      {
+        "rect": [
+          85,
+          248,
+          450,
+          321
+        ],
+        "page": 17,
+        "id": "movable"
+      },
+      {
+        "rect": [
+          80,
+          646,
+          450,
+          785
+        ],
+        "page": 17,
+        "id": "primary-liabilities"
+      }
+    ]
   },
   {
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/16/Khaidem%20Ranjit%20Singh.pdf",
@@ -13,6 +34,27 @@
     "ac": 16,
     "expectedSha256": "96da4868d09d048e107c8ad26ab627fdcf32b87d1a05926fb347682a5dcafce1",
     "selectionReason": "Next image-only AC/name convenience record; not representative or risk ranked.",
-    "clips": []
+    "clips": [
+      {
+        "rect": [
+          150,
+          273,
+          535,
+          302
+        ],
+        "page": 18,
+        "id": "movable"
+      },
+      {
+        "rect": [
+          150,
+          490,
+          535,
+          571
+        ],
+        "page": 18,
+        "id": "primary-liabilities"
+      }
+    ]
   }
 ]

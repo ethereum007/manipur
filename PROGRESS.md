@@ -1235,3 +1235,8 @@ Production118/234/147/0. Full42003582603 passed252checks,5PDFpages,913HTML/31,46
 ## Batch60 original source preparation — 5 November 2026
 
 Prior batch59 release gates closed. Next two original financial sources pinned to hashes in financial-review-targets-batch-sixty.json;metadata-only locator prepared. No new values/images approved. Production118/234/147/0 unchanged;2027 deferred/cadence active.
+
+
+## Batch60 source locations verified
+
+42015901405 passed hashes;headings-only metadata retained. Four selected financial regions specified for Dingo PDF17 and Ranjit PDF18. Finish renderer/privacy/manual review before monetary observations approved. Production118/234/147/0 unchanged;2027 deferred.
