@@ -1240,3 +1240,8 @@ Prior batch59 release gates closed. Next two original financial sources pinned t
 ## Batch60 source locations verified
 
 42015901405 passed hashes;headings-only metadata retained. Four selected financial regions specified for Dingo PDF17 and Ranjit PDF18. Finish renderer/privacy/manual review before monetary observations approved. Production118/234/147/0 unchanged;2027 deferred.
+
+
+## Batch60 clean crop review; missing loan locator
+
+42024086993 succeeded;clean government-dues-only and Ranjit movable/primary Nil crops inspected. Dingo loan remains unreviewed;fixed PDF18 heading-only lookup prepared. Signed artifact13410164570 was deleted before retention. Finish missing-page lookup and final source review before integration;production118/234/147/0 unchanged,2027 deferred.

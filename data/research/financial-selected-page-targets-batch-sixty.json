@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/16/Heikham%20Dingo%20Singh.pdf",
+    "candidate": "Heikham Dingo Singh",
+    "ac": 16,
+    "expectedSha256": "43868d45f66c867811ec73d5399e2ddb138c4bdb492c4d2512d124e5e68aa7c9",
+    "selectionReason": "Next image-only AC/name convenience record; not representative or risk ranked.",
+    "clips": [
+      {
+        "rect": [
+          85,
+          248,
+          450,
+          321
+        ],
+        "page": 17,
+        "id": "movable"
+      },
+      {
+        "rect": [
+          80,
+          646,
+          450,
+          719
+        ],
+        "page": 17,
+        "id": "government-dues-only"
+      }
+    ],
+    "locatorPages": [
+      18
+    ]
+  }
+]
