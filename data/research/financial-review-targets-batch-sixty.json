@@ -25,6 +25,16 @@
         ],
         "page": 17,
         "id": "government-dues-only"
+      },
+      {
+        "id": "primary-loans",
+        "page": 18,
+        "rect": [
+          100,
+          62,
+          450,
+          131
+        ]
       }
     ]
   },
