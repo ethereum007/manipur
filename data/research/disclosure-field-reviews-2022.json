@@ -7194,6 +7194,125 @@
           ]
         }
       ]
+    },
+    {
+      "ac": 16,
+      "candidate": "Heikham Dingo Singh",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/16/Heikham%20Dingo%20Singh.pdf",
+      "sourceSha256": "43868d45f66c867811ec73d5399e2ddb138c4bdb492c4d2512d124e5e68aa7c9",
+      "reviewedAt": "2026-11-05",
+      "reviewedPages": [
+        17,
+        18
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42036964335",
+      "summary": "Selected financial cells only. Clipped scope, unreviewed current-market assets and earlier context prevent complete primary monetary totals.",
+      "fields": [
+        {
+          "note": "Selected movable amounts ₹31,48,606.38, ₹99,16,277.15 and ₹11,260 subtotal ₹1,30,76,143.53. Visible NIL is preserved; the clipped rightmost cell is excluded. Complete current-market immovable assets remain unreviewed. Full primary assets remain null; no equivalent-scope discrepancy is assigned.",
+          "primaryScope": "Selected financial row only; complete monetary total unverified",
+          "primarySourceText": "Selected numeric entries; clipped scope excluded",
+          "field": "assets",
+          "secondaryValuePaise": 1580714300,
+          "selectedComponentSubtotalPaise": 1307614353.0,
+          "observations": [
+            {
+              "label": "Selected financial entry",
+              "page": 17,
+              "valuePaise": 314860638,
+              "qualifier": "exact",
+              "sourceText": "3148606.38"
+            },
+            {
+              "label": "Selected financial entry",
+              "page": 17,
+              "valuePaise": 991627715,
+              "qualifier": "exact",
+              "sourceText": "9916277.15"
+            },
+            {
+              "label": "Selected financial entry",
+              "page": 17,
+              "valuePaise": 1126000,
+              "qualifier": "exact",
+              "sourceText": "11260.00"
+            }
+          ],
+          "primaryValuePaise": null,
+          "pages": [
+            17
+          ],
+          "status": "partial-summary-comparison"
+        },
+        {
+          "note": "Selected PDF18 loans ₹10,50,180 and ₹27,34,771 subtotal ₹37,84,951 and agree numerically with ADR. The first loan is described as loan from Assembly stated above; that earlier context is unreviewed. Selected PDF17 government-dues cells read NIL. The loan-label left margin was cropped to exclude a stamp; location was established separately. Rightmost cells remain excluded, so full primary liability stays null. No current debt or complete clearance finding.",
+          "primaryScope": "Selected financial row only; complete monetary total unverified",
+          "primarySourceText": "Selected numeric entries; clipped scope excluded",
+          "field": "liabilities",
+          "secondaryValuePaise": 378495100,
+          "selectedComponentSubtotalPaise": 378495100.0,
+          "observations": [
+            {
+              "label": "Selected financial entry",
+              "page": 18,
+              "valuePaise": 105018000,
+              "qualifier": "exact",
+              "sourceText": "1050180.00"
+            },
+            {
+              "label": "Selected financial entry",
+              "page": 18,
+              "valuePaise": 273477100,
+              "qualifier": "exact",
+              "sourceText": "2734771.00"
+            }
+          ],
+          "primaryValuePaise": null,
+          "pages": [
+            17,
+            18
+          ],
+          "status": "partial-summary-comparison"
+        }
+      ]
+    },
+    {
+      "ac": 16,
+      "candidate": "Khaidem Ranjit Singh",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/16/Khaidem%20Ranjit%20Singh.pdf",
+      "sourceSha256": "96da4868d09d048e107c8ad26ab627fdcf32b87d1a05926fb347682a5dcafce1",
+      "reviewedAt": "2026-11-05",
+      "reviewedPages": [
+        18
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42036964335",
+      "summary": "Selected financial cells only. Clipped scope, unreviewed current-market assets and earlier context prevent complete primary monetary totals.",
+      "fields": [
+        {
+          "note": "Selected movable cells on PDF18 read Nil. This does not establish complete current-market assets zero or an equivalent-scope contradiction with ADR ₹2,71,152. Complete immovable/current-market rows and clipped rightmost scope remain unreviewed; full primary assets stay null.",
+          "primaryScope": "Selected financial row only; complete monetary total unverified",
+          "primarySourceText": "Selected Nil wording only; clipped scope excluded",
+          "field": "assets",
+          "secondaryValuePaise": 27115200,
+          "primaryValuePaise": null,
+          "pages": [
+            18
+          ],
+          "status": "partial-wording-review"
+        },
+        {
+          "note": "Selected primary government-dues and loan cells on PDF18 read Nil. The rightmost scope is clipped and excluded. Selected Nil wording alone does not verify complete primary monetary zero despite ADR zero; full primary liability remains null. No full affidavit audit, current debt or complete clearance assessment.",
+          "primaryScope": "Selected financial row only; complete monetary total unverified",
+          "primarySourceText": "Selected Nil wording only; clipped scope excluded",
+          "field": "liabilities",
+          "secondaryValuePaise": 0,
+          "primaryValuePaise": null,
+          "pages": [
+            18
+          ],
+          "status": "partial-wording-review"
+        }
+      ]
     }
   ],
   "sourceReviewRuns": [
