@@ -1,6 +1,6 @@
 {
   "year": 2022,
-  "reviewedAt": "2026-11-04",
+  "reviewedAt": "2026-11-05",
   "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40158668602",
   "method": "Codex visual comparison of selected original financial-summary regions. OCR located pages only; retained images use fixed financial-region coordinates and matching source hashes. Selected cells, not an independent human audit or complete affidavit review.",
   "scope": "Self-declarations at 2022 nomination. Not present wealth, current liabilities, legal status or certification of truth.",
@@ -6952,6 +6952,125 @@
           ],
           "note": "Selected bank/financial-institution/other loan entry ₹63,89,726.99 is 99 paise above the ADR liability summary. Adjacent NOT KNOWN remains unknown, not zero; government dues mix NIL and NOT KNOWN. This is a selected-entry comparison only, with clipped lower continuation. Complete primary liability remains null; no complete clearance or current debt assessment is inferred.",
           "primaryScope": "Selected primary loan entries; other cells nonnumeric or unreviewed"
+        }
+      ]
+    },
+    {
+      "ac": 15,
+      "candidate": "Rajkumar Priyobarta Singh",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/15/Rajkumar%20Priyobarta%20Singh.pdf",
+      "sourceSha256": "b7ed1b11b278757b07c4703d393bfcd769f14f48d25b7663acba37256193c9ce",
+      "reviewedAt": "2026-11-05",
+      "reviewedPages": [
+        10,
+        11
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41971626166",
+      "summary": "Selected financial cells only. Movable wording, primary loans and disputed liabilities retain distinct scopes; complete monetary totals remain unverified.",
+      "fields": [
+        {
+          "pages": [
+            10
+          ],
+          "field": "assets",
+          "primaryScope": "Selected movable row only; complete current-market assets unreviewed",
+          "primarySourceText": "Selected movable cells NIL",
+          "note": "Selected movable cells on PDF10 read NIL. This does not establish complete current-market assets of zero or contradict the ADR asset summary of ₹32,60,395 on equivalent scope. Complete primary assets remain null; immovable/current-market rows are unreviewed.",
+          "status": "partial-wording-review",
+          "secondaryValuePaise": 326039500,
+          "primaryValuePaise": null
+        },
+        {
+          "pages": [
+            11
+          ],
+          "field": "liabilities",
+          "primaryScope": "Selected primary loan row and separate disputed rows only",
+          "primarySourceText": "Selected primary loans NA; separately disputed rows NA",
+          "note": "Selected primary loan cells on PDF11 read NA. Separately labelled disputed government-dues and loan rows also read NA. Preserve these separate scopes; NA is not monetary zero. ADR reports ₹30,00,000, but no complete primary monetary total or equivalent-scope discrepancy is assigned. No debt clearance or current debt conclusion.",
+          "status": "partial-wording-review",
+          "secondaryValuePaise": 300000000,
+          "primaryValuePaise": null
+        }
+      ]
+    },
+    {
+      "ac": 15,
+      "candidate": "Thangjam Arunkumar",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/15/Thangjam%20Arunkumar.pdf",
+      "sourceSha256": "f435ae9a5e259d363b06fd05ca0bea05679353ff0ddac479a6533549982e221c",
+      "reviewedAt": "2026-11-05",
+      "reviewedPages": [
+        24,
+        25
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41971626166",
+      "summary": "Selected financial cells only. Movable wording, primary loans and disputed liabilities retain distinct scopes; complete monetary totals remain unverified.",
+      "fields": [
+        {
+          "primarySourceText": "Selected movable entries and Not Applicable wording",
+          "primaryValuePaise": null,
+          "primaryScope": "Selected movable row; complete current-market assets unreviewed",
+          "observations": [
+            {
+              "sourceText": "3025572.16",
+              "page": 24,
+              "label": "Selected movable entry",
+              "qualifier": "exact",
+              "valuePaise": 302557216
+            },
+            {
+              "sourceText": "3898041.75",
+              "page": 24,
+              "label": "Selected movable entry",
+              "qualifier": "exact",
+              "valuePaise": 389804175
+            },
+            {
+              "sourceText": "34211.80",
+              "page": 24,
+              "label": "Selected movable entry",
+              "qualifier": "exact",
+              "valuePaise": 3421180
+            },
+            {
+              "sourceText": "13689.68",
+              "page": 24,
+              "label": "Selected movable entry",
+              "qualifier": "exact",
+              "valuePaise": 1368968
+            }
+          ],
+          "field": "assets",
+          "pages": [
+            24
+          ],
+          "note": "Selected movable entries ₹30,25,572.16, ₹38,98,041.75, ₹34,211.80 and ₹13,689.68 subtotal ₹69,71,515.39. Not Applicable is preserved separately, not converted to zero. Complete immovable/current-market rows are unreviewed; full primary assets remain null and no equivalent-scope discrepancy is assigned.",
+          "selectedComponentSubtotalPaise": 697151539.0,
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 2905858900
+        },
+        {
+          "primarySourceText": "Selected loan entry; other cells Not Applicable",
+          "primaryValuePaise": null,
+          "primaryScope": "Selected primary loan entry; complete monetary liability unverified",
+          "observations": [
+            {
+              "sourceText": "16998606.16",
+              "page": 25,
+              "label": "Selected loan entry",
+              "qualifier": "exact",
+              "valuePaise": 1699860616
+            }
+          ],
+          "field": "liabilities",
+          "pages": [
+            25
+          ],
+          "note": "Selected loan entry ₹1,69,98,606.16 is 16 paise above the ADR liability summary. Other selected primary government-dues/loan cells read Not Applicable. This is a selected-entry comparison only; complete primary liability remains null. No full affidavit audit, current debt or complete clearance assessment.",
+          "selectedComponentSubtotalPaise": 1699860616,
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 1699860600
         }
       ]
     }
