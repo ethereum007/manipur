@@ -7,3 +7,6 @@ Replacement42024086993 narrows Dingo liability crop bottom to719points, governme
 Production118 candidates/234 scoped notes/147 without comparison/0 complete independent audits unchanged. Finish clean source review before integration;2027 deferred.
 
 Follow-up: fixed-page lookup42028361780 succeeded with original hash assertion and located primary loan heading on PDF18 at y71points. Selected financial-only crop x100–450/y62–131 now renders in42032503588. Finish clean visual review before values/retention. Government dues remain distinct from loan scope; no primary total approved.
+
+
+Second privacy refinement:42032503588 succeeded but recovered PDF18 loan crop included stamped left margin. Entire artifact13416906751 deleted before any image retention. Left boundary narrowed from100 to140points;replacement42036964335 pending. Do not publish observations from contaminated artifact. Complete source privacy review remains open;production118/234/147/0 unchanged.
