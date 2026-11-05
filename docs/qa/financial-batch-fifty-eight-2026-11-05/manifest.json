@@ -1,0 +1,77 @@
+[
+  {
+    "ac": 15,
+    "candidate": "Rajkumar Priyobarta Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/15/Rajkumar%20Priyobarta%20Singh.pdf",
+    "sha256": "b7ed1b11b278757b07c4703d393bfcd769f14f48d25b7663acba37256193c9ce",
+    "pages": 11,
+    "crops": [
+      {
+        "rect": [
+          155,
+          180,
+          535,
+          278
+        ],
+        "id": "disputed-liabilities",
+        "page": 11,
+        "image": "ac15-b7ed1b11b278-p11-financial-selected-disputed-liabilities.png"
+      },
+      {
+        "id": "movable",
+        "page": 10,
+        "rect": [
+          150,
+          367,
+          535,
+          411
+        ],
+        "image": "ac15-b7ed1b11b278-p10-financial-selected-movable.png"
+      },
+      {
+        "id": "primary-loans",
+        "page": 11,
+        "rect": [
+          150,
+          65,
+          535,
+          180
+        ],
+        "image": "ac15-b7ed1b11b278-p11-financial-selected-primary-loans.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 15,
+    "candidate": "Thangjam Arunkumar",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/15/Thangjam%20Arunkumar.pdf",
+    "sha256": "f435ae9a5e259d363b06fd05ca0bea05679353ff0ddac479a6533549982e221c",
+    "pages": 27,
+    "crops": [
+      {
+        "rect": [
+          95,
+          418,
+          535,
+          459
+        ],
+        "id": "movable",
+        "page": 24,
+        "image": "ac15-f435ae9a5e25-p24-financial-selected-movable.png"
+      },
+      {
+        "rect": [
+          95,
+          508,
+          535,
+          610
+        ],
+        "id": "primary-liabilities",
+        "page": 25,
+        "image": "ac15-f435ae9a5e25-p25-financial-selected-primary-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
