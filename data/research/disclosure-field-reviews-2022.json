@@ -7073,6 +7073,127 @@
           "secondaryValuePaise": 1699860600
         }
       ]
+    },
+    {
+      "ac": 15,
+      "candidate": "Yumkham Erabot Singh",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/15/Yumkham%20Erabot%20Singh.pdf",
+      "sourceSha256": "0d7aa564c5e7dd0f13673a70130946062252163efd75500aba14e47d20f2f517",
+      "reviewedAt": "2026-11-05",
+      "reviewedPages": [
+        14
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41995496296",
+      "summary": "Selected financial cells only. Excluded columns and nonnumeric wording prevent complete primary monetary totals.",
+      "fields": [
+        {
+          "field": "assets",
+          "primaryScope": "Selected movable entries only; complete current-market assets unreviewed",
+          "status": "partial-summary-comparison",
+          "observations": [
+            {
+              "sourceText": "4,542307.30",
+              "page": 14,
+              "label": "Selected movable cell",
+              "valuePaise": 454230730,
+              "qualifier": "exact"
+            },
+            {
+              "sourceText": "416317.69",
+              "page": 14,
+              "label": "Selected movable cell",
+              "valuePaise": 41631769,
+              "qualifier": "exact"
+            }
+          ],
+          "primaryValuePaise": null,
+          "primarySourceText": "Selected movable cells; rightmost columns excluded",
+          "secondaryValuePaise": 2019862400,
+          "note": "Selected movable cells ₹45,42,307.30 and ₹4,16,317.69 subtotal ₹49,58,624.99. The first source cell prints the unusual comma placement 4,542307.30; preserve that literal text. Other visible cells read NIL; excluded rightmost cells and complete current-market immovable assets remain unreviewed. Full primary assets remain null; no equivalent-scope discrepancy assigned.",
+          "pages": [
+            14
+          ],
+          "selectedComponentSubtotalPaise": 495862499.0
+        },
+        {
+          "primaryScope": "Selected primary government-dues and loan cells only",
+          "status": "partial-summary-comparison",
+          "secondaryValuePaise": 300000000,
+          "note": "Selected primary loan ₹30,00,000 is described as through Assembly Secretariat, Manipur and agrees numerically with ADR. Other visible government-dues/loan cells read NIL. Rightmost cells are excluded, so this selected-entry agreement does not establish a complete primary monetary total; full primary liability remains null. No current debt or complete clearance assessment.",
+          "selectedComponentSubtotalPaise": 300000000,
+          "primaryValuePaise": null,
+          "primarySourceText": "Selected primary cells; excluded rightmost scope",
+          "field": "liabilities",
+          "pages": [
+            14
+          ],
+          "observations": [
+            {
+              "sourceText": "30,00,000",
+              "page": 14,
+              "label": "Selected loan through Assembly Secretariat, Manipur",
+              "valuePaise": 300000000,
+              "qualifier": "exact"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ac": 16,
+      "candidate": "Ayangbam Oken Singh",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/16/Ayangbam%20Oken%20Singh.pdf",
+      "sourceSha256": "d3fe9091a40c42abcaf66786cca83e8eba8dfd34775d19330484edc985549ebc",
+      "reviewedAt": "2026-11-05",
+      "reviewedPages": [
+        12,
+        13
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/41995496296",
+      "summary": "Selected financial cells only. Excluded columns and nonnumeric wording prevent complete primary monetary totals.",
+      "fields": [
+        {
+          "field": "assets",
+          "primaryScope": "Selected movable entries only; complete current-market assets unreviewed",
+          "status": "partial-summary-comparison",
+          "observations": [
+            {
+              "sourceText": "3458130.00",
+              "page": 12,
+              "label": "Selected movable cell",
+              "valuePaise": 345813000,
+              "qualifier": "exact"
+            },
+            {
+              "sourceText": "818000.00",
+              "page": 12,
+              "label": "Selected movable cell",
+              "valuePaise": 81800000,
+              "qualifier": "exact"
+            }
+          ],
+          "primaryValuePaise": null,
+          "primarySourceText": "Selected movable cells; rightmost columns excluded",
+          "secondaryValuePaise": 1131211000,
+          "note": "Selected movable amounts ₹34,58,130 and ₹8,18,000 subtotal ₹42,76,130. Adjacent cells read N.A.; preserve them as nonnumeric wording. Rightmost columns and complete current-market immovable assets are unreviewed. Full primary assets remain null; no equivalent-scope discrepancy assigned.",
+          "pages": [
+            12
+          ],
+          "selectedComponentSubtotalPaise": 427613000.0
+        },
+        {
+          "primaryScope": "Selected primary government-dues and loan cells only",
+          "status": "partial-wording-review",
+          "secondaryValuePaise": 7381500,
+          "note": "Selected first visible primary government-dues and loan cells read Nil; adjacent cells read N.A. Rightmost columns are excluded. Preserve the literal distinction: N.A. is not monetary zero. ADR reports ₹73,815, but this partial wording review does not establish an equivalent-scope discrepancy or complete primary monetary zero. Full primary liability remains null; no debt clearance inferred.",
+          "primaryValuePaise": null,
+          "primarySourceText": "Selected primary cells; excluded rightmost scope",
+          "field": "liabilities",
+          "pages": [
+            13
+          ]
+        }
+      ]
     }
   ],
   "sourceReviewRuns": [
