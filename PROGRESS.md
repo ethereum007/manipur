@@ -1275,3 +1275,8 @@ Prior source-link usability phase closed with final cloud/production/visual QA. 
 ## Batch61 financial locations verified
 
 42161593222 passed pinned hashes; headings-only locator identified Robin PDF11/12 and Devendro PDF13/14 financial regions. Four bounded crops specified, with no values approved. Finish renderer/privacy/manual review before comparison. Concurrent full42161591621 succeeded. Production120/238/145/0 unchanged;2027 deferred.
+
+
+## Batch61 bounded selected source review complete — 6 November 2026
+
+42167470629 passed pinned hashes;five financial-only crops manually inspected and retained. Robin selected movable17,29,098.42/visible NA cells;Devendro movable15,18,972.28/primary loan11,61,145.00 with adjacent N.A./Nil preserved. Clipped/rightmost/full-total scopes unapproved. FINANCIAL_BATCH_SIXTY_ONE_SOURCE_REVIEW_2026-11-06.md. Next secondary comparison/implementation/release QA;production120/238/145/0 unchanged,2027 deferred.

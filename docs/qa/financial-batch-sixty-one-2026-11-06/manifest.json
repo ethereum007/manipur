@@ -1,0 +1,77 @@
+[
+  {
+    "ac": 16,
+    "candidate": "Khwairakpam Robin Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/16/Khwairakpam%20Robin%20Singh.pdf",
+    "sha256": "37aa5087e18305251364e72317adf8fe6cf934a0158a65093d624b542018147c",
+    "pages": 12,
+    "crops": [
+      {
+        "page": 11,
+        "id": "movable",
+        "rect": [
+          120,
+          350,
+          450,
+          397
+        ],
+        "image": "ac16-37aa5087e183-p11-financial-selected-movable.png"
+      },
+      {
+        "page": 11,
+        "id": "primary-liabilities",
+        "rect": [
+          130,
+          650,
+          450,
+          735
+        ],
+        "image": "ac16-37aa5087e183-p11-financial-selected-primary-liabilities.png"
+      },
+      {
+        "page": 12,
+        "id": "disputed-government-dues-only",
+        "rect": [
+          130,
+          125,
+          450,
+          160
+        ],
+        "image": "ac16-37aa5087e183-p12-financial-selected-disputed-government-dues-only.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 16,
+    "candidate": "Kwairakpam Devendro Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/16/Kwairakpam%20Devendro%20Singh.pdf",
+    "sha256": "669e5f77a71b6a9fb3ed62b0ac643127252cd3db751e6e573365f256bbf35629",
+    "pages": 15,
+    "crops": [
+      {
+        "rect": [
+          125,
+          483,
+          450,
+          517
+        ],
+        "id": "movable",
+        "page": 13,
+        "image": "ac16-669e5f77a71b-p13-financial-selected-movable.png"
+      },
+      {
+        "rect": [
+          150,
+          65,
+          450,
+          189
+        ],
+        "id": "primary-liabilities",
+        "page": 14,
+        "image": "ac16-669e5f77a71b-p14-financial-selected-primary-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]

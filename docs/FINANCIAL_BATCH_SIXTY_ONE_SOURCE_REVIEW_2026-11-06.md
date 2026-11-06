@@ -1,0 +1,10 @@
+# Batch61 selected financial source review — 6 November 2026
+
+Bounded original-page review only; no complete independent affidavit audit. Convenience AC/name selection, not representative or risk-ranked.
+
+Locator 42161593222 asserted both captured PDF hashes. Final renderer 42167470629 succeeded; artifact13479940647 contains five selected financial crops and manifest, manually inspected before retention under docs/qa/financial-batch-sixty-one-2026-11-06/. No personal identifiers or signatures appear in these retained regions. Earlier render42164515221 had a clipped asset-row edge and disputed-dues-only liability scope; final regions supersede it. Concurrent full42167469270 succeeded.
+
+- AC16 Khwairakpam Robin Singh, SHA256 37aa5087e18305251364e72317adf8fe6cf934a0158a65093d624b542018147c: PDF11 selected movable entries Rs.106,439.61/-, Rs.16,20,605.81 and Rs.2053/- sum to Rs.17,29,098.42 only within selected scope. Roles/header fragments and rightmost scope are not inferred; complete assets remain unapproved. PDF11 visible primary government-dues and loan cells read NA; lower loan label/row is clipped and excluded beyond the visible cells. PDF12 disputed government-dues NA is separate; disputed loans unreviewed. No NA becomes numeric zero or a complete liability total.
+- AC16 Kwairakpam Devendro Singh, SHA256 669e5f77a71b6a9fb3ed62b0ac643127252cd3db751e6e573365f256bbf35629: PDF13 selected movable entry Rs.15,18,972.28p with adjacent N.A. cells. Complete assets remain unapproved. PDF14 selected primary loan Rs.11,61,145.00p with adjacent Nil cells; government dues Nil and separately disputed government-dues Nil. Rightmost clipped scope and lower disputed loan row excluded. Complete liabilities remain unapproved.
+
+Next: compare secondary ADR summaries, implement scoped notes and meaningful data/browser checks, complete cloud deployment, production comparison and changed screenshot review. Last verified published coverage120 candidates/238 notes/145 without selected comparison/0 complete independent audits remains unchanged. Preserve individual original dates and unknown scopes;2027 deferred.
