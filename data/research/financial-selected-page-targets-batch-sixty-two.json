@@ -1,0 +1,24 @@
+[
+  {
+    "expectedSha256": "43eb87fa452c21e1f0b9cdf74bafb6a217c588c91b06e38140fd50bdcf975195",
+    "selectionReason": "Bounded AC/name convenience queue; not representative or risk-ranked.",
+    "candidate": "Maharabam Anita Devi",
+    "clips": [
+      {
+        "page": 15,
+        "rect": [
+          90,
+          320,
+          450,
+          482
+        ],
+        "id": "primary-liabilities"
+      }
+    ],
+    "ac": 16,
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/16/Maharabam%20Anita%20Devi.pdf",
+    "locatorPages": [
+      14
+    ]
+  }
+]

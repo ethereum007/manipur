@@ -1300,3 +1300,8 @@ Batch61 release gates closed. Next AC16 Maharabam Anita Devi and Ningthoujam Bir
 ## Batch62 financial locations verified
 
 42183133268 passed pinned hashes/headings-only lookup;three financial crops specified:Anita PDF15 liabilities,Biren PDF17 movable/PDF18 liabilities. Anita PDF14 movable heading absent;assets remain unreviewed pending bounded alternate location. Finish renderer/privacy/manual review before values approved. Full42183108560 success;production122/242/143/0 unchanged,2027 deferred.
+
+
+## Batch62 selected crop inspection; missing asset lookup
+
+42189016138 succeeded;three financial-only crops inspected:Anita selected NA primary dues/loans,Biren selected movable1,00,000 and Nil primary cells. Clipped rightmost scope excluded;full totals unapproved. No retention/comparison release yet. Anita PDF14 alternate heading-only lookup prepared before final source receipt. Full42189003639 success;production122/242/143/0 unchanged,2027 deferred.
