@@ -44,3 +44,8 @@ Batch33: twoavailable-sourcewhole-recordlocationdeferrals (IrengbamHemochandra/P
 ## Source-page navigation verified — 6 November 2026
 
 Adjacent PDF links now visibly separate within an accessible wrapping group. Full42061095190 passed254checks/5PDFpages/913HTML/31,468references/0errors;deploy successful. Collector42065840965 and redundant full42065808805 final success;desktop/mobile profiles manually reviewed. Production markup and semantically unchanged120/238/145/0 JSON verified. FINANCIAL_SOURCE_LINKS_QA_2026-11-06.md closes pending usability gates;multi-link mobile wrapping not separately exercised. Continue historical source queue;2027 deferred/cadence active.
+
+
+## Batch61 verified/deployed — 6 November 2026
+
+Production122/242/143/0. Full42173489770 passed256checks/5PDFpages/913HTML/31,470references/0errors;deploy successful. ProductionJSON semantically identical. Collector42176607522 final success,new desktop/mobile profiles manually reviewed;redundant full42176590224 success. FINANCIAL_BATCH_SIXTY_ONE_QA_2026-11-06.md closes release gates. NA/null scopes and selected-loan6,22,193rupee unresolved difference preserved.2027 deferred/cadence active.
