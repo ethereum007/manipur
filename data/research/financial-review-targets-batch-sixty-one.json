@@ -1,0 +1,18 @@
+[
+  {
+    "candidate": "Khwairakpam Robin Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/16/Khwairakpam%20Robin%20Singh.pdf",
+    "clips": [],
+    "selectionReason": "Bounded AC/name convenience queue; not representative or risk-ranked.",
+    "ac": 16,
+    "expectedSha256": "37aa5087e18305251364e72317adf8fe6cf934a0158a65093d624b542018147c"
+  },
+  {
+    "candidate": "Kwairakpam Devendro Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/16/Kwairakpam%20Devendro%20Singh.pdf",
+    "clips": [],
+    "selectionReason": "Bounded AC/name convenience queue; not representative or risk-ranked.",
+    "ac": 16,
+    "expectedSha256": "669e5f77a71b6a9fb3ed62b0ac643127252cd3db751e6e573365f256bbf35629"
+  }
+]
