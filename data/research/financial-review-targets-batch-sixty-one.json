@@ -4,24 +4,34 @@
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/16/Khwairakpam%20Robin%20Singh.pdf",
     "clips": [
       {
+        "page": 11,
+        "id": "movable",
         "rect": [
           120,
           350,
           450,
-          392
-        ],
-        "id": "movable",
-        "page": 11
+          397
+        ]
       },
       {
+        "page": 11,
+        "id": "primary-liabilities",
         "rect": [
           130,
-          65,
+          650,
           450,
-          166
-        ],
-        "id": "primary-liabilities",
-        "page": 12
+          735
+        ]
+      },
+      {
+        "page": 12,
+        "id": "disputed-government-dues-only",
+        "rect": [
+          130,
+          125,
+          450,
+          160
+        ]
       }
     ],
     "selectionReason": "Bounded AC/name convenience queue; not representative or risk-ranked.",
@@ -37,7 +47,7 @@
           125,
           483,
           450,
-          512
+          517
         ],
         "id": "movable",
         "page": 13
