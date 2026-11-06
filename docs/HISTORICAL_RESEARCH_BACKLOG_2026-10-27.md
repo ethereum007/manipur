@@ -49,3 +49,8 @@ Adjacent PDF links now visibly separate within an accessible wrapping group. Ful
 ## Batch61 verified/deployed — 6 November 2026
 
 Production122/242/143/0. Full42173489770 passed256checks/5PDFpages/913HTML/31,470references/0errors;deploy successful. ProductionJSON semantically identical. Collector42176607522 final success,new desktop/mobile profiles manually reviewed;redundant full42176590224 success. FINANCIAL_BATCH_SIXTY_ONE_QA_2026-11-06.md closes release gates. NA/null scopes and selected-loan6,22,193rupee unresolved difference preserved.2027 deferred/cadence active.
+
+
+## Batch62 verified/deployed — 6 November 2026
+
+Production124/246/141/0. Full42204190822 passed258checks/5PDFpages/913HTML/31,472references/0errors;initial Pages timeout recovered by successful failed-job retry. ProductionJSON semantically identical. Collector42211700152 final success,new desktop/mobile profiles manually reviewed;redundant full42211700496 success. FINANCIAL_BATCH_SIXTY_TWO_QA_2026-11-06.md closes pending gates. NA/Nil/partial scopes/full nulls preserved;2027 deferred/cadence active.
