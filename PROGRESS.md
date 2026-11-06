@@ -1260,3 +1260,8 @@ Repository120/238/145/0,last verified production118/234/147/0. Dingo selected lo
 ## Batch60 verified/deployed — 5 November 2026
 
 Production120/238/145/0. Full42046398522 passed254checks,5PDFpages,913HTML/31,468references/0errors. ProductionJSON semantically identical. Collector42051243149 final success,new desktop/mobile screenshots manually reviewed;redundant full42051228963 success. FINANCIAL_BATCH_SIXTY_QA_2026-11-05.md closes pending. Loan earlier-context/clipped scope/full nulls preserved. Follow-up:separate adjacent PDF page links for clearer navigation.2027 deferred/cadence active.
+
+
+## Source-page navigation verified — 6 November 2026
+
+Adjacent PDF links now visibly separate within an accessible wrapping group. Full42061095190 passed254checks/5PDFpages/913HTML/31,468references/0errors;deploy successful. Collector42065840965 and redundant full42065808805 final success;desktop/mobile profiles manually reviewed. Production markup and semantically unchanged120/238/145/0 JSON verified. FINANCIAL_SOURCE_LINKS_QA_2026-11-06.md closes pending usability gates;multi-link mobile wrapping not separately exercised. Continue historical source queue;2027 deferred/cadence active.

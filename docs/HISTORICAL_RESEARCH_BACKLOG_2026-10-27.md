@@ -39,3 +39,8 @@ Batch33: twoavailable-sourcewhole-recordlocationdeferrals (IrengbamHemochandra/P
 
 
 5 November batch60 verified:120 candidates/238 scoped notes/145 without selected comparison/0 complete audits. FINANCIAL_BATCH_SIXTY_QA_2026-11-05.md closes release gates. Bounded usability follow-up:space adjacent source-page links observed in Dingo desktop. Preserve source limits/deferrals;2027 deferred/cadence active.
+
+
+## Source-page navigation verified — 6 November 2026
+
+Adjacent PDF links now visibly separate within an accessible wrapping group. Full42061095190 passed254checks/5PDFpages/913HTML/31,468references/0errors;deploy successful. Collector42065840965 and redundant full42065808805 final success;desktop/mobile profiles manually reviewed. Production markup and semantically unchanged120/238/145/0 JSON verified. FINANCIAL_SOURCE_LINKS_QA_2026-11-06.md closes pending usability gates;multi-link mobile wrapping not separately exercised. Continue historical source queue;2027 deferred/cadence active.
