@@ -1,6 +1,6 @@
 {
   "year": 2022,
-  "reviewedAt": "2026-11-05",
+  "reviewedAt": "2026-11-06",
   "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40158668602",
   "method": "Codex visual comparison of selected original financial-summary regions. OCR located pages only; retained images use fixed financial-region coordinates and matching source hashes. Selected cells, not an independent human audit or complete affidavit review.",
   "scope": "Self-declarations at 2022 nomination. Not present wealth, current liabilities, legal status or certification of truth.",
@@ -7313,6 +7313,129 @@
           "status": "partial-wording-review"
         }
       ]
+    },
+    {
+      "reviewedPages": [
+        11,
+        12
+      ],
+      "candidate": "Khwairakpam Robin Singh",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42167470629",
+      "summary": "Selected financial cells only; clipped and unreviewed scopes prevent complete primary monetary totals.",
+      "fields": [
+        {
+          "status": "partial-summary-comparison",
+          "primaryScope": "Selected financial cells only; complete monetary total unverified",
+          "note": "Selected PDF11 movable entries ₹1,06,439.61, ₹16,20,605.81 and ₹2,053 subtotal ₹17,29,098.42. Header fragments do not establish household roles. Rightmost scope and complete current-market immovable assets remain unreviewed; full primary assets stay null. No equivalent-scope discrepancy is assigned.",
+          "observations": [
+            {
+              "label": "Selected financial entry",
+              "qualifier": "exact",
+              "valuePaise": 10643961,
+              "sourceText": "106,439.61",
+              "page": 11
+            },
+            {
+              "label": "Selected financial entry",
+              "qualifier": "exact",
+              "valuePaise": 162060581,
+              "sourceText": "16,20,605.81",
+              "page": 11
+            },
+            {
+              "label": "Selected financial entry",
+              "qualifier": "exact",
+              "valuePaise": 205300,
+              "sourceText": "2053",
+              "page": 11
+            }
+          ],
+          "primarySourceText": "Selected numeric or applicability entries; clipped scopes excluded",
+          "selectedComponentSubtotalPaise": 172909842.0,
+          "primaryValuePaise": null,
+          "field": "assets",
+          "secondaryValuePaise": 354509700,
+          "pages": [
+            11
+          ]
+        },
+        {
+          "status": "partial-wording-review",
+          "primaryScope": "Selected financial cells only; complete monetary total unverified",
+          "note": "Visible PDF11 primary government-dues and loan cells read NA. The lower loan label/row is clipped and excluded beyond visible cells. Separately labelled PDF12 disputed government-dues cells read NA; disputed loans remain unreviewed. NA is not monetary zero despite ADR zero. Full primary liability remains null; no complete clearance finding.",
+          "primarySourceText": "Selected numeric or applicability entries; clipped scopes excluded",
+          "primaryValuePaise": null,
+          "field": "liabilities",
+          "secondaryValuePaise": 0,
+          "pages": [
+            11,
+            12
+          ]
+        }
+      ],
+      "reviewedAt": "2026-11-06",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/16/Khwairakpam%20Robin%20Singh.pdf",
+      "ac": 16,
+      "sourceSha256": "37aa5087e18305251364e72317adf8fe6cf934a0158a65093d624b542018147c"
+    },
+    {
+      "reviewedPages": [
+        13,
+        14
+      ],
+      "candidate": "Kwairakpam Devendro Singh",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42167470629",
+      "summary": "Selected financial cells only; clipped and unreviewed scopes prevent complete primary monetary totals.",
+      "fields": [
+        {
+          "status": "partial-summary-comparison",
+          "primaryScope": "Selected financial cells only; complete monetary total unverified",
+          "note": "Selected PDF13 movable entry ₹15,18,972.28 appears with adjacent N.A. cells. N.A. is not monetary zero. Complete immovable/current-market rows and clipped rightmost scope remain unreviewed; full primary assets stay null.",
+          "observations": [
+            {
+              "label": "Selected financial entry",
+              "qualifier": "exact",
+              "valuePaise": 151897228,
+              "sourceText": "15,18,972.28p",
+              "page": 13
+            }
+          ],
+          "primarySourceText": "Selected numeric or applicability entries; clipped scopes excluded",
+          "selectedComponentSubtotalPaise": 151897228.0,
+          "primaryValuePaise": null,
+          "field": "assets",
+          "secondaryValuePaise": 1096911700,
+          "pages": [
+            13
+          ]
+        },
+        {
+          "status": "partial-summary-comparison",
+          "primaryScope": "Selected financial cells only; complete monetary total unverified",
+          "note": "Selected PDF14 primary loan ₹11,61,145.00 differs from ADR ₹5,38,952 by ₹6,22,193 within this selected-entry comparison only; the cause remains unresolved. Adjacent loan cells and primary government dues read Nil; separately disputed government dues also read Nil. Clipped rightmost scope and lower disputed loans are excluded. Full primary liability remains null; this is not an equivalent-scope complete-total discrepancy.",
+          "observations": [
+            {
+              "label": "Selected financial entry",
+              "qualifier": "exact",
+              "valuePaise": 116114500,
+              "sourceText": "11,61,145.00p",
+              "page": 14
+            }
+          ],
+          "primarySourceText": "Selected numeric or applicability entries; clipped scopes excluded",
+          "selectedComponentSubtotalPaise": 116114500.0,
+          "primaryValuePaise": null,
+          "field": "liabilities",
+          "secondaryValuePaise": 53895200,
+          "pages": [
+            14
+          ]
+        }
+      ],
+      "reviewedAt": "2026-11-06",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/16/Kwairakpam%20Devendro%20Singh.pdf",
+      "ac": 16,
+      "sourceSha256": "669e5f77a71b6a9fb3ed62b0ac643127252cd3db751e6e573365f256bbf35629"
     }
   ],
   "sourceReviewRuns": [
@@ -7325,7 +7448,8 @@
     "https://github.com/ethereum007/manipur/actions/runs/41031238465",
     "https://github.com/ethereum007/manipur/actions/runs/41053087387",
     "https://github.com/ethereum007/manipur/actions/runs/41082523789",
-    "https://github.com/ethereum007/manipur/actions/runs/41161035062"
+    "https://github.com/ethereum007/manipur/actions/runs/41161035062",
+    "https://github.com/ethereum007/manipur/actions/runs/42167470629"
   ],
   "selectionNotes": "Second batch: two previously unreviewed native-text-available records in AC12, selected in existing record order for a bounded availability-based sample; not a representative sample or risk ranking.",
   "selectionLimit": "Selected financial-summary comparisons form a nonrepresentative convenience sample, not complete independent affidavit audits.",
