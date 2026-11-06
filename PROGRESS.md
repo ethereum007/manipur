@@ -1270,3 +1270,8 @@ Adjacent PDF links now visibly separate within an accessible wrapping group. Ful
 ## Batch61 original source preparation — 6 November 2026
 
 Prior source-link usability phase closed with final cloud/production/visual QA. Next AC16 Khwairakpam Robin Singh and Kwairakpam Devendro Singh pinned to captured hashes; metadata-only financial locator prepared. No new values or source images approved. Production120/238/145/0 unchanged. Finish bounded location, privacy and manual selected-region review before comparisons.2027 deferred/cadence active.
+
+
+## Batch61 financial locations verified
+
+42161593222 passed pinned hashes; headings-only locator identified Robin PDF11/12 and Devendro PDF13/14 financial regions. Four bounded crops specified, with no values approved. Finish renderer/privacy/manual review before comparison. Concurrent full42161591621 succeeded. Production120/238/145/0 unchanged;2027 deferred.
