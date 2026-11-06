@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 17,
+    "candidate": "Arambam Karamjit Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/17/Arambam%20Karamjit%20Singh.pdf",
+    "sha256": "74e759e92b3c1dabff1f71ae8b0745651856f4181975b1d36d26de82989dad18",
+    "pages": 18,
+    "crops": [
+      {
+        "page": 15,
+        "id": "movable",
+        "rect": [
+          120,
+          541,
+          450,
+          590
+        ],
+        "image": "ac17-74e759e92b3c-p15-financial-selected-movable.png"
+      },
+      {
+        "page": 16,
+        "id": "primary-liabilities",
+        "rect": [
+          135,
+          195,
+          450,
+          310
+        ],
+        "image": "ac17-74e759e92b3c-p16-financial-selected-primary-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 17,
+    "candidate": "Khundrakpam Kanba Meitei",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/17/Khundrakpam%20Kanba%20Meitei.pdf",
+    "sha256": "fb35062ed8ae28e377e59bef432edfd242fc0c42b59bfd71d65e693053eab515",
+    "pages": 20,
+    "crops": [
+      {
+        "page": 16,
+        "id": "movable",
+        "rect": [
+          80,
+          65,
+          450,
+          125
+        ],
+        "image": "ac17-fb35062ed8ae-p16-financial-selected-movable.png"
+      },
+      {
+        "page": 17,
+        "id": "primary-loans",
+        "rect": [
+          105,
+          65,
+          450,
+          178
+        ],
+        "image": "ac17-fb35062ed8ae-p17-financial-selected-primary-loans.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]

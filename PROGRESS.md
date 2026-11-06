@@ -1330,3 +1330,8 @@ Batch62 release gates closed. Next AC17 Arambam Karamjit Singh and Khundrakpam K
 ## Batch63 financial locations verified
 
 42219199382 passed pinned hashes/headings-only lookup. Four selected regions specified:Karamjit PDF15/16,Kanba PDF16/17. No values approved;finish renderer/privacy/manual review. Concurrent full42219199945 success;production124/246/141/0 unchanged,2027 deferred.
+
+
+## Batch63 bounded selected source review complete — 6 November 2026
+
+42227102495 passed hashes;four clean financial crops manually reviewed/retained after whole initial artifact deletion. Karamjit selected movable38,15,280/loan2,04,782;Kanba selected movable9,10,100/mixed NIL-NA loan cells. Full totals/excluded scopes unapproved. FINANCIAL_BATCH_SIXTY_THREE_SOURCE_REVIEW_2026-11-06.md. Next secondary comparison/implementation/release QA;production124/246/141/0 unchanged,2027 deferred.
