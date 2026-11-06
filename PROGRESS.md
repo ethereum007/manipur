@@ -1325,3 +1325,8 @@ Production124/246/141/0. Full42204190822 passed258checks/5PDFpages/913HTML/31,47
 ## Batch63 original source preparation — 6 November 2026
 
 Batch62 release gates closed. Next AC17 Arambam Karamjit Singh and Khundrakpam Kanba Meitei pinned to captured hashes;metadata-only financial locator prepared. No new values/images approved. Production124/246/141/0 unchanged. Finish bounded source location/privacy/manual review before comparisons.2027 deferred/cadence active.
+
+
+## Batch63 financial locations verified
+
+42219199382 passed pinned hashes/headings-only lookup. Four selected regions specified:Karamjit PDF15/16,Kanba PDF16/17. No values approved;finish renderer/privacy/manual review. Concurrent full42219199945 success;production124/246/141/0 unchanged,2027 deferred.

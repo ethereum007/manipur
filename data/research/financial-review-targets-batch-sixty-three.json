@@ -4,7 +4,28 @@
     "ac": 17,
     "expectedSha256": "74e759e92b3c1dabff1f71ae8b0745651856f4181975b1d36d26de82989dad18",
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/17/Arambam%20Karamjit%20Singh.pdf",
-    "clips": [],
+    "clips": [
+      {
+        "page": 15,
+        "id": "movable",
+        "rect": [
+          120,
+          541,
+          450,
+          583
+        ]
+      },
+      {
+        "page": 16,
+        "id": "primary-liabilities",
+        "rect": [
+          120,
+          195,
+          450,
+          310
+        ]
+      }
+    ],
     "candidate": "Arambam Karamjit Singh"
   },
   {
@@ -12,7 +33,28 @@
     "ac": 17,
     "expectedSha256": "fb35062ed8ae28e377e59bef432edfd242fc0c42b59bfd71d65e693053eab515",
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/17/Khundrakpam%20Kanba%20Meitei.pdf",
-    "clips": [],
+    "clips": [
+      {
+        "page": 16,
+        "id": "movable",
+        "rect": [
+          80,
+          65,
+          450,
+          125
+        ]
+      },
+      {
+        "page": 17,
+        "id": "primary-loans",
+        "rect": [
+          105,
+          65,
+          450,
+          178
+        ]
+      }
+    ],
     "candidate": "Khundrakpam Kanba Meitei"
   }
 ]
