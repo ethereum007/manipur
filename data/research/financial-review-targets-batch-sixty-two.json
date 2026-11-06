@@ -1,0 +1,18 @@
+[
+  {
+    "expectedSha256": "43eb87fa452c21e1f0b9cdf74bafb6a217c588c91b06e38140fd50bdcf975195",
+    "selectionReason": "Bounded AC/name convenience queue; not representative or risk-ranked.",
+    "candidate": "Maharabam Anita Devi",
+    "clips": [],
+    "ac": 16,
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/16/Maharabam%20Anita%20Devi.pdf"
+  },
+  {
+    "expectedSha256": "7a86a8c99805070af48a223816c325fbe87ec74f525dda777d504f8647b2d55f",
+    "selectionReason": "Bounded AC/name convenience queue; not representative or risk-ranked.",
+    "candidate": "Ningthoujam Biren Singh",
+    "clips": [],
+    "ac": 16,
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/16/Ningthoujam%20Biren%20Singh.pdf"
+  }
+]
