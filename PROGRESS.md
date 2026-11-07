@@ -1345,3 +1345,6 @@ Repository126 candidates/250 scoped notes/139 without selected comparison/0 comp
 ## Batch 63 verified — 7 November 2026
 
 Production verified at 126 candidates and 250 scoped notes. All 260 checks passed, both changed profile screenshots were reviewed, and the follow-up deployment recovered. See FINANCIAL_BATCH_SIXTY_THREE_QA_2026-11-07.md. Continue the historical backlog.
+
+
+Batch 64 selected source review is documented in docs/FINANCIAL_BATCH_SIXTY_FOUR_SOURCE_REVIEW_2026-11-07.md. Secondary comparisons and release QA are pending.

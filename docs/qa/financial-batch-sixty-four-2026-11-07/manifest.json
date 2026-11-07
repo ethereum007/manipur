@@ -1,0 +1,66 @@
+[
+  {
+    "ac": 17,
+    "candidate": "Likmabam Manibabu Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/17/Likmabam%20Manibabu%20Singh.pdf",
+    "sha256": "ec5de7abe8ce63befc2347503a2693b7583d371a67d9d6bdbc3d28f75611217e",
+    "pages": 21,
+    "crops": [
+      {
+        "id": "movable",
+        "page": 19,
+        "rect": [
+          156,
+          274,
+          450,
+          332
+        ],
+        "image": "ac17-ec5de7abe8ce-p19-financial-selected-movable.png"
+      },
+      {
+        "id": "government-dues-only",
+        "page": 20,
+        "rect": [
+          154,
+          125,
+          450,
+          178
+        ],
+        "image": "ac17-ec5de7abe8ce-p20-financial-selected-government-dues-only.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 17,
+    "candidate": "Pukhrambam Sumati Devi",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/17/Pukhrambam%20Sumati%20Devi.pdf",
+    "sha256": "c7d355cfe3d1985077c211ee6f04b5239259b6f7b685d55981baecc2a1a09a6a",
+    "pages": 15,
+    "crops": [
+      {
+        "id": "movable",
+        "page": 12,
+        "rect": [
+          140,
+          510,
+          450,
+          542
+        ],
+        "image": "ac17-c7d355cfe3d1-p12-financial-selected-movable.png"
+      },
+      {
+        "id": "primary-liabilities",
+        "page": 13,
+        "rect": [
+          138,
+          223,
+          450,
+          335
+        ],
+        "image": "ac17-c7d355cfe3d1-p13-financial-selected-primary-liabilities.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
