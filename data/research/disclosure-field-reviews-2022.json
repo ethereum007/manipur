@@ -7855,6 +7855,86 @@
       "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42379198129",
       "candidate": "Dr. Sapam Ranjan Singh"
     }
+,
+    {
+      "reviewedAt": "2026-11-07",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/18/Konthoujam%20Sharat%20Singh.pdf",
+      "sourceSha256": "12fd9080df48d274759480959a22e43e99a6fac38ec00af6393359da4a99a4df",
+      "summary": "Selected movable asset cells. Liabilities and complete primary totals remain unreviewed.",
+      "fields": [
+        {
+          "pages": [
+            11
+          ],
+          "secondaryValuePaise": 290274300,
+          "primarySourceText": "Selected numeric entries",
+          "primaryValuePaise": null,
+          "note": "The two fully visible movable entries sum to ₹10,91,574.92. Remaining columns and immovable assets are outside this review.",
+          "field": "assets",
+          "observations": [
+            {
+              "sourceText": "93,479.33",
+              "valuePaise": 9347933,
+              "page": 11,
+              "label": "Selected movable entry",
+              "qualifier": "exact"
+            },
+            {
+              "sourceText": "998095.59",
+              "valuePaise": 99809559,
+              "page": 11,
+              "label": "Selected movable entry",
+              "qualifier": "exact"
+            }
+          ],
+          "primaryScope": "Selected movable asset cells",
+          "status": "partial-summary-comparison",
+          "selectedComponentSubtotalPaise": 109157492
+        }
+      ],
+      "ac": 18,
+      "reviewedPages": [
+        11
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42398708247",
+      "candidate": "Konthoujam Sharat Singh"
+    },
+    {
+      "reviewedAt": "2026-11-07",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/19/Akoijam%20Mirabai%20Devi.pdf",
+      "sourceSha256": "e9ad141b00db28dc1f960a2f00a3a93538db28520e08c71e30baecc8c3877eb1",
+      "summary": "Selected movable asset cells. Liabilities and complete primary totals remain unreviewed.",
+      "fields": [
+        {
+          "pages": [
+            17
+          ],
+          "secondaryValuePaise": 4541666700,
+          "primarySourceText": "Selected numeric entries",
+          "primaryValuePaise": null,
+          "note": "The self movable entry is ₹57,40,229.98. The adjacent column is clipped. Remaining columns and immovable assets are outside this review.",
+          "field": "assets",
+          "observations": [
+            {
+              "sourceText": "5740229.98",
+              "valuePaise": 574022998,
+              "page": 17,
+              "label": "Self movable entry",
+              "qualifier": "exact"
+            }
+          ],
+          "primaryScope": "Selected movable asset cells",
+          "status": "partial-summary-comparison",
+          "selectedComponentSubtotalPaise": 574022998
+        }
+      ],
+      "ac": 19,
+      "reviewedPages": [
+        17
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42398708247",
+      "candidate": "Akoijam Mirabai Devi"
+    }
   ],
   "sourceReviewRuns": [
     "https://github.com/ethereum007/manipur/actions/runs/39463703402",
@@ -7871,7 +7951,8 @@
     "https://github.com/ethereum007/manipur/actions/runs/42196415225",
     "https://github.com/ethereum007/manipur/actions/runs/42227102495",
     "https://github.com/ethereum007/manipur/actions/runs/42345051687",
-    "https://github.com/ethereum007/manipur/actions/runs/42379198129"
+    "https://github.com/ethereum007/manipur/actions/runs/42379198129",
+    "https://github.com/ethereum007/manipur/actions/runs/42398708247"
   ],
   "selectionNotes": "Second batch: two previously unreviewed native-text-available records in AC12, selected in existing record order for a bounded availability-based sample; not a representative sample or risk ranking.",
   "selectionLimit": "Selected financial-summary comparisons form a nonrepresentative convenience sample, not complete independent affidavit audits.",
