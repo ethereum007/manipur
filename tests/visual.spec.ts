@@ -559,7 +559,7 @@ test("consulting homepage leads to the North East Manipur research collection", 
   await page.getByRole("navigation", { name: "Main navigation" }).getByRole("link", { name: "Upcoming Elections" }).click();
   await page.getByRole("link", { name: /North East/ }).click();
   await expect(page.getByRole("heading", { level: 1 })).toHaveText("North East");
-  await page.getByRole("link", { name: /Manipur/ }).last().click();
+  await page.getByRole("region", { name: "States" }).getByRole("link", { name: /Manipur/ }).click();
   await expect(page).toHaveURL(/upcoming-elections\/north-east\/manipur\//);
   await expect(page.getByRole("link", { name: /Explore the electoral atlas/ })).toBeVisible();
   await page.setViewportSize({ width: 390, height: 844 });
