@@ -59,3 +59,6 @@ Production124/246/141/0. Full42204190822 passed258checks/5PDFpages/913HTML/31,47
 ## Batch 63 verified — 7 November 2026
 
 Production verified at 126 candidates and 250 scoped notes. All 260 checks passed, both changed profile screenshots were reviewed, and the follow-up deployment recovered. See FINANCIAL_BATCH_SIXTY_THREE_QA_2026-11-07.md. Continue the historical backlog.
+
+
+Batch 64 verified on 7 November at 128 candidates and 254 scoped notes. See docs/FINANCIAL_BATCH_SIXTY_FOUR_QA_2026-11-07.md.

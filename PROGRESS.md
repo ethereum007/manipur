@@ -1348,3 +1348,5 @@ Production verified at 126 candidates and 250 scoped notes. All 260 checks passe
 
 
 Batch 64 selected source review is documented in docs/FINANCIAL_BATCH_SIXTY_FOUR_SOURCE_REVIEW_2026-11-07.md. Secondary comparisons and release QA are pending.
+
+Batch 64 verified on 7 November at 128 candidates and 254 scoped notes. See docs/FINANCIAL_BATCH_SIXTY_FOUR_QA_2026-11-07.md.
