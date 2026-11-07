@@ -1,0 +1,16 @@
+[
+  {
+    "ac": 18,
+    "candidate": "Konthoujam Sharat Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/18/Konthoujam%20Sharat%20Singh.pdf",
+    "expectedSha256": "12fd9080df48d274759480959a22e43e99a6fac38ec00af6393359da4a99a4df",
+    "selectionReason": "Bounded AC/name convenience queue"
+  },
+  {
+    "ac": 19,
+    "candidate": "Akoijam Mirabai Devi",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/19/Akoijam%20Mirabai%20Devi.pdf",
+    "expectedSha256": "e9ad141b00db28dc1f960a2f00a3a93538db28520e08c71e30baecc8c3877eb1",
+    "selectionReason": "Bounded AC/name convenience queue"
+  }
+]
