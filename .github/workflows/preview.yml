@@ -2,7 +2,7 @@ name: Build, browser QA and GitHub Pages
 on:
   push:
     branches: [main]
-    paths-ignore: ['data/processed/*-pages.json', 'PROGRESS.md', 'docs/**']
+    paths-ignore: ['data/processed/*-pages.json', 'PROGRESS.md', 'docs/**', '.github/workflows/collect-*-visual.yml']
   workflow_dispatch:
 permissions:
   contents: read
