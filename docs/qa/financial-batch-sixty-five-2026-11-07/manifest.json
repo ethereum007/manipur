@@ -1,0 +1,44 @@
+[
+  {
+    "ac": 17,
+    "candidate": "Sorokhaibam Rajen Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/17/Sorokhaibam%20Rajen%20Singh.pdf",
+    "sha256": "99276491cc914830b00aad9b9d6469112f8228061fc70e95abbfa749c58a618e",
+    "pages": 17,
+    "crops": [
+      {
+        "page": 14,
+        "id": "movable",
+        "rect": [
+          110,
+          224,
+          398,
+          273
+        ],
+        "image": "ac17-99276491cc91-p14-financial-selected-movable.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  },
+  {
+    "ac": 18,
+    "candidate": "Dr. Sapam Ranjan Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/18/Dr.%20Sapam%20Ranjan%20Singh.pdf",
+    "sha256": "440a20e345d1efe6199a9dbba092d57fd41391b0ad4a70139ff110a3b948a339",
+    "pages": 37,
+    "crops": [
+      {
+        "page": 34,
+        "id": "movable",
+        "rect": [
+          100,
+          134,
+          400,
+          171
+        ],
+        "image": "ac18-440a20e345d1-p34-financial-selected-movable.png"
+      }
+    ],
+    "scope": "Fixed selected financial regions; no complete-page text, extraction or manual field approval exported"
+  }
+]
