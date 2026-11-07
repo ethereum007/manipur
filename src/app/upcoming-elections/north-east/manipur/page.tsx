@@ -16,8 +16,6 @@ export default function ManipurResearch() {
           </p>
           <h1>
             MANIPUR
-            <br />
-            <span>RESEARCH</span>
           </h1>
           <p className="hero-subtitle">Historical election and constituency research</p>
           <p className="hero-description">
