@@ -7761,6 +7761,99 @@
           "field": "liabilities"
         }
       ]
+    },
+    {
+      "reviewedAt": "2026-11-07",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/17/Sorokhaibam%20Rajen%20Singh.pdf",
+      "sourceSha256": "99276491cc914830b00aad9b9d6469112f8228061fc70e95abbfa749c58a618e",
+      "summary": "Selected movable asset cells. Liabilities and complete primary totals remain unreviewed.",
+      "fields": [
+        {
+          "pages": [
+            14
+          ],
+          "secondaryValuePaise": 4139382600,
+          "primarySourceText": "Selected numeric entries and adjacent Nil",
+          "primaryValuePaise": null,
+          "note": "The three selected movable entries total ₹2,41,43,999.10. The first two amounts wrap across lines. Adjacent Nil is visible. Remaining columns and immovable assets are outside this review. The full asset total remains unverified.",
+          "field": "assets",
+          "observations": [
+            {
+              "sourceText": "1,77,20,444.73",
+              "valuePaise": 1772044473,
+              "page": 14,
+              "label": "Selected movable entry",
+              "qualifier": "exact"
+            },
+            {
+              "sourceText": "64,08,095.23",
+              "valuePaise": 640809523,
+              "page": 14,
+              "label": "Selected movable entry",
+              "qualifier": "exact"
+            },
+            {
+              "sourceText": "15,459.14",
+              "valuePaise": 1545914,
+              "page": 14,
+              "label": "Selected movable entry",
+              "qualifier": "exact"
+            }
+          ],
+          "primaryScope": "Selected movable asset cells",
+          "status": "partial-summary-comparison",
+          "selectedComponentSubtotalPaise": 2414399910.0
+        }
+      ],
+      "ac": 17,
+      "reviewedPages": [
+        14
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42379198129",
+      "candidate": "Sorokhaibam Rajen Singh"
+    },
+    {
+      "reviewedAt": "2026-11-07",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/18/Dr.%20Sapam%20Ranjan%20Singh.pdf",
+      "sourceSha256": "440a20e345d1efe6199a9dbba092d57fd41391b0ad4a70139ff110a3b948a339",
+      "summary": "Selected movable asset cells. Liabilities and complete primary totals remain unreviewed.",
+      "fields": [
+        {
+          "pages": [
+            34
+          ],
+          "secondaryValuePaise": 3033674500,
+          "primarySourceText": "Selected numeric entries and adjacent Nil",
+          "primaryValuePaise": null,
+          "note": "The two selected movable entries total ₹2,01,69,617. Adjacent Nil is visible. Remaining columns and immovable assets are outside this review. The full asset total remains unverified.",
+          "field": "assets",
+          "observations": [
+            {
+              "sourceText": "91,97,592",
+              "valuePaise": 919759200,
+              "page": 34,
+              "label": "Selected movable entry",
+              "qualifier": "exact"
+            },
+            {
+              "sourceText": "1,09,72,025",
+              "valuePaise": 1097202500,
+              "page": 34,
+              "label": "Selected movable entry",
+              "qualifier": "exact"
+            }
+          ],
+          "primaryScope": "Selected movable asset cells",
+          "status": "partial-summary-comparison",
+          "selectedComponentSubtotalPaise": 2016961700.0
+        }
+      ],
+      "ac": 18,
+      "reviewedPages": [
+        34
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42379198129",
+      "candidate": "Dr. Sapam Ranjan Singh"
     }
   ],
   "sourceReviewRuns": [
@@ -7777,7 +7870,8 @@
     "https://github.com/ethereum007/manipur/actions/runs/42167470629",
     "https://github.com/ethereum007/manipur/actions/runs/42196415225",
     "https://github.com/ethereum007/manipur/actions/runs/42227102495",
-    "https://github.com/ethereum007/manipur/actions/runs/42345051687"
+    "https://github.com/ethereum007/manipur/actions/runs/42345051687",
+    "https://github.com/ethereum007/manipur/actions/runs/42379198129"
   ],
   "selectionNotes": "Second batch: two previously unreviewed native-text-available records in AC12, selected in existing record order for a bounded availability-based sample; not a representative sample or risk ranking.",
   "selectionLimit": "Selected financial-summary comparisons form a nonrepresentative convenience sample, not complete independent affidavit audits.",
