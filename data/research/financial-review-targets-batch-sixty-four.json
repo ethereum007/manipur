@@ -14,13 +14,13 @@
         ]
       },
       {
-        "id": "primary-liabilities",
+        "id": "government-dues-only",
         "page": 20,
         "rect": [
           154,
           125,
           450,
-          310
+          178
         ]
       }
     ],
