@@ -1,0 +1,16 @@
+[
+  {
+    "ac": 20,
+    "candidate": "Hijam Somarendro Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/20/Hijam%20Somarendro%20Singh.pdf",
+    "expectedSha256": "de608ce43ca84abe133a42e361bfeeb584da231bc5382e31d92d42e171e78d24",
+    "selectionReason": "Bounded AC/name convenience queue"
+  },
+  {
+    "ac": 20,
+    "candidate": "Karam Nabakishor Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/20/Karam%20Nabakishor%20Singh.pdf",
+    "expectedSha256": "51406e4af9a57f164dcb19445030596ef6e1f7d6b039463f5346587cd0ef8ba6",
+    "selectionReason": "Bounded AC/name convenience queue"
+  }
+]
