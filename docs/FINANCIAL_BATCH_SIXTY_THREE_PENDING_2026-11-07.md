@@ -1,0 +1,5 @@
+# Batch 63 verification — 7 November 2026
+
+Corrected release run 42240185102 succeeded with 260 checks and deployed. Production JSON matches the repository semantically and contains 126 candidates and 250 scoped notes. The first run 42235770248 failed because a disclosure coverage edit inadvertently changed the unrelated historical source document count assertion. Commit 74d8ad8 restored 124.
+
+Collector 42244891602 succeeded. Manually inspected retained Karamjit desktop and Kanba mobile panels under docs/qa/financial-batch-sixty-three-2026-11-06/. Amounts, page links and partial scope text were readable without clipping. The collector-triggered full run 42244870814 passed build 127984337350 but deployment 127986411335 timed out. Retried failed jobs on 7 November. Close the final dated receipt after confirming recovery. No next batch while this gate is open.
