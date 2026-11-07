@@ -1,6 +1,6 @@
 {
   "year": 2022,
-  "reviewedAt": "2026-11-06",
+  "reviewedAt": "2026-11-07",
   "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/40158668602",
   "method": "Codex visual comparison of selected original financial-summary regions. OCR located pages only; retained images use fixed financial-region coordinates and matching source hashes. Selected cells, not an independent human audit or complete affidavit review.",
   "scope": "Self-declarations at 2022 nomination. Not present wealth, current liabilities, legal status or certification of truth.",
@@ -7656,6 +7656,111 @@
       "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/17/Khundrakpam%20Kanba%20Meitei.pdf",
       "summary": "Selected financial cells only; clipped and unreviewed scopes prevent complete primary monetary totals.",
       "reviewedAt": "2026-11-06"
+    },
+    {
+      "reviewedPages": [
+        19,
+        20
+      ],
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/17/Likmabam%20Manibabu%20Singh.pdf",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42345051687",
+      "sourceSha256": "ec5de7abe8ce63befc2347503a2693b7583d371a67d9d6bdbc3d28f75611217e",
+      "reviewedAt": "2026-11-07",
+      "candidate": "Likmabam Manibabu Singh",
+      "summary": "Selected financial cells. Complete primary totals remain unverified.",
+      "ac": 17,
+      "fields": [
+        {
+          "primarySourceText": "Selected numeric entries and Not Applicable",
+          "primaryScope": "Selected financial cells",
+          "selectedComponentSubtotalPaise": 376894894.0,
+          "observations": [
+            {
+              "label": "Selected movable entry",
+              "qualifier": "exact",
+              "valuePaise": 79323306,
+              "page": 19,
+              "sourceText": "7,93,233.06/-"
+            },
+            {
+              "label": "Selected movable entry",
+              "qualifier": "exact",
+              "valuePaise": 297571588,
+              "page": 19,
+              "sourceText": "29,75,715.88/-"
+            }
+          ],
+          "primaryValuePaise": null,
+          "secondaryValuePaise": 1233640500,
+          "status": "partial-summary-comparison",
+          "pages": [
+            19
+          ],
+          "note": "Selected movable entries ₹7,93,233.06 and ₹29,75,715.88 total ₹37,68,948.94. The rightmost amount is clipped. The full asset total remains unverified.",
+          "field": "assets"
+        },
+        {
+          "primarySourceText": "Not Applicable in selected government dues cells",
+          "primaryScope": "Selected financial cells",
+          "primaryValuePaise": null,
+          "secondaryValuePaise": 14115200,
+          "status": "partial-wording-review",
+          "pages": [
+            20
+          ],
+          "note": "This review covers government dues only. Loans and disputed rows remain unverified. ADR reports ₹1,41,152 for liabilities. The primary total remains unverified.",
+          "field": "liabilities"
+        }
+      ]
+    },
+    {
+      "reviewedPages": [
+        12,
+        13
+      ],
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/17/Pukhrambam%20Sumati%20Devi.pdf",
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42345051687",
+      "sourceSha256": "c7d355cfe3d1985077c211ee6f04b5239259b6f7b685d55981baecc2a1a09a6a",
+      "reviewedAt": "2026-11-07",
+      "candidate": "Pukhrambam Sumati Devi",
+      "summary": "Selected financial cells. Complete primary totals remain unverified.",
+      "ac": 17,
+      "fields": [
+        {
+          "primarySourceText": "Selected numeric entry and Nil",
+          "primaryScope": "Selected financial cells",
+          "selectedComponentSubtotalPaise": 202408524.0,
+          "observations": [
+            {
+              "label": "Selected movable entry",
+              "qualifier": "exact",
+              "valuePaise": 202408524,
+              "page": 12,
+              "sourceText": "20,24,085.24p"
+            }
+          ],
+          "primaryValuePaise": null,
+          "secondaryValuePaise": 417844400,
+          "status": "partial-summary-comparison",
+          "pages": [
+            12
+          ],
+          "note": "One visible movable entry is ₹20,24,085.24. The amount clipped at the right is excluded. The full asset total remains unverified.",
+          "field": "assets"
+        },
+        {
+          "primarySourceText": "Nil in selected government dues and loan cells",
+          "primaryScope": "Selected financial cells",
+          "primaryValuePaise": null,
+          "secondaryValuePaise": 0,
+          "status": "partial-wording-review",
+          "pages": [
+            13
+          ],
+          "note": "Selected government dues and loan cells read Nil. The rightmost scope and disputed rows were outside the review. ADR reports zero. The primary total remains unverified.",
+          "field": "liabilities"
+        }
+      ]
     }
   ],
   "sourceReviewRuns": [
@@ -7671,7 +7776,8 @@
     "https://github.com/ethereum007/manipur/actions/runs/41161035062",
     "https://github.com/ethereum007/manipur/actions/runs/42167470629",
     "https://github.com/ethereum007/manipur/actions/runs/42196415225",
-    "https://github.com/ethereum007/manipur/actions/runs/42227102495"
+    "https://github.com/ethereum007/manipur/actions/runs/42227102495",
+    "https://github.com/ethereum007/manipur/actions/runs/42345051687"
   ],
   "selectionNotes": "Second batch: two previously unreviewed native-text-available records in AC12, selected in existing record order for a bounded availability-based sample; not a representative sample or risk ranking.",
   "selectionLimit": "Selected financial-summary comparisons form a nonrepresentative convenience sample, not complete independent affidavit audits.",
