@@ -2,7 +2,18 @@
   {
     "expectedSha256": "99276491cc914830b00aad9b9d6469112f8228061fc70e95abbfa749c58a618e",
     "ac": 17,
-    "clips": [],
+    "clips": [
+      {
+        "page": 14,
+        "id": "movable",
+        "rect": [
+          110,
+          216,
+          450,
+          270
+        ]
+      }
+    ],
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/17/Sorokhaibam%20Rajen%20Singh.pdf",
     "selectionReason": "Bounded AC/name convenience queue",
     "candidate": "Sorokhaibam Rajen Singh"
@@ -10,7 +21,18 @@
   {
     "expectedSha256": "440a20e345d1efe6199a9dbba092d57fd41391b0ad4a70139ff110a3b948a339",
     "ac": 18,
-    "clips": [],
+    "clips": [
+      {
+        "page": 34,
+        "id": "movable",
+        "rect": [
+          100,
+          134,
+          450,
+          171
+        ]
+      }
+    ],
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/18/Dr.%20Sapam%20Ranjan%20Singh.pdf",
     "selectionReason": "Bounded AC/name convenience queue",
     "candidate": "Dr. Sapam Ranjan Singh"
