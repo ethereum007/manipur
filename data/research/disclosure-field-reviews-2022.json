@@ -7935,6 +7935,86 @@
       "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42398708247",
       "candidate": "Akoijam Mirabai Devi"
     }
+,
+    {
+      "reviewedAt": "2026-11-08",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/20/Hijam%20Somarendro%20Singh.pdf",
+      "sourceSha256": "de608ce43ca84abe133a42e361bfeeb584da231bc5382e31d92d42e171e78d24",
+      "summary": "Selected movable asset cells. Liabilities and complete primary totals remain unreviewed.",
+      "fields": [
+        {
+          "pages": [
+            15
+          ],
+          "secondaryValuePaise": 52335300,
+          "primarySourceText": "Selected numeric entries and N/A",
+          "primaryValuePaise": null,
+          "note": "The selected self and spouse movable entries sum to ₹3,00,000. The HUF cell reads N/A.",
+          "field": "assets",
+          "observations": [
+            {
+              "qualifier": "exact",
+              "page": 15,
+              "valuePaise": 20000000,
+              "label": "Self movable entry",
+              "sourceText": "2,00,000"
+            },
+            {
+              "qualifier": "exact",
+              "page": 15,
+              "valuePaise": 10000000,
+              "label": "Spouse movable entry",
+              "sourceText": "1,00,000"
+            }
+          ],
+          "primaryScope": "Selected movable asset cells",
+          "status": "partial-summary-comparison",
+          "selectedComponentSubtotalPaise": 30000000
+        }
+      ],
+      "ac": 20,
+      "reviewedPages": [
+        15
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42418167220",
+      "candidate": "Hijam Somarendro Singh"
+    },
+    {
+      "reviewedAt": "2026-11-08",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/20/Karam%20Nabakishor%20Singh.pdf",
+      "sourceSha256": "51406e4af9a57f164dcb19445030596ef6e1f7d6b039463f5346587cd0ef8ba6",
+      "summary": "Selected movable asset cells. Liabilities and complete primary totals remain unreviewed.",
+      "fields": [
+        {
+          "pages": [
+            19
+          ],
+          "secondaryValuePaise": 1571673600,
+          "primarySourceText": "Selected numeric entries and NA",
+          "primaryValuePaise": null,
+          "note": "The selected spouse movable entry is ₹5,88,756.37. The HUF cell reads NA. The clipped self entry is outside the comparison.",
+          "field": "assets",
+          "observations": [
+            {
+              "qualifier": "exact",
+              "page": 19,
+              "valuePaise": 58875637,
+              "label": "Spouse movable entry",
+              "sourceText": "5,88,756.37"
+            }
+          ],
+          "primaryScope": "Selected movable asset cells",
+          "status": "partial-summary-comparison",
+          "selectedComponentSubtotalPaise": 58875637
+        }
+      ],
+      "ac": 20,
+      "reviewedPages": [
+        19
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42418167220",
+      "candidate": "Karam Nabakishor Singh"
+    }
   ],
   "sourceReviewRuns": [
     "https://github.com/ethereum007/manipur/actions/runs/39463703402",
@@ -7952,7 +8032,8 @@
     "https://github.com/ethereum007/manipur/actions/runs/42227102495",
     "https://github.com/ethereum007/manipur/actions/runs/42345051687",
     "https://github.com/ethereum007/manipur/actions/runs/42379198129",
-    "https://github.com/ethereum007/manipur/actions/runs/42398708247"
+    "https://github.com/ethereum007/manipur/actions/runs/42398708247",
+    "https://github.com/ethereum007/manipur/actions/runs/42418167220"
   ],
   "selectionNotes": "Second batch: two previously unreviewed native-text-available records in AC12, selected in existing record order for a bounded availability-based sample; not a representative sample or risk ranking.",
   "selectionLimit": "Selected financial-summary comparisons form a nonrepresentative convenience sample, not complete independent affidavit audits.",
