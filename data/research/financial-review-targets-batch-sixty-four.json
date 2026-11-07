@@ -2,7 +2,28 @@
   {
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/17/Likmabam%20Manibabu%20Singh.pdf",
     "selectionReason": "Bounded AC/name convenience queue",
-    "clips": [],
+    "clips": [
+      {
+        "id": "movable",
+        "page": 19,
+        "rect": [
+          156,
+          274,
+          450,
+          332
+        ]
+      },
+      {
+        "id": "primary-liabilities",
+        "page": 20,
+        "rect": [
+          154,
+          125,
+          450,
+          310
+        ]
+      }
+    ],
     "expectedSha256": "ec5de7abe8ce63befc2347503a2693b7583d371a67d9d6bdbc3d28f75611217e",
     "candidate": "Likmabam Manibabu Singh",
     "ac": 17
@@ -10,7 +31,28 @@
   {
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/17/Pukhrambam%20Sumati%20Devi.pdf",
     "selectionReason": "Bounded AC/name convenience queue",
-    "clips": [],
+    "clips": [
+      {
+        "id": "movable",
+        "page": 12,
+        "rect": [
+          140,
+          510,
+          450,
+          542
+        ]
+      },
+      {
+        "id": "primary-liabilities",
+        "page": 13,
+        "rect": [
+          138,
+          223,
+          450,
+          335
+        ]
+      }
+    ],
     "expectedSha256": "c7d355cfe3d1985077c211ee6f04b5239259b6f7b685d55981baecc2a1a09a6a",
     "candidate": "Pukhrambam Sumati Devi",
     "ac": 17
