@@ -54,3 +54,8 @@ Production122/242/143/0. Full42173489770 passed256checks/5PDFpages/913HTML/31,47
 ## Batch62 verified/deployed — 6 November 2026
 
 Production124/246/141/0. Full42204190822 passed258checks/5PDFpages/913HTML/31,472references/0errors;initial Pages timeout recovered by successful failed-job retry. ProductionJSON semantically identical. Collector42211700152 final success,new desktop/mobile profiles manually reviewed;redundant full42211700496 success. FINANCIAL_BATCH_SIXTY_TWO_QA_2026-11-06.md closes pending gates. NA/Nil/partial scopes/full nulls preserved;2027 deferred/cadence active.
+
+
+## Batch 63 verified — 7 November 2026
+
+Production verified at 126 candidates and 250 scoped notes. All 260 checks passed, both changed profile screenshots were reviewed, and the follow-up deployment recovered. See FINANCIAL_BATCH_SIXTY_THREE_QA_2026-11-07.md. Continue the historical backlog.
