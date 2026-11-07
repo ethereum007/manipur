@@ -552,3 +552,17 @@ test('batch 64 distinguishes government dues from the complete liability total',
   await panel.screenshot({ path: info.outputPath('financial-sumati-b64-mobile.png') });
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBeTruthy();
 });
+test("consulting homepage leads to the North East Manipur research collection", async ({ page }, info) => {
+  const base = process.env.NEXT_PUBLIC_BASE_PATH || "";
+  await page.goto(base + "/");
+  await expect(page.getByRole("heading", { level: 1 })).toContainText("Understand the mandate");
+  await page.getByRole("navigation", { name: "Main navigation" }).getByRole("link", { name: "Upcoming Elections" }).click();
+  await page.getByRole("link", { name: /North East/ }).click();
+  await expect(page.getByRole("heading", { level: 1 })).toHaveText("North East");
+  await page.getByRole("link", { name: /Manipur/ }).last().click();
+  await expect(page).toHaveURL(/upcoming-elections\/north-east\/manipur\//);
+  await expect(page.getByRole("link", { name: /Explore the electoral atlas/ })).toBeVisible();
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.screenshot({ path: info.outputPath("manipur-research-mobile.png") });
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBeTruthy();
+});

@@ -2987,3 +2987,42 @@ thead th {
 .boundary-source-entry{padding:44px 0;border-top:1px solid var(--line)}
 .boundary-source-entry:first-of-type{margin-top:40px}
 .boundary-source-entry h3{font-size:clamp(27px,3vw,42px);max-width:980px;margin-bottom:24px}
+
+
+/* Mandate Terrain front door and election hubs */
+.mt-wrap { width: min(1200px, calc(100% - 3rem)); margin-inline: auto; }
+.mt-front { color: #f4f0e6; background: #101a22; }
+.mt-hero { position: relative; isolation: isolate; overflow: hidden; border-bottom: 1px solid #384445; background: radial-gradient(ellipse at 85% 45%, #263c37, #101a22 66%); }
+.mt-contours { position: absolute; z-index: -1; right: -6%; top: 0; width: min(68vw, 1000px); height: 100%; color: #9cb995; opacity: .55; pointer-events: none; }
+.mt-contours path { fill: none; stroke: currentColor; stroke-width: 1; vector-effect: non-scaling-stroke; }
+.mt-hero-content { padding-block: clamp(5rem, 10vw, 10rem) clamp(4rem, 8vw, 7rem); }
+.mt-kicker { color: #ddbf82; font-size: .76rem; font-weight: 700; letter-spacing: .17em; text-transform: uppercase; }
+.mt-hero h1 { font: 500 clamp(2.8rem, 7.25vw, 7.6rem)/.98 AtlasSerif, Georgia, serif; letter-spacing: -.045em; margin: 1.3rem 0; }
+.mt-hero h1 em { color: #ddbf82; }
+.mt-lede, .mt-copy { max-width: 55ch; font-size: clamp(1rem, 1.6vw, 1.28rem); line-height: 1.65; color: #d2dbd6; }
+.mt-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 1rem 1.6rem; margin-top: 2rem; }
+.mt-button { display: inline-flex; gap: 1.2rem; align-items: center; background: #ddbf82; color: #152027; padding: .95rem 1.2rem; font-weight: 750; text-decoration: none; }
+.mt-secondary { display: inline-block; padding-block: .65rem; color: #ddbf82; text-underline-offset: .25em; }
+.mt-hero-foot { display: flex; justify-content: space-between; flex-wrap: wrap; gap: .5rem 1rem; border-top: 1px solid #384445; padding-block: 1rem; font-size: .7rem; letter-spacing: .12em; color: #c3cfca; }
+.mt-section { padding-block: clamp(2.8rem, 6vw, 5.5rem); }
+.mt-section + .mt-section { border-top: 1px solid #384445; }
+.mt-section h2 { font: 500 clamp(2.25rem, 5vw, 4.8rem)/1.05 AtlasSerif, Georgia, serif; margin: .6rem 0; }
+.mt-section-head { display: flex; align-items: baseline; justify-content: space-between; gap: .5rem 1.5rem; flex-wrap: wrap; }
+.mt-section-head a { color: #ddbf82; }
+.mt-feature { display: flex; justify-content: space-between; align-items: center; gap: 1rem; margin-block: 1.4rem .6rem; padding: clamp(1.35rem, 4vw, 3rem); border: 1px solid #63776e; background: linear-gradient(110deg,#23342f,#18272c); color: #f4f0e6; text-decoration: none; }
+.mt-feature:hover { border-color: #ddbf82; background: #2b3f38; }
+.mt-feature h3 { font: 500 clamp(2.2rem, 5vw, 4.4rem)/1 AtlasSerif, Georgia, serif; margin: .4rem 0 .8rem; }
+.mt-feature p:last-child { max-width: 55ch; margin-bottom: 0; color: #d2dbd6; }
+.mt-feature-arrow { flex: none; color: #ddbf82; font-size: clamp(1.5rem, 4vw, 3rem); }
+.mt-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin-top: 1.8rem; }
+.mt-grid article { border-top: 1px solid #63776e; padding: 1.1rem 1rem 0 0; }
+.mt-grid span { color: #ddbf82; font-size: .8rem; }
+.mt-grid h3 { font: 500 1.65rem AtlasSerif, Georgia, serif; }
+.mt-grid p { color: #d2dbd6; line-height: 1.6; }
+.mt-hub { padding-top: 0; }
+.mt-front a:focus-visible, .mt-hub a:focus-visible { outline: 3px solid #fff1b6; outline-offset: 4px; }
+@media (max-width: 650px) {
+  .mt-wrap { width: calc(100% - 2rem); }
+  .mt-contours { right: -33%; width: 130%; opacity: .25; }
+  .mt-grid { grid-template-columns: 1fr; }
+}

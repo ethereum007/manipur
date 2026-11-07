@@ -68,15 +68,15 @@ export function SiteHeader() {
         </span>
         <span>
           MANDATE <b>TERRAIN</b>
-          <small>MANIPUR ANALYSIS</small>
+          <small>POLITICAL RESEARCH</small>
         </span>
       </Link>
       <nav aria-label="Main navigation">
-        <Link href="/analysis">Research & analysis</Link>
-        <Link href="/analysis/segments">2024 results</Link>
-        <Link href="/atlas">Assembly atlas</Link>
-        <Link href="/candidates">People & power</Link>
-        <Link href="/outlook">The road to 2027</Link>
+        <Link href="/upcoming-elections/">Upcoming Elections</Link>
+        <Link href="/upcoming-elections/north-east/manipur/">Manipur Research</Link>
+        
+        
+        
       </nav>
       <Link className="header-source" href="/sources">
         Sources & methods <span aria-hidden>↗</span>
@@ -89,12 +89,12 @@ export function SiteFooter() {
     <footer className="site-footer">
       <div>
         <Link className="footer-brand" href="/">
-          Mandate Terrain<span>Manipur Analysis</span>
+          Mandate Terrain<span>Political Research &amp; Consulting</span>
         </Link>
-        <p>An independent, source-led exploration of a changing state.</p>
+        <p>Independent election, constituency and policy research.</p>
       </div>
       <div>
-        <Link href="/analysis">Research & analysis</Link>
+        <Link href="/upcoming-elections/">Upcoming Elections</Link>
         <Link href="/representation">Representation register</Link>
         <Link href="/policy">Policy evidence</Link>
         <Link href="/discover">Discover Manipur</Link>
@@ -108,7 +108,7 @@ export function SiteFooter() {
         <br />
         No forecasts. No voter targeting.
         <br />
-        Research edition · 20 October 2026
+        Public records and source notes
       </p>
     </footer>
   );

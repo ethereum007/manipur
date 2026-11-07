@@ -4,13 +4,13 @@ import "./globals.css";
 export const metadata: Metadata = {
   metadataBase: new URL("https://mandateterrain.com"),
   applicationName: "Mandate Terrain",
-  openGraph:{type:"website",locale:"en_IN",siteName:"Mandate Terrain",title:"Mandate Terrain · Manipur Analysis",description:"Source-backed electoral maps, candidate records and public context for Manipur."},
+  openGraph:{type:"website",locale:"en_IN",siteName:"Mandate Terrain",title:"Mandate Terrain · Political Research & Consulting",description:"Election research, constituency intelligence and policy analysis for India."},
   title: {
-    default: "Mandate Terrain · Manipur Analysis",
+    default: "Mandate Terrain · Political Research & Consulting",
     template: "%s · Mandate Terrain",
   },
   description:
-    "A source-led exploration of Manipur's geography, sixty constituencies and changing electoral landscape.",
+    "Independent political research and consulting. Explore election coverage, constituency intelligence and public records.",
 };
 export default function RootLayout({
   children,

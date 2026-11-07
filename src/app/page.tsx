@@ -1,197 +1,48 @@
 import Link from "next/link";
-import { GeoMap } from "@/components/geo";
-import { Reveal } from "@/components/reveal";
-import { SeatChart } from "@/components/seat-chart";
-import { SectionLink, SourceNote } from "@/components/ui";
-import { results, seatTotals } from "@/lib/data";
+
 export default function Home() {
-  const overviewYear = seatTotals(2022).length ? 2022 : 2017;
   return (
-    <>
-      <section className="hero">
-        <div className="hero-copy">
-          <p className="eyebrow">
-            A state. Sixty constituencies. A changing landscape.
-          </p>
-          <h1>
-            MANIPUR
-            <br />
-            <span>2027</span>
-          </h1>
-          <p className="hero-subtitle">Manipur Analysis</p>
-          <p className="hero-description">
-            Explore the geography, people, elections and political
-            transformations shaping one of India’s most complex states.
-          </p>
-          <Link href="/atlas" className="primary-link">
-            Explore the electoral atlas <span>↗</span>
-          </Link>
+    <div className="mt-front">
+      <section className="mt-hero">
+        <svg className="mt-contours" viewBox="0 0 760 650" aria-hidden="true">
+          {Array.from({ length: 24 }, (_, i) => {
+            const s = 0.18 + i * 0.064;
+            return <path key={i} transform={`translate(490 300) rotate(-24) scale(${s})`}
+              d="M -280 -20 C -270 -140 -160 -215 -46 -188 C 80 -158 164 -234 236 -112 C 285 -28 165 36 156 104 C 141 215 29 204 -54 153 C -136 102 -295 111 -280 -20Z" />;
+          })}
+          <circle cx="490" cy="300" r="5" fill="currentColor" />
+          <path d="M 490 282 v36 M 472 300 h36" />
+        </svg>
+        <div className="mt-wrap mt-hero-content">
+          <p className="mt-kicker">Independent political research &amp; consulting</p>
+          <h1>Read the terrain.<br /><em>Understand the mandate.</em></h1>
+          <p className="mt-lede">Election research, constituency intelligence and policy analysis. Built from public records, with sources and gaps you can see.</p>
+          <div className="mt-actions">
+            <Link className="mt-button" href="/upcoming-elections/">Explore upcoming elections <span aria-hidden="true">↗</span></Link>
+            <a className="mt-secondary" href="#approach">How we work <span aria-hidden="true">↓</span></a>
+          </div>
         </div>
-        <div className="hero-map">
-          <div className="map-orbit" />
-          <GeoMap hero />
-          <p className="hero-map-caption">
-            THE LAND BENEATH THE POLITICS
-            <br />
-            <span>Relief context · Reference boundaries, not a survey</span>
-          </p>
-        </div>
-        <div className="hero-bottom">
-          <span>AN INDEPENDENT RESEARCH PUBLICATION</span>
-          <span>2012 / 2017 / 2022 / 2024</span>
-          <Link href="/sources">Every number has a source ↗</Link>
+        <div className="mt-wrap mt-hero-foot"><span>MANDATE TERRAIN / INDIA</span><span>ELECTIONS · CONSTITUENCIES · POLICY</span></div>
+      </section>
+      <section className="mt-wrap mt-section" id="election-watch">
+        <p className="mt-kicker">01 / Election watch</p>
+        <div className="mt-section-head"><h2>Upcoming elections</h2><Link href="/upcoming-elections/">View election hub ↗</Link></div>
+        <p className="mt-copy">Browse election coverage by region. As coverage grows, this hub will bring together states, election years and official calendar updates.</p>
+        <Link className="mt-feature" href="/upcoming-elections/north-east/">
+          <div><p className="mt-kicker">Region 01</p><h3>North East</h3><p>Start with Manipur’s historical results, constituency dossiers and candidate disclosures.</p></div>
+          <span className="mt-feature-arrow" aria-hidden="true">↗</span>
+        </Link>
+        <Link className="mt-secondary" href="/upcoming-elections/north-east/manipur/">Go directly to Manipur research ↗</Link>
+      </section>
+      <section className="mt-wrap mt-section" id="approach">
+        <p className="mt-kicker">02 / Research &amp; consulting</p>
+        <h2>Start with the record.</h2>
+        <div className="mt-grid">
+          <article><span>01</span><h3>Election research</h3><p>Trace results and shifts across election cycles, with comparable figures and clear denominators.</p></article>
+          <article><span>02</span><h3>Constituency intelligence</h3><p>Bring electoral history, candidate records and local geography together in one place.</p></article>
+          <article><span>03</span><h3>Policy &amp; governance</h3><p>Follow public commitments, budgets and evidence of delivery as separate parts of the record.</p></article>
         </div>
       </section>
-      <section className="research-home-feature"><h2>The 2024 vote.<br/><em>All sixty segments.</em></h2><div><p>Who led locally, by how many votes, and what the evidence can tell us about 2027. Explore the interactive Parliamentary map, complete candidate tables and constituency research notes.</p><Link className="text-link" href="/analysis/segments">Explore 2024 results constituency by constituency ↗</Link></div></section><div className="briefing-entry">
-        <p className="eyebrow">THE ATLAS, IN FIVE MINUTES</p>
-        <Link className="text-link" href="/briefing">
-          Open the executive walkthrough, presenter notes and PDF handout ↗
-        </Link>
-      </div>
-      <section className="research-home-feature"><h2>Beyond the result.<br/><em>Inside the evidence.</em></h2><div><p>Ten electoral and contextual studies, seven primary-source policy notes and a dated sixty-seat representation register connect the results with institutions and public services.</p><Link className="text-link" href="/analysis">Open the research desk ↗</Link><p><Link className="text-link" href="/policy">Explore policy evidence ↗</Link> · <Link className="text-link" href="/representation">Representation register ↗</Link></p></div></section>
-      <div className="paper-strip">
-        <span>
-          60 <small>Assembly constituencies</small>
-        </span>
-        <span>
-          3 <small>Assembly elections</small>
-        </span>
-        <span>
-          2 <small>Parliamentary constituencies</small>
-        </span>
-        <span>
-          {results.length.toLocaleString()}{" "}
-          <small>Reconciled candidate-election records</small>
-        </span>
-      </div>
-      <Reveal className="editorial-section geography-story">
-        <div className="chapter-number">01 / THE LAND</div>
-        <div className="story-grid">
-          <h2>
-            To understand
-            <br />
-            the vote,
-            <br />
-            <em>read the land.</em>
-          </h2>
-          <div className="story-copy">
-            <p className="lead">
-              A valley surrounded by hills. A border with Myanmar. A landscape
-              that shapes access, administration and representation.
-            </p>
-            <p>
-              Geography is a starting point, not an explanation for how people
-              vote. The Imphal Valley and surrounding hill systems contain
-              diverse communities, institutions and political histories.
-            </p>
-            <SectionLink href="/discover">Discover Manipur</SectionLink>
-            <SourceNote>
-              <a href="https://manipur.gov.in/">Government of Manipur</a> ·
-              State geography. Terrain: Esri World Shaded Relief. Boundaries:
-              DataMeet, with documented limitations.
-            </SourceNote>
-          </div>
-        </div>
-      </Reveal>
-      <Reveal className="editorial-section election-story">
-        <div className="chapter-number">02 / THE ELECTORAL RECORD</div>
-        <div className="election-story-grid">
-          <div>
-            <h2>
-              Sixty seats.
-              <br />
-              <em>Different stories.</em>
-            </h2>
-            <p className="lead">
-              A legislature changes one constituency at a time.
-            </p>
-            <p>
-              Trace winners, margins and candidate continuity across three
-              Assembly elections. Read election-day outcomes separately from
-              later defections and government formation.
-            </p>
-            <SectionLink href="/atlas">Compare the elections</SectionLink>
-          </div>
-          <div className="chart-feature">
-            <div className="chart-heading">
-              <h3>The {overviewYear} Assembly</h3>
-              <span>SEATS WON / 60</span>
-            </div>
-            <SeatChart year={overviewYear} compare />
-            <p className="chart-caption">
-              31 seats constitute an outright majority.
-            </p>
-          </div>
-        </div>
-      </Reveal>
-      <Reveal className="editorial-section people-story">
-        <div className="chapter-number">03 / PEOPLE & POWER</div>
-        <Link
-          href="/candidates/nongthombam-biren-singh"
-          className="profile-teaser"
-        >
-          <div>
-            <h2>
-              Behind every result,
-              <br />
-              <em>a political career.</em>
-            </h2>
-            <p>
-              Explore candidates through their electoral records, publicly
-              disclosed affidavits and documented offices.
-            </p>
-            <span className="text-link">
-              Open a candidate profile <span>↗</span>
-            </span>
-          </div>
-          <div className="profile-teaser-art">
-            <span>THE PUBLIC RECORD</span>
-            <strong>
-              N. Biren
-              <br />
-              <em>Singh</em>
-            </strong>
-            <small>Heingang · Candidate profile</small>
-          </div>
-        </Link>
-      </Reveal>
-      <Reveal className="editorial-section reading-room">
-        <div className="chapter-number">THE READING ROOM</div>
-        <h2>
-          A changing state.
-          <br />
-          <em>An open question.</em>
-        </h2>
-        <div className="reading-grid">
-          <Link href="/governance">
-            <span>CONFLICT & GOVERNANCE</span>
-            <h3>Manipur since May 2023</h3>
-            <p>
-              A careful chronology, with evidence classifications and explicit
-              reporting cutoffs.
-            </p>
-            <b>Read the chronology ↗</b>
-          </Link>
-          <Link href="/elections">
-            <span>THE PARLIAMENTARY RECORD</span>
-            <h3>The 2024 election</h3>
-            <p>
-              Two constituencies. A different electoral contest. Comparisons
-              need context.
-            </p>
-            <b>Explore the results ↗</b>
-          </Link>
-          <Link href="/outlook">
-            <span>THE ROAD AHEAD</span>
-            <h3>Looking toward 2027</h3>
-            <p>
-              Transparent scenarios and unresolved questions, without numerical
-              predictions.
-            </p>
-            <b>Examine the uncertainties ↗</b>
-          </Link>
-        </div>
-      </Reveal>
-    </>
+    </div>
   );
 }
