@@ -8015,6 +8015,76 @@
       "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42418167220",
       "candidate": "Karam Nabakishor Singh"
     }
+,
+    {
+      "reviewedAt": "2026-11-08",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/20/Karam%20Shyam.pdf",
+      "sourceSha256": "f0fe19cf7328f97a472e28b43d2b8b6e055922a38ee1db304d0e68efdba54aac",
+      "summary": "Selected movable asset cells. Liabilities and complete primary totals remain unreviewed.",
+      "fields": [
+        {
+          "pages": [
+            18
+          ],
+          "secondaryValuePaise": 2536107700,
+          "primarySourceText": "Selected numeric entries and NIL",
+          "primaryValuePaise": null,
+          "note": "The two selected movable entries sum to ₹1,25,11,078.05. Both amounts wrap across lines. The HUF cell reads NIL.",
+          "field": "assets",
+          "primaryScope": "Selected movable asset cells",
+          "status": "partial-summary-comparison",
+          "observations": [
+            {
+              "page": 18,
+              "qualifier": "exact",
+              "label": "Self movable entry",
+              "valuePaise": 758700290,
+              "sourceText": "75,87,002.90"
+            },
+            {
+              "page": 18,
+              "qualifier": "exact",
+              "label": "Spouse movable entry",
+              "valuePaise": 492407515,
+              "sourceText": "49,24,075.15"
+            }
+          ],
+          "selectedComponentSubtotalPaise": 1251107805
+        }
+      ],
+      "ac": 20,
+      "reviewedPages": [
+        18
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42434213624",
+      "candidate": "Karam Shyam"
+    },
+    {
+      "reviewedAt": "2026-11-08",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/20/Okram%20Joy%20Singh.pdf",
+      "sourceSha256": "9cfb1c22775118692034fae9b119e29e9bd0aa914dd2edc73fd201bc06ed91ed",
+      "summary": "Selected movable asset cells. Liabilities and complete primary totals remain unreviewed.",
+      "fields": [
+        {
+          "pages": [
+            15
+          ],
+          "secondaryValuePaise": 645000000,
+          "primarySourceText": "Selected spouse and HUF cells read NIL",
+          "primaryValuePaise": null,
+          "note": "The selected spouse and HUF movable cells read NIL. The self entry is outside the reviewed crop. No subtotal is assigned.",
+          "field": "assets",
+          "primaryScope": "Selected movable asset cells",
+          "status": "partial-summary-comparison"
+        }
+      ],
+      "ac": 20,
+      "reviewedPages": [
+        15
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42434213624",
+      "candidate": "Okram Joy Singh"
+    }
   ],
   "sourceReviewRuns": [
     "https://github.com/ethereum007/manipur/actions/runs/39463703402",
@@ -8033,7 +8103,8 @@
     "https://github.com/ethereum007/manipur/actions/runs/42345051687",
     "https://github.com/ethereum007/manipur/actions/runs/42379198129",
     "https://github.com/ethereum007/manipur/actions/runs/42398708247",
-    "https://github.com/ethereum007/manipur/actions/runs/42418167220"
+    "https://github.com/ethereum007/manipur/actions/runs/42418167220",
+    "https://github.com/ethereum007/manipur/actions/runs/42434213624"
   ],
   "selectionNotes": "Second batch: two previously unreviewed native-text-available records in AC12, selected in existing record order for a bounded availability-based sample; not a representative sample or risk ranking.",
   "selectionLimit": "Selected financial-summary comparisons form a nonrepresentative convenience sample, not complete independent affidavit audits.",
