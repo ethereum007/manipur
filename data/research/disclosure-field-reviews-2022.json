@@ -8238,6 +8238,79 @@
       "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42460799418",
       "candidate": "Soraisham Manaoton Singh"
     }
+,
+    {
+      "reviewedAt": "2026-11-08",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/22/Khuraijam%20Loken%20Singh.pdf",
+      "sourceSha256": "bfde3e5ac8b32300695f28b6569c37cfea7fcb154cc1a803b941f1d3fad09f4e",
+      "summary": "Selected movable asset cells. Liabilities and complete primary totals remain unreviewed.",
+      "fields": [
+        {
+          "pages": [
+            18
+          ],
+          "secondaryValuePaise": 3651055300,
+          "primarySourceText": "Selected numeric entry",
+          "primaryValuePaise": null,
+          "note": "One selected movable entry reads ₹83,58,443.19. The adjacent amount is clipped and excluded.",
+          "field": "assets",
+          "observations": [
+            {
+              "sourceText": "83,58,443.19",
+              "valuePaise": 835844319,
+              "page": 18,
+              "label": "Selected movable entry",
+              "qualifier": "exact"
+            }
+          ],
+          "primaryScope": "Selected movable asset cells",
+          "status": "partial-summary-comparison",
+          "selectedComponentSubtotalPaise": 835844319
+        }
+      ],
+      "ac": 22,
+      "reviewedPages": [
+        18
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42473556803",
+      "candidate": "Khuraijam Loken Singh"
+    },
+    {
+      "reviewedAt": "2026-11-08",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/24/Nameirakpam%20Loken%20Singh.pdf",
+      "sourceSha256": "e5145cb0558f3a78743c96721a13cb06236d08bdf52ace11bb06739a62ff23c0",
+      "summary": "Selected movable asset cells. Liabilities and complete primary totals remain unreviewed.",
+      "fields": [
+        {
+          "pages": [
+            23
+          ],
+          "secondaryValuePaise": 9672913700,
+          "primarySourceText": "Selected numeric entry",
+          "primaryValuePaise": null,
+          "note": "One selected movable entry reads ₹57,83,404.28. The adjacent amount is clipped and excluded.",
+          "field": "assets",
+          "observations": [
+            {
+              "sourceText": "57,83,404.28",
+              "valuePaise": 578340428,
+              "page": 23,
+              "label": "Selected movable entry",
+              "qualifier": "exact"
+            }
+          ],
+          "primaryScope": "Selected movable asset cells",
+          "status": "partial-summary-comparison",
+          "selectedComponentSubtotalPaise": 578340428
+        }
+      ],
+      "ac": 24,
+      "reviewedPages": [
+        23
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42473556803",
+      "candidate": "Nameirakpam Loken Singh"
+    }
   ],
   "sourceReviewRuns": [
     "https://github.com/ethereum007/manipur/actions/runs/39463703402",
@@ -8259,7 +8332,8 @@
     "https://github.com/ethereum007/manipur/actions/runs/42418167220",
     "https://github.com/ethereum007/manipur/actions/runs/42434213624",
     "https://github.com/ethereum007/manipur/actions/runs/42448777156",
-    "https://github.com/ethereum007/manipur/actions/runs/42460799418"
+    "https://github.com/ethereum007/manipur/actions/runs/42460799418",
+    "https://github.com/ethereum007/manipur/actions/runs/42473556803"
   ],
   "selectionNotes": "Second batch: two previously unreviewed native-text-available records in AC12, selected in existing record order for a bounded availability-based sample; not a representative sample or risk ranking.",
   "selectionLimit": "Selected financial-summary comparisons form a nonrepresentative convenience sample, not complete independent affidavit audits.",
