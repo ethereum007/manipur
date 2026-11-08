@@ -1,0 +1,16 @@
+[
+  {
+    "ac": 21,
+    "candidate": "Konthoujam Manoranjan Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/21/Konthoujam%20Manoranjan%20Singh.pdf",
+    "expectedSha256": "ef87062bdde9bb187797ac98910c45732f2fbada5249644ba529cadf4e33dba1",
+    "selectionReason": "Bounded AC/name convenience queue"
+  },
+  {
+    "ac": 21,
+    "candidate": "Sagolshem Kebi Devi",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/21/Sagolshem%20Kebi%20Devi.pdf",
+    "expectedSha256": "77f6fea74d9b940c735bca6bdc336bc6815ec8f5761c9cbe6299337c925ff2e1",
+    "selectionReason": "Bounded AC/name convenience queue"
+  }
+]
