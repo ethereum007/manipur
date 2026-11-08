@@ -8158,6 +8158,86 @@
       "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42448777156",
       "candidate": "Sagolshem Kebi Devi"
     }
+,
+    {
+      "reviewedAt": "2026-11-08",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/21/Soibam%20Subhaschandra%20Singh.pdf",
+      "sourceSha256": "a7eb5ce24712daf55b48822abc9fc9ccbf6083c3a78cae4bbf51f6168474ea56",
+      "summary": "Selected movable asset cells. Liabilities and complete primary totals remain unreviewed.",
+      "fields": [
+        {
+          "pages": [
+            17
+          ],
+          "secondaryValuePaise": 1377032600,
+          "primarySourceText": "Selected numeric entries",
+          "primaryValuePaise": null,
+          "note": "One selected movable entry reads ₹50,23,246.96. The final digit wraps to the next line.",
+          "field": "assets",
+          "observations": [
+            {
+              "sourceText": "50,23,246.96",
+              "valuePaise": 502324696,
+              "page": 17,
+              "label": "Selected movable entry",
+              "qualifier": "exact"
+            }
+          ],
+          "primaryScope": "Selected movable asset cells",
+          "status": "partial-summary-comparison",
+          "selectedComponentSubtotalPaise": 502324696
+        }
+      ],
+      "ac": 21,
+      "reviewedPages": [
+        17
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42460799418",
+      "candidate": "Soibam Subhaschandra Singh"
+    },
+    {
+      "reviewedAt": "2026-11-08",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/21/Soraisham%20Manaoton%20Singh.pdf",
+      "sourceSha256": "1610d89c5031cf13ae2b0d55ef3c09ae3e5f8e4d3d0e418f37bc9e7056488117",
+      "summary": "Selected movable asset cells. Liabilities and complete primary totals remain unreviewed.",
+      "fields": [
+        {
+          "pages": [
+            14
+          ],
+          "secondaryValuePaise": 240679700,
+          "primarySourceText": "Selected numeric entries",
+          "primaryValuePaise": null,
+          "note": "The two selected movable entries sum to ₹24,06,797.90.",
+          "field": "assets",
+          "observations": [
+            {
+              "sourceText": "14,40,422.65",
+              "valuePaise": 144042265,
+              "page": 14,
+              "label": "Selected movable entry",
+              "qualifier": "exact"
+            },
+            {
+              "sourceText": "9,66,375.25",
+              "valuePaise": 96637525,
+              "page": 14,
+              "label": "Selected movable entry",
+              "qualifier": "exact"
+            }
+          ],
+          "primaryScope": "Selected movable asset cells",
+          "status": "partial-summary-comparison",
+          "selectedComponentSubtotalPaise": 240679790
+        }
+      ],
+      "ac": 21,
+      "reviewedPages": [
+        14
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42460799418",
+      "candidate": "Soraisham Manaoton Singh"
+    }
   ],
   "sourceReviewRuns": [
     "https://github.com/ethereum007/manipur/actions/runs/39463703402",
@@ -8178,7 +8258,8 @@
     "https://github.com/ethereum007/manipur/actions/runs/42398708247",
     "https://github.com/ethereum007/manipur/actions/runs/42418167220",
     "https://github.com/ethereum007/manipur/actions/runs/42434213624",
-    "https://github.com/ethereum007/manipur/actions/runs/42448777156"
+    "https://github.com/ethereum007/manipur/actions/runs/42448777156",
+    "https://github.com/ethereum007/manipur/actions/runs/42460799418"
   ],
   "selectionNotes": "Second batch: two previously unreviewed native-text-available records in AC12, selected in existing record order for a bounded availability-based sample; not a representative sample or risk ranking.",
   "selectionLimit": "Selected financial-summary comparisons form a nonrepresentative convenience sample, not complete independent affidavit audits.",
