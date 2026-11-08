@@ -8085,6 +8085,79 @@
       "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42434213624",
       "candidate": "Okram Joy Singh"
     }
+,
+    {
+      "reviewedAt": "2026-11-08",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/21/Konthoujam%20Manoranjan%20Singh.pdf",
+      "sourceSha256": "ef87062bdde9bb187797ac98910c45732f2fbada5249644ba529cadf4e33dba1",
+      "summary": "Selected movable asset cells. Liabilities and complete primary totals remain unreviewed.",
+      "fields": [
+        {
+          "pages": [
+            26
+          ],
+          "secondaryValuePaise": 760492300,
+          "primarySourceText": "Selected numeric entry",
+          "primaryValuePaise": null,
+          "note": "One selected movable entry reads ₹10,07,245.80. Adjacent cells and immovable assets are outside the review.",
+          "field": "assets",
+          "observations": [
+            {
+              "sourceText": "10,07,245.80",
+              "valuePaise": 100724580,
+              "page": 26,
+              "label": "Selected movable entry",
+              "qualifier": "exact"
+            }
+          ],
+          "primaryScope": "Selected movable asset cells",
+          "status": "partial-summary-comparison",
+          "selectedComponentSubtotalPaise": 100724580
+        }
+      ],
+      "ac": 21,
+      "reviewedPages": [
+        26
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42448777156",
+      "candidate": "Konthoujam Manoranjan Singh"
+    },
+    {
+      "reviewedAt": "2026-11-08",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/21/Sagolshem%20Kebi%20Devi.pdf",
+      "sourceSha256": "77f6fea74d9b940c735bca6bdc336bc6815ec8f5761c9cbe6299337c925ff2e1",
+      "summary": "Selected movable asset cells. Liabilities and complete primary totals remain unreviewed.",
+      "fields": [
+        {
+          "pages": [
+            14
+          ],
+          "secondaryValuePaise": 6355217500,
+          "primarySourceText": "Selected numeric entry",
+          "primaryValuePaise": null,
+          "note": "One selected movable entry reads ₹13,17,223.86. Adjacent cells and immovable assets are outside the review.",
+          "field": "assets",
+          "observations": [
+            {
+              "sourceText": "13,17,223.86",
+              "valuePaise": 131722386,
+              "page": 14,
+              "label": "Selected movable entry",
+              "qualifier": "exact"
+            }
+          ],
+          "primaryScope": "Selected movable asset cells",
+          "status": "partial-summary-comparison",
+          "selectedComponentSubtotalPaise": 131722386
+        }
+      ],
+      "ac": 21,
+      "reviewedPages": [
+        14
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42448777156",
+      "candidate": "Sagolshem Kebi Devi"
+    }
   ],
   "sourceReviewRuns": [
     "https://github.com/ethereum007/manipur/actions/runs/39463703402",
@@ -8104,7 +8177,8 @@
     "https://github.com/ethereum007/manipur/actions/runs/42379198129",
     "https://github.com/ethereum007/manipur/actions/runs/42398708247",
     "https://github.com/ethereum007/manipur/actions/runs/42418167220",
-    "https://github.com/ethereum007/manipur/actions/runs/42434213624"
+    "https://github.com/ethereum007/manipur/actions/runs/42434213624",
+    "https://github.com/ethereum007/manipur/actions/runs/42448777156"
   ],
   "selectionNotes": "Second batch: two previously unreviewed native-text-available records in AC12, selected in existing record order for a bounded availability-based sample; not a representative sample or risk ranking.",
   "selectionLimit": "Selected financial-summary comparisons form a nonrepresentative convenience sample, not complete independent affidavit audits.",
