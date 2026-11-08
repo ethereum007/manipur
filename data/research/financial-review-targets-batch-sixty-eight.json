@@ -4,13 +4,37 @@
     "candidate": "Karam Shyam",
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/20/Karam%20Shyam.pdf",
     "expectedSha256": "f0fe19cf7328f97a472e28b43d2b8b6e055922a38ee1db304d0e68efdba54aac",
-    "selectionReason": "Bounded AC/name convenience queue"
+    "selectionReason": "Bounded AC/name convenience queue",
+    "clips": [
+      {
+        "rect": [
+          174,
+          427,
+          330,
+          469
+        ],
+        "id": "movable",
+        "page": 18
+      }
+    ]
   },
   {
     "ac": 20,
     "candidate": "Okram Joy Singh",
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/20/Okram%20Joy%20Singh.pdf",
     "expectedSha256": "9cfb1c22775118692034fae9b119e29e9bd0aa914dd2edc73fd201bc06ed91ed",
-    "selectionReason": "Bounded AC/name convenience queue"
+    "selectionReason": "Bounded AC/name convenience queue",
+    "clips": [
+      {
+        "rect": [
+          198,
+          541,
+          340,
+          579
+        ],
+        "id": "movable",
+        "page": 15
+      }
+    ]
   }
 ]
