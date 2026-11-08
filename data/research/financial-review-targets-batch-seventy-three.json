@@ -4,13 +4,37 @@
     "candidate": "Irengbam Nalini Devi",
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/25/Irengbam%20Nalini%20Devi.pdf",
     "expectedSha256": "5f5b2eb1ea9eb51d0e42a6cc32ffb99f3e2aee6bfb5ca42d68a8b7a7b646e5f1",
-    "selectionReason": "Bounded AC/name convenience queue"
+    "selectionReason": "Bounded AC/name convenience queue",
+    "clips": [
+      {
+        "page": 16,
+        "rect": [
+          180,
+          748,
+          330,
+          803
+        ],
+        "id": "movable"
+      }
+    ]
   },
   {
     "ac": 25,
     "candidate": "Laishram Radhakishore Singh",
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/25/Laishram%20Radhakishore%20Singh.pdf",
     "expectedSha256": "316876b8646430327805118b37e743fffeac4ec3d9f9089007a8a483cb8dda98",
-    "selectionReason": "Bounded AC/name convenience queue"
+    "selectionReason": "Bounded AC/name convenience queue",
+    "clips": [
+      {
+        "page": 20,
+        "rect": [
+          226,
+          223,
+          370,
+          256
+        ],
+        "id": "movable"
+      }
+    ]
   }
 ]
