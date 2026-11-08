@@ -4,13 +4,37 @@
     "candidate": "Soibam Subhaschandra Singh",
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/21/Soibam%20Subhaschandra%20Singh.pdf",
     "expectedSha256": "a7eb5ce24712daf55b48822abc9fc9ccbf6083c3a78cae4bbf51f6168474ea56",
-    "selectionReason": "Bounded AC/name convenience queue"
+    "selectionReason": "Bounded AC/name convenience queue",
+    "clips": [
+      {
+        "page": 17,
+        "id": "movable",
+        "rect": [
+          205,
+          254,
+          335,
+          294
+        ]
+      }
+    ]
   },
   {
     "ac": 21,
     "candidate": "Soraisham Manaoton Singh",
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/21/Soraisham%20Manaoton%20Singh.pdf",
     "expectedSha256": "1610d89c5031cf13ae2b0d55ef3c09ae3e5f8e4d3d0e418f37bc9e7056488117",
-    "selectionReason": "Bounded AC/name convenience queue"
+    "selectionReason": "Bounded AC/name convenience queue",
+    "clips": [
+      {
+        "page": 14,
+        "id": "movable",
+        "rect": [
+          166,
+          381,
+          318,
+          410
+        ]
+      }
+    ]
   }
 ]
