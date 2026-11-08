@@ -1,0 +1,16 @@
+[
+  {
+    "ac": 22,
+    "candidate": "Khuraijam Loken Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/22/Khuraijam%20Loken%20Singh.pdf",
+    "expectedSha256": "bfde3e5ac8b32300695f28b6569c37cfea7fcb154cc1a803b941f1d3fad09f4e",
+    "selectionReason": "Bounded AC/name convenience queue"
+  },
+  {
+    "ac": 24,
+    "candidate": "Nameirakpam Loken Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/24/Nameirakpam%20Loken%20Singh.pdf",
+    "expectedSha256": "e5145cb0558f3a78743c96721a13cb06236d08bdf52ace11bb06739a62ff23c0",
+    "selectionReason": "Bounded AC/name convenience queue"
+  }
+]
