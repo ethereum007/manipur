@@ -1,0 +1,16 @@
+[
+  {
+    "ac": 24,
+    "candidate": "Thounaojam Basanta Kumar Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/24/THOUNAOJAM%20BASANTA%20KUMAR%20SINGH.pdf",
+    "expectedSha256": "036bddbfa9f00d6f168e5b7352483641b6d28ce3d113ad6b4f20a2a67340f2b3",
+    "selectionReason": "Bounded AC/name convenience queue"
+  },
+  {
+    "ac": 25,
+    "candidate": "Ashem Babu Singh",
+    "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/25/Ashem%20Babu%20Singh.pdf",
+    "expectedSha256": "353a1aebfcd9128e32b34d81164ccbabbcf5bb54073d1b319b81ec4cf23b9d9b",
+    "selectionReason": "Bounded AC/name convenience queue"
+  }
+]
