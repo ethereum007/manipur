@@ -8464,6 +8464,59 @@
       "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42507466449",
       "candidate": "Laishram Radhakishore Singh"
     }
+,
+    {
+      "reviewedAt": "2026-11-09",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/25/Laitonjam%20Brojen%20Singh.pdf",
+      "sourceSha256": "4dbecb0b4c8c935dcb872493d93d4e9be6da50ec062db4b78a71ef25b18cee88",
+      "summary": "Selected movable asset cells. Liabilities and complete primary totals remain unreviewed.",
+      "fields": [
+        {
+          "pages": [
+            10
+          ],
+          "secondaryValuePaise": 226481400,
+          "primarySourceText": "Two selected cells read NIL",
+          "primaryValuePaise": null,
+          "note": "Two selected movable cells read NIL. The clipped rightmost cell is excluded. No subtotal is assigned.",
+          "field": "assets",
+          "primaryScope": "Selected movable asset cells",
+          "status": "partial-summary-comparison"
+        }
+      ],
+      "ac": 25,
+      "reviewedPages": [
+        10
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42564534565",
+      "candidate": "Laitonjam Brojen Singh"
+    },
+    {
+      "reviewedAt": "2026-11-09",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/25/Ngangom%20Shivakumar%20Singh.pdf",
+      "sourceSha256": "04df82dd6fa73882fadc36bee8a5d52cbfa8c6e84915145df59587b16054213a",
+      "summary": "Selected movable asset cells. Liabilities and complete primary totals remain unreviewed.",
+      "fields": [
+        {
+          "pages": [
+            11
+          ],
+          "secondaryValuePaise": 6200000,
+          "primarySourceText": "Selected cells read NIL and NA.",
+          "primaryValuePaise": null,
+          "note": "One selected movable cell reads NIL and the adjacent cell reads NA. No subtotal is assigned.",
+          "field": "assets",
+          "primaryScope": "Selected movable asset cells",
+          "status": "partial-summary-comparison"
+        }
+      ],
+      "ac": 25,
+      "reviewedPages": [
+        11
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42564534565",
+      "candidate": "Ngangom Shivakumar Singh"
+    }
   ],
   "sourceReviewRuns": [
     "https://github.com/ethereum007/manipur/actions/runs/39463703402",
@@ -8488,7 +8541,8 @@
     "https://github.com/ethereum007/manipur/actions/runs/42460799418",
     "https://github.com/ethereum007/manipur/actions/runs/42473556803",
     "https://github.com/ethereum007/manipur/actions/runs/42489840917",
-    "https://github.com/ethereum007/manipur/actions/runs/42507466449"
+    "https://github.com/ethereum007/manipur/actions/runs/42507466449",
+    "https://github.com/ethereum007/manipur/actions/runs/42564534565"
   ],
   "selectionNotes": "Second batch: two previously unreviewed native-text-available records in AC12, selected in existing record order for a bounded availability-based sample; not a representative sample or risk ranking.",
   "selectionLimit": "Selected financial-summary comparisons form a nonrepresentative convenience sample, not complete independent affidavit audits.",
