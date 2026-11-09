@@ -4,13 +4,37 @@
     "candidate": "Laitonjam Brojen Singh",
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/25/Laitonjam%20Brojen%20Singh.pdf",
     "expectedSha256": "4dbecb0b4c8c935dcb872493d93d4e9be6da50ec062db4b78a71ef25b18cee88",
-    "selectionReason": "Bounded AC/name convenience queue"
+    "selectionReason": "Bounded AC/name convenience queue",
+    "clips": [
+      {
+        "page": 10,
+        "id": "movable",
+        "rect": [
+          231,
+          630,
+          362,
+          666
+        ]
+      }
+    ]
   },
   {
     "ac": 25,
     "candidate": "Ngangom Shivakumar Singh",
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/25/Ngangom%20Shivakumar%20Singh.pdf",
     "expectedSha256": "04df82dd6fa73882fadc36bee8a5d52cbfa8c6e84915145df59587b16054213a",
-    "selectionReason": "Bounded AC/name convenience queue"
+    "selectionReason": "Bounded AC/name convenience queue",
+    "clips": [
+      {
+        "page": 11,
+        "id": "movable",
+        "rect": [
+          199,
+          502,
+          320,
+          527
+        ]
+      }
+    ]
   }
 ]
