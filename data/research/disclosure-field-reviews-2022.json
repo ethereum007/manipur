@@ -8391,6 +8391,79 @@
       "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42489840917",
       "candidate": "Ashem Babu Singh"
     }
+,
+    {
+      "reviewedAt": "2026-11-09",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/25/Irengbam%20Nalini%20Devi.pdf",
+      "sourceSha256": "5f5b2eb1ea9eb51d0e42a6cc32ffb99f3e2aee6bfb5ca42d68a8b7a7b646e5f1",
+      "summary": "Selected movable asset cells. Liabilities and complete primary totals remain unreviewed.",
+      "fields": [
+        {
+          "pages": [
+            16
+          ],
+          "secondaryValuePaise": 2199530100,
+          "primarySourceText": "Selected numeric entry",
+          "primaryValuePaise": null,
+          "note": "One selected movable entry reads ₹7,84,381. Other columns and immovable assets are outside this review.",
+          "field": "assets",
+          "observations": [
+            {
+              "page": 16,
+              "valuePaise": 78438100,
+              "qualifier": "exact",
+              "label": "Selected movable entry",
+              "sourceText": "7,84,381"
+            }
+          ],
+          "primaryScope": "Selected movable asset cells",
+          "status": "partial-summary-comparison",
+          "selectedComponentSubtotalPaise": 78438100
+        }
+      ],
+      "ac": 25,
+      "reviewedPages": [
+        16
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42507466449",
+      "candidate": "Irengbam Nalini Devi"
+    },
+    {
+      "reviewedAt": "2026-11-09",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/25/Laishram%20Radhakishore%20Singh.pdf",
+      "sourceSha256": "316876b8646430327805118b37e743fffeac4ec3d9f9089007a8a483cb8dda98",
+      "summary": "Selected movable asset cells. Liabilities and complete primary totals remain unreviewed.",
+      "fields": [
+        {
+          "pages": [
+            20
+          ],
+          "secondaryValuePaise": 1234705100,
+          "primarySourceText": "Selected numeric entry",
+          "primaryValuePaise": null,
+          "note": "One selected movable entry reads ₹3,07,277. Other columns and immovable assets are outside this review.",
+          "field": "assets",
+          "observations": [
+            {
+              "page": 20,
+              "valuePaise": 30727700,
+              "qualifier": "exact",
+              "label": "Selected movable entry",
+              "sourceText": "3,07,277"
+            }
+          ],
+          "primaryScope": "Selected movable asset cells",
+          "status": "partial-summary-comparison",
+          "selectedComponentSubtotalPaise": 30727700
+        }
+      ],
+      "ac": 25,
+      "reviewedPages": [
+        20
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42507466449",
+      "candidate": "Laishram Radhakishore Singh"
+    }
   ],
   "sourceReviewRuns": [
     "https://github.com/ethereum007/manipur/actions/runs/39463703402",
@@ -8414,7 +8487,8 @@
     "https://github.com/ethereum007/manipur/actions/runs/42448777156",
     "https://github.com/ethereum007/manipur/actions/runs/42460799418",
     "https://github.com/ethereum007/manipur/actions/runs/42473556803",
-    "https://github.com/ethereum007/manipur/actions/runs/42489840917"
+    "https://github.com/ethereum007/manipur/actions/runs/42489840917",
+    "https://github.com/ethereum007/manipur/actions/runs/42507466449"
   ],
   "selectionNotes": "Second batch: two previously unreviewed native-text-available records in AC12, selected in existing record order for a bounded availability-based sample; not a representative sample or risk ranking.",
   "selectionLimit": "Selected financial-summary comparisons form a nonrepresentative convenience sample, not complete independent affidavit audits.",
