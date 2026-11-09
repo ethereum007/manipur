@@ -8517,6 +8517,69 @@
       "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42564534565",
       "candidate": "Ngangom Shivakumar Singh"
     }
+,
+    {
+      "reviewedAt": "2026-11-09",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/25/Thingbaijam%20Swarankumar%20Singh.pdf",
+      "sourceSha256": "2e6c6412bb161b3b1f0d88aa15d675a578ef2e23f500d43442a77336f8d7ad79",
+      "summary": "Selected movable asset cells. Liabilities and complete primary totals remain unreviewed.",
+      "fields": [
+        {
+          "pages": [
+            18
+          ],
+          "secondaryValuePaise": 1259796900,
+          "primarySourceText": "Selected cell reads Nil",
+          "primaryValuePaise": null,
+          "note": "One selected movable cell reads Nil. No subtotal is assigned.",
+          "field": "assets",
+          "primaryScope": "Selected movable asset cells",
+          "status": "partial-summary-comparison"
+        }
+      ],
+      "ac": 25,
+      "reviewedPages": [
+        18
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42582531082",
+      "candidate": "Thingbaijam Swarankumar Singh"
+    },
+    {
+      "reviewedAt": "2026-11-09",
+      "sourceUrl": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/25/Thokchom%20Ithoibi%20Devi.pdf",
+      "sourceSha256": "ebbdc4ab3b45b66ffaab1ae330ef253863e4a78cc4318c3cbff8a942a8e76ff3",
+      "summary": "Selected movable asset cells. Liabilities and complete primary totals remain unreviewed.",
+      "fields": [
+        {
+          "pages": [
+            10
+          ],
+          "secondaryValuePaise": 363925000,
+          "primarySourceText": "Selected numeric entry",
+          "primaryValuePaise": null,
+          "note": "One selected movable entry reads ₹15,00,000. The adjacent clipped wording is excluded.",
+          "field": "assets",
+          "primaryScope": "Selected movable asset cells",
+          "status": "partial-summary-comparison",
+          "observations": [
+            {
+              "label": "Selected movable entry",
+              "qualifier": "exact",
+              "page": 10,
+              "valuePaise": 150000000,
+              "sourceText": "15,00,000"
+            }
+          ],
+          "selectedComponentSubtotalPaise": 150000000
+        }
+      ],
+      "ac": 25,
+      "reviewedPages": [
+        10
+      ],
+      "sourceReviewRun": "https://github.com/ethereum007/manipur/actions/runs/42582531082",
+      "candidate": "Thokchom Ithoibi Devi"
+    }
   ],
   "sourceReviewRuns": [
     "https://github.com/ethereum007/manipur/actions/runs/39463703402",
@@ -8542,7 +8605,8 @@
     "https://github.com/ethereum007/manipur/actions/runs/42473556803",
     "https://github.com/ethereum007/manipur/actions/runs/42489840917",
     "https://github.com/ethereum007/manipur/actions/runs/42507466449",
-    "https://github.com/ethereum007/manipur/actions/runs/42564534565"
+    "https://github.com/ethereum007/manipur/actions/runs/42564534565",
+    "https://github.com/ethereum007/manipur/actions/runs/42582531082"
   ],
   "selectionNotes": "Second batch: two previously unreviewed native-text-available records in AC12, selected in existing record order for a bounded availability-based sample; not a representative sample or risk ranking.",
   "selectionLimit": "Selected financial-summary comparisons form a nonrepresentative convenience sample, not complete independent affidavit audits.",
