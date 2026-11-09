@@ -4,13 +4,37 @@
     "candidate": "Thingbaijam Swarankumar Singh",
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/25/Thingbaijam%20Swarankumar%20Singh.pdf",
     "expectedSha256": "2e6c6412bb161b3b1f0d88aa15d675a578ef2e23f500d43442a77336f8d7ad79",
-    "selectionReason": "Bounded AC/name convenience queue"
+    "selectionReason": "Bounded AC/name convenience queue",
+    "clips": [
+      {
+        "rect": [
+          266,
+          242,
+          390,
+          256
+        ],
+        "page": 18,
+        "id": "movable"
+      }
+    ]
   },
   {
     "ac": 25,
     "candidate": "Thokchom Ithoibi Devi",
     "url": "https://ceomanipur.nic.in/Affidavits/AssemblyElection/2022/25/Thokchom%20Ithoibi%20Devi.pdf",
     "expectedSha256": "ebbdc4ab3b45b66ffaab1ae330ef253863e4a78cc4318c3cbff8a942a8e76ff3",
-    "selectionReason": "Bounded AC/name convenience queue"
+    "selectionReason": "Bounded AC/name convenience queue",
+    "clips": [
+      {
+        "rect": [
+          217,
+          482,
+          346,
+          510
+        ],
+        "page": 10,
+        "id": "movable"
+      }
+    ]
   }
 ]
