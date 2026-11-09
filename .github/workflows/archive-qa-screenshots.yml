@@ -1,0 +1,39 @@
+name: Archive QA screenshots
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Package and verify tracked QA screenshots
+        run: |
+          python - <<'PY'
+          import subprocess
+          from pathlib import Path
+          from zipfile import ZIP_DEFLATED, ZipFile
+
+          paths = [Path(p) for p in subprocess.check_output(
+              ['git', 'ls-files', '-z', 'docs/qa'], text=True
+          ).split('\0') if p.lower().endswith('.png')]
+          assert paths, 'No tracked QA screenshots'
+          with ZipFile('qa-archive-2026-11.zip', 'w', ZIP_DEFLATED) as archive:
+              for path in paths:
+                  archive.write(path, path.as_posix())
+          with ZipFile('qa-archive-2026-11.zip') as archive:
+              assert archive.testzip() is None
+              assert all(archive.read(p.as_posix()) == p.read_bytes() for p in paths)
+          print(f'Verified {len(paths)} screenshots')
+          PY
+          sha256sum qa-archive-2026-11.zip > qa-archive-2026-11.zip.sha256
+      - name: Publish and verify release asset
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create qa-archive-2026-11 --target "$GITHUB_SHA" --title "November 2026 QA screenshot archive" --notes "Tracked QA screenshots from the tagged revision and their SHA-256 checksum." qa-archive-2026-11.zip qa-archive-2026-11.zip.sha256
+          mkdir verified-download
+          gh release download qa-archive-2026-11 --dir verified-download
+          cd verified-download
+          sha256sum --check qa-archive-2026-11.zip.sha256
