@@ -1,7 +1,7 @@
 {
   "year": 2022,
   "reviewedAt": "2026-10-20",
-  "sourceTier": "Secondary ADR/MyNeta transcription of nomination disclosures; not current legal or financial status",
+  "sourceTier": "ADR/MyNeta secondary source for nomination disclosures; not current legal or financial status",
   "method": "42 public summary pages across candidate, asset and liability sort orders; union by source ID, overlapping fields agree; official candidacy matching in same election only.",
   "primaryAuditComplete": false,
   "sourceConflict": {
