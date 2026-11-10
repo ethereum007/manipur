@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { AssemblyCalendar } from "@/components/assembly-calendar";
 
 export default function Home() {
   return (
@@ -27,7 +28,7 @@ export default function Home() {
       <section className="mt-wrap mt-section" id="election-watch">
         <p className="mt-kicker">01 / Election watch</p>
         <div className="mt-section-head"><h2>Upcoming elections</h2><Link href="/upcoming-elections/">View election hub ↗</Link></div>
-        <p className="mt-copy">Browse election coverage by region. As coverage grows, this hub will bring together states, election years and official calendar updates.</p>
+        <AssemblyCalendar />
         <Link className="mt-feature" href="/upcoming-elections/north-east/">
           <div><p className="mt-kicker">Region 01</p><h3>North East</h3><p>Start with Manipur’s historical results, constituency dossiers and candidate disclosures.</p></div>
           <span className="mt-feature-arrow" aria-hidden="true">↗</span>
